@@ -51,7 +51,7 @@ const DATASETS = {
   },
 };
 
-const BUILD_VERSION = "20260429-base-name";
+const BUILD_VERSION = "20260429-base-title";
 
 const state = {
   active: "cards",
@@ -238,15 +238,16 @@ function filterRows(rows, spec) {
 }
 
 function renderCard(row) {
+  const subtitle = [row.en_name, row.cn_name].filter(Boolean).join(" / ");
   return baseCard({
     className: heroClass(row.hero_en),
     badge: [row.hero_en, row.kind_en].filter(Boolean).join(" / ") || "Card",
     id: row.id,
-    title: row.en_name,
-    subtitle: row.cn_name,
+    title: row.base_en_name || row.en_name,
+    subtitle,
     description: row.en_description || row.cn_description,
     meta: [
-      ["Base", row.base_en_name],
+      ["Entry", row.en_name],
       ["Base ID", row.base_id],
       ["Rarity", row.rarity],
       ["Item Lv", row.item_level],
@@ -259,14 +260,15 @@ function renderCard(row) {
 }
 
 function renderItem(row) {
+  const subtitle = [row.en_name, row.cn_name].filter(Boolean).join(" / ");
   return baseCard({
     badge: `Item Lv ${row.item_level || "?"}`,
     id: row.id,
-    title: row.en_name,
-    subtitle: row.cn_name,
+    title: row.base_en_name || row.en_name,
+    subtitle,
     description: row.en_description || row.cn_description,
     meta: [
-      ["Base", row.base_en_name],
+      ["Entry", row.en_name],
       ["Base ID", row.base_id],
       ["Rarity", row.rarity],
       ["Icon", row.icon],
@@ -277,14 +279,15 @@ function renderItem(row) {
 }
 
 function renderCurse(row) {
+  const subtitle = [row.en_name, row.cn_name].filter(Boolean).join(" / ");
   return baseCard({
     badge: `Curse / Blessing${row.item_level ? ` Lv ${row.item_level}` : ""}`,
     id: row.id,
-    title: row.en_name,
-    subtitle: row.cn_name,
+    title: row.base_en_name || row.en_name,
+    subtitle,
     description: row.en_description || row.cn_description,
     meta: [
-      ["Base", row.base_en_name],
+      ["Entry", row.en_name],
       ["Base ID", row.base_id],
       ["Rarity", row.rarity],
       ["Icon", row.icon],
