@@ -124,6 +124,16 @@ h1 {
   padding: 9px 14px;
 }
 
+.download-link {
+  background: var(--ink);
+  color: #fff8ec;
+  box-shadow: 0 10px 24px rgba(23, 33, 27, 0.16);
+}
+
+.download-link:hover {
+  transform: translateY(-1px);
+}
+
 .shell {
   padding-bottom: 56px;
 }
