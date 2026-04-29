@@ -4,7 +4,7 @@ const DATASETS = {
     file: "cards.json",
     title: "Magic Cards and passive abilities",
     searchable: ["en_name", "id", "cn_name", "base_en_name", "base_id", "base_cn_name", "en_description", "cn_description", "hero_en", "kind_en", "icon"],
-    tableFields: ["en_name", "base_en_name", "id", "cn_name", "hero_en", "kind_en", "rarity", "item_level", "icon", "en_description"],
+    tableFields: ["base_en_name", "en_name", "id", "cn_name", "hero_en", "kind_en", "rarity", "item_level", "icon", "en_description"],
     hero: true,
     type: true,
     render: renderCard,
@@ -14,7 +14,7 @@ const DATASETS = {
     file: "items.json",
     title: "Items and artifacts",
     searchable: ["en_name", "id", "cn_name", "base_en_name", "base_id", "base_cn_name", "en_description", "cn_description", "icon"],
-    tableFields: ["en_name", "base_en_name", "id", "cn_name", "item_level", "rarity", "icon", "obtainable", "en_description"],
+    tableFields: ["base_en_name", "en_name", "id", "cn_name", "item_level", "rarity", "icon", "obtainable", "en_description"],
     render: renderItem,
   },
   curses: {
@@ -22,7 +22,7 @@ const DATASETS = {
     file: "curses.json",
     title: "Curses and blessings",
     searchable: ["en_name", "id", "cn_name", "base_en_name", "base_id", "base_cn_name", "en_description", "cn_description", "icon"],
-    tableFields: ["en_name", "base_en_name", "id", "cn_name", "item_level", "rarity", "icon", "obtainable", "en_description"],
+    tableFields: ["base_en_name", "en_name", "id", "cn_name", "item_level", "rarity", "icon", "obtainable", "en_description"],
     render: renderCurse,
   },
   events: {

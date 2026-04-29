@@ -1,38 +1,94 @@
 [
   {
     "category": "card_base_name",
-    "cn_text": "打自己",
+    "cn_text": "大锅随机buff",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "大锅随机buff"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "百暴测试",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "百暴测试"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "博学祝福",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "博学祝福"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "不回能量测试",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "不回能量测试"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "打自己100",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "打自己100"
   },
   {
     "category": "card_base_name",
-    "cn_text": "大锅随机buff",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "大锅随机buff+"
-  },
-  {
-    "category": "card_base_name",
-    "cn_text": "加侵蚀",
+    "cn_text": "加侵蚀100",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "加侵蚀100"
   },
   {
     "category": "card_base_name",
-    "cn_text": "剧情模式",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "剧情模式+"
-  },
-  {
-    "category": "card_base_name",
-    "cn_text": "扣钱",
+    "cn_text": "扣钱100",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "扣钱100"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "麦芽啤酒",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "麦芽啤酒"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "抛射箭",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫攻击"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "炮弹加攻击测试",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "炮弹加攻击测试"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小蓝右键移动",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝右键移动"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "蓄力射箭",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫右键"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "招个NPC小黄",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "招个NPC小黄"
   },
   {
     "category": "description",
@@ -1972,13 +2028,6 @@
     "suggested_en": "",
     "count": 5,
     "first_seen_id": "治疗动物一☆交出水晶3"
-  },
-  {
-    "category": "item_base_name",
-    "cn_text": "剧情模式",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "剧情模式+"
   },
   {
     "category": "name",
