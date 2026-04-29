@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-04-29T10:16:52.871Z",
+  "data_dir": "F:\\hade\\HadesGame\\Assets\\Import\\Data",
+  "language": "英文",
+  "total_magic_cards": 1720,
+  "visible_cards": 1709,
+  "obtainable_cards": 1460,
+  "items": 342,
+  "event_text_rows": 1931,
+  "events": 2072,
+  "destructibles": 150,
+  "untranslated_terms": 291,
+  "outputs": [
+    "cards.csv",
+    "cards.json",
+    "cards_all_visible.csv",
+    "cards_all_visible.json",
+    "items.csv",
+    "items.json",
+    "event_text.csv",
+    "event_text.json",
+    "events.csv",
+    "events.json",
+    "destructibles.csv",
+    "destructibles.json",
+    "untranslated_terms.csv",
+    "untranslated_terms.json",
+    "wiki_export.xlsx"
+  ]
+}

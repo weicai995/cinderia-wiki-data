@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Cinderia Wiki Data</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Fraunces:opsz,wght@9..144,650;9..144,800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="ambient ambient-one"></div>
+    <div class="ambient ambient-two"></div>
+
+    <header class="hero">
+      <p class="eyebrow">Auto-exported reference data</p>
+      <h1>Cinderia Wiki Data</h1>
+      <p class="hero-copy">
+        A searchable first-pass export for Magic Cards, items/artifacts,
+        event dialogue, and destructible scene objects.
+      </p>
+      <div class="hero-actions">
+        <a class="pill-link" href="./data/cards.json">cards.json</a>
+        <a class="pill-link" href="./data/items.json">items.json</a>
+        <a class="pill-link" href="./data/event_text.json">event_text.json</a>
+      </div>
+    </header>
+
+    <main class="shell">
+      <section class="toolbar" aria-label="Data controls">
+        <div class="tabs" id="tabs"></div>
+        <label class="search-wrap">
+          <span>Search</span>
+          <input id="searchInput" type="search" placeholder="Name, ID, description, NPC..." />
+        </label>
+        <div class="filters">
+          <label>
+            Hero
+            <select id="heroFilter"></select>
+          </label>
+          <label>
+            Type
+            <select id="typeFilter"></select>
+          </label>
+        </div>
+      </section>
+
+      <section class="stats" id="stats"></section>
+      <section class="results-head">
+        <div>
+          <p class="eyebrow compact" id="datasetLabel">Cards</p>
+          <h2 id="resultTitle">Loading...</h2>
+        </div>
+        <p id="resultCount" class="result-count"></p>
+      </section>
+
+      <section class="grid" id="results"></section>
+    </main>
+
+    <template id="cardTemplate">
+      <article class="data-card">
+        <div class="card-topline">
+          <span class="badge"></span>
+          <span class="muted small id-label"></span>
+        </div>
+        <h3></h3>
+        <p class="subname"></p>
+        <p class="description"></p>
+        <dl class="meta"></dl>
+      </article>
+    </template>
+
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>

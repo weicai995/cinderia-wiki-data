@@ -1,0 +1,2039 @@
+[
+  {
+    "category": "description",
+    "cn_text": "测试，百分之百暴击",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "百暴测试"
+  },
+  {
+    "category": "description",
+    "cn_text": "测试，基础回能量-100%",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "不回能量测试"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "玻璃瓶",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "玻璃瓶"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "不全碎的木笼子黑",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "不全碎的木笼子黑"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "草黑黄",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "草黑黄"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "草红",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "草红"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "草黄",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "草黄"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "草灰",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "草灰"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "草蓝",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "草蓝"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "草蓝白",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "草蓝白"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "草绿",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "草绿"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "草紫",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "草紫"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "插地上的武器",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "插地上的武器"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "触手红",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "触手红"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "触手蓝",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "触手蓝"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "大骨头残骸",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "大骨头残骸"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "大路灯",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "大路灯"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "大木头黄",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "大木头黄"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "大墓碑",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "大墓碑"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "大破墓碑",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "大破墓碑"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "大石头白",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "大石头白"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "大石头黄",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "大石头黄"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "大树",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "大树"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "稻草草垛",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "稻草草垛"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "稻草草垛小",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "稻草草垛小"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "稻草堆大",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "稻草堆大"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "稻草堆小",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "稻草堆小"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "稻草人",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "稻草人"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "地牢骨头残骸1",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "地牢骨头残骸1"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "地牢骨头残骸2",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "地牢骨头残骸2"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "地牢骨头残骸3",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "地牢骨头残骸3"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "地牢骨头残骸4",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "地牢骨头残骸4"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "地牢罐子",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "地牢罐子"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "地牢石柱",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "地牢石柱"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "地牢铁围栏",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "地牢铁围栏"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "地牢铁围栏大",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "地牢铁围栏大"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "地牢刑具",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "地牢刑具"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "地面糖果",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "地面糖果"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "地球仪",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "地球仪"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "地狱宝藏",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "地狱宝藏"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "地狱宝藏蜡烛",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "地狱宝藏蜡烛"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "动物骨头残骸大",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "动物骨头残骸大"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "洞穴白蘑菇",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "洞穴白蘑菇"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "毒果子",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "毒果子"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "发光蘑菇",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "发光蘑菇"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "发光蘑菇小",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "发光蘑菇小"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "骨堆",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "骨堆"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "骨头残骸",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "骨头残骸"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "骨头残骸1",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "骨头残骸1"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "骨头残骸2",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "骨头残骸2"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "骨头残骸3",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "骨头残骸3"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "骨头残骸4",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "骨头残骸4"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "灌木黄",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "灌木黄"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "灌木枯萎黄",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "灌木枯萎黄"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "灌木枯萎蓝",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "灌木枯萎蓝"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "灌木绿",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "灌木绿"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "罐子",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "罐子"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "罐子红",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "罐子红"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "海草灰",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "海草灰"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "黑色树根",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "黑色树根"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "黑森林锅",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "黑森林锅"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "黑森林荆棘",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "黑森林荆棘"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "黑森林树桩",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "黑森林树桩"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "黑森林细树根大",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "黑森林细树根大"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "黑森林细树根小",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "黑森林细树根小"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "黑森林小锅",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "黑森林小锅"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "荒野尖石头小",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "荒野尖石头小"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "荒野尖石头中",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "荒野尖石头中"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "荒野煤矿石大",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "荒野煤矿石大"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "荒野煤矿石小",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "荒野煤矿石小"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "荒野旗帜",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "荒野旗帜"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "荒野武器",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "荒野武器"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "荒野小金矿",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "荒野小金矿"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "荒野帐篷组",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "荒野帐篷组"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "火",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "火"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "火堆",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "火堆"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "火盆立体",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "火盆立体"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "火山大黑石头",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "火山大黑石头"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "火山巨大黑石头",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "火山巨大黑石头"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "火山小黑石头",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "火山小黑石头"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "教堂椅子",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "教堂椅子"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "举枪士兵树根",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "举枪士兵树根"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "骷髅堆",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "骷髅堆"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "蓝绿灌木",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "蓝绿灌木"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "蓝色树根",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "蓝色树根"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "蓝色水晶小",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "蓝色水晶小"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "蓝色水晶中",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "蓝色水晶中"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "榴弹花",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "榴弹花"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "路灯",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "路灯"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "麦子",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "麦子"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "木拒马",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "木拒马"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "木矿车",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "木矿车"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "木栏杆连接绳",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "木栏杆连接绳"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "木笼子黑",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "木笼子黑"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "木牌",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "木牌"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "木头红",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "木头红"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "木头黄",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "木头黄"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "木箱子番茄",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "木箱子番茄"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "木箱子南瓜",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "木箱子南瓜"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "木栅栏",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "木栅栏"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "木制火架子",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "木制火架子"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "墓碑",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "墓碑"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "墓地铁围栏",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "墓地铁围栏"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "南瓜",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "南瓜"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "屏风紫",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "屏风紫"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "肉块",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "肉块"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "森林中洞穴石头",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "森林中洞穴石头"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "沙袋",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "沙袋"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "绳子",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "绳子"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "石头白",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "石头白"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "石头黄",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "石头黄"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "石头麻袋",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "石头麻袋"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "石头箱子",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "石头箱子"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "书堆",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "书堆"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "树",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "树"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "树灯",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "树灯"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "塌方石柱",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "塌方石柱"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "糖果路牌",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "糖果路牌"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "铁杆子",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "铁杆子"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "铁箱子",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "铁箱子"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "武器架子",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "武器架子"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "蜥蜴骑士岩石",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "蜥蜴骑士岩石"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "细长发光菌青蓝",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "细长发光菌青蓝"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "陷阱火堆",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "陷阱火堆"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "小书架",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小书架"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "小烛台",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小烛台"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "小烛台黑",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小烛台黑"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "小烛台紫",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小烛台紫"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "遗迹石柱",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "遗迹石柱"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "遗迹围墙",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "遗迹围墙"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "遗迹围墙大",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "遗迹围墙大"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "硬木头黑",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "硬木头黑"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "硬木头黄",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "硬木头黄"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "硬石头白",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "硬石头白"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "油灯",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "油灯"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "炸药桶",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "炸药桶"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "蜘蛛洞石笋大",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "蜘蛛洞石笋大"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "蜘蛛洞石笋小",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "蜘蛛洞石笋小"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "蜘蛛洞石笋中",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "蜘蛛洞石笋中"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "蜘蛛卵大",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "蜘蛛卵大"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "蜘蛛卵陷阱",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "蜘蛛卵陷阱"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "蜘蛛卵小",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "蜘蛛卵小"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "蜘蛛卵中",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "蜘蛛卵中"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "蜘蛛网装饰",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "蜘蛛网装饰"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "中木头黄",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "中木头黄"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "中墓碑",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "中墓碑"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "烛台",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "烛台"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "烛台黑",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "烛台黑"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "烛台紫",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "烛台紫"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "桌子",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "桌子"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "Boss荆棘",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "Boss荆棘"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "木头",
+    "suggested_en": "",
+    "count": 25,
+    "first_seen_id": "木头红"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "草",
+    "suggested_en": "",
+    "count": 21,
+    "first_seen_id": "草绿"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "大石头",
+    "suggested_en": "",
+    "count": 14,
+    "first_seen_id": "地牢石柱"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "中石头",
+    "suggested_en": "",
+    "count": 12,
+    "first_seen_id": "荒野帐篷组"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "残骸3",
+    "suggested_en": "",
+    "count": 10,
+    "first_seen_id": "骨头残骸"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "石头",
+    "suggested_en": "",
+    "count": 9,
+    "first_seen_id": "石头白"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "中木头",
+    "suggested_en": "",
+    "count": 8,
+    "first_seen_id": "中木头黄"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "大笼子",
+    "suggested_en": "",
+    "count": 7,
+    "first_seen_id": "木笼子黑"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "蜘蛛卵",
+    "suggested_en": "",
+    "count": 4,
+    "first_seen_id": "蜘蛛卵小"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "默认",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "炸药桶"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "矮木头",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "罐子"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "矮树根",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "蓝色树根"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "玻璃",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "玻璃瓶"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "大木头",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "大木头黄"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "火堆",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "陷阱火堆"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "书堆",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "地球仪"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "铁杆子",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "铁杆子"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "细树根",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "黑森林细树根大"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "不全碎的大笼子",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "不全碎的木笼子黑"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "残骸",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "骷髅堆"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "大树",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "大树"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "地狱宝藏",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "地狱宝藏"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "地狱宝藏蜡烛",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "地狱宝藏蜡烛"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "荆棘",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "Boss荆棘"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "举枪士兵树根",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "举枪士兵树根"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "巨大木头",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "桌子"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "路灯",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "路灯"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "南瓜",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "南瓜"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "石柱",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "塌方石柱"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "树",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "树"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "树灯",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "树灯"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "树根",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "黑森林荆棘"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "水晶大",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "蓝色水晶中"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "水晶小",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "蓝色水晶小"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "铁",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "墓地铁围栏"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "蜥蜴骑士岩石",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "蜥蜴骑士岩石"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "蜘蛛网装饰",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "蜘蛛网装饰"
+  },
+  {
+    "category": "event_character",
+    "cn_text": "钓鱼佬九2",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "钓鱼佬九1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "魔女",
+    "suggested_en": "",
+    "count": 6,
+    "first_seen_id": "魔女初见1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "黑妖精",
+    "suggested_en": "",
+    "count": 5,
+    "first_seen_id": "黑妖精初见1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "羊头酋长",
+    "suggested_en": "",
+    "count": 5,
+    "first_seen_id": "羊头酋长初见1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "灯神",
+    "suggested_en": "",
+    "count": 4,
+    "first_seen_id": "神灯自言自语1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "食尸鬼",
+    "suggested_en": "",
+    "count": 4,
+    "first_seen_id": "食尸鬼红字1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "吸血鬼红",
+    "suggested_en": "",
+    "count": 4,
+    "first_seen_id": "吸血鬼红红字1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "森林医生",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "治疗动物一1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "小幽灵",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "点灯小游戏1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "升级后的助手",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "治疗动物四1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "无",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "开始游戏1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "大厅去训练室门",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "大厅去训练室门1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "大厅去院子门",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "大厅去院子门1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "第四章试玩npc",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "第四章结束1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "钓鱼佬九3",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "钓鱼佬九1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "管道小游戏",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "管道小游戏1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "管道妖精",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "管道妖精1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "黄金矿工羊头人",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "黄金矿工羊头人1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "教徒召唤师",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "大虫子1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "路人大妈",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "路人大妈1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "事件乌鸦",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "乌鸦1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "试玩版妖精",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "试玩版要第三章了1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "小红助战胜利",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红助战胜利1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "小红助战失败",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红助战失败1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "小黄助战胜利",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄助战胜利1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "小黄助战失败",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄助战失败1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "小蓝助战胜利",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝助战胜利1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "小蓝助战失败",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝助战失败1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "训练室去大厅门",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "训练室去大厅门1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "院子去大厅门",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "院子去大厅门1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "蜘蛛茧1",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "蜘蛛巢穴1"
+  },
+  {
+    "category": "event_rule",
+    "cn_text": "回家事件：黑骑士循环",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "被黑骑士打回家二1"
+  },
+  {
+    "category": "event_rule",
+    "cn_text": "回家事件：黑妖精循环",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "被黑妖精打回家二1"
+  },
+  {
+    "category": "event_rule",
+    "cn_text": "特殊:工匠完活",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "工匠完活一1"
+  },
+  {
+    "category": "event_rule",
+    "cn_text": "把人送走",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "被困的工匠送走后1"
+  },
+  {
+    "category": "event_rule",
+    "cn_text": "回家事件：杀黑魔女循环",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "黑魔女通用一1"
+  },
+  {
+    "category": "event_rule",
+    "cn_text": "回家事件：二本",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "装修到老家二级1"
+  },
+  {
+    "category": "event_rule",
+    "cn_text": "回家事件：工匠",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "救回了工匠大叔1"
+  },
+  {
+    "category": "event_rule",
+    "cn_text": "回家事件：黑骑士一",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "被黑骑士打回家一1"
+  },
+  {
+    "category": "event_rule",
+    "cn_text": "回家事件：黑妖精一",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "被黑妖精打回家一1"
+  },
+  {
+    "category": "event_rule",
+    "cn_text": "回家事件：杀黑魔女二",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "黑魔女尚未结束1"
+  },
+  {
+    "category": "event_rule",
+    "cn_text": "回家事件：杀黑魔女三",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "黑魔女希望1"
+  },
+  {
+    "category": "event_rule",
+    "cn_text": "回家事件：杀黑魔女一",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "黑魔女初次1"
+  },
+  {
+    "category": "event_rule",
+    "cn_text": "回家事件：图书馆管理员",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "救回了伊莲小姐1"
+  },
+  {
+    "category": "event_rule",
+    "cn_text": "回家事件：小黄",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "救回了小黄1"
+  },
+  {
+    "category": "event_rule",
+    "cn_text": "解锁小蓝",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "解锁小蓝1"
+  },
+  {
+    "category": "event_rule",
+    "cn_text": "老修女问题集",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "老修女1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "我",
+    "suggested_en": "",
+    "count": 320,
+    "first_seen_id": "被困的小黄3"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "森林医生",
+    "suggested_en": "",
+    "count": 43,
+    "first_seen_id": "治疗动物一1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "升级后的助手",
+    "suggested_en": "",
+    "count": 23,
+    "first_seen_id": "治疗动物四1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "魔女",
+    "suggested_en": "",
+    "count": 19,
+    "first_seen_id": "魔女初见1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "小幽灵",
+    "suggested_en": "",
+    "count": 16,
+    "first_seen_id": "点灯小游戏1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "羊头酋长",
+    "suggested_en": "",
+    "count": 15,
+    "first_seen_id": "羊头酋长初见1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "黑妖精",
+    "suggested_en": "",
+    "count": 14,
+    "first_seen_id": "黑妖精初见1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "森林医生的助手",
+    "suggested_en": "",
+    "count": 14,
+    "first_seen_id": "治疗动物一4"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "灯神",
+    "suggested_en": "",
+    "count": 12,
+    "first_seen_id": "神灯自言自语1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "大沙虫",
+    "suggested_en": "",
+    "count": 11,
+    "first_seen_id": "大虫子7"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "食尸鬼",
+    "suggested_en": "",
+    "count": 11,
+    "first_seen_id": "食尸鬼红字1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "吸血鬼红",
+    "suggested_en": "",
+    "count": 11,
+    "first_seen_id": "吸血鬼红红字1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "召唤的小蓝",
+    "suggested_en": "",
+    "count": 8,
+    "first_seen_id": "解锁小蓝9"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "小红（我）",
+    "suggested_en": "",
+    "count": 7,
+    "first_seen_id": "小黄刚回家3"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "小黄（我）",
+    "suggested_en": "",
+    "count": 7,
+    "first_seen_id": "小黄对小红1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "小绿（我）",
+    "suggested_en": "",
+    "count": 7,
+    "first_seen_id": "小绿对小红1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "教徒召唤师",
+    "suggested_en": "",
+    "count": 5,
+    "first_seen_id": "大虫子2"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "事件乌鸦",
+    "suggested_en": "",
+    "count": 5,
+    "first_seen_id": "乌鸦1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "试玩版妖精",
+    "suggested_en": "",
+    "count": 5,
+    "first_seen_id": "试玩版要第三章了1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "无",
+    "suggested_en": "",
+    "count": 5,
+    "first_seen_id": "开始游戏1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "黄金矿工羊头人",
+    "suggested_en": "",
+    "count": 4,
+    "first_seen_id": "黄金矿工羊头人1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "森林守卫",
+    "suggested_en": "",
+    "count": 4,
+    "first_seen_id": "治疗动物四4"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "小蓝（我）",
+    "suggested_en": "",
+    "count": 4,
+    "first_seen_id": "小蓝对小红1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "第四章试玩npc",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "第四章结束1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "小红助战胜利",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "小红助战胜利1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "小黄助战胜利",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "小黄助战胜利1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "小蓝助战胜利",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "小蓝助战胜利1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "管道妖精",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "管道妖精2"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "猞猁",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "治疗动物三5"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "小红助战失败",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "小红助战失败1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "小黄助战失败",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "小黄助战失败1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "小蓝助战失败",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "小蓝助战失败1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "羊头台子",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "羊头祭坛1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "鹰",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "治疗动物二5"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "大厅去训练室门",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "大厅去训练室门1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "大厅去院子门",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "大厅去院子门1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "路人大妈",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "路人大妈1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "训练室去大厅门",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "训练室去大厅门1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "院子去大厅门",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "院子去大厅门1"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "击",
+    "suggested_en": "",
+    "count": 6,
+    "first_seen_id": "黑骑士击杀红字2"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "破",
+    "suggested_en": "",
+    "count": 6,
+    "first_seen_id": "黑骑士击杀红字3"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "治疗△德鲁伊的治疗/净化诅咒/获得道具",
+    "suggested_en": "",
+    "count": 5,
+    "first_seen_id": "治疗动物一☆交出水晶3"
+  },
+  {
+    "category": "name",
+    "cn_text": "百暴测试",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "百暴测试"
+  },
+  {
+    "category": "name",
+    "cn_text": "博学祝福",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "博学祝福"
+  },
+  {
+    "category": "name",
+    "cn_text": "不回能量测试",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "不回能量测试"
+  },
+  {
+    "category": "name",
+    "cn_text": "打自己100",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "打自己100"
+  },
+  {
+    "category": "name",
+    "cn_text": "大锅随机buff",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "大锅随机buff"
+  },
+  {
+    "category": "name",
+    "cn_text": "大锅随机buff+",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "大锅随机buff+"
+  },
+  {
+    "category": "name",
+    "cn_text": "加侵蚀100",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "加侵蚀100"
+  },
+  {
+    "category": "name",
+    "cn_text": "扣钱100",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "扣钱100"
+  },
+  {
+    "category": "name",
+    "cn_text": "麦芽啤酒",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "麦芽啤酒"
+  },
+  {
+    "category": "name",
+    "cn_text": "抛射箭",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫攻击"
+  },
+  {
+    "category": "name",
+    "cn_text": "炮弹加攻击测试",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "炮弹加攻击测试"
+  },
+  {
+    "category": "name",
+    "cn_text": "小蓝右键移动",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝右键移动"
+  },
+  {
+    "category": "name",
+    "cn_text": "蓄力射箭",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫右键"
+  },
+  {
+    "category": "name",
+    "cn_text": "招个NPC小黄",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "招个NPC小黄"
+  }
+]
