@@ -51,6 +51,8 @@ const DATASETS = {
   },
 };
 
+const BUILD_VERSION = "20260429-base-name";
+
 const state = {
   active: "cards",
   data: {},
@@ -86,7 +88,7 @@ async function init() {
 
   const entries = await Promise.all(
     Object.entries(DATASETS).map(async ([key, spec]) => {
-      const response = await fetch(`./data/${spec.file}`);
+      const response = await fetch(`./data/${spec.file}?v=${BUILD_VERSION}`);
       if (!response.ok) throw new Error(`${spec.file} ${response.status}`);
       return [key, await response.json()];
     }),
