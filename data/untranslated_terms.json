@@ -1,5 +1,40 @@
 [
   {
+    "category": "card_base_name",
+    "cn_text": "打自己",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "打自己100"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "大锅随机buff",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "大锅随机buff+"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "加侵蚀",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "加侵蚀100"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "剧情模式",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "剧情模式+"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "扣钱",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "扣钱100"
+  },
+  {
     "category": "description",
     "cn_text": "测试，百分之百暴击",
     "suggested_en": "",
@@ -1937,6 +1972,13 @@
     "suggested_en": "",
     "count": 5,
     "first_seen_id": "治疗动物一☆交出水晶3"
+  },
+  {
+    "category": "item_base_name",
+    "cn_text": "剧情模式",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "剧情模式+"
   },
   {
     "category": "name",
