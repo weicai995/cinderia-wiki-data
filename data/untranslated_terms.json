@@ -1,10 +1,24 @@
 [
   {
     "category": "card_base_name",
+    "cn_text": "爆能冲击",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "爆能冲击"
+  },
+  {
+    "category": "card_base_name",
     "cn_text": "大锅随机buff",
     "suggested_en": "",
     "count": 2,
     "first_seen_id": "大锅随机buff"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "电能激荡",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "电能激荡"
   },
   {
     "category": "card_base_name",
@@ -103,6 +117,48 @@
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "不回能量测试"
+  },
+  {
+    "category": "description",
+    "cn_text": "丢出一个精心准备的炸药罐，造成140点爆炸伤害。并点燃敌人持续3秒。冷却时间16秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "高压炸药罐"
+  },
+  {
+    "category": "description",
+    "cn_text": "榴弹的伤害提高20%，对伤害区域中心的伤害额外提高40%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "爆能冲击"
+  },
+  {
+    "category": "description",
+    "cn_text": "榴弹的伤害提高35%，对伤害区域中心的伤害额外提高65%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "爆能冲击+"
+  },
+  {
+    "category": "description",
+    "cn_text": "你感知到周围有闪电链和霹雳时，降低0.2秒全部魔卡冷却时间。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "电能激荡"
+  },
+  {
+    "category": "description",
+    "cn_text": "你感知到周围有闪电链和霹雳时，降低0.3秒全部魔卡冷却时间。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "电能激荡+"
+  },
+  {
+    "category": "description",
+    "cn_text": "如果闪电链只命中了一个敌人，追加两道霹雳。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "短路+"
   },
   {
     "category": "destructible_name",
@@ -2023,18 +2079,25 @@
     "first_seen_id": "黑骑士击杀红字3"
   },
   {
-    "category": "event_text",
-    "cn_text": "治疗△德鲁伊的治疗/净化诅咒/获得道具",
-    "suggested_en": "",
-    "count": 5,
-    "first_seen_id": "治疗动物一☆交出水晶3"
-  },
-  {
     "category": "name",
     "cn_text": "百暴测试",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "百暴测试"
+  },
+  {
+    "category": "name",
+    "cn_text": "爆能冲击",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "爆能冲击"
+  },
+  {
+    "category": "name",
+    "cn_text": "爆能冲击+",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "爆能冲击+"
   },
   {
     "category": "name",
@@ -2070,6 +2133,20 @@
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "大锅随机buff+"
+  },
+  {
+    "category": "name",
+    "cn_text": "电能激荡",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "电能激荡"
+  },
+  {
+    "category": "name",
+    "cn_text": "电能激荡+",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "电能激荡+"
   },
   {
     "category": "name",
