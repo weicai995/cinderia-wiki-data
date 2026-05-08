@@ -1,13 +1,6 @@
 [
   {
     "category": "card_base_name",
-    "cn_text": "爆能冲击",
-    "suggested_en": "",
-    "count": 2,
-    "first_seen_id": "爆能冲击"
-  },
-  {
-    "category": "card_base_name",
     "cn_text": "大锅随机buff",
     "suggested_en": "",
     "count": 2,
@@ -15,10 +8,31 @@
   },
   {
     "category": "card_base_name",
-    "cn_text": "电能激荡",
+    "cn_text": "昏睡针刺",
     "suggested_en": "",
     "count": 2,
-    "first_seen_id": "电能激荡"
+    "first_seen_id": "昏睡针刺"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "尖刺汇聚",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "尖刺汇聚"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "狩猎加冕",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "狩猎加冕"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "针灸",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "针灸"
   },
   {
     "category": "card_base_name",
@@ -120,45 +134,346 @@
   },
   {
     "category": "description",
-    "cn_text": "丢出一个精心准备的炸药罐，造成140点爆炸伤害。并点燃敌人持续3秒。冷却时间16秒。",
+    "cn_text": "刺猬的针刺命中敌人时，有13%几率使敌人陷入催眠状态。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "高压炸药罐"
+    "first_seen_id": "昏睡针刺"
   },
   {
     "category": "description",
-    "cn_text": "榴弹的伤害提高20%，对伤害区域中心的伤害额外提高40%。",
+    "cn_text": "刺猬的针刺命中敌人时，有18%几率使敌人陷入催眠状态。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "爆能冲击"
+    "first_seen_id": "昏睡针刺+"
   },
   {
     "category": "description",
-    "cn_text": "榴弹的伤害提高35%，对伤害区域中心的伤害额外提高65%。",
+    "cn_text": "当刺猬的攻击或针刺散射命中敌人时，叠加3.5%的的尖刺易伤。最多叠加50层。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "爆能冲击+"
+    "first_seen_id": "连环刺痛"
   },
   {
     "category": "description",
-    "cn_text": "你感知到周围有闪电链和霹雳时，降低0.2秒全部魔卡冷却时间。",
+    "cn_text": "当刺猬的攻击或针刺散射命中敌人时，叠加5%的的尖刺易伤。最多叠加70层。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "电能激荡"
+    "first_seen_id": "连环刺痛+"
   },
   {
     "category": "description",
-    "cn_text": "你感知到周围有闪电链和霹雳时，降低0.3秒全部魔卡冷却时间。",
+    "cn_text": "当你的身边有狼存在时，你的2段横扫攻击替换为3段可造成16点伤害的爪击。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "电能激荡+"
+    "first_seen_id": "兽性觉醒"
   },
   {
     "category": "description",
-    "cn_text": "如果闪电链只命中了一个敌人，追加两道霹雳。",
+    "cn_text": "当你的身边有狼存在时，你的2段横扫攻击替换为更快的3段可造成16点伤害的爪击。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "短路+"
+    "first_seen_id": "兽性觉醒+"
+  },
+  {
+    "category": "description",
+    "cn_text": "对前方进行三段近战打击，\n造成20/20/55点伤害并回复10点召唤值。\n召唤条满100会召唤1只随机的动物伙伴进行战斗并清空召唤条。\n☆\n对前方进行三段近战打击，\n1 - 横扫，造成20点伤害并回复10点召唤值。\n2 - 横扫，造成20点伤害并回复10点召唤值。\n3 - 重击，造成55点伤害并回复10点召唤值。\n召唤条满100会召唤1只随机的动物伙伴进行战斗并清空召唤条。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小绿攻击"
+  },
+  {
+    "category": "description",
+    "cn_text": "发射一个能量弹，命中地面后爆炸，对小范围敌人造成35点伤害。\n如果成功命中了敌人，回复30点召唤值。\n如果命中了熊，会为其回复5点生命值。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小绿右键"
+  },
+  {
+    "category": "description",
+    "cn_text": "基础召唤触发时66%几率额外召唤一只刺猬协助你战斗。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "荆刺契约"
+  },
+  {
+    "category": "description",
+    "cn_text": "将刺猬的攻击替换为可造成54点伤害的巨型尖刺，对带有狩猎印记的敌人必定暴击。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "尖刺汇聚"
+  },
+  {
+    "category": "description",
+    "cn_text": "将刺猬的攻击替换为可造成70点伤害的巨型尖刺，对带有狩猎印记的敌人必定暴击。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "尖刺汇聚+"
+  },
+  {
+    "category": "description",
+    "cn_text": "将两段横扫攻击合并为一段横扫，并将伤害提高到20。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "精简"
+  },
+  {
+    "category": "description",
+    "cn_text": "将两段横扫攻击合并为一段横扫，并将伤害提高到35。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "精简+"
+  },
+  {
+    "category": "description",
+    "cn_text": "将自然之息化为一只小狼向目标方向突刺，造成70点伤害后留下战斗（冷却11.5秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "突袭指令"
+  },
+  {
+    "category": "description",
+    "cn_text": "将自然之息化为一只小狼向目标方向突刺，造成85点伤害后留下战斗（冷却8.5秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "突袭指令+"
+  },
+  {
+    "category": "description",
+    "cn_text": "近战攻击时有12%几率召唤一个幼狼协助战斗。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "战意感知"
+  },
+  {
+    "category": "description",
+    "cn_text": "近战攻击时有18%几率召唤一个幼狼协助战斗。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "战意感知+"
+  },
+  {
+    "category": "description",
+    "cn_text": "每4秒，下次重击将升级为可造成115点伤害的强力重击，并在目标位置造成2次地震。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "震地重击+"
+  },
+  {
+    "category": "description",
+    "cn_text": "每4秒，下次重击将升级为可造成85点伤害的强力重击，并在目标位置造成1次地震。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "震地重击"
+  },
+  {
+    "category": "description",
+    "cn_text": "每第3次使用自然之息时召唤一个刺猬，并且让它在落地时使用5次针刺散射。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小小刺球+"
+  },
+  {
+    "category": "description",
+    "cn_text": "每第4次使用自然之息时召唤一个刺猬，并且让它在落地时使用3次针刺散射。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小小刺球"
+  },
+  {
+    "category": "description",
+    "cn_text": "每隔6秒，自动缠绕你周围的所有敌人。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "自然律动+"
+  },
+  {
+    "category": "description",
+    "cn_text": "每隔8秒，自动缠绕你周围的所有敌人。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "自然律动"
+  },
+  {
+    "category": "description",
+    "cn_text": "每召唤一个幼狼，就有36%几率额外召唤一个幼狼。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "呼朋引伴"
+  },
+  {
+    "category": "description",
+    "cn_text": "每召唤一个幼狼，就有52%几率额外召唤一个幼狼。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "呼朋引伴+"
+  },
+  {
+    "category": "description",
+    "cn_text": "你被刺猬的针刺命中时，所有魔卡的冷却时间降低0.15秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "针灸"
+  },
+  {
+    "category": "description",
+    "cn_text": "你被刺猬的针刺命中时，所有魔卡的冷却时间降低0.2秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "针灸+"
+  },
+  {
+    "category": "description",
+    "cn_text": "你的爪击和幼狼造成的伤害会在暴击时使敌人破防。获得12%额外暴击率。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "凶猛利爪+"
+  },
+  {
+    "category": "description",
+    "cn_text": "你的爪击和幼狼造成的伤害会在暴击时使敌人破防。获得8%额外暴击率。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "凶猛利爪"
+  },
+  {
+    "category": "description",
+    "cn_text": "你和你的熊受到攻击时会向周围进行4次针刺散射。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "针刺防御"
+  },
+  {
+    "category": "description",
+    "cn_text": "你和你的熊受到攻击时会向周围进行6次针刺散射。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "针刺防御+"
+  },
+  {
+    "category": "description",
+    "cn_text": "你周围每有一个受过伤的敌人，所有幼狼的攻击速度提升24%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "嗜血"
+  },
+  {
+    "category": "description",
+    "cn_text": "你周围每有一个受过伤的敌人，所有幼狼的攻击速度提升35%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "嗜血+"
+  },
+  {
+    "category": "description",
+    "cn_text": "幼狼攻击时有21%的几率造成40点伤害并将敌人短暂击晕。你幼狼相关的招式全部附加击晕。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "利齿啃咬"
+  },
+  {
+    "category": "description",
+    "cn_text": "幼狼攻击时有28%的几率造成56点伤害并将敌人短暂击晕。你幼狼相关的招式全部附加更久的击晕。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "利齿啃咬+"
+  },
+  {
+    "category": "description",
+    "cn_text": "幼狼攻击完有20%几率留下来继续战斗。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "群狼奔袭5"
+  },
+  {
+    "category": "description",
+    "cn_text": "幼狼每次命中敌人时，你获得13%的近战攻击力加成，持续2.5秒，最多10层。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "狼魂+"
+  },
+  {
+    "category": "description",
+    "cn_text": "幼狼每次命中敌人时，你获得8%的近战攻击力加成，持续2.5秒，最多8层。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "狼魂"
+  },
+  {
+    "category": "description",
+    "cn_text": "幼狼在参与击杀时有25%机会晋升为狼王，攻击力和攻速分别提升90%，持续时间+8秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "狩猎加冕"
+  },
+  {
+    "category": "description",
+    "cn_text": "幼狼在参与击杀时有33%机会晋升为狼王，攻击力和攻速分别提升125%，持续时间+12秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "狩猎加冕+"
+  },
+  {
+    "category": "description",
+    "cn_text": "在第3段连招后猛击地面，对周围的敌人造成25点伤害，并生成一片魔法草地。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "松土"
+  },
+  {
+    "category": "description",
+    "cn_text": "在第3段重击后追加一记更缓慢的重击，造成105点伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "沉力一击"
+  },
+  {
+    "category": "description",
+    "cn_text": "在第3段重击后追加一记更缓慢的重击，造成145点伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "沉力一击+"
+  },
+  {
+    "category": "description",
+    "cn_text": "在你近战连招的横扫后，消耗25点召唤值，进行一次砸地攻击造成20点伤害，并召唤2只刺猬进行两轮齐射。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "刺刺齐发"
+  },
+  {
+    "category": "description",
+    "cn_text": "在你近战连招的横扫后，消耗25点召唤值，进行一次砸地攻击造成30点伤害，并召唤3只刺猬进行两轮齐射。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "刺刺齐发+"
+  },
+  {
+    "category": "description",
+    "cn_text": "召唤4只刺猬，向目标区域每0.36秒进行一轮齐射，持续3秒。冷却时间22秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "刺刺小队"
+  },
+  {
+    "category": "description",
+    "cn_text": "召唤一个永远不消失的幽灵幼狼协助战斗，它拥有额外的10点基础攻击力。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "灵魂伙伴+"
+  },
+  {
+    "category": "description",
+    "cn_text": "重击时，所有的刺猬向周围进行4次针刺散射。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "应激炸毛"
+  },
+  {
+    "category": "description",
+    "cn_text": "重击时，所有的刺猬向周围进行6次针刺散射。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "应激炸毛+"
   },
   {
     "category": "destructible_name",
@@ -2087,20 +2402,6 @@
   },
   {
     "category": "name",
-    "cn_text": "爆能冲击",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "爆能冲击"
-  },
-  {
-    "category": "name",
-    "cn_text": "爆能冲击+",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "爆能冲击+"
-  },
-  {
-    "category": "name",
     "cn_text": "博学祝福",
     "suggested_en": "",
     "count": 1,
@@ -2136,17 +2437,17 @@
   },
   {
     "category": "name",
-    "cn_text": "电能激荡",
+    "cn_text": "昏睡针刺",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "电能激荡"
+    "first_seen_id": "昏睡针刺"
   },
   {
     "category": "name",
-    "cn_text": "电能激荡+",
+    "cn_text": "昏睡针刺+",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "电能激荡+"
+    "first_seen_id": "昏睡针刺+"
   },
   {
     "category": "name",
@@ -2154,6 +2455,20 @@
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "加侵蚀100"
+  },
+  {
+    "category": "name",
+    "cn_text": "尖刺汇聚",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "尖刺汇聚"
+  },
+  {
+    "category": "name",
+    "cn_text": "尖刺汇聚+",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "尖刺汇聚+"
   },
   {
     "category": "name",
@@ -2185,6 +2500,20 @@
   },
   {
     "category": "name",
+    "cn_text": "狩猎加冕",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "狩猎加冕"
+  },
+  {
+    "category": "name",
+    "cn_text": "狩猎加冕+",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "狩猎加冕+"
+  },
+  {
+    "category": "name",
     "cn_text": "小蓝右键移动",
     "suggested_en": "",
     "count": 1,
@@ -2203,5 +2532,19 @@
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "招个NPC小黄"
+  },
+  {
+    "category": "name",
+    "cn_text": "针灸",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "针灸"
+  },
+  {
+    "category": "name",
+    "cn_text": "针灸+",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "针灸+"
   }
 ]
