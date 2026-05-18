@@ -1,0 +1,4182 @@
+{
+  "cards/小红攻击": {
+    "icon": "小红攻击",
+    "file": "assets/icons/cards/_E5_B0_8F_E7_BA_A2_E6_94_BB_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小红攻击.png"
+  },
+  "cards/小红飞刀": {
+    "icon": "小红飞刀",
+    "file": "assets/icons/cards/_E5_B0_8F_E7_BA_A2_E9_A3_9E_E5_88_80.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小红飞刀.png"
+  },
+  "cards/小红冲刺": {
+    "icon": "小红冲刺",
+    "file": "assets/icons/cards/_E5_B0_8F_E7_BA_A2_E5_86_B2_E5_88_BA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小红冲刺.png"
+  },
+  "cards/猎杀时刻": {
+    "icon": "猎杀时刻",
+    "file": "assets/icons/cards/_E7_8C_8E_E6_9D_80_E6_97_B6_E5_88_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/猎杀时刻.png"
+  },
+  "cards/缺图": {
+    "icon": "缺图",
+    "file": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/缺图.png"
+  },
+  "cards/暗影突袭": {
+    "icon": "暗影突袭",
+    "file": "assets/icons/cards/_E6_9A_97_E5_BD_B1_E7_AA_81_E8_A2_AD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/暗影突袭.png"
+  },
+  "cards/乱刀波": {
+    "icon": "乱刀波",
+    "file": "assets/icons/cards/_E4_B9_B1_E5_88_80_E6_B3_A2.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/乱刀波.png"
+  },
+  "cards/钩爪": {
+    "icon": "钩爪",
+    "file": "assets/icons/cards/_E9_92_A9_E7_88_AA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/钩爪.png"
+  },
+  "cards/暴雨": {
+    "icon": "暴雨",
+    "file": "assets/icons/cards/_E6_9A_B4_E9_9B_A8.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/暴雨.png"
+  },
+  "cards/刀扇": {
+    "icon": "刀扇",
+    "file": "assets/icons/cards/_E5_88_80_E6_89_87.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/刀扇.png"
+  },
+  "cards/烟雾弹": {
+    "icon": "烟雾弹",
+    "file": "assets/icons/cards/_E7_83_9F_E9_9B_BE_E5_BC_B9.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/烟雾弹.png"
+  },
+  "cards/夺命连环戳": {
+    "icon": "夺命连环戳",
+    "file": "assets/icons/cards/_E5_A4_BA_E5_91_BD_E8_BF_9E_E7_8E_AF_E6_88_B3.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/夺命连环戳.png"
+  },
+  "cards/铁索连环": {
+    "icon": "铁索连环",
+    "file": "assets/icons/cards/_E9_93_81_E7_B4_A2_E8_BF_9E_E7_8E_AF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/铁索连环.png"
+  },
+  "cards/怒火连斩一段": {
+    "icon": "怒火连斩一段",
+    "file": "assets/icons/cards/_E6_80_92_E7_81_AB_E8_BF_9E_E6_96_A9_E4_B8_80_E6_AE_B5.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/怒火连斩一段.png"
+  },
+  "cards/飞刀连掷": {
+    "icon": "飞刀连掷",
+    "file": "assets/icons/cards/_E9_A3_9E_E5_88_80_E8_BF_9E_E6_8E_B7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/飞刀连掷.png"
+  },
+  "cards/处决": {
+    "icon": "处决",
+    "file": "assets/icons/cards/_E5_A4_84_E5_86_B3.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/处决.png"
+  },
+  "cards/十字裂地斩": {
+    "icon": "十字裂地斩",
+    "file": "assets/icons/cards/_E5_8D_81_E5_AD_97_E8_A3_82_E5_9C_B0_E6_96_A9.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/十字裂地斩.png"
+  },
+  "cards/战术飞踢": {
+    "icon": "战术飞踢",
+    "file": "assets/icons/cards/_E6_88_98_E6_9C_AF_E9_A3_9E_E8_B8_A2.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/战术飞踢.png"
+  },
+  "cards/回旋飞刃": {
+    "icon": "回旋飞刃",
+    "file": "assets/icons/cards/_E5_9B_9E_E6_97_8B_E9_A3_9E_E5_88_83.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/回旋飞刃.png"
+  },
+  "cards/影分身": {
+    "icon": "影分身",
+    "file": "assets/icons/cards/_E5_BD_B1_E5_88_86_E8_BA_AB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/影分身.png"
+  },
+  "cards/涂毒": {
+    "icon": "涂毒",
+    "file": "assets/icons/cards/_E6_B6_82_E6_AF_92.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/涂毒.png"
+  },
+  "cards/血斩波": {
+    "icon": "血斩波",
+    "file": "assets/icons/cards/_E8_A1_80_E6_96_A9_E6_B3_A2.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/血斩波.png"
+  },
+  "cards/刀刃旋风": {
+    "icon": "刀刃旋风",
+    "file": "assets/icons/cards/_E5_88_80_E5_88_83_E6_97_8B_E9_A3_8E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/刀刃旋风.png"
+  },
+  "cards/崴脚": {
+    "icon": "崴脚",
+    "file": "assets/icons/cards/_E5_B4_B4_E8_84_9A.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/崴脚.png"
+  },
+  "cards/连刺": {
+    "icon": "连刺",
+    "file": "assets/icons/cards/_E8_BF_9E_E5_88_BA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/连刺.png"
+  },
+  "cards/影杀": {
+    "icon": "影杀",
+    "file": "assets/icons/cards/_E5_BD_B1_E6_9D_80.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/影杀.png"
+  },
+  "cards/回旋连踢": {
+    "icon": "回旋连踢",
+    "file": "assets/icons/cards/_E5_9B_9E_E6_97_8B_E8_BF_9E_E8_B8_A2.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/回旋连踢.png"
+  },
+  "cards/横扫千军": {
+    "icon": "横扫千军",
+    "file": "assets/icons/cards/_E6_A8_AA_E6_89_AB_E5_8D_83_E5_86_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/横扫千军.png"
+  },
+  "cards/剑花": {
+    "icon": "剑花",
+    "file": "assets/icons/cards/_E5_89_91_E8_8A_B1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/剑花.png"
+  },
+  "cards/踏步连斩": {
+    "icon": "踏步连斩",
+    "file": "assets/icons/cards/_E8_B8_8F_E6_AD_A5_E8_BF_9E_E6_96_A9.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/踏步连斩.png"
+  },
+  "cards/奋力一击": {
+    "icon": "奋力一击",
+    "file": "assets/icons/cards/_E5_A5_8B_E5_8A_9B_E4_B8_80_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/奋力一击.png"
+  },
+  "cards/飞刀压制": {
+    "icon": "飞刀压制",
+    "file": "assets/icons/cards/_E9_A3_9E_E5_88_80_E5_8E_8B_E5_88_B6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/飞刀压制.png"
+  },
+  "cards/瞬闪": {
+    "icon": "瞬闪",
+    "file": "assets/icons/cards/_E7_9E_AC_E9_97_AA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/瞬闪.png"
+  },
+  "cards/试探": {
+    "icon": "试探",
+    "file": "assets/icons/cards/_E8_AF_95_E6_8E_A2.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/试探.png"
+  },
+  "cards/仇恨凝聚": {
+    "icon": "仇恨凝聚",
+    "file": "assets/icons/cards/_E4_BB_87_E6_81_A8_E5_87_9D_E8_81_9A.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/仇恨凝聚.png"
+  },
+  "cards/负重训练": {
+    "icon": "负重训练",
+    "file": "assets/icons/cards/_E8_B4_9F_E9_87_8D_E8_AE_AD_E7_BB_83.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/负重训练.png"
+  },
+  "cards/血十字": {
+    "icon": "血十字",
+    "file": "assets/icons/cards/_E8_A1_80_E5_8D_81_E5_AD_97.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/血十字.png"
+  },
+  "cards/断罪": {
+    "icon": "断罪",
+    "file": "assets/icons/cards/_E6_96_AD_E7_BD_AA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/断罪.png"
+  },
+  "cards/凌空剑气": {
+    "icon": "凌空剑气",
+    "file": "assets/icons/cards/_E5_87_8C_E7_A9_BA_E5_89_91_E6_B0_94.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/凌空剑气.png"
+  },
+  "cards/割裂": {
+    "icon": "割裂",
+    "file": "assets/icons/cards/_E5_89_B2_E8_A3_82.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/割裂.png"
+  },
+  "cards/命中要害": {
+    "icon": "命中要害",
+    "file": "assets/icons/cards/_E5_91_BD_E4_B8_AD_E8_A6_81_E5_AE_B3.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/命中要害.png"
+  },
+  "cards/多重飞刀": {
+    "icon": "多重飞刀",
+    "file": "assets/icons/cards/_E5_A4_9A_E9_87_8D_E9_A3_9E_E5_88_80.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/多重飞刀.png"
+  },
+  "cards/减重": {
+    "icon": "减重",
+    "file": "assets/icons/cards/_E5_87_8F_E9_87_8D.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/减重.png"
+  },
+  "cards/弹射": {
+    "icon": "弹射",
+    "file": "assets/icons/cards/_E5_BC_B9_E5_B0_84.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/弹射.png"
+  },
+  "cards/聚集": {
+    "icon": "聚集",
+    "file": "assets/icons/cards/_E8_81_9A_E9_9B_86.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/聚集.png"
+  },
+  "cards/影子飞刀手": {
+    "icon": "影子飞刀手",
+    "file": "assets/icons/cards/_E5_BD_B1_E5_AD_90_E9_A3_9E_E5_88_80_E6_89_8B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/影子飞刀手.png"
+  },
+  "cards/蓄力投掷": {
+    "icon": "蓄力投掷",
+    "file": "assets/icons/cards/_E8_93_84_E5_8A_9B_E6_8A_95_E6_8E_B7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/蓄力投掷.png"
+  },
+  "cards/手里剑": {
+    "icon": "手里剑",
+    "file": "assets/icons/cards/_E6_89_8B_E9_87_8C_E5_89_91.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/手里剑.png"
+  },
+  "cards/锯齿飞刃": {
+    "icon": "锯齿飞刃",
+    "file": "assets/icons/cards/_E9_94_AF_E9_BD_BF_E9_A3_9E_E5_88_83.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/锯齿飞刃.png"
+  },
+  "cards/飞锁": {
+    "icon": "飞锁",
+    "file": "assets/icons/cards/_E9_A3_9E_E9_94_81.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/飞锁.png"
+  },
+  "cards/乱掷": {
+    "icon": "乱掷",
+    "file": "assets/icons/cards/_E4_B9_B1_E6_8E_B7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/乱掷.png"
+  },
+  "cards/影子攻击": {
+    "icon": "影子攻击",
+    "file": "assets/icons/cards/_E5_BD_B1_E5_AD_90_E6_94_BB_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/影子攻击.png"
+  },
+  "cards/暗影锁定": {
+    "icon": "暗影锁定",
+    "file": "assets/icons/cards/_E6_9A_97_E5_BD_B1_E9_94_81_E5_AE_9A.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/暗影锁定.png"
+  },
+  "cards/疾速连击": {
+    "icon": "疾速连击",
+    "file": "assets/icons/cards/_E7_96_BE_E9_80_9F_E8_BF_9E_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/疾速连击.png"
+  },
+  "cards/灵活": {
+    "icon": "灵活",
+    "file": "assets/icons/cards/_E7_81_B5_E6_B4_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/灵活.png"
+  },
+  "cards/残影": {
+    "icon": "残影",
+    "file": "assets/icons/cards/_E6_AE_8B_E5_BD_B1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/残影.png"
+  },
+  "cards/逃脱": {
+    "icon": "逃脱",
+    "file": "assets/icons/cards/_E9_80_83_E8_84_B1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/逃脱.png"
+  },
+  "cards/藏匿": {
+    "icon": "藏匿",
+    "file": "assets/icons/cards/_E8_97_8F_E5_8C_BF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/藏匿.png"
+  },
+  "cards/夜行者": {
+    "icon": "夜行者",
+    "file": "assets/icons/cards/_E5_A4_9C_E8_A1_8C_E8_80_85.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/夜行者.png"
+  },
+  "cards/隐忍": {
+    "icon": "隐忍",
+    "file": "assets/icons/cards/_E9_9A_90_E5_BF_8D.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/隐忍.png"
+  },
+  "cards/帷幕": {
+    "icon": "帷幕",
+    "file": "assets/icons/cards/_E5_B8_B7_E5_B9_95.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/帷幕.png"
+  },
+  "cards/飞刀奇袭": {
+    "icon": "飞刀奇袭",
+    "file": "assets/icons/cards/_E9_A3_9E_E5_88_80_E5_A5_87_E8_A2_AD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/飞刀奇袭.png"
+  },
+  "cards/割喉": {
+    "icon": "割喉",
+    "file": "assets/icons/cards/_E5_89_B2_E5_96_89.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/割喉.png"
+  },
+  "cards/吓你一跳": {
+    "icon": "吓你一跳",
+    "file": "assets/icons/cards/_E5_90_93_E4_BD_A0_E4_B8_80_E8_B7_B3.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/吓你一跳.png"
+  },
+  "cards/血腥突刺": {
+    "icon": "血腥突刺",
+    "file": "assets/icons/cards/_E8_A1_80_E8_85_A5_E7_AA_81_E5_88_BA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/血腥突刺.png"
+  },
+  "cards/脚踏剑气": {
+    "icon": "脚踏剑气",
+    "file": "assets/icons/cards/_E8_84_9A_E8_B8_8F_E5_89_91_E6_B0_94.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/脚踏剑气.png"
+  },
+  "cards/影守": {
+    "icon": "影守",
+    "file": "assets/icons/cards/_E5_BD_B1_E5_AE_88.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/影守.png"
+  },
+  "cards/血战": {
+    "icon": "血战",
+    "file": "assets/icons/cards/_E8_A1_80_E6_88_98.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/血战.png"
+  },
+  "cards/精神抖擞": {
+    "icon": "精神抖擞",
+    "file": "assets/icons/cards/_E7_B2_BE_E7_A5_9E_E6_8A_96_E6_93_9E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/精神抖擞.png"
+  },
+  "cards/静养": {
+    "icon": "静养",
+    "file": "assets/icons/cards/_E9_9D_99_E5_85_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/静养.png"
+  },
+  "cards/致命专注": {
+    "icon": "致命专注",
+    "file": "assets/icons/cards/_E8_87_B4_E5_91_BD_E4_B8_93_E6_B3_A8.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/致命专注.png"
+  },
+  "cards/激荡": {
+    "icon": "激荡",
+    "file": "assets/icons/cards/_E6_BF_80_E8_8D_A1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/激荡.png"
+  },
+  "cards/精力": {
+    "icon": "精力",
+    "file": "assets/icons/cards/_E7_B2_BE_E5_8A_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/精力.png"
+  },
+  "cards/死亡回响": {
+    "icon": "死亡回响",
+    "file": "assets/icons/cards/_E6_AD_BB_E4_BA_A1_E5_9B_9E_E5_93_8D.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/死亡回响.png"
+  },
+  "cards/重伤": {
+    "icon": "重伤",
+    "file": "assets/icons/cards/_E9_87_8D_E4_BC_A4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/重伤.png"
+  },
+  "cards/淬毒匕首": {
+    "icon": "淬毒匕首",
+    "file": "assets/icons/cards/_E6_B7_AC_E6_AF_92_E5_8C_95_E9_A6_96.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/淬毒匕首.png"
+  },
+  "cards/毒药袋": {
+    "icon": "毒药袋",
+    "file": "assets/icons/cards/_E6_AF_92_E8_8D_AF_E8_A2_8B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/毒药袋.png"
+  },
+  "cards/剧毒戳刺": {
+    "icon": "剧毒戳刺",
+    "file": "assets/icons/cards/_E5_89_A7_E6_AF_92_E6_88_B3_E5_88_BA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/剧毒戳刺.png"
+  },
+  "cards/腐蚀之锋": {
+    "icon": "腐蚀之锋",
+    "file": "assets/icons/cards/_E8_85_90_E8_9A_80_E4_B9_8B_E9_94_8B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/腐蚀之锋.png"
+  },
+  "cards/死亡毒雾": {
+    "icon": "死亡毒雾",
+    "file": "assets/icons/cards/_E6_AD_BB_E4_BA_A1_E6_AF_92_E9_9B_BE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/死亡毒雾.png"
+  },
+  "cards/慢性毒药": {
+    "icon": "慢性毒药",
+    "file": "assets/icons/cards/_E6_85_A2_E6_80_A7_E6_AF_92_E8_8D_AF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/慢性毒药.png"
+  },
+  "cards/引爆毒素": {
+    "icon": "引爆毒素",
+    "file": "assets/icons/cards/_E5_BC_95_E7_88_86_E6_AF_92_E7_B4_A0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/引爆毒素.png"
+  },
+  "cards/病入膏肓": {
+    "icon": "病入膏肓",
+    "file": "assets/icons/cards/_E7_97_85_E5_85_A5_E8_86_8F_E8_82_93.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/病入膏肓.png"
+  },
+  "cards/致命毒药": {
+    "icon": "致命毒药",
+    "file": "assets/icons/cards/_E8_87_B4_E5_91_BD_E6_AF_92_E8_8D_AF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/致命毒药.png"
+  },
+  "cards/暗影契约": {
+    "icon": "暗影契约",
+    "file": "assets/icons/cards/_E6_9A_97_E5_BD_B1_E5_A5_91_E7_BA_A6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/暗影契约.png"
+  },
+  "cards/荒芜": {
+    "icon": "荒芜",
+    "file": "assets/icons/cards/_E8_8D_92_E8_8A_9C.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/荒芜.png"
+  },
+  "cards/皮开肉绽": {
+    "icon": "皮开肉绽",
+    "file": "assets/icons/cards/_E7_9A_AE_E5_BC_80_E8_82_89_E7_BB_BD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/皮开肉绽.png"
+  },
+  "cards/影子追击": {
+    "icon": "影子追击",
+    "file": "assets/icons/cards/_E5_BD_B1_E5_AD_90_E8_BF_BD_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/影子追击.png"
+  },
+  "cards/取血": {
+    "icon": "取血",
+    "file": "assets/icons/cards/_E5_8F_96_E8_A1_80.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/取血.png"
+  },
+  "cards/见血封喉": {
+    "icon": "见血封喉",
+    "file": "assets/icons/cards/_E8_A7_81_E8_A1_80_E5_B0_81_E5_96_89.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/见血封喉.png"
+  },
+  "cards/放血疗法": {
+    "icon": "放血疗法",
+    "file": "assets/icons/cards/_E6_94_BE_E8_A1_80_E7_96_97_E6_B3_95.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/放血疗法.png"
+  },
+  "cards/暗影爆炸": {
+    "icon": "暗影爆炸",
+    "file": "assets/icons/cards/_E6_9A_97_E5_BD_B1_E7_88_86_E7_82_B8.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/暗影爆炸.png"
+  },
+  "cards/影之收割": {
+    "icon": "影之收割",
+    "file": "assets/icons/cards/_E5_BD_B1_E4_B9_8B_E6_94_B6_E5_89_B2.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/影之收割.png"
+  },
+  "cards/飞刃疾舞": {
+    "icon": "飞刃疾舞",
+    "file": "assets/icons/cards/_E9_A3_9E_E5_88_83_E7_96_BE_E8_88_9E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/飞刃疾舞.png"
+  },
+  "cards/恶意中伤": {
+    "icon": "恶意中伤",
+    "file": "assets/icons/cards/_E6_81_B6_E6_84_8F_E4_B8_AD_E4_BC_A4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/恶意中伤.png"
+  },
+  "cards/精准飞刀": {
+    "icon": "精准飞刀",
+    "file": "assets/icons/cards/_E7_B2_BE_E5_87_86_E9_A3_9E_E5_88_80.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/精准飞刀.png"
+  },
+  "cards/偏斜": {
+    "icon": "偏斜",
+    "file": "assets/icons/cards/_E5_81_8F_E6_96_9C.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/偏斜.png"
+  },
+  "cards/绕背": {
+    "icon": "绕背",
+    "file": "assets/icons/cards/_E7_BB_95_E8_83_8C.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/绕背.png"
+  },
+  "cards/冥想": {
+    "icon": "冥想",
+    "file": "assets/icons/cards/_E5_86_A5_E6_83_B3.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冥想.png"
+  },
+  "cards/刀锋延展": {
+    "icon": "刀锋延展",
+    "file": "assets/icons/cards/_E5_88_80_E9_94_8B_E5_BB_B6_E5_B1_95.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/刀锋延展.png"
+  },
+  "cards/烈风断筋": {
+    "icon": "烈风断筋",
+    "file": "assets/icons/cards/_E7_83_88_E9_A3_8E_E6_96_AD_E7_AD_8B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/烈风断筋.png"
+  },
+  "cards/投掷锁链": {
+    "icon": "投掷锁链",
+    "file": "assets/icons/cards/_E6_8A_95_E6_8E_B7_E9_94_81_E9_93_BE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/投掷锁链.png"
+  },
+  "cards/缚敌钩锁": {
+    "icon": "缚敌钩锁",
+    "file": "assets/icons/cards/_E7_BC_9A_E6_95_8C_E9_92_A9_E9_94_81.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/缚敌钩锁.png"
+  },
+  "cards/沉重铁链": {
+    "icon": "沉重铁链",
+    "file": "assets/icons/cards/_E6_B2_89_E9_87_8D_E9_93_81_E9_93_BE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/沉重铁链.png"
+  },
+  "cards/灵魂传递": {
+    "icon": "灵魂传递",
+    "file": "assets/icons/cards/_E7_81_B5_E9_AD_82_E4_BC_A0_E9_80_92.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/灵魂传递.png"
+  },
+  "cards/咒链": {
+    "icon": "咒链",
+    "file": "assets/icons/cards/_E5_92_92_E9_93_BE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/咒链.png"
+  },
+  "cards/紧缚": {
+    "icon": "紧缚",
+    "file": "assets/icons/cards/_E7_B4_A7_E7_BC_9A.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/紧缚.png"
+  },
+  "cards/环刃": {
+    "icon": "环刃",
+    "file": "assets/icons/cards/_E7_8E_AF_E5_88_83.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/环刃.png"
+  },
+  "cards/裁决之轮": {
+    "icon": "裁决之轮",
+    "file": "assets/icons/cards/_E8_A3_81_E5_86_B3_E4_B9_8B_E8_BD_AE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/裁决之轮.png"
+  },
+  "cards/逆流之轮": {
+    "icon": "逆流之轮",
+    "file": "assets/icons/cards/_E9_80_86_E6_B5_81_E4_B9_8B_E8_BD_AE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/逆流之轮.png"
+  },
+  "cards/疾速旋转": {
+    "icon": "疾速旋转",
+    "file": "assets/icons/cards/_E7_96_BE_E9_80_9F_E6_97_8B_E8_BD_AC.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/疾速旋转.png"
+  },
+  "cards/旋刃冲击": {
+    "icon": "旋刃冲击",
+    "file": "assets/icons/cards/_E6_97_8B_E5_88_83_E5_86_B2_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/旋刃冲击.png"
+  },
+  "cards/飞轮裂伤": {
+    "icon": "飞轮裂伤",
+    "file": "assets/icons/cards/_E9_A3_9E_E8_BD_AE_E8_A3_82_E4_BC_A4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/飞轮裂伤.png"
+  },
+  "cards/重刃压制": {
+    "icon": "重刃压制",
+    "file": "assets/icons/cards/_E9_87_8D_E5_88_83_E5_8E_8B_E5_88_B6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/重刃压制.png"
+  },
+  "cards/透心凉": {
+    "icon": "透心凉",
+    "file": "assets/icons/cards/_E9_80_8F_E5_BF_83_E5_87_89.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/透心凉.png"
+  },
+  "cards/流刃回返": {
+    "icon": "流刃回返",
+    "file": "assets/icons/cards/_E6_B5_81_E5_88_83_E5_9B_9E_E8_BF_94.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/流刃回返.png"
+  },
+  "cards/回收飞刀": {
+    "icon": "回收飞刀",
+    "file": "assets/icons/cards/_E5_9B_9E_E6_94_B6_E9_A3_9E_E5_88_80.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/回收飞刀.png"
+  },
+  "cards/肃清": {
+    "icon": "肃清",
+    "file": "assets/icons/cards/_E8_82_83_E6_B8_85.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/肃清.png"
+  },
+  "cards/离群之罪": {
+    "icon": "离群之罪",
+    "file": "assets/icons/cards/_E7_A6_BB_E7_BE_A4_E4_B9_8B_E7_BD_AA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/离群之罪.png"
+  },
+  "cards/小黄攻击": {
+    "icon": "小黄攻击",
+    "file": "assets/icons/cards/_E5_B0_8F_E9_BB_84_E6_94_BB_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小黄攻击.png"
+  },
+  "cards/小黄射击": {
+    "icon": "小黄射击",
+    "file": "assets/icons/cards/_E5_B0_8F_E9_BB_84_E5_B0_84_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小黄射击.png"
+  },
+  "cards/小黄翻滚": {
+    "icon": "小黄翻滚",
+    "file": "assets/icons/cards/_E5_B0_8F_E9_BB_84_E7_BF_BB_E6_BB_9A.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小黄翻滚.png"
+  },
+  "cards/小黄上弹": {
+    "icon": "小黄上弹",
+    "file": "assets/icons/cards/_E5_B0_8F_E9_BB_84_E4_B8_8A_E5_BC_B9.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小黄上弹.png"
+  },
+  "cards/火箭弹射": {
+    "icon": "火箭弹射",
+    "file": "assets/icons/cards/_E7_81_AB_E7_AE_AD_E5_BC_B9_E5_B0_84.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/火箭弹射.png"
+  },
+  "cards/陷阱阵列": {
+    "icon": "陷阱阵列",
+    "file": "assets/icons/cards/_E9_99_B7_E9_98_B1_E9_98_B5_E5_88_97.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/陷阱阵列.png"
+  },
+  "cards/散弹雨": {
+    "icon": "散弹雨",
+    "file": "assets/icons/cards/_E6_95_A3_E5_BC_B9_E9_9B_A8.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/散弹雨.png"
+  },
+  "cards/定时炸弹": {
+    "icon": "定时炸弹",
+    "file": "assets/icons/cards/_E5_AE_9A_E6_97_B6_E7_82_B8_E5_BC_B9.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/定时炸弹.png"
+  },
+  "cards/高压炸药罐": {
+    "icon": "高压炸药罐",
+    "file": "assets/icons/cards/_E9_AB_98_E5_8E_8B_E7_82_B8_E8_8D_AF_E7_BD_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/高压炸药罐.png"
+  },
+  "cards/燃油桶": {
+    "icon": "燃油桶",
+    "file": "assets/icons/cards/_E7_87_83_E6_B2_B9_E6_A1_B6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/燃油桶.png"
+  },
+  "cards/喷火装置": {
+    "icon": "喷火装置",
+    "file": "assets/icons/cards/_E5_96_B7_E7_81_AB_E8_A3_85_E7_BD_AE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/喷火装置.png"
+  },
+  "cards/速射炮台": {
+    "icon": "速射炮台",
+    "file": "assets/icons/cards/_E9_80_9F_E5_B0_84_E7_82_AE_E5_8F_B0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/速射炮台.png"
+  },
+  "cards/加农炮台": {
+    "icon": "加农炮台",
+    "file": "assets/icons/cards/_E5_8A_A0_E5_86_9C_E7_82_AE_E5_8F_B0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/加农炮台.png"
+  },
+  "cards/榴弹炮台": {
+    "icon": "榴弹炮台",
+    "file": "assets/icons/cards/_E6_A6_B4_E5_BC_B9_E7_82_AE_E5_8F_B0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/榴弹炮台.png"
+  },
+  "cards/雷霆重锤": {
+    "icon": "雷霆重锤",
+    "file": "assets/icons/cards/_E9_9B_B7_E9_9C_86_E9_87_8D_E9_94_A4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/雷霆重锤.png"
+  },
+  "cards/过肩摔": {
+    "icon": "过肩摔",
+    "file": "assets/icons/cards/_E8_BF_87_E8_82_A9_E6_91_94.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/过肩摔.png"
+  },
+  "cards/精准装填": {
+    "icon": "精准装填",
+    "file": "assets/icons/cards/_E7_B2_BE_E5_87_86_E8_A3_85_E5_A1_AB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/精准装填.png"
+  },
+  "cards/爆裂飞弹": {
+    "icon": "爆裂飞弹",
+    "file": "assets/icons/cards/_E7_88_86_E8_A3_82_E9_A3_9E_E5_BC_B9.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/爆裂飞弹.png"
+  },
+  "cards/大力锻打": {
+    "icon": "大力锻打",
+    "file": "assets/icons/cards/_E5_A4_A7_E5_8A_9B_E9_94_BB_E6_89_93.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/大力锻打.png"
+  },
+  "cards/弹跳闪光雷": {
+    "icon": "弹跳闪光雷",
+    "file": "assets/icons/cards/_E5_BC_B9_E8_B7_B3_E9_97_AA_E5_85_89_E9_9B_B7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/弹跳闪光雷.png"
+  },
+  "cards/超负荷": {
+    "icon": "超负荷",
+    "file": "assets/icons/cards/_E8_B6_85_E8_B4_9F_E8_8D_B7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/超负荷.png"
+  },
+  "cards/引雷针": {
+    "icon": "引雷针",
+    "file": "assets/icons/cards/_E5_BC_95_E9_9B_B7_E9_92_88.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/引雷针.png"
+  },
+  "cards/用力砸": {
+    "icon": "用力砸",
+    "file": "assets/icons/cards/_E7_94_A8_E5_8A_9B_E7_A0_B8.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/用力砸.png"
+  },
+  "cards/保养炮管": {
+    "icon": "保养炮管",
+    "file": "assets/icons/cards/_E4_BF_9D_E5_85_BB_E7_82_AE_E7_AE_A1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/保养炮管.png"
+  },
+  "cards/连续拳": {
+    "icon": "连续拳",
+    "file": "assets/icons/cards/_E8_BF_9E_E7_BB_AD_E6_8B_B3.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/连续拳.png"
+  },
+  "cards/劈头盖脸": {
+    "icon": "劈头盖脸",
+    "file": "assets/icons/cards/_E5_8A_88_E5_A4_B4_E7_9B_96_E8_84_B8.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/劈头盖脸.png"
+  },
+  "cards/快速压弹": {
+    "icon": "快速压弹",
+    "file": "assets/icons/cards/_E5_BF_AB_E9_80_9F_E5_8E_8B_E5_BC_B9.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/快速压弹.png"
+  },
+  "cards/裂地轰": {
+    "icon": "裂地轰",
+    "file": "assets/icons/cards/_E8_A3_82_E5_9C_B0_E8_BD_B0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/裂地轰.png"
+  },
+  "cards/前空翻": {
+    "icon": "前空翻",
+    "file": "assets/icons/cards/_E5_89_8D_E7_A9_BA_E7_BF_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/前空翻.png"
+  },
+  "cards/纵火": {
+    "icon": "纵火",
+    "file": "assets/icons/cards/_E7_BA_B5_E7_81_AB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/纵火.png"
+  },
+  "cards/应急陷阱": {
+    "icon": "应急陷阱",
+    "file": "assets/icons/cards/_E5_BA_94_E6_80_A5_E9_99_B7_E9_98_B1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/应急陷阱.png"
+  },
+  "cards/铁匠锤": {
+    "icon": "铁匠锤",
+    "file": "assets/icons/cards/_E9_93_81_E5_8C_A0_E9_94_A4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/铁匠锤.png"
+  },
+  "cards/导电": {
+    "icon": "导电",
+    "file": "assets/icons/cards/_E5_AF_BC_E7_94_B5.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/导电.png"
+  },
+  "cards/速射机炮": {
+    "icon": "速射机炮",
+    "file": "assets/icons/cards/_E9_80_9F_E5_B0_84_E6_9C_BA_E7_82_AE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/速射机炮.png"
+  },
+  "cards/榴弹轰击": {
+    "icon": "榴弹轰击",
+    "file": "assets/icons/cards/_E6_A6_B4_E5_BC_B9_E8_BD_B0_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/榴弹轰击.png"
+  },
+  "cards/火力支援": {
+    "icon": "火力支援",
+    "file": "assets/icons/cards/_E7_81_AB_E5_8A_9B_E6_94_AF_E6_8F_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/火力支援.png"
+  },
+  "cards/燃烧弹": {
+    "icon": "燃烧弹",
+    "file": "assets/icons/cards/_E7_87_83_E7_83_A7_E5_BC_B9.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/燃烧弹.png"
+  },
+  "cards/风暴之锤": {
+    "icon": "风暴之锤",
+    "file": "assets/icons/cards/_E9_A3_8E_E6_9A_B4_E4_B9_8B_E9_94_A4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/风暴之锤.png"
+  },
+  "cards/分裂炮": {
+    "icon": "分裂炮",
+    "file": "assets/icons/cards/_E5_88_86_E8_A3_82_E7_82_AE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/分裂炮.png"
+  },
+  "cards/集束手雷": {
+    "icon": "集束手雷",
+    "file": "assets/icons/cards/_E9_9B_86_E6_9D_9F_E6_89_8B_E9_9B_B7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/集束手雷.png"
+  },
+  "cards/翻滚压制": {
+    "icon": "翻滚压制",
+    "file": "assets/icons/cards/_E7_BF_BB_E6_BB_9A_E5_8E_8B_E5_88_B6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/翻滚压制.png"
+  },
+  "cards/天降雷雨": {
+    "icon": "天降雷雨",
+    "file": "assets/icons/cards/_E5_A4_A9_E9_99_8D_E9_9B_B7_E9_9B_A8.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/天降雷雨.png"
+  },
+  "cards/连续炮击": {
+    "icon": "连续炮击",
+    "file": "assets/icons/cards/_E8_BF_9E_E7_BB_AD_E7_82_AE_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/连续炮击.png"
+  },
+  "cards/落井下石": {
+    "icon": "落井下石",
+    "file": "assets/icons/cards/_E8_90_BD_E4_BA_95_E4_B8_8B_E7_9F_B3.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/落井下石.png"
+  },
+  "cards/纵火狂": {
+    "icon": "纵火狂",
+    "file": "assets/icons/cards/_E7_BA_B5_E7_81_AB_E7_8B_82.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/纵火狂.png"
+  },
+  "cards/引雷装置": {
+    "icon": "引雷装置",
+    "file": "assets/icons/cards/_E5_BC_95_E9_9B_B7_E8_A3_85_E7_BD_AE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/引雷装置.png"
+  },
+  "cards/感电反应": {
+    "icon": "感电反应",
+    "file": "assets/icons/cards/_E6_84_9F_E7_94_B5_E5_8F_8D_E5_BA_94.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/感电反应.png"
+  },
+  "cards/短路": {
+    "icon": "短路",
+    "file": "assets/icons/cards/_E7_9F_AD_E8_B7_AF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/短路.png"
+  },
+  "cards/电能激荡": {
+    "icon": "电能激荡",
+    "file": "assets/icons/cards/_E7_94_B5_E8_83_BD_E6_BF_80_E8_8D_A1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/电能激荡.png"
+  },
+  "cards/漏油": {
+    "icon": "漏油",
+    "file": "assets/icons/cards/_E6_BC_8F_E6_B2_B9.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/漏油.png"
+  },
+  "cards/滑溜溜": {
+    "icon": "滑溜溜",
+    "file": "assets/icons/cards/_E6_BB_91_E6_BA_9C_E6_BA_9C.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/滑溜溜.png"
+  },
+  "cards/别追我": {
+    "icon": "别追我",
+    "file": "assets/icons/cards/_E5_88_AB_E8_BF_BD_E6_88_91.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/别追我.png"
+  },
+  "cards/动能增幅": {
+    "icon": "动能增幅",
+    "file": "assets/icons/cards/_E5_8A_A8_E8_83_BD_E5_A2_9E_E5_B9_85.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/动能增幅.png"
+  },
+  "cards/枪托加固": {
+    "icon": "枪托加固",
+    "file": "assets/icons/cards/_E6_9E_AA_E6_89_98_E5_8A_A0_E5_9B_BA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/枪托加固.png"
+  },
+  "cards/受死吧": {
+    "icon": "受死吧",
+    "file": "assets/icons/cards/_E5_8F_97_E6_AD_BB_E5_90_A7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/受死吧.png"
+  },
+  "cards/偷瞄": {
+    "icon": "偷瞄",
+    "file": "assets/icons/cards/_E5_81_B7_E7_9E_84.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/偷瞄.png"
+  },
+  "cards/鹰眼": {
+    "icon": "鹰眼",
+    "file": "assets/icons/cards/_E9_B9_B0_E7_9C_BC.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/鹰眼.png"
+  },
+  "cards/难逃一死": {
+    "icon": "难逃一死",
+    "file": "assets/icons/cards/_E9_9A_BE_E9_80_83_E4_B8_80_E6_AD_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/难逃一死.png"
+  },
+  "cards/炸碎": {
+    "icon": "炸碎",
+    "file": "assets/icons/cards/_E7_82_B8_E7_A2_8E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/炸碎.png"
+  },
+  "cards/几何学": {
+    "icon": "几何学",
+    "file": "assets/icons/cards/_E5_87_A0_E4_BD_95_E5_AD_A6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/几何学.png"
+  },
+  "cards/快速换弹": {
+    "icon": "快速换弹",
+    "file": "assets/icons/cards/_E5_BF_AB_E9_80_9F_E6_8D_A2_E5_BC_B9.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/快速换弹.png"
+  },
+  "cards/翻滚上弹": {
+    "icon": "翻滚上弹",
+    "file": "assets/icons/cards/_E7_BF_BB_E6_BB_9A_E4_B8_8A_E5_BC_B9.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/翻滚上弹.png"
+  },
+  "cards/巨型炮弹": {
+    "icon": "巨型炮弹",
+    "file": "assets/icons/cards/_E5_B7_A8_E5_9E_8B_E7_82_AE_E5_BC_B9.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/巨型炮弹.png"
+  },
+  "cards/远程精准": {
+    "icon": "远程精准",
+    "file": "assets/icons/cards/_E8_BF_9C_E7_A8_8B_E7_B2_BE_E5_87_86.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/远程精准.png"
+  },
+  "cards/过热": {
+    "icon": "过热",
+    "file": "assets/icons/cards/_E8_BF_87_E7_83_AD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/过热.png"
+  },
+  "cards/连滚": {
+    "icon": "连滚",
+    "file": "assets/icons/cards/_E8_BF_9E_E6_BB_9A.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/连滚.png"
+  },
+  "cards/炮管加压": {
+    "icon": "炮管加压",
+    "file": "assets/icons/cards/_E7_82_AE_E7_AE_A1_E5_8A_A0_E5_8E_8B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/炮管加压.png"
+  },
+  "cards/炮管加长": {
+    "icon": "炮管加长",
+    "file": "assets/icons/cards/_E7_82_AE_E7_AE_A1_E5_8A_A0_E9_95_BF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/炮管加长.png"
+  },
+  "cards/突击旋风": {
+    "icon": "突击旋风",
+    "file": "assets/icons/cards/_E7_AA_81_E5_87_BB_E6_97_8B_E9_A3_8E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/突击旋风.png"
+  },
+  "cards/轻炮筒": {
+    "icon": "轻炮筒",
+    "file": "assets/icons/cards/_E8_BD_BB_E7_82_AE_E7_AD_92.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/轻炮筒.png"
+  },
+  "cards/掩护": {
+    "icon": "掩护",
+    "file": "assets/icons/cards/_E6_8E_A9_E6_8A_A4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/掩护.png"
+  },
+  "cards/交流电": {
+    "icon": "交流电",
+    "file": "assets/icons/cards/_E4_BA_A4_E6_B5_81_E7_94_B5.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/交流电.png"
+  },
+  "cards/移动射击": {
+    "icon": "移动射击",
+    "file": "assets/icons/cards/_E7_A7_BB_E5_8A_A8_E5_B0_84_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/移动射击.png"
+  },
+  "cards/动摇": {
+    "icon": "动摇",
+    "file": "assets/icons/cards/_E5_8A_A8_E6_91_87.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/动摇.png"
+  },
+  "cards/火之欢欣": {
+    "icon": "火之欢欣",
+    "file": "assets/icons/cards/_E7_81_AB_E4_B9_8B_E6_AC_A2_E6_AC_A3.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/火之欢欣.png"
+  },
+  "cards/火焰残留": {
+    "icon": "火焰残留",
+    "file": "assets/icons/cards/_E7_81_AB_E7_84_B0_E6_AE_8B_E7_95_99.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/火焰残留.png"
+  },
+  "cards/烈焰蔓延": {
+    "icon": "烈焰蔓延",
+    "file": "assets/icons/cards/_E7_83_88_E7_84_B0_E8_94_93_E5_BB_B6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/烈焰蔓延.png"
+  },
+  "cards/灼烧增强": {
+    "icon": "灼烧增强",
+    "file": "assets/icons/cards/_E7_81_BC_E7_83_A7_E5_A2_9E_E5_BC_BA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/灼烧增强.png"
+  },
+  "cards/点火": {
+    "icon": "点火",
+    "file": "assets/icons/cards/_E7_82_B9_E7_81_AB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/点火.png"
+  },
+  "cards/炮台专家": {
+    "icon": "炮台专家",
+    "file": "assets/icons/cards/_E7_82_AE_E5_8F_B0_E4_B8_93_E5_AE_B6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/炮台专家.png"
+  },
+  "cards/火力迸发": {
+    "icon": "火力迸发",
+    "file": "assets/icons/cards/_E7_81_AB_E5_8A_9B_E8_BF_B8_E5_8F_91.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/火力迸发.png"
+  },
+  "cards/反复锤炼": {
+    "icon": "反复锤炼",
+    "file": "assets/icons/cards/_E5_8F_8D_E5_A4_8D_E9_94_A4_E7_82_BC.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/反复锤炼.png"
+  },
+  "cards/破片手雷": {
+    "icon": "破片手雷",
+    "file": "assets/icons/cards/_E7_A0_B4_E7_89_87_E6_89_8B_E9_9B_B7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/破片手雷.png"
+  },
+  "cards/强震": {
+    "icon": "强震",
+    "file": "assets/icons/cards/_E5_BC_BA_E9_9C_87.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/强震.png"
+  },
+  "cards/稳定打靶": {
+    "icon": "稳定打靶",
+    "file": "assets/icons/cards/_E7_A8_B3_E5_AE_9A_E6_89_93_E9_9D_B6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/稳定打靶.png"
+  },
+  "cards/触电": {
+    "icon": "触电",
+    "file": "assets/icons/cards/_E8_A7_A6_E7_94_B5.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/触电.png"
+  },
+  "cards/追猎扩散": {
+    "icon": "追猎扩散",
+    "file": "assets/icons/cards/_E8_BF_BD_E7_8C_8E_E6_89_A9_E6_95_A3.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/追猎扩散.png"
+  },
+  "cards/回敬": {
+    "icon": "回敬",
+    "file": "assets/icons/cards/_E5_9B_9E_E6_95_AC.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/回敬.png"
+  },
+  "cards/通电炮筒": {
+    "icon": "通电炮筒",
+    "file": "assets/icons/cards/_E9_80_9A_E7_94_B5_E7_82_AE_E7_AD_92.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/通电炮筒.png"
+  },
+  "cards/静电力场": {
+    "icon": "静电力场",
+    "file": "assets/icons/cards/_E9_9D_99_E7_94_B5_E5_8A_9B_E5_9C_BA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/静电力场.png"
+  },
+  "cards/抵近喷射": {
+    "icon": "抵近喷射",
+    "file": "assets/icons/cards/_E6_8A_B5_E8_BF_91_E5_96_B7_E5_B0_84.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/抵近喷射.png"
+  },
+  "cards/散射改装": {
+    "icon": "散射改装",
+    "file": "assets/icons/cards/_E6_95_A3_E5_B0_84_E6_94_B9_E8_A3_85.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/散射改装.png"
+  },
+  "cards/终结喷射": {
+    "icon": "终结喷射",
+    "file": "assets/icons/cards/_E7_BB_88_E7_BB_93_E5_96_B7_E5_B0_84.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/终结喷射.png"
+  },
+  "cards/连射增强": {
+    "icon": "连射增强",
+    "file": "assets/icons/cards/_E8_BF_9E_E5_B0_84_E5_A2_9E_E5_BC_BA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/连射增强.png"
+  },
+  "cards/铁砂倾泻": {
+    "icon": "铁砂倾泻",
+    "file": "assets/icons/cards/_E9_93_81_E7_A0_82_E5_80_BE_E6_B3_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/铁砂倾泻.png"
+  },
+  "cards/暗中设伏": {
+    "icon": "暗中设伏",
+    "file": "assets/icons/cards/_E6_9A_97_E4_B8_AD_E8_AE_BE_E4_BC_8F.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/暗中设伏.png"
+  },
+  "cards/残件利用": {
+    "icon": "残件利用",
+    "file": "assets/icons/cards/_E6_AE_8B_E4_BB_B6_E5_88_A9_E7_94_A8.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/残件利用.png"
+  },
+  "cards/引爆机关": {
+    "icon": "引爆机关",
+    "file": "assets/icons/cards/_E5_BC_95_E7_88_86_E6_9C_BA_E5_85_B3.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/引爆机关.png"
+  },
+  "cards/致残陷阱": {
+    "icon": "致残陷阱",
+    "file": "assets/icons/cards/_E8_87_B4_E6_AE_8B_E9_99_B7_E9_98_B1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/致残陷阱.png"
+  },
+  "cards/电弧延伸": {
+    "icon": "电弧延伸",
+    "file": "assets/icons/cards/_E7_94_B5_E5_BC_A7_E5_BB_B6_E4_BC_B8.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/电弧延伸.png"
+  },
+  "cards/链式增幅": {
+    "icon": "链式增幅",
+    "file": "assets/icons/cards/_E9_93_BE_E5_BC_8F_E5_A2_9E_E5_B9_85.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/链式增幅.png"
+  },
+  "cards/电能超载": {
+    "icon": "电能超载",
+    "file": "assets/icons/cards/_E7_94_B5_E8_83_BD_E8_B6_85_E8_BD_BD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/电能超载.png"
+  },
+  "cards/电光四射": {
+    "icon": "电光四射",
+    "file": "assets/icons/cards/_E7_94_B5_E5_85_89_E5_9B_9B_E5_B0_84.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/电光四射.png"
+  },
+  "cards/雷暴打击": {
+    "icon": "雷暴打击",
+    "file": "assets/icons/cards/_E9_9B_B7_E6_9A_B4_E6_89_93_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/雷暴打击.png"
+  },
+  "cards/雷霆撕裂": {
+    "icon": "雷霆撕裂",
+    "file": "assets/icons/cards/_E9_9B_B7_E9_9C_86_E6_92_95_E8_A3_82.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/雷霆撕裂.png"
+  },
+  "cards/破片雷": {
+    "icon": "破片雷",
+    "file": "assets/icons/cards/_E7_A0_B4_E7_89_87_E9_9B_B7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/破片雷.png"
+  },
+  "cards/电磁冲击": {
+    "icon": "电磁冲击",
+    "file": "assets/icons/cards/_E7_94_B5_E7_A3_81_E5_86_B2_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/电磁冲击.png"
+  },
+  "cards/地火残焰": {
+    "icon": "地火残焰",
+    "file": "assets/icons/cards/_E5_9C_B0_E7_81_AB_E6_AE_8B_E7_84_B0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/地火残焰.png"
+  },
+  "cards/活体炸弹": {
+    "icon": "活体炸弹",
+    "file": "assets/icons/cards/_E6_B4_BB_E4_BD_93_E7_82_B8_E5_BC_B9.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/活体炸弹.png"
+  },
+  "cards/标靶重击": {
+    "icon": "标靶重击",
+    "file": "assets/icons/cards/_E6_A0_87_E9_9D_B6_E9_87_8D_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/标靶重击.png"
+  },
+  "cards/狩猎冲动": {
+    "icon": "狩猎冲动",
+    "file": "assets/icons/cards/_E7_8B_A9_E7_8C_8E_E5_86_B2_E5_8A_A8.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/狩猎冲动.png"
+  },
+  "cards/精准锁定": {
+    "icon": "精准锁定",
+    "file": "assets/icons/cards/_E7_B2_BE_E5_87_86_E9_94_81_E5_AE_9A.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/精准锁定.png"
+  },
+  "cards/致命横扫": {
+    "icon": "致命横扫",
+    "file": "assets/icons/cards/_E8_87_B4_E5_91_BD_E6_A8_AA_E6_89_AB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/致命横扫.png"
+  },
+  "cards/榴弹扩散": {
+    "icon": "榴弹扩散",
+    "file": "assets/icons/cards/_E6_A6_B4_E5_BC_B9_E6_89_A9_E6_95_A3.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/榴弹扩散.png"
+  },
+  "cards/最后一击": {
+    "icon": "最后一击",
+    "file": "assets/icons/cards/_E6_9C_80_E5_90_8E_E4_B8_80_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/最后一击.png"
+  },
+  "cards/爆能冲击": {
+    "icon": "爆能冲击",
+    "file": "assets/icons/cards/_E7_88_86_E8_83_BD_E5_86_B2_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/爆能冲击.png"
+  },
+  "cards/强化爆破": {
+    "icon": "强化爆破",
+    "file": "assets/icons/cards/_E5_BC_BA_E5_8C_96_E7_88_86_E7_A0_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/强化爆破.png"
+  },
+  "cards/弹跳连射": {
+    "icon": "弹跳连射",
+    "file": "assets/icons/cards/_E5_BC_B9_E8_B7_B3_E8_BF_9E_E5_B0_84.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/弹跳连射.png"
+  },
+  "cards/战术增援": {
+    "icon": "战术增援",
+    "file": "assets/icons/cards/_E6_88_98_E6_9C_AF_E5_A2_9E_E6_8F_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/战术增援.png"
+  },
+  "cards/逆境搏击": {
+    "icon": "逆境搏击",
+    "file": "assets/icons/cards/_E9_80_86_E5_A2_83_E6_90_8F_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/逆境搏击.png"
+  },
+  "cards/润滑炮管": {
+    "icon": "润滑炮管",
+    "file": "assets/icons/cards/_E6_B6_A6_E6_BB_91_E7_82_AE_E7_AE_A1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/润滑炮管.png"
+  },
+  "cards/扩散": {
+    "icon": "扩散",
+    "file": "assets/icons/cards/_E6_89_A9_E6_95_A3.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/扩散.png"
+  },
+  "cards/火力全开": {
+    "icon": "火力全开",
+    "file": "assets/icons/cards/_E7_81_AB_E5_8A_9B_E5_85_A8_E5_BC_80.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/火力全开.png"
+  },
+  "cards/小蓝攻击": {
+    "icon": "小蓝攻击",
+    "file": "assets/icons/cards/_E5_B0_8F_E8_93_9D_E6_94_BB_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小蓝攻击.png"
+  },
+  "cards/小蓝右键": {
+    "icon": "小蓝右键",
+    "file": "assets/icons/cards/_E5_B0_8F_E8_93_9D_E5_8F_B3_E9_94_AE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小蓝右键.png"
+  },
+  "cards/小蓝冲刺": {
+    "icon": "小蓝冲刺",
+    "file": "assets/icons/cards/_E5_B0_8F_E8_93_9D_E5_86_B2_E5_88_BA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小蓝冲刺.png"
+  },
+  "cards/小蓝扫一下": {
+    "icon": "小蓝扫一下",
+    "file": "assets/icons/cards/_E5_B0_8F_E8_93_9D_E6_89_AB_E4_B8_80_E4_B8_8B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小蓝扫一下.png"
+  },
+  "cards/小蓝丢冰矛": {
+    "icon": "小蓝丢冰矛",
+    "file": "assets/icons/cards/_E5_B0_8F_E8_93_9D_E4_B8_A2_E5_86_B0_E7_9F_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小蓝丢冰矛.png"
+  },
+  "cards/小蓝向前冲": {
+    "icon": "小蓝向前冲",
+    "file": "assets/icons/cards/_E5_B0_8F_E8_93_9D_E5_90_91_E5_89_8D_E5_86_B2.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小蓝向前冲.png"
+  },
+  "cards/小蓝旋风斩": {
+    "icon": "小蓝旋风斩",
+    "file": "assets/icons/cards/_E5_B0_8F_E8_93_9D_E6_97_8B_E9_A3_8E_E6_96_A9.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小蓝旋风斩.png"
+  },
+  "cards/小蓝飞盾": {
+    "icon": "小蓝飞盾",
+    "file": "assets/icons/cards/_E5_B0_8F_E8_93_9D_E9_A3_9E_E7_9B_BE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小蓝飞盾.png"
+  },
+  "cards/小蓝暴风雪": {
+    "icon": "小蓝暴风雪",
+    "file": "assets/icons/cards/_E5_B0_8F_E8_93_9D_E6_9A_B4_E9_A3_8E_E9_9B_AA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小蓝暴风雪.png"
+  },
+  "cards/小蓝龙咬": {
+    "icon": "小蓝龙咬",
+    "file": "assets/icons/cards/_E5_B0_8F_E8_93_9D_E9_BE_99_E5_92_AC.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小蓝龙咬.png"
+  },
+  "cards/小蓝大冰环": {
+    "icon": "小蓝大冰环",
+    "file": "assets/icons/cards/_E5_B0_8F_E8_93_9D_E5_A4_A7_E5_86_B0_E7_8E_AF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小蓝大冰环.png"
+  },
+  "cards/小蓝瑟提大": {
+    "icon": "小蓝瑟提大",
+    "file": "assets/icons/cards/_E5_B0_8F_E8_93_9D_E7_91_9F_E6_8F_90_E5_A4_A7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小蓝瑟提大.png"
+  },
+  "cards/小蓝飞天": {
+    "icon": "小蓝飞天",
+    "file": "assets/icons/cards/_E5_B0_8F_E8_93_9D_E9_A3_9E_E5_A4_A9.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小蓝飞天.png"
+  },
+  "cards/小蓝造冰墙": {
+    "icon": "小蓝造冰墙",
+    "file": "assets/icons/cards/_E5_B0_8F_E8_93_9D_E9_80_A0_E5_86_B0_E5_A2_99.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小蓝造冰墙.png"
+  },
+  "cards/小蓝冰龙": {
+    "icon": "小蓝冰龙",
+    "file": "assets/icons/cards/_E5_B0_8F_E8_93_9D_E5_86_B0_E9_BE_99.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小蓝冰龙.png"
+  },
+  "cards/小蓝冰箱": {
+    "icon": "小蓝冰箱",
+    "file": "assets/icons/cards/_E5_B0_8F_E8_93_9D_E5_86_B0_E7_AE_B1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小蓝冰箱.png"
+  },
+  "cards/小蓝布隆大": {
+    "icon": "小蓝布隆大",
+    "file": "assets/icons/cards/_E5_B0_8F_E8_93_9D_E5_B8_83_E9_9A_86_E5_A4_A7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小蓝布隆大.png"
+  },
+  "cards/小蓝碎盾打击": {
+    "icon": "小蓝碎盾打击",
+    "file": "assets/icons/cards/_E5_B0_8F_E8_93_9D_E7_A2_8E_E7_9B_BE_E6_89_93_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小蓝碎盾打击.png"
+  },
+  "cards/小蓝大戳": {
+    "icon": "小蓝大戳",
+    "file": "assets/icons/cards/_E5_B0_8F_E8_93_9D_E5_A4_A7_E6_88_B3.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小蓝大戳.png"
+  },
+  "cards/小蓝滑雪": {
+    "icon": "小蓝滑雪",
+    "file": "assets/icons/cards/_E5_B0_8F_E8_93_9D_E6_BB_91_E9_9B_AA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小蓝滑雪.png"
+  },
+  "cards/霜龙血脉": {
+    "icon": "霜龙血脉",
+    "file": "assets/icons/cards/_E9_9C_9C_E9_BE_99_E8_A1_80_E8_84_89.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/霜龙血脉.png"
+  },
+  "cards/寒冰之心": {
+    "icon": "寒冰之心",
+    "file": "assets/icons/cards/_E5_AF_92_E5_86_B0_E4_B9_8B_E5_BF_83.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒冰之心.png"
+  },
+  "cards/龙角顶撞": {
+    "icon": "龙角顶撞",
+    "file": "assets/icons/cards/_E9_BE_99_E8_A7_92_E9_A1_B6_E6_92_9E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/龙角顶撞.png"
+  },
+  "cards/长枪横扫": {
+    "icon": "长枪横扫",
+    "file": "assets/icons/cards/_E9_95_BF_E6_9E_AA_E6_A8_AA_E6_89_AB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/长枪横扫.png"
+  },
+  "cards/顺势猛砸": {
+    "icon": "顺势猛砸",
+    "file": "assets/icons/cards/_E9_A1_BA_E5_8A_BF_E7_8C_9B_E7_A0_B8.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/顺势猛砸.png"
+  },
+  "cards/龙族呼吸": {
+    "icon": "龙族呼吸",
+    "file": "assets/icons/cards/_E9_BE_99_E6_97_8F_E5_91_BC_E5_90_B8.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/龙族呼吸.png"
+  },
+  "cards/寒风突袭": {
+    "icon": "寒风突袭",
+    "file": "assets/icons/cards/_E5_AF_92_E9_A3_8E_E7_AA_81_E8_A2_AD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒风突袭.png"
+  },
+  "cards/迅猛连击": {
+    "icon": "迅猛连击",
+    "file": "assets/icons/cards/_E8_BF_85_E7_8C_9B_E8_BF_9E_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/迅猛连击.png"
+  },
+  "cards/捅穿": {
+    "icon": "捅穿",
+    "file": "assets/icons/cards/_E6_8D_85_E7_A9_BF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/捅穿.png"
+  },
+  "cards/坠击": {
+    "icon": "坠击",
+    "file": "assets/icons/cards/_E5_9D_A0_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/坠击.png"
+  },
+  "cards/巨盾冲击": {
+    "icon": "巨盾冲击",
+    "file": "assets/icons/cards/_E5_B7_A8_E7_9B_BE_E5_86_B2_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/巨盾冲击.png"
+  },
+  "cards/三重壁垒": {
+    "icon": "三重壁垒",
+    "file": "assets/icons/cards/_E4_B8_89_E9_87_8D_E5_A3_81_E5_9E_92.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/三重壁垒.png"
+  },
+  "cards/持续反击": {
+    "icon": "持续反击",
+    "file": "assets/icons/cards/_E6_8C_81_E7_BB_AD_E5_8F_8D_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/持续反击.png"
+  },
+  "cards/破盾霜爆": {
+    "icon": "破盾霜爆",
+    "file": "assets/icons/cards/_E7_A0_B4_E7_9B_BE_E9_9C_9C_E7_88_86.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/破盾霜爆.png"
+  },
+  "cards/护盾充能": {
+    "icon": "护盾充能",
+    "file": "assets/icons/cards/_E6_8A_A4_E7_9B_BE_E5_85_85_E8_83_BD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/护盾充能.png"
+  },
+  "cards/碎冰回响": {
+    "icon": "碎冰回响",
+    "file": "assets/icons/cards/_E7_A2_8E_E5_86_B0_E5_9B_9E_E5_93_8D.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/碎冰回响.png"
+  },
+  "cards/寒光折射": {
+    "icon": "寒光折射",
+    "file": "assets/icons/cards/_E5_AF_92_E5_85_89_E6_8A_98_E5_B0_84.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒光折射.png"
+  },
+  "cards/寒风步": {
+    "icon": "寒风步",
+    "file": "assets/icons/cards/_E5_AF_92_E9_A3_8E_E6_AD_A5.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒风步.png"
+  },
+  "cards/冰霜余震": {
+    "icon": "冰霜余震",
+    "file": "assets/icons/cards/_E5_86_B0_E9_9C_9C_E4_BD_99_E9_9C_87.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰霜余震.png"
+  },
+  "cards/寒气侵蚀": {
+    "icon": "寒气侵蚀",
+    "file": "assets/icons/cards/_E5_AF_92_E6_B0_94_E4_BE_B5_E8_9A_80.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒气侵蚀.png"
+  },
+  "cards/龙血冥咒": {
+    "icon": "龙血冥咒",
+    "file": "assets/icons/cards/_E9_BE_99_E8_A1_80_E5_86_A5_E5_92_92.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/龙血冥咒.png"
+  },
+  "cards/极寒切割": {
+    "icon": "极寒切割",
+    "file": "assets/icons/cards/_E6_9E_81_E5_AF_92_E5_88_87_E5_89_B2.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/极寒切割.png"
+  },
+  "cards/冻伤破甲": {
+    "icon": "冻伤破甲",
+    "file": "assets/icons/cards/_E5_86_BB_E4_BC_A4_E7_A0_B4_E7_94_B2.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冻伤破甲.png"
+  },
+  "cards/冻痕加深": {
+    "icon": "冻痕加深",
+    "file": "assets/icons/cards/_E5_86_BB_E7_97_95_E5_8A_A0_E6_B7_B1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冻痕加深.png"
+  },
+  "cards/深度寒冷": {
+    "icon": "深度寒冷",
+    "file": "assets/icons/cards/_E6_B7_B1_E5_BA_A6_E5_AF_92_E5_86_B7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/深度寒冷.png"
+  },
+  "cards/冰矛回击": {
+    "icon": "冰矛回击",
+    "file": "assets/icons/cards/_E5_86_B0_E7_9F_9B_E5_9B_9E_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰矛回击.png"
+  },
+  "cards/极寒波纹": {
+    "icon": "极寒波纹",
+    "file": "assets/icons/cards/_E6_9E_81_E5_AF_92_E6_B3_A2_E7_BA_B9.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/极寒波纹.png"
+  },
+  "cards/冰霜跃击": {
+    "icon": "冰霜跃击",
+    "file": "assets/icons/cards/_E5_86_B0_E9_9C_9C_E8_B7_83_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰霜跃击.png"
+  },
+  "cards/霜爆侵袭": {
+    "icon": "霜爆侵袭",
+    "file": "assets/icons/cards/_E9_9C_9C_E7_88_86_E4_BE_B5_E8_A2_AD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/霜爆侵袭.png"
+  },
+  "cards/冰晶怒放": {
+    "icon": "冰晶怒放",
+    "file": "assets/icons/cards/_E5_86_B0_E6_99_B6_E6_80_92_E6_94_BE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰晶怒放.png"
+  },
+  "cards/冰霜余波": {
+    "icon": "冰霜余波",
+    "file": "assets/icons/cards/_E5_86_B0_E9_9C_9C_E4_BD_99_E6_B3_A2.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰霜余波.png"
+  },
+  "cards/贯穿终结": {
+    "icon": "贯穿终结",
+    "file": "assets/icons/cards/_E8_B4_AF_E7_A9_BF_E7_BB_88_E7_BB_93.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/贯穿终结.png"
+  },
+  "cards/贯星矛": {
+    "icon": "贯星矛",
+    "file": "assets/icons/cards/_E8_B4_AF_E6_98_9F_E7_9F_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/贯星矛.png"
+  },
+  "cards/飞矛掠影": {
+    "icon": "飞矛掠影",
+    "file": "assets/icons/cards/_E9_A3_9E_E7_9F_9B_E6_8E_A0_E5_BD_B1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/飞矛掠影.png"
+  },
+  "cards/寒锋四射": {
+    "icon": "寒锋四射",
+    "file": "assets/icons/cards/_E5_AF_92_E9_94_8B_E5_9B_9B_E5_B0_84.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒锋四射.png"
+  },
+  "cards/空中追锋": {
+    "icon": "空中追锋",
+    "file": "assets/icons/cards/_E7_A9_BA_E4_B8_AD_E8_BF_BD_E9_94_8B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/空中追锋.png"
+  },
+  "cards/空中截杀": {
+    "icon": "空中截杀",
+    "file": "assets/icons/cards/_E7_A9_BA_E4_B8_AD_E6_88_AA_E6_9D_80.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/空中截杀.png"
+  },
+  "cards/对空丢矛": {
+    "icon": "对空丢矛",
+    "file": "assets/icons/cards/_E5_AF_B9_E7_A9_BA_E4_B8_A2_E7_9F_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/对空丢矛.png"
+  },
+  "cards/对空暴击": {
+    "icon": "对空暴击",
+    "file": "assets/icons/cards/_E5_AF_B9_E7_A9_BA_E6_9A_B4_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/对空暴击.png"
+  },
+  "cards/破冰盾": {
+    "icon": "破冰盾",
+    "file": "assets/icons/cards/_E7_A0_B4_E5_86_B0_E7_9B_BE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/破冰盾.png"
+  },
+  "cards/深度冻结": {
+    "icon": "深度冻结",
+    "file": "assets/icons/cards/_E6_B7_B1_E5_BA_A6_E5_86_BB_E7_BB_93.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/深度冻结.png"
+  },
+  "cards/凿冰大师": {
+    "icon": "凿冰大师",
+    "file": "assets/icons/cards/_E5_87_BF_E5_86_B0_E5_A4_A7_E5_B8_88.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/凿冰大师.png"
+  },
+  "cards/巨力挥击": {
+    "icon": "巨力挥击",
+    "file": "assets/icons/cards/_E5_B7_A8_E5_8A_9B_E6_8C_A5_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/巨力挥击.png"
+  },
+  "cards/枪舞": {
+    "icon": "枪舞",
+    "file": "assets/icons/cards/_E6_9E_AA_E8_88_9E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/枪舞.png"
+  },
+  "cards/撒雪": {
+    "icon": "撒雪",
+    "file": "assets/icons/cards/_E6_92_92_E9_9B_AA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/撒雪.png"
+  },
+  "cards/破军突刺": {
+    "icon": "破军突刺",
+    "file": "assets/icons/cards/_E7_A0_B4_E5_86_9B_E7_AA_81_E5_88_BA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/破军突刺.png"
+  },
+  "cards/破碎": {
+    "icon": "破碎",
+    "file": "assets/icons/cards/_E7_A0_B4_E7_A2_8E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/破碎.png"
+  },
+  "cards/寒意": {
+    "icon": "寒意",
+    "file": "assets/icons/cards/_E5_AF_92_E6_84_8F.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒意.png"
+  },
+  "cards/轻装": {
+    "icon": "轻装",
+    "file": "assets/icons/cards/_E8_BD_BB_E8_A3_85.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/轻装.png"
+  },
+  "cards/壁垒": {
+    "icon": "壁垒",
+    "file": "assets/icons/cards/_E5_A3_81_E5_9E_92.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/壁垒.png"
+  },
+  "cards/以攻为守": {
+    "icon": "以攻为守",
+    "file": "assets/icons/cards/_E4_BB_A5_E6_94_BB_E4_B8_BA_E5_AE_88.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/以攻为守.png"
+  },
+  "cards/凌凌如风": {
+    "icon": "凌凌如风",
+    "file": "assets/icons/cards/_E5_87_8C_E5_87_8C_E5_A6_82_E9_A3_8E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/凌凌如风.png"
+  },
+  "cards/寒霜回流": {
+    "icon": "寒霜回流",
+    "file": "assets/icons/cards/_E5_AF_92_E9_9C_9C_E5_9B_9E_E6_B5_81.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒霜回流.png"
+  },
+  "cards/投掷专精": {
+    "icon": "投掷专精",
+    "file": "assets/icons/cards/_E6_8A_95_E6_8E_B7_E4_B8_93_E7_B2_BE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/投掷专精.png"
+  },
+  "cards/冰结光环": {
+    "icon": "冰结光环",
+    "file": "assets/icons/cards/_E5_86_B0_E7_BB_93_E5_85_89_E7_8E_AF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰结光环.png"
+  },
+  "cards/灵活步伐": {
+    "icon": "灵活步伐",
+    "file": "assets/icons/cards/_E7_81_B5_E6_B4_BB_E6_AD_A5_E4_BC_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/灵活步伐.png"
+  },
+  "cards/连续冲撞": {
+    "icon": "连续冲撞",
+    "file": "assets/icons/cards/_E8_BF_9E_E7_BB_AD_E5_86_B2_E6_92_9E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/连续冲撞.png"
+  },
+  "cards/震荡撞击": {
+    "icon": "震荡撞击",
+    "file": "assets/icons/cards/_E9_9C_87_E8_8D_A1_E6_92_9E_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/震荡撞击.png"
+  },
+  "cards/势大力沉": {
+    "icon": "势大力沉",
+    "file": "assets/icons/cards/_E5_8A_BF_E5_A4_A7_E5_8A_9B_E6_B2_89.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/势大力沉.png"
+  },
+  "cards/霜雪之痕": {
+    "icon": "霜雪之痕",
+    "file": "assets/icons/cards/_E9_9C_9C_E9_9B_AA_E4_B9_8B_E7_97_95.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/霜雪之痕.png"
+  },
+  "cards/冰锋穿刺": {
+    "icon": "冰锋穿刺",
+    "file": "assets/icons/cards/_E5_86_B0_E9_94_8B_E7_A9_BF_E5_88_BA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰锋穿刺.png"
+  },
+  "cards/龙威": {
+    "icon": "龙威",
+    "file": "assets/icons/cards/_E9_BE_99_E5_A8_81.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/龙威.png"
+  },
+  "cards/冰霜镇静": {
+    "icon": "冰霜镇静",
+    "file": "assets/icons/cards/_E5_86_B0_E9_9C_9C_E9_95_87_E9_9D_99.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰霜镇静.png"
+  },
+  "cards/速冻之环": {
+    "icon": "速冻之环",
+    "file": "assets/icons/cards/_E9_80_9F_E5_86_BB_E4_B9_8B_E7_8E_AF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/速冻之环.png"
+  },
+  "cards/余波": {
+    "icon": "余波",
+    "file": "assets/icons/cards/_E4_BD_99_E6_B3_A2.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/余波.png"
+  },
+  "cards/寒气扩张": {
+    "icon": "寒气扩张",
+    "file": "assets/icons/cards/_E5_AF_92_E6_B0_94_E6_89_A9_E5_BC_A0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒气扩张.png"
+  },
+  "cards/寒能回流": {
+    "icon": "寒能回流",
+    "file": "assets/icons/cards/_E5_AF_92_E8_83_BD_E5_9B_9E_E6_B5_81.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒能回流.png"
+  },
+  "cards/霜锋锐化": {
+    "icon": "霜锋锐化",
+    "file": "assets/icons/cards/_E9_9C_9C_E9_94_8B_E9_94_90_E5_8C_96.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/霜锋锐化.png"
+  },
+  "cards/冰霜降临": {
+    "icon": "冰霜降临",
+    "file": "assets/icons/cards/_E5_86_B0_E9_9C_9C_E9_99_8D_E4_B8_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰霜降临.png"
+  },
+  "cards/霜域之力": {
+    "icon": "霜域之力",
+    "file": "assets/icons/cards/_E9_9C_9C_E5_9F_9F_E4_B9_8B_E5_8A_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/霜域之力.png"
+  },
+  "cards/寒霜领域": {
+    "icon": "寒霜领域",
+    "file": "assets/icons/cards/_E5_AF_92_E9_9C_9C_E9_A2_86_E5_9F_9F.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒霜领域.png"
+  },
+  "cards/寒霜审判": {
+    "icon": "寒霜审判",
+    "file": "assets/icons/cards/_E5_AF_92_E9_9C_9C_E5_AE_A1_E5_88_A4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒霜审判.png"
+  },
+  "cards/冰封反击": {
+    "icon": "冰封反击",
+    "file": "assets/icons/cards/_E5_86_B0_E5_B0_81_E5_8F_8D_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰封反击.png"
+  },
+  "cards/霜域囚笼": {
+    "icon": "霜域囚笼",
+    "file": "assets/icons/cards/_E9_9C_9C_E5_9F_9F_E5_9B_9A_E7_AC_BC.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/霜域囚笼.png"
+  },
+  "cards/冰霜蕴能": {
+    "icon": "冰霜蕴能",
+    "file": "assets/icons/cards/_E5_86_B0_E9_9C_9C_E8_95_B4_E8_83_BD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰霜蕴能.png"
+  },
+  "cards/龙爪庇护": {
+    "icon": "龙爪庇护",
+    "file": "assets/icons/cards/_E9_BE_99_E7_88_AA_E5_BA_87_E6_8A_A4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/龙爪庇护.png"
+  },
+  "cards/寒域之龙": {
+    "icon": "寒域之龙",
+    "file": "assets/icons/cards/_E5_AF_92_E5_9F_9F_E4_B9_8B_E9_BE_99.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒域之龙.png"
+  },
+  "cards/龙魂之赐": {
+    "icon": "龙魂之赐",
+    "file": "assets/icons/cards/_E9_BE_99_E9_AD_82_E4_B9_8B_E8_B5_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/龙魂之赐.png"
+  },
+  "cards/龙牙撕裂": {
+    "icon": "龙牙撕裂",
+    "file": "assets/icons/cards/_E9_BE_99_E7_89_99_E6_92_95_E8_A3_82.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/龙牙撕裂.png"
+  },
+  "cards/冰龙降临": {
+    "icon": "冰龙降临",
+    "file": "assets/icons/cards/_E5_86_B0_E9_BE_99_E9_99_8D_E4_B8_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰龙降临.png"
+  },
+  "cards/钝锋重击": {
+    "icon": "钝锋重击",
+    "file": "assets/icons/cards/_E9_92_9D_E9_94_8B_E9_87_8D_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/钝锋重击.png"
+  },
+  "cards/霜盾反击": {
+    "icon": "霜盾反击",
+    "file": "assets/icons/cards/_E9_9C_9C_E7_9B_BE_E5_8F_8D_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/霜盾反击.png"
+  },
+  "cards/极寒延续": {
+    "icon": "极寒延续",
+    "file": "assets/icons/cards/_E6_9E_81_E5_AF_92_E5_BB_B6_E7_BB_AD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/极寒延续.png"
+  },
+  "cards/节奏掌控": {
+    "icon": "节奏掌控",
+    "file": "assets/icons/cards/_E8_8A_82_E5_A5_8F_E6_8E_8C_E6_8E_A7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/节奏掌控.png"
+  },
+  "cards/霜壁涟漪": {
+    "icon": "霜壁涟漪",
+    "file": "assets/icons/cards/_E9_9C_9C_E5_A3_81_E6_B6_9F_E6_BC_AA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/霜壁涟漪.png"
+  },
+  "cards/无休之盾": {
+    "icon": "无休之盾",
+    "file": "assets/icons/cards/_E6_97_A0_E4_BC_91_E4_B9_8B_E7_9B_BE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/无休之盾.png"
+  },
+  "cards/凯旋之旗": {
+    "icon": "凯旋之旗",
+    "file": "assets/icons/cards/_E5_87_AF_E6_97_8B_E4_B9_8B_E6_97_97.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/凯旋之旗.png"
+  },
+  "cards/战意高昂": {
+    "icon": "战意高昂",
+    "file": "assets/icons/cards/_E6_88_98_E6_84_8F_E9_AB_98_E6_98_82.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/战意高昂.png"
+  },
+  "cards/冰域旗帜": {
+    "icon": "冰域旗帜",
+    "file": "assets/icons/cards/_E5_86_B0_E5_9F_9F_E6_97_97_E5_B8_9C.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰域旗帜.png"
+  },
+  "cards/震撼冲击": {
+    "icon": "震撼冲击",
+    "file": "assets/icons/cards/_E9_9C_87_E6_92_BC_E5_86_B2_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/震撼冲击.png"
+  },
+  "cards/小绿左键": {
+    "icon": "小绿左键",
+    "file": "assets/icons/cards/_E5_B0_8F_E7_BB_BF_E5_B7_A6_E9_94_AE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小绿左键.png"
+  },
+  "cards/小绿右键": {
+    "icon": "小绿右键",
+    "file": "assets/icons/cards/_E5_B0_8F_E7_BB_BF_E5_8F_B3_E9_94_AE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小绿右键.png"
+  },
+  "cards/小绿冲刺": {
+    "icon": "小绿冲刺",
+    "file": "assets/icons/cards/_E5_B0_8F_E7_BB_BF_E5_86_B2_E5_88_BA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小绿冲刺.png"
+  },
+  "cards/大地碎裂": {
+    "icon": "大地碎裂",
+    "file": "assets/icons/cards/_E5_A4_A7_E5_9C_B0_E7_A2_8E_E8_A3_82.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/大地碎裂.png"
+  },
+  "cards/快速生长": {
+    "icon": "快速生长",
+    "file": "assets/icons/cards/_E5_BF_AB_E9_80_9F_E7_94_9F_E9_95_BF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/快速生长.png"
+  },
+  "cards/刺刺小队": {
+    "icon": "刺刺小队",
+    "file": "assets/icons/cards/_E5_88_BA_E5_88_BA_E5_B0_8F_E9_98_9F.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/刺刺小队.png"
+  },
+  "cards/群狼奔袭": {
+    "icon": "群狼奔袭",
+    "file": "assets/icons/cards/_E7_BE_A4_E7_8B_BC_E5_A5_94_E8_A2_AD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/群狼奔袭.png"
+  },
+  "cards/狂风席卷": {
+    "icon": "狂风席卷",
+    "file": "assets/icons/cards/_E7_8B_82_E9_A3_8E_E5_B8_AD_E5_8D_B7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/狂风席卷.png"
+  },
+  "cards/缠绕之藤": {
+    "icon": "缠绕之藤",
+    "file": "assets/icons/cards/_E7_BC_A0_E7_BB_95_E4_B9_8B_E8_97_A4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/缠绕之藤.png"
+  },
+  "cards/风之指引": {
+    "icon": "风之指引",
+    "file": "assets/icons/cards/_E9_A3_8E_E4_B9_8B_E6_8C_87_E5_BC_95.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/风之指引.png"
+  },
+  "cards/月光领域": {
+    "icon": "月光领域",
+    "file": "assets/icons/cards/_E6_9C_88_E5_85_89_E9_A2_86_E5_9F_9F.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/月光领域.png"
+  },
+  "cards/野性扑袭": {
+    "icon": "野性扑袭",
+    "file": "assets/icons/cards/_E9_87_8E_E6_80_A7_E6_89_91_E8_A2_AD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/野性扑袭.png"
+  },
+  "cards/飞花掠击": {
+    "icon": "飞花掠击",
+    "file": "assets/icons/cards/_E9_A3_9E_E8_8A_B1_E6_8E_A0_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/飞花掠击.png"
+  },
+  "cards/梦花绽放": {
+    "icon": "梦花绽放",
+    "file": "assets/icons/cards/_E6_A2_A6_E8_8A_B1_E7_BB_BD_E6_94_BE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/梦花绽放.png"
+  },
+  "cards/大地崩裂": {
+    "icon": "大地崩裂",
+    "file": "assets/icons/cards/_E5_A4_A7_E5_9C_B0_E5_B4_A9_E8_A3_82.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/大地崩裂.png"
+  },
+  "cards/荒野嚎叫": {
+    "icon": "荒野嚎叫",
+    "file": "assets/icons/cards/_E8_8D_92_E9_87_8E_E5_9A_8E_E5_8F_AB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/荒野嚎叫.png"
+  },
+  "cards/自然奔流": {
+    "icon": "自然奔流",
+    "file": "assets/icons/cards/_E8_87_AA_E7_84_B6_E5_A5_94_E6_B5_81.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/自然奔流.png"
+  },
+  "cards/天降熊灵": {
+    "icon": "天降熊灵",
+    "file": "assets/icons/cards/_E5_A4_A9_E9_99_8D_E7_86_8A_E7_81_B5.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/天降熊灵.png"
+  },
+  "cards/小绿熊冲": {
+    "icon": "小绿熊冲",
+    "file": "assets/icons/cards/_E5_B0_8F_E7_BB_BF_E7_86_8A_E5_86_B2.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小绿熊冲.png"
+  },
+  "cards/飓风长啸": {
+    "icon": "飓风长啸",
+    "file": "assets/icons/cards/_E9_A3_93_E9_A3_8E_E9_95_BF_E5_95_B8.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/飓风长啸.png"
+  },
+  "cards/森林幻象": {
+    "icon": "森林幻象",
+    "file": "assets/icons/cards/_E6_A3_AE_E6_9E_97_E5_B9_BB_E8_B1_A1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/森林幻象.png"
+  },
+  "cards/随风而行": {
+    "icon": "随风而行",
+    "file": "assets/icons/cards/_E9_9A_8F_E9_A3_8E_E8_80_8C_E8_A1_8C.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/随风而行.png"
+  },
+  "cards/自然循环": {
+    "icon": "自然循环",
+    "file": "assets/icons/cards/_E8_87_AA_E7_84_B6_E5_BE_AA_E7_8E_AF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/自然循环.png"
+  },
+  "cards/指引": {
+    "icon": "指引",
+    "file": "assets/icons/cards/_E6_8C_87_E5_BC_95.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/指引.png"
+  },
+  "cards/松土": {
+    "icon": "松土",
+    "file": "assets/icons/cards/_E6_9D_BE_E5_9C_9F.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/松土.png"
+  },
+  "cards/震地重击": {
+    "icon": "震地重击",
+    "file": "assets/icons/cards/_E9_9C_87_E5_9C_B0_E9_87_8D_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/震地重击.png"
+  },
+  "cards/刺刺齐发": {
+    "icon": "刺刺齐发",
+    "file": "assets/icons/cards/_E5_88_BA_E5_88_BA_E9_BD_90_E5_8F_91.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/刺刺齐发.png"
+  },
+  "cards/沉力一击": {
+    "icon": "沉力一击",
+    "file": "assets/icons/cards/_E6_B2_89_E5_8A_9B_E4_B8_80_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/沉力一击.png"
+  },
+  "cards/一挥三响": {
+    "icon": "一挥三响",
+    "file": "assets/icons/cards/_E4_B8_80_E6_8C_A5_E4_B8_89_E5_93_8D.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/一挥三响.png"
+  },
+  "cards/旋舞": {
+    "icon": "旋舞",
+    "file": "assets/icons/cards/_E6_97_8B_E8_88_9E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/旋舞.png"
+  },
+  "cards/精简": {
+    "icon": "精简",
+    "file": "assets/icons/cards/_E7_B2_BE_E7_AE_80.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/精简.png"
+  },
+  "cards/兽性觉醒": {
+    "icon": "兽性觉醒",
+    "file": "assets/icons/cards/_E5_85_BD_E6_80_A7_E8_A7_89_E9_86_92.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/兽性觉醒.png"
+  },
+  "cards/突袭指令": {
+    "icon": "突袭指令",
+    "file": "assets/icons/cards/_E7_AA_81_E8_A2_AD_E6_8C_87_E4_BB_A4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/突袭指令.png"
+  },
+  "cards/自然透支": {
+    "icon": "自然透支",
+    "file": "assets/icons/cards/_E8_87_AA_E7_84_B6_E9_80_8F_E6_94_AF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/自然透支.png"
+  },
+  "cards/回息自养": {
+    "icon": "回息自养",
+    "file": "assets/icons/cards/_E5_9B_9E_E6_81_AF_E8_87_AA_E5_85_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/回息自养.png"
+  },
+  "cards/余息回响": {
+    "icon": "余息回响",
+    "file": "assets/icons/cards/_E4_BD_99_E6_81_AF_E5_9B_9E_E5_93_8D.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/余息回响.png"
+  },
+  "cards/夜空测距": {
+    "icon": "夜空测距",
+    "file": "assets/icons/cards/_E5_A4_9C_E7_A9_BA_E6_B5_8B_E8_B7_9D.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/夜空测距.png"
+  },
+  "cards/多重乱射": {
+    "icon": "多重乱射",
+    "file": "assets/icons/cards/_E5_A4_9A_E9_87_8D_E4_B9_B1_E5_B0_84.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/多重乱射.png"
+  },
+  "cards/精准射击": {
+    "icon": "精准射击",
+    "file": "assets/icons/cards/_E7_B2_BE_E5_87_86_E5_B0_84_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/精准射击.png"
+  },
+  "cards/自然灵活": {
+    "icon": "自然灵活",
+    "file": "assets/icons/cards/_E8_87_AA_E7_84_B6_E7_81_B5_E6_B4_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/自然灵活.png"
+  },
+  "cards/裂芽": {
+    "icon": "裂芽",
+    "file": "assets/icons/cards/_E8_A3_82_E8_8A_BD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/裂芽.png"
+  },
+  "cards/呼朋引伴": {
+    "icon": "呼朋引伴",
+    "file": "assets/icons/cards/_E5_91_BC_E6_9C_8B_E5_BC_95_E4_BC_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/呼朋引伴.png"
+  },
+  "cards/战意感知": {
+    "icon": "战意感知",
+    "file": "assets/icons/cards/_E6_88_98_E6_84_8F_E6_84_9F_E7_9F_A5.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/战意感知.png"
+  },
+  "cards/利齿啃咬": {
+    "icon": "利齿啃咬",
+    "file": "assets/icons/cards/_E5_88_A9_E9_BD_BF_E5_95_83_E5_92_AC.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/利齿啃咬.png"
+  },
+  "cards/狼魂": {
+    "icon": "狼魂",
+    "file": "assets/icons/cards/_E7_8B_BC_E9_AD_82.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/狼魂.png"
+  },
+  "cards/嗜血": {
+    "icon": "嗜血",
+    "file": "assets/icons/cards/_E5_97_9C_E8_A1_80.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/嗜血.png"
+  },
+  "cards/草中潜伏": {
+    "icon": "草中潜伏",
+    "file": "assets/icons/cards/_E8_8D_89_E4_B8_AD_E6_BD_9C_E4_BC_8F.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/草中潜伏.png"
+  },
+  "cards/灵魂伙伴": {
+    "icon": "灵魂伙伴",
+    "file": "assets/icons/cards/_E7_81_B5_E9_AD_82_E4_BC_99_E4_BC_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/灵魂伙伴.png"
+  },
+  "cards/荆刺契约": {
+    "icon": "荆刺契约",
+    "file": "assets/icons/cards/_E8_8D_86_E5_88_BA_E5_A5_91_E7_BA_A6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/荆刺契约.png"
+  },
+  "cards/惊扰草丛": {
+    "icon": "惊扰草丛",
+    "file": "assets/icons/cards/_E6_83_8A_E6_89_B0_E8_8D_89_E4_B8_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/惊扰草丛.png"
+  },
+  "cards/小小刺球": {
+    "icon": "小小刺球",
+    "file": "assets/icons/cards/_E5_B0_8F_E5_B0_8F_E5_88_BA_E7_90_83.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小小刺球.png"
+  },
+  "cards/换季掉毛": {
+    "icon": "换季掉毛",
+    "file": "assets/icons/cards/_E6_8D_A2_E5_AD_A3_E6_8E_89_E6_AF_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/换季掉毛.png"
+  },
+  "cards/应激炸毛": {
+    "icon": "应激炸毛",
+    "file": "assets/icons/cards/_E5_BA_94_E6_BF_80_E7_82_B8_E6_AF_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/应激炸毛.png"
+  },
+  "cards/连环刺痛": {
+    "icon": "连环刺痛",
+    "file": "assets/icons/cards/_E8_BF_9E_E7_8E_AF_E5_88_BA_E7_97_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/连环刺痛.png"
+  },
+  "cards/风葬": {
+    "icon": "风葬",
+    "file": "assets/icons/cards/_E9_A3_8E_E8_91_AC.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/风葬.png"
+  },
+  "cards/鸠占鹊巢": {
+    "icon": "鸠占鹊巢",
+    "file": "assets/icons/cards/_E9_B8_A0_E5_8D_A0_E9_B9_8A_E5_B7_A2.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/鸠占鹊巢.png"
+  },
+  "cards/偷吃果子": {
+    "icon": "偷吃果子",
+    "file": "assets/icons/cards/_E5_81_B7_E5_90_83_E6_9E_9C_E5_AD_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/偷吃果子.png"
+  },
+  "cards/回应": {
+    "icon": "回应",
+    "file": "assets/icons/cards/_E5_9B_9E_E5_BA_94.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/回应.png"
+  },
+  "cards/卷起": {
+    "icon": "卷起",
+    "file": "assets/icons/cards/_E5_8D_B7_E8_B5_B7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/卷起.png"
+  },
+  "cards/风之共鸣": {
+    "icon": "风之共鸣",
+    "file": "assets/icons/cards/_E9_A3_8E_E4_B9_8B_E5_85_B1_E9_B8_A3.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/风之共鸣.png"
+  },
+  "cards/巨爪相随": {
+    "icon": "巨爪相随",
+    "file": "assets/icons/cards/_E5_B7_A8_E7_88_AA_E7_9B_B8_E9_9A_8F.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/巨爪相随.png"
+  },
+  "cards/熊灵守护": {
+    "icon": "熊灵守护",
+    "file": "assets/icons/cards/_E7_86_8A_E7_81_B5_E5_AE_88_E6_8A_A4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/熊灵守护.png"
+  },
+  "cards/护卫心切": {
+    "icon": "护卫心切",
+    "file": "assets/icons/cards/_E6_8A_A4_E5_8D_AB_E5_BF_83_E5_88_87.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/护卫心切.png"
+  },
+  "cards/自然之爪": {
+    "icon": "自然之爪",
+    "file": "assets/icons/cards/_E8_87_AA_E7_84_B6_E4_B9_8B_E7_88_AA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/自然之爪.png"
+  },
+  "cards/针刺防御": {
+    "icon": "针刺防御",
+    "file": "assets/icons/cards/_E9_92_88_E5_88_BA_E9_98_B2_E5_BE_A1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/针刺防御.png"
+  },
+  "cards/凶猛利爪": {
+    "icon": "凶猛利爪",
+    "file": "assets/icons/cards/_E5_87_B6_E7_8C_9B_E5_88_A9_E7_88_AA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/凶猛利爪.png"
+  },
+  "cards/风中陨落": {
+    "icon": "风中陨落",
+    "file": "assets/icons/cards/_E9_A3_8E_E4_B8_AD_E9_99_A8_E8_90_BD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/风中陨落.png"
+  },
+  "cards/乱枝纷飞": {
+    "icon": "乱枝纷飞",
+    "file": "assets/icons/cards/_E4_B9_B1_E6_9E_9D_E7_BA_B7_E9_A3_9E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/乱枝纷飞.png"
+  },
+  "cards/地鸣": {
+    "icon": "地鸣",
+    "file": "assets/icons/cards/_E5_9C_B0_E9_B8_A3.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/地鸣.png"
+  },
+  "cards/强烈震感": {
+    "icon": "强烈震感",
+    "file": "assets/icons/cards/_E5_BC_BA_E7_83_88_E9_9C_87_E6_84_9F.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/强烈震感.png"
+  },
+  "cards/地震带": {
+    "icon": "地震带",
+    "file": "assets/icons/cards/_E5_9C_B0_E9_9C_87_E5_B8_A6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/地震带.png"
+  },
+  "cards/危险感知": {
+    "icon": "危险感知",
+    "file": "assets/icons/cards/_E5_8D_B1_E9_99_A9_E6_84_9F_E7_9F_A5.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/危险感知.png"
+  },
+  "cards/生命循环": {
+    "icon": "生命循环",
+    "file": "assets/icons/cards/_E7_94_9F_E5_91_BD_E5_BE_AA_E7_8E_AF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/生命循环.png"
+  },
+  "cards/草地冲刺": {
+    "icon": "草地冲刺",
+    "file": "assets/icons/cards/_E8_8D_89_E5_9C_B0_E5_86_B2_E5_88_BA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/草地冲刺.png"
+  },
+  "cards/自然之力": {
+    "icon": "自然之力",
+    "file": "assets/icons/cards/_E8_87_AA_E7_84_B6_E4_B9_8B_E5_8A_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/自然之力.png"
+  },
+  "cards/草丛藏身": {
+    "icon": "草丛藏身",
+    "file": "assets/icons/cards/_E8_8D_89_E4_B8_9B_E8_97_8F_E8_BA_AB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/草丛藏身.png"
+  },
+  "cards/束缚横扫": {
+    "icon": "束缚横扫",
+    "file": "assets/icons/cards/_E6_9D_9F_E7_BC_9A_E6_A8_AA_E6_89_AB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/束缚横扫.png"
+  },
+  "cards/自然律动": {
+    "icon": "自然律动",
+    "file": "assets/icons/cards/_E8_87_AA_E7_84_B6_E5_BE_8B_E5_8A_A8.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/自然律动.png"
+  },
+  "cards/藤蔓滋长": {
+    "icon": "藤蔓滋长",
+    "file": "assets/icons/cards/_E8_97_A4_E8_94_93_E6_BB_8B_E9_95_BF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/藤蔓滋长.png"
+  },
+  "cards/寄生种子": {
+    "icon": "寄生种子",
+    "file": "assets/icons/cards/_E5_AF_84_E7_94_9F_E7_A7_8D_E5_AD_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寄生种子.png"
+  },
+  "cards/林光标记": {
+    "icon": "林光标记",
+    "file": "assets/icons/cards/_E6_9E_97_E5_85_89_E6_A0_87_E8_AE_B0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/林光标记.png"
+  },
+  "cards/终猎狂欢": {
+    "icon": "终猎狂欢",
+    "file": "assets/icons/cards/_E7_BB_88_E7_8C_8E_E7_8B_82_E6_AC_A2.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/终猎狂欢.png"
+  },
+  "cards/亲力亲为": {
+    "icon": "亲力亲为",
+    "file": "assets/icons/cards/_E4_BA_B2_E5_8A_9B_E4_BA_B2_E4_B8_BA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/亲力亲为.png"
+  },
+  "cards/灌风": {
+    "icon": "灌风",
+    "file": "assets/icons/cards/_E7_81_8C_E9_A3_8E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/灌风.png"
+  },
+  "cards/缠风": {
+    "icon": "缠风",
+    "file": "assets/icons/cards/_E7_BC_A0_E9_A3_8E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/缠风.png"
+  },
+  "cards/踏风": {
+    "icon": "踏风",
+    "file": "assets/icons/cards/_E8_B8_8F_E9_A3_8E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/踏风.png"
+  },
+  "cards/风力倍增": {
+    "icon": "风力倍增",
+    "file": "assets/icons/cards/_E9_A3_8E_E5_8A_9B_E5_80_8D_E5_A2_9E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/风力倍增.png"
+  },
+  "cards/迷尘纷飞": {
+    "icon": "迷尘纷飞",
+    "file": "assets/icons/cards/_E8_BF_B7_E5_B0_98_E7_BA_B7_E9_A3_9E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/迷尘纷飞.png"
+  },
+  "cards/尘花掠影": {
+    "icon": "尘花掠影",
+    "file": "assets/icons/cards/_E5_B0_98_E8_8A_B1_E6_8E_A0_E5_BD_B1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/尘花掠影.png"
+  },
+  "cards/幸运播种": {
+    "icon": "幸运播种",
+    "file": "assets/icons/cards/_E5_B9_B8_E8_BF_90_E6_92_AD_E7_A7_8D.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/幸运播种.png"
+  },
+  "cards/萌芽丛生": {
+    "icon": "萌芽丛生",
+    "file": "assets/icons/cards/_E8_90_8C_E8_8A_BD_E4_B8_9B_E7_94_9F.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/萌芽丛生.png"
+  },
+  "cards/甘甜": {
+    "icon": "甘甜",
+    "file": "assets/icons/cards/_E7_94_98_E7_94_9C.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/甘甜.png"
+  },
+  "cards/沁凉": {
+    "icon": "沁凉",
+    "file": "assets/icons/cards/_E6_B2_81_E5_87_89.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/沁凉.png"
+  },
+  "cards/辛辣": {
+    "icon": "辛辣",
+    "file": "assets/icons/cards/_E8_BE_9B_E8_BE_A3.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/辛辣.png"
+  },
+  "cards/风之庇佑": {
+    "icon": "风之庇佑",
+    "file": "assets/icons/cards/_E9_A3_8E_E4_B9_8B_E5_BA_87_E4_BD_91.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/风之庇佑.png"
+  },
+  "cards/风息回流": {
+    "icon": "风息回流",
+    "file": "assets/icons/cards/_E9_A3_8E_E6_81_AF_E5_9B_9E_E6_B5_81.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/风息回流.png"
+  },
+  "cards/闪避本能": {
+    "icon": "闪避本能",
+    "file": "assets/icons/cards/_E9_97_AA_E9_81_BF_E6_9C_AC_E8_83_BD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/闪避本能.png"
+  },
+  "cards/飞踏": {
+    "icon": "飞踏",
+    "file": "assets/icons/cards/_E9_A3_9E_E8_B8_8F.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/飞踏.png"
+  },
+  "cards/森林伙伴": {
+    "icon": "森林伙伴",
+    "file": "assets/icons/cards/_E6_A3_AE_E6_9E_97_E4_BC_99_E4_BC_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/森林伙伴.png"
+  },
+  "cards/自然回复": {
+    "icon": "自然回复",
+    "file": "assets/icons/cards/_E8_87_AA_E7_84_B6_E5_9B_9E_E5_A4_8D.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/自然回复.png"
+  },
+  "cards/狩域扩张": {
+    "icon": "狩域扩张",
+    "file": "assets/icons/cards/_E7_8B_A9_E5_9F_9F_E6_89_A9_E5_BC_A0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/狩域扩张.png"
+  },
+  "cards/休养生息": {
+    "icon": "休养生息",
+    "file": "assets/icons/cards/_E4_BC_91_E5_85_BB_E7_94_9F_E6_81_AF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/休养生息.png"
+  },
+  "cards/野性之力": {
+    "icon": "野性之力",
+    "file": "assets/icons/cards/_E9_87_8E_E6_80_A7_E4_B9_8B_E5_8A_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/野性之力.png"
+  },
+  "cards/怒火连斩二段": {
+    "icon": "怒火连斩二段",
+    "file": "assets/icons/cards/_E6_80_92_E7_81_AB_E8_BF_9E_E6_96_A9_E4_BA_8C_E6_AE_B5.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/怒火连斩二段.png"
+  },
+  "cards/怒火连斩三段": {
+    "icon": "怒火连斩三段",
+    "file": "assets/icons/cards/_E6_80_92_E7_81_AB_E8_BF_9E_E6_96_A9_E4_B8_89_E6_AE_B5.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/怒火连斩三段.png"
+  },
+  "cards/圣光打击": {
+    "icon": "圣光打击",
+    "file": "assets/icons/cards/_E5_9C_A3_E5_85_89_E6_89_93_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/圣光打击.png"
+  },
+  "cards/圣盾术": {
+    "icon": "圣盾术",
+    "file": "assets/icons/cards/_E5_9C_A3_E7_9B_BE_E6_9C_AF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/圣盾术.png"
+  },
+  "cards/光晕": {
+    "icon": "光晕",
+    "file": "assets/icons/cards/_E5_85_89_E6_99_95.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/光晕.png"
+  },
+  "cards/圣洁之地": {
+    "icon": "圣洁之地",
+    "file": "assets/icons/cards/_E5_9C_A3_E6_B4_81_E4_B9_8B_E5_9C_B0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/圣洁之地.png"
+  },
+  "cards/圣光束缚": {
+    "icon": "圣光束缚",
+    "file": "assets/icons/cards/_E5_9C_A3_E5_85_89_E6_9D_9F_E7_BC_9A.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/圣光束缚.png"
+  },
+  "cards/香蕉皮": {
+    "icon": "香蕉皮",
+    "file": "assets/icons/cards/_E9_A6_99_E8_95_89_E7_9A_AE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/香蕉皮.png"
+  },
+  "cards/生锈的长剑": {
+    "icon": "生锈的长剑",
+    "file": "assets/icons/cards/_E7_94_9F_E9_94_88_E7_9A_84_E9_95_BF_E5_89_91.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/生锈的长剑.png"
+  },
+  "cards/老旧的法杖": {
+    "icon": "老旧的法杖",
+    "file": "assets/icons/cards/_E8_80_81_E6_97_A7_E7_9A_84_E6_B3_95_E6_9D_96.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/老旧的法杖.png"
+  },
+  "cards/生锈的短刀": {
+    "icon": "生锈的短刀",
+    "file": "assets/icons/cards/_E7_94_9F_E9_94_88_E7_9A_84_E7_9F_AD_E5_88_80.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/生锈的短刀.png"
+  },
+  "cards/磨破的靴子": {
+    "icon": "磨破的靴子",
+    "file": "assets/icons/cards/_E7_A3_A8_E7_A0_B4_E7_9A_84_E9_9D_B4_E5_AD_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/磨破的靴子.png"
+  },
+  "cards/断指的皮手套": {
+    "icon": "断指的皮手套",
+    "file": "assets/icons/cards/_E6_96_AD_E6_8C_87_E7_9A_84_E7_9A_AE_E6_89_8B_E5_A5_97.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/断指的皮手套.png"
+  },
+  "cards/褪色的项链": {
+    "icon": "褪色的项链",
+    "file": "assets/icons/cards/_E8_A4_AA_E8_89_B2_E7_9A_84_E9_A1_B9_E9_93_BE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/褪色的项链.png"
+  },
+  "cards/撕裂的斗篷": {
+    "icon": "撕裂的斗篷",
+    "file": "assets/icons/cards/_E6_92_95_E8_A3_82_E7_9A_84_E6_96_97_E7_AF_B7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/撕裂的斗篷.png"
+  },
+  "cards/裂开的圆盾": {
+    "icon": "裂开的圆盾",
+    "file": "assets/icons/cards/_E8_A3_82_E5_BC_80_E7_9A_84_E5_9C_86_E7_9B_BE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/裂开的圆盾.png"
+  },
+  "cards/破碎的手镯": {
+    "icon": "破碎的手镯",
+    "file": "assets/icons/cards/_E7_A0_B4_E7_A2_8E_E7_9A_84_E6_89_8B_E9_95_AF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/破碎的手镯.png"
+  },
+  "cards/塌陷的头盔": {
+    "icon": "塌陷的头盔",
+    "file": "assets/icons/cards/_E5_A1_8C_E9_99_B7_E7_9A_84_E5_A4_B4_E7_9B_94.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/塌陷的头盔.png"
+  },
+  "cards/魔法竖琴": {
+    "icon": "魔法竖琴",
+    "file": "assets/icons/cards/_E9_AD_94_E6_B3_95_E7_AB_96_E7_90_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/魔法竖琴.png"
+  },
+  "cards/生锈的铁锅": {
+    "icon": "生锈的铁锅",
+    "file": "assets/icons/cards/_E7_94_9F_E9_94_88_E7_9A_84_E9_93_81_E9_94_85.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/生锈的铁锅.png"
+  },
+  "cards/妖精的风笛": {
+    "icon": "妖精的风笛",
+    "file": "assets/icons/cards/_E5_A6_96_E7_B2_BE_E7_9A_84_E9_A3_8E_E7_AC_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/buff图标/妖精的风笛.png"
+  },
+  "cards/幸运兔脚": {
+    "icon": "幸运兔脚",
+    "file": "assets/icons/cards/_E5_B9_B8_E8_BF_90_E5_85_94_E8_84_9A.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/幸运兔脚.png"
+  },
+  "cards/装满酒的杯子": {
+    "icon": "装满酒的杯子",
+    "file": "assets/icons/cards/_E8_A3_85_E6_BB_A1_E9_85_92_E7_9A_84_E6_9D_AF_E5_AD_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/装满酒的杯子.png"
+  },
+  "cards/小砖房": {
+    "icon": "小砖房",
+    "file": "assets/icons/cards/_E5_B0_8F_E7_A0_96_E6_88_BF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/buff图标/小砖房.png"
+  },
+  "cards/火焰卷轴": {
+    "icon": "火焰卷轴",
+    "file": "assets/icons/cards/_E7_81_AB_E7_84_B0_E5_8D_B7_E8_BD_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/火焰卷轴.png"
+  },
+  "cards/月光之刃": {
+    "icon": "月光之刃",
+    "file": "assets/icons/cards/_E6_9C_88_E5_85_89_E4_B9_8B_E5_88_83.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/buff图标/月光之刃.png"
+  },
+  "cards/妖精的茶点": {
+    "icon": "妖精的茶点",
+    "file": "assets/icons/cards/_E5_A6_96_E7_B2_BE_E7_9A_84_E8_8C_B6_E7_82_B9.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/妖精的茶点.png"
+  },
+  "cards/烂苹果": {
+    "icon": "烂苹果",
+    "file": "assets/icons/cards/_E7_83_82_E8_8B_B9_E6_9E_9C.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/烂苹果.png"
+  },
+  "cards/存钱罐": {
+    "icon": "存钱罐",
+    "file": "assets/icons/cards/_E5_AD_98_E9_92_B1_E7_BD_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/存钱罐.png"
+  },
+  "cards/巨人的大斧": {
+    "icon": "巨人的大斧",
+    "file": "assets/icons/cards/_E5_B7_A8_E4_BA_BA_E7_9A_84_E5_A4_A7_E6_96_A7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/巨人的大斧.png"
+  },
+  "cards/小矮人的锤子": {
+    "icon": "小矮人的锤子",
+    "file": "assets/icons/cards/_E5_B0_8F_E7_9F_AE_E4_BA_BA_E7_9A_84_E9_94_A4_E5_AD_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/小矮人的锤子.png"
+  },
+  "cards/铜指虎": {
+    "icon": "铜指虎",
+    "file": "assets/icons/cards/_E9_93_9C_E6_8C_87_E8_99_8E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/铜指虎.png"
+  },
+  "cards/锁链鞭": {
+    "icon": "锁链鞭",
+    "file": "assets/icons/cards/_E9_94_81_E9_93_BE_E9_9E_AD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/锁链鞭.png"
+  },
+  "cards/石脉护手": {
+    "icon": "石脉护手",
+    "file": "assets/icons/cards/_E7_9F_B3_E8_84_89_E6_8A_A4_E6_89_8B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/石脉护手.png"
+  },
+  "cards/诅咒铁钉": {
+    "icon": "诅咒铁钉",
+    "file": "assets/icons/cards/_E8_AF_85_E5_92_92_E9_93_81_E9_92_89.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/诅咒铁钉.png"
+  },
+  "cards/贪吃的蚱蜢": {
+    "icon": "贪吃的蚱蜢",
+    "file": "assets/icons/cards/_E8_B4_AA_E5_90_83_E7_9A_84_E8_9A_B1_E8_9C_A2.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/贪吃的蚱蜢.png"
+  },
+  "cards/女巫扫把": {
+    "icon": "女巫扫把",
+    "file": "assets/icons/cards/_E5_A5_B3_E5_B7_AB_E6_89_AB_E6_8A_8A.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/女巫扫把.png"
+  },
+  "cards/老怀表": {
+    "icon": "老怀表",
+    "file": "assets/icons/cards/_E8_80_81_E6_80_80_E8_A1_A8.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/老怀表.png"
+  },
+  "cards/铸铁齿轮": {
+    "icon": "铸铁齿轮",
+    "file": "assets/icons/cards/_E9_93_B8_E9_93_81_E9_BD_BF_E8_BD_AE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/铸铁齿轮.png"
+  },
+  "cards/磨刀石": {
+    "icon": "磨刀石",
+    "file": "assets/icons/cards/_E7_A3_A8_E5_88_80_E7_9F_B3.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/磨刀石.png"
+  },
+  "cards/小雪橇": {
+    "icon": "小雪橇",
+    "file": "assets/icons/cards/_E5_B0_8F_E9_9B_AA_E6_A9_87.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/小雪橇.png"
+  },
+  "cards/呼啸围巾": {
+    "icon": "呼啸围巾",
+    "file": "assets/icons/cards/_E5_91_BC_E5_95_B8_E5_9B_B4_E5_B7_BE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/呼啸围巾.png"
+  },
+  "cards/骑士的风车": {
+    "icon": "骑士的风车",
+    "file": "assets/icons/cards/_E9_AA_91_E5_A3_AB_E7_9A_84_E9_A3_8E_E8_BD_A6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/骑士的风车.png"
+  },
+  "cards/庆典烟花": {
+    "icon": "庆典烟花",
+    "file": "assets/icons/cards/_E5_BA_86_E5_85_B8_E7_83_9F_E8_8A_B1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/庆典烟花.png"
+  },
+  "cards/疯狂陀螺": {
+    "icon": "疯狂陀螺",
+    "file": "assets/icons/cards/_E7_96_AF_E7_8B_82_E9_99_80_E8_9E_BA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/疯狂陀螺.png"
+  },
+  "cards/爆燃蜡烛": {
+    "icon": "爆燃蜡烛",
+    "file": "assets/icons/cards/_E7_88_86_E7_87_83_E8_9C_A1_E7_83_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/爆燃蜡烛.png"
+  },
+  "cards/染血的镰刀": {
+    "icon": "染血的镰刀",
+    "file": "assets/icons/cards/_E6_9F_93_E8_A1_80_E7_9A_84_E9_95_B0_E5_88_80.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/染血的镰刀.png"
+  },
+  "cards/胡萝卜雪人": {
+    "icon": "胡萝卜雪人",
+    "file": "assets/icons/cards/_E8_83_A1_E8_90_9D_E5_8D_9C_E9_9B_AA_E4_BA_BA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/胡萝卜雪人.png"
+  },
+  "cards/世界树种子": {
+    "icon": "世界树种子",
+    "file": "assets/icons/cards/_E4_B8_96_E7_95_8C_E6_A0_91_E7_A7_8D_E5_AD_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/buff图标/世界树种子.png"
+  },
+  "cards/神圣天秤": {
+    "icon": "神圣天秤",
+    "file": "assets/icons/cards/_E7_A5_9E_E5_9C_A3_E5_A4_A9_E7_A7_A4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/神圣天秤.png"
+  },
+  "cards/仙女棒": {
+    "icon": "仙女棒",
+    "file": "assets/icons/cards/_E4_BB_99_E5_A5_B3_E6_A3_92.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/仙女棒.png"
+  },
+  "cards/幽灵面纱": {
+    "icon": "幽灵面纱",
+    "file": "assets/icons/cards/_E5_B9_BD_E7_81_B5_E9_9D_A2_E7_BA_B1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/幽灵面纱.png"
+  },
+  "cards/姜饼屋": {
+    "icon": "姜饼屋",
+    "file": "assets/icons/cards/_E5_A7_9C_E9_A5_BC_E5_B1_8B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/姜饼屋.png"
+  },
+  "cards/巨人的豆茎": {
+    "icon": "巨人的豆茎",
+    "file": "assets/icons/cards/_E5_B7_A8_E4_BA_BA_E7_9A_84_E8_B1_86_E8_8C_8E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/巨人的豆茎.png"
+  },
+  "cards/猎杀号角": {
+    "icon": "猎杀号角",
+    "file": "assets/icons/cards/_E7_8C_8E_E6_9D_80_E5_8F_B7_E8_A7_92.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/猎杀号角.png"
+  },
+  "cards/染血的纺锤": {
+    "icon": "染血的纺锤",
+    "file": "assets/icons/cards/_E6_9F_93_E8_A1_80_E7_9A_84_E7_BA_BA_E9_94_A4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/染血的纺锤.png"
+  },
+  "cards/碎壳鸟蛋": {
+    "icon": "碎壳鸟蛋",
+    "file": "assets/icons/cards/_E7_A2_8E_E5_A3_B3_E9_B8_9F_E8_9B_8B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/buff图标/碎壳鸟蛋.png"
+  },
+  "cards/昏睡花冠": {
+    "icon": "昏睡花冠",
+    "file": "assets/icons/cards/_E6_98_8F_E7_9D_A1_E8_8A_B1_E5_86_A0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/昏睡花冠.png"
+  },
+  "cards/笨重的枷锁": {
+    "icon": "笨重的枷锁",
+    "file": "assets/icons/cards/_E7_AC_A8_E9_87_8D_E7_9A_84_E6_9E_B7_E9_94_81.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/笨重的枷锁.png"
+  },
+  "cards/橡木拐杖": {
+    "icon": "橡木拐杖",
+    "file": "assets/icons/cards/_E6_A9_A1_E6_9C_A8_E6_8B_90_E6_9D_96.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/橡木拐杖.png"
+  },
+  "cards/宽松的腰带": {
+    "icon": "宽松的腰带",
+    "file": "assets/icons/cards/_E5_AE_BD_E6_9D_BE_E7_9A_84_E8_85_B0_E5_B8_A6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/宽松的腰带.png"
+  },
+  "cards/漂亮的书签": {
+    "icon": "漂亮的书签",
+    "file": "assets/icons/cards/_E6_BC_82_E4_BA_AE_E7_9A_84_E4_B9_A6_E7_AD_BE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/漂亮的书签.png"
+  },
+  "cards/祝福铁砧": {
+    "icon": "祝福铁砧",
+    "file": "assets/icons/cards/_E7_A5_9D_E7_A6_8F_E9_93_81_E7_A0_A7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/祝福铁砧.png"
+  },
+  "cards/魔女的香水": {
+    "icon": "魔女的香水",
+    "file": "assets/icons/cards/_E9_AD_94_E5_A5_B3_E7_9A_84_E9_A6_99_E6_B0_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/魔女的香水.png"
+  },
+  "cards/破碎星盘": {
+    "icon": "破碎星盘",
+    "file": "assets/icons/cards/_E7_A0_B4_E7_A2_8E_E6_98_9F_E7_9B_98.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/破碎星盘.png"
+  },
+  "cards/黄金小马": {
+    "icon": "黄金小马",
+    "file": "assets/icons/cards/_E9_BB_84_E9_87_91_E5_B0_8F_E9_A9_AC.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/黄金小马.png"
+  },
+  "cards/焦黑的风箱": {
+    "icon": "焦黑的风箱",
+    "file": "assets/icons/cards/_E7_84_A6_E9_BB_91_E7_9A_84_E9_A3_8E_E7_AE_B1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/buff图标/焦黑的风箱.png"
+  },
+  "cards/鸦羽披风": {
+    "icon": "鸦羽披风",
+    "file": "assets/icons/cards/_E9_B8_A6_E7_BE_BD_E6_8A_AB_E9_A3_8E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/鸦羽披风.png"
+  },
+  "cards/精灵长弓": {
+    "icon": "精灵长弓",
+    "file": "assets/icons/cards/_E7_B2_BE_E7_81_B5_E9_95_BF_E5_BC_93.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/精灵长弓.png"
+  },
+  "cards/蘑菇伞": {
+    "icon": "蘑菇伞",
+    "file": "assets/icons/cards/_E8_98_91_E8_8F_87_E4_BC_9E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/蘑菇伞.png"
+  },
+  "cards/圣光火把": {
+    "icon": "圣光火把",
+    "file": "assets/icons/cards/_E5_9C_A3_E5_85_89_E7_81_AB_E6_8A_8A.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/圣光火把.png"
+  },
+  "cards/小女孩的火柴盒": {
+    "icon": "小女孩的火柴盒",
+    "file": "assets/icons/cards/_E5_B0_8F_E5_A5_B3_E5_AD_A9_E7_9A_84_E7_81_AB_E6_9F_B4_E7_9B_92.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/buff图标/小女孩的火柴盒.png"
+  },
+  "cards/幸运四叶草": {
+    "icon": "幸运四叶草",
+    "file": "assets/icons/cards/_E5_B9_B8_E8_BF_90_E5_9B_9B_E5_8F_B6_E8_8D_89.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/幸运四叶草.png"
+  },
+  "cards/冰霜之核": {
+    "icon": "冰霜之核",
+    "file": "assets/icons/cards/_E5_86_B0_E9_9C_9C_E4_B9_8B_E6_A0_B8.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/冰霜之核.png"
+  },
+  "cards/藏宝图": {
+    "icon": "藏宝图",
+    "file": "assets/icons/cards/_E8_97_8F_E5_AE_9D_E5_9B_BE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/藏宝图.png"
+  },
+  "cards/冥狐的尾巴": {
+    "icon": "冥狐的尾巴",
+    "file": "assets/icons/cards/_E5_86_A5_E7_8B_90_E7_9A_84_E5_B0_BE_E5_B7_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/冥狐的尾巴.png"
+  },
+  "cards/水晶舞鞋": {
+    "icon": "水晶舞鞋",
+    "file": "assets/icons/cards/_E6_B0_B4_E6_99_B6_E8_88_9E_E9_9E_8B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/水晶舞鞋.png"
+  },
+  "cards/许愿王八": {
+    "icon": "许愿王八",
+    "file": "assets/icons/cards/_E8_AE_B8_E6_84_BF_E7_8E_8B_E5_85_AB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/许愿王八.png"
+  },
+  "cards/太阳石": {
+    "icon": "太阳石",
+    "file": "assets/icons/cards/_E5_A4_AA_E9_98_B3_E7_9F_B3.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/太阳石.png"
+  },
+  "cards/月光树枝": {
+    "icon": "月光树枝",
+    "file": "assets/icons/cards/_E6_9C_88_E5_85_89_E6_A0_91_E6_9E_9D.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/月光树枝.png"
+  },
+  "cards/深海面具": {
+    "icon": "深海面具",
+    "file": "assets/icons/cards/_E6_B7_B1_E6_B5_B7_E9_9D_A2_E5_85_B7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/深海面具.png"
+  },
+  "cards/预兆乌鸦": {
+    "icon": "预兆乌鸦",
+    "file": "assets/icons/cards/_E9_A2_84_E5_85_86_E4_B9_8C_E9_B8_A6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/预兆乌鸦.png"
+  },
+  "cards/人鱼的眼泪": {
+    "icon": "人鱼的眼泪",
+    "file": "assets/icons/cards/_E4_BA_BA_E9_B1_BC_E7_9A_84_E7_9C_BC_E6_B3_AA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/人鱼的眼泪.png"
+  },
+  "cards/勇气小鼓": {
+    "icon": "勇气小鼓",
+    "file": "assets/icons/cards/_E5_8B_87_E6_B0_94_E5_B0_8F_E9_BC_93.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/勇气小鼓.png"
+  },
+  "cards/英勇勋章": {
+    "icon": "英勇勋章",
+    "file": "assets/icons/cards/_E8_8B_B1_E5_8B_87_E5_8B_8B_E7_AB_A0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/英勇勋章.png"
+  },
+  "cards/翻滚的木桶": {
+    "icon": "翻滚的木桶",
+    "file": "assets/icons/cards/_E7_BF_BB_E6_BB_9A_E7_9A_84_E6_9C_A8_E6_A1_B6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/翻滚的木桶.png"
+  },
+  "cards/狼人之牙": {
+    "icon": "狼人之牙",
+    "file": "assets/icons/cards/_E7_8B_BC_E4_BA_BA_E4_B9_8B_E7_89_99.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/buff图标/狼人之牙.png"
+  },
+  "cards/爆裂南瓜灯": {
+    "icon": "爆裂南瓜灯",
+    "file": "assets/icons/cards/_E7_88_86_E8_A3_82_E5_8D_97_E7_93_9C_E7_81_AF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/爆裂南瓜灯.png"
+  },
+  "cards/刁惠佳的镐": {
+    "icon": "刁惠佳的镐",
+    "file": "assets/icons/cards/_E5_88_81_E6_83_A0_E4_BD_B3_E7_9A_84_E9_95_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/刁惠佳的镐.png"
+  },
+  "cards/回声海螺": {
+    "icon": "回声海螺",
+    "file": "assets/icons/cards/_E5_9B_9E_E5_A3_B0_E6_B5_B7_E8_9E_BA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/回声海螺.png"
+  },
+  "cards/荆棘玫瑰": {
+    "icon": "荆棘玫瑰",
+    "file": "assets/icons/cards/_E8_8D_86_E6_A3_98_E7_8E_AB_E7_91_B0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/荆棘玫瑰.png"
+  },
+  "cards/十字架": {
+    "icon": "十字架",
+    "file": "assets/icons/cards/_E5_8D_81_E5_AD_97_E6_9E_B6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/十字架.png"
+  },
+  "cards/魔法枕头": {
+    "icon": "魔法枕头",
+    "file": "assets/icons/cards/_E9_AD_94_E6_B3_95_E6_9E_95_E5_A4_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/魔法枕头.png"
+  },
+  "cards/铁线风筝": {
+    "icon": "铁线风筝",
+    "file": "assets/icons/cards/_E9_93_81_E7_BA_BF_E9_A3_8E_E7_AD_9D.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/铁线风筝.png"
+  },
+  "cards/黄金法杖": {
+    "icon": "黄金法杖",
+    "file": "assets/icons/cards/_E9_BB_84_E9_87_91_E6_B3_95_E6_9D_96.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/黄金法杖.png"
+  },
+  "cards/灌铅骰子": {
+    "icon": "灌铅骰子",
+    "file": "assets/icons/cards/_E7_81_8C_E9_93_85_E9_AA_B0_E5_AD_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/灌铅骰子.png"
+  },
+  "cards/美杜莎之眼": {
+    "icon": "美杜莎之眼",
+    "file": "assets/icons/cards/_E7_BE_8E_E6_9D_9C_E8_8E_8E_E4_B9_8B_E7_9C_BC.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/美杜莎之眼.png"
+  },
+  "cards/烦人的小喇叭": {
+    "icon": "烦人的小喇叭",
+    "file": "assets/icons/cards/_E7_83_A6_E4_BA_BA_E7_9A_84_E5_B0_8F_E5_96_87_E5_8F_AD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/烦人的小喇叭.png"
+  },
+  "cards/神秘机关盒": {
+    "icon": "神秘机关盒",
+    "file": "assets/icons/cards/_E7_A5_9E_E7_A7_98_E6_9C_BA_E5_85_B3_E7_9B_92.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/神秘机关盒.png"
+  },
+  "cards/玩具发条": {
+    "icon": "玩具发条",
+    "file": "assets/icons/cards/_E7_8E_A9_E5_85_B7_E5_8F_91_E6_9D_A1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/玩具发条.png"
+  },
+  "cards/魂蝶灯": {
+    "icon": "魂蝶灯",
+    "file": "assets/icons/cards/_E9_AD_82_E8_9D_B6_E7_81_AF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/魂蝶灯.png"
+  },
+  "cards/赌徒的金币": {
+    "icon": "赌徒的金币",
+    "file": "assets/icons/cards/_E8_B5_8C_E5_BE_92_E7_9A_84_E9_87_91_E5_B8_81.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/赌徒的金币.png"
+  },
+  "cards/工匠目镜": {
+    "icon": "工匠目镜",
+    "file": "assets/icons/cards/_E5_B7_A5_E5_8C_A0_E7_9B_AE_E9_95_9C.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/工匠目镜.png"
+  },
+  "cards/恶魔契约": {
+    "icon": "恶魔契约",
+    "file": "assets/icons/cards/_E6_81_B6_E9_AD_94_E5_A5_91_E7_BA_A6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/恶魔契约.png"
+  },
+  "cards/启迪头环": {
+    "icon": "启迪头环",
+    "file": "assets/icons/cards/_E5_90_AF_E8_BF_AA_E5_A4_B4_E7_8E_AF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/buff图标/启迪头环.png"
+  },
+  "cards/神奇糖果袋": {
+    "icon": "神奇糖果袋",
+    "file": "assets/icons/cards/_E7_A5_9E_E5_A5_87_E7_B3_96_E6_9E_9C_E8_A2_8B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/神奇糖果袋.png"
+  },
+  "cards/疯帽子": {
+    "icon": "疯帽子",
+    "file": "assets/icons/cards/_E7_96_AF_E5_B8_BD_E5_AD_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/疯帽子.png"
+  },
+  "cards/小裁缝的剪刀": {
+    "icon": "小裁缝的剪刀",
+    "file": "assets/icons/cards/_E5_B0_8F_E8_A3_81_E7_BC_9D_E7_9A_84_E5_89_AA_E5_88_80.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/小裁缝的剪刀.png"
+  },
+  "cards/迷路者罗盘": {
+    "icon": "迷路者罗盘",
+    "file": "assets/icons/cards/_E8_BF_B7_E8_B7_AF_E8_80_85_E7_BD_97_E7_9B_98.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/迷路者罗盘.png"
+  },
+  "cards/碎星挂坠": {
+    "icon": "碎星挂坠",
+    "file": "assets/icons/cards/_E7_A2_8E_E6_98_9F_E6_8C_82_E5_9D_A0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/碎星挂坠.png"
+  },
+  "cards/仇恨之书": {
+    "icon": "仇恨之书",
+    "file": "assets/icons/cards/_E4_BB_87_E6_81_A8_E4_B9_8B_E4_B9_A6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/仇恨之书.png"
+  },
+  "cards/坚果壳": {
+    "icon": "坚果壳",
+    "file": "assets/icons/cards/_E5_9D_9A_E6_9E_9C_E5_A3_B3.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/坚果壳.png"
+  },
+  "cards/钢铁之心": {
+    "icon": "钢铁之心",
+    "file": "assets/icons/cards/_E9_92_A2_E9_93_81_E4_B9_8B_E5_BF_83.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/钢铁之心.png"
+  },
+  "cards/凋零胸针": {
+    "icon": "凋零胸针",
+    "file": "assets/icons/cards/_E5_87_8B_E9_9B_B6_E8_83_B8_E9_92_88.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/凋零胸针.png"
+  },
+  "cards/替身人偶": {
+    "icon": "替身人偶",
+    "file": "assets/icons/cards/_E6_9B_BF_E8_BA_AB_E4_BA_BA_E5_81_B6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/替身人偶.png"
+  },
+  "cards/巫师帽": {
+    "icon": "巫师帽",
+    "file": "assets/icons/cards/_E5_B7_AB_E5_B8_88_E5_B8_BD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/巫师帽.png"
+  },
+  "cards/丑小鸭的羽毛": {
+    "icon": "丑小鸭的羽毛",
+    "file": "assets/icons/cards/_E4_B8_91_E5_B0_8F_E9_B8_AD_E7_9A_84_E7_BE_BD_E6_AF_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/buff图标/丑小鸭的羽毛.png"
+  },
+  "cards/魔法茶壶": {
+    "icon": "魔法茶壶",
+    "file": "assets/icons/cards/_E9_AD_94_E6_B3_95_E8_8C_B6_E5_A3_B6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/buff图标/魔法茶壶.png"
+  },
+  "cards/隐身戒指": {
+    "icon": "隐身戒指",
+    "file": "assets/icons/cards/_E9_9A_90_E8_BA_AB_E6_88_92_E6_8C_87.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/隐身戒指.png"
+  },
+  "cards/贪吃蛇": {
+    "icon": "贪吃蛇",
+    "file": "assets/icons/cards/_E8_B4_AA_E5_90_83_E8_9B_87.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/贪吃蛇.png"
+  },
+  "cards/青蛙王子": {
+    "icon": "青蛙王子",
+    "file": "assets/icons/cards/_E9_9D_92_E8_9B_99_E7_8E_8B_E5_AD_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/青蛙王子.png"
+  },
+  "cards/水晶王冠": {
+    "icon": "水晶王冠",
+    "file": "assets/icons/cards/_E6_B0_B4_E6_99_B6_E7_8E_8B_E5_86_A0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/buff图标/水晶王冠.png"
+  },
+  "cards/红舞鞋": {
+    "icon": "红舞鞋",
+    "file": "assets/icons/cards/_E7_BA_A2_E8_88_9E_E9_9E_8B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/红舞鞋.png"
+  },
+  "cards/虚空权杖": {
+    "icon": "虚空权杖",
+    "file": "assets/icons/cards/_E8_99_9A_E7_A9_BA_E6_9D_83_E6_9D_96.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/虚空权杖.png"
+  },
+  "cards/锡兵的残腿": {
+    "icon": "锡兵的残腿",
+    "file": "assets/icons/cards/_E9_94_A1_E5_85_B5_E7_9A_84_E6_AE_8B_E8_85_BF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/锡兵的残腿.png"
+  },
+  "cards/海盗眼罩": {
+    "icon": "海盗眼罩",
+    "file": "assets/icons/cards/_E6_B5_B7_E7_9B_97_E7_9C_BC_E7_BD_A9.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/海盗眼罩.png"
+  },
+  "cards/星核": {
+    "icon": "星核",
+    "file": "assets/icons/cards/_E6_98_9F_E6_A0_B8.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/星核.png"
+  },
+  "cards/不死鸟羽毛": {
+    "icon": "不死鸟羽毛",
+    "file": "assets/icons/cards/_E4_B8_8D_E6_AD_BB_E9_B8_9F_E7_BE_BD_E6_AF_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/不死鸟羽毛.png"
+  },
+  "cards/圣剑": {
+    "icon": "圣剑",
+    "file": "assets/icons/cards/_E5_9C_A3_E5_89_91.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/圣剑.png"
+  },
+  "cards/死灵书": {
+    "icon": "死灵书",
+    "file": "assets/icons/cards/_E6_AD_BB_E7_81_B5_E4_B9_A6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/死灵书.png"
+  },
+  "cards/玩具大炮": {
+    "icon": "玩具大炮",
+    "file": "assets/icons/cards/_E7_8E_A9_E5_85_B7_E5_A4_A7_E7_82_AE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/玩具大炮.png"
+  },
+  "cards/原初火焰": {
+    "icon": "原初火焰",
+    "file": "assets/icons/cards/_E5_8E_9F_E5_88_9D_E7_81_AB_E7_84_B0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/原初火焰.png"
+  },
+  "cards/缝补心脏": {
+    "icon": "缝补心脏",
+    "file": "assets/icons/cards/_E7_BC_9D_E8_A1_A5_E5_BF_83_E8_84_8F.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/buff图标/缝补心脏.png"
+  },
+  "cards/混乱之眼": {
+    "icon": "混乱之眼",
+    "file": "assets/icons/cards/_E6_B7_B7_E4_B9_B1_E4_B9_8B_E7_9C_BC.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/混乱之眼.png"
+  },
+  "cards/神灯": {
+    "icon": "神灯",
+    "file": "assets/icons/cards/_E7_A5_9E_E7_81_AF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/神灯.png"
+  },
+  "cards/鱼骨头": {
+    "icon": "鱼骨头",
+    "file": "assets/icons/cards/_E9_B1_BC_E9_AA_A8_E5_A4_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/鱼骨头.png"
+  },
+  "cards/小猫铃铛": {
+    "icon": "小猫铃铛",
+    "file": "assets/icons/cards/_E5_B0_8F_E7_8C_AB_E9_93_83_E9_93_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/小猫铃铛.png"
+  },
+  "cards/混乱": {
+    "icon": "混乱",
+    "file": "assets/icons/cards/_E6_B7_B7_E4_B9_B1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/混乱.png"
+  },
+  "cards/缭乱": {
+    "icon": "缭乱",
+    "file": "assets/icons/cards/_E7_BC_AD_E4_B9_B1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/缭乱.png"
+  },
+  "cards/迟缓": {
+    "icon": "迟缓",
+    "file": "assets/icons/cards/_E8_BF_9F_E7_BC_93.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/迟缓.png"
+  },
+  "cards/迅捷": {
+    "icon": "迅捷",
+    "file": "assets/icons/cards/_E8_BF_85_E6_8D_B7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/迅捷.png"
+  },
+  "cards/怯懦": {
+    "icon": "怯懦",
+    "file": "assets/icons/cards/_E6_80_AF_E6_87_A6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/怯懦.png"
+  },
+  "cards/英勇": {
+    "icon": "英勇",
+    "file": "assets/icons/cards/_E8_8B_B1_E5_8B_87.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/英勇.png"
+  },
+  "cards/恍惚": {
+    "icon": "恍惚",
+    "file": "assets/icons/cards/_E6_81_8D_E6_83_9A.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/恍惚.png"
+  },
+  "cards/明晰": {
+    "icon": "明晰",
+    "file": "assets/icons/cards/_E6_98_8E_E6_99_B0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/明晰.png"
+  },
+  "cards/软弱": {
+    "icon": "软弱",
+    "file": "assets/icons/cards/_E8_BD_AF_E5_BC_B1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/软弱.png"
+  },
+  "cards/威严": {
+    "icon": "威严",
+    "file": "assets/icons/cards/_E5_A8_81_E4_B8_A5.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/威严.png"
+  },
+  "cards/萎靡": {
+    "icon": "萎靡",
+    "file": "assets/icons/cards/_E8_90_8E_E9_9D_A1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/萎靡.png"
+  },
+  "cards/激昂": {
+    "icon": "激昂",
+    "file": "assets/icons/cards/_E6_BF_80_E6_98_82.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/激昂.png"
+  },
+  "cards/轻视": {
+    "icon": "轻视",
+    "file": "assets/icons/cards/_E8_BD_BB_E8_A7_86.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/轻视.png"
+  },
+  "cards/蔑视": {
+    "icon": "蔑视",
+    "file": "assets/icons/cards/_E8_94_91_E8_A7_86.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/蔑视.png"
+  },
+  "cards/无知": {
+    "icon": "无知",
+    "file": "assets/icons/cards/_E6_97_A0_E7_9F_A5.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/无知.png"
+  },
+  "cards/无畏": {
+    "icon": "无畏",
+    "file": "assets/icons/cards/_E6_97_A0_E7_95_8F.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/无畏.png"
+  },
+  "cards/多虑": {
+    "icon": "多虑",
+    "file": "assets/icons/cards/_E5_A4_9A_E8_99_91.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/多虑.png"
+  },
+  "cards/稳健": {
+    "icon": "稳健",
+    "file": "assets/icons/cards/_E7_A8_B3_E5_81_A5.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/稳健.png"
+  },
+  "cards/衰竭": {
+    "icon": "衰竭",
+    "file": "assets/icons/cards/_E8_A1_B0_E7_AB_AD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/衰竭.png"
+  },
+  "cards/振奋": {
+    "icon": "振奋",
+    "file": "assets/icons/cards/_E6_8C_AF_E5_A5_8B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/振奋.png"
+  },
+  "cards/吝啬": {
+    "icon": "吝啬",
+    "file": "assets/icons/cards/_E5_90_9D_E5_95_AC.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/吝啬.png"
+  },
+  "cards/富饶": {
+    "icon": "富饶",
+    "file": "assets/icons/cards/_E5_AF_8C_E9_A5_B6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/富饶.png"
+  },
+  "cards/内向": {
+    "icon": "内向",
+    "file": "assets/icons/cards/_E5_86_85_E5_90_91.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/内向.png"
+  },
+  "cards/外向": {
+    "icon": "外向",
+    "file": "assets/icons/cards/_E5_A4_96_E5_90_91.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/外向.png"
+  },
+  "cards/偏执": {
+    "icon": "偏执",
+    "file": "assets/icons/cards/_E5_81_8F_E6_89_A7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/偏执.png"
+  },
+  "cards/执着": {
+    "icon": "执着",
+    "file": "assets/icons/cards/_E6_89_A7_E7_9D_80.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/执着.png"
+  },
+  "cards/困倦": {
+    "icon": "困倦",
+    "file": "assets/icons/cards/_E5_9B_B0_E5_80_A6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/困倦.png"
+  },
+  "cards/清醒": {
+    "icon": "清醒",
+    "file": "assets/icons/cards/_E6_B8_85_E9_86_92.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/清醒.png"
+  },
+  "cards/愚善": {
+    "icon": "愚善",
+    "file": "assets/icons/cards/_E6_84_9A_E5_96_84.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/愚善.png"
+  },
+  "cards/仁慈": {
+    "icon": "仁慈",
+    "file": "assets/icons/cards/_E4_BB_81_E6_85_88.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/仁慈.png"
+  },
+  "cards/绝望": {
+    "icon": "绝望",
+    "file": "assets/icons/cards/_E7_BB_9D_E6_9C_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/绝望.png"
+  },
+  "cards/坚定": {
+    "icon": "坚定",
+    "file": "assets/icons/cards/_E5_9D_9A_E5_AE_9A.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/坚定.png"
+  },
+  "cards/狂妄": {
+    "icon": "狂妄",
+    "file": "assets/icons/cards/_E7_8B_82_E5_A6_84.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/狂妄.png"
+  },
+  "cards/荣耀": {
+    "icon": "荣耀",
+    "file": "assets/icons/cards/_E8_8D_A3_E8_80_80.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/荣耀.png"
+  },
+  "cards/恐惧": {
+    "icon": "恐惧",
+    "file": "assets/icons/cards/_E6_81_90_E6_83_A7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/恐惧.png"
+  },
+  "cards/勇气": {
+    "icon": "勇气",
+    "file": "assets/icons/cards/_E5_8B_87_E6_B0_94.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/勇气.png"
+  },
+  "cards/焦虑": {
+    "icon": "焦虑",
+    "file": "assets/icons/cards/_E7_84_A6_E8_99_91.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/焦虑.png"
+  },
+  "cards/放松": {
+    "icon": "放松",
+    "file": "assets/icons/cards/_E6_94_BE_E6_9D_BE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/放松.png"
+  },
+  "cards/懒惰": {
+    "icon": "懒惰",
+    "file": "assets/icons/cards/_E6_87_92_E6_83_B0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/懒惰.png"
+  },
+  "cards/勤快": {
+    "icon": "勤快",
+    "file": "assets/icons/cards/_E5_8B_A4_E5_BF_AB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/勤快.png"
+  },
+  "cards/笨拙": {
+    "icon": "笨拙",
+    "file": "assets/icons/cards/_E7_AC_A8_E6_8B_99.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/笨拙.png"
+  },
+  "cards/娴熟": {
+    "icon": "娴熟",
+    "file": "assets/icons/cards/_E5_A8_B4_E7_86_9F.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/娴熟.png"
+  },
+  "cards/不幸": {
+    "icon": "不幸",
+    "file": "assets/icons/cards/_E4_B8_8D_E5_B9_B8.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/不幸.png"
+  },
+  "cards/幸运": {
+    "icon": "幸运",
+    "file": "assets/icons/cards/_E5_B9_B8_E8_BF_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/幸运.png"
+  },
+  "cards/张扬": {
+    "icon": "张扬",
+    "file": "assets/icons/cards/_E5_BC_A0_E6_89_AC.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/张扬.png"
+  },
+  "cards/内敛": {
+    "icon": "内敛",
+    "file": "assets/icons/cards/_E5_86_85_E6_95_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/内敛.png"
+  },
+  "cards/多疑": {
+    "icon": "多疑",
+    "file": "assets/icons/cards/_E5_A4_9A_E7_96_91.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/多疑.png"
+  },
+  "cards/笃信": {
+    "icon": "笃信",
+    "file": "assets/icons/cards/_E7_AC_83_E4_BF_A1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/笃信.png"
+  },
+  "cards/骄矜": {
+    "icon": "骄矜",
+    "file": "assets/icons/cards/_E9_AA_84_E7_9F_9C.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/骄矜.png"
+  },
+  "cards/正直": {
+    "icon": "正直",
+    "file": "assets/icons/cards/_E6_AD_A3_E7_9B_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/正直.png"
+  },
+  "cards/暴食": {
+    "icon": "暴食",
+    "file": "assets/icons/cards/_E6_9A_B4_E9_A3_9F.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/暴食.png"
+  },
+  "cards/盛宴": {
+    "icon": "盛宴",
+    "file": "assets/icons/cards/_E7_9B_9B_E5_AE_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/盛宴.png"
+  },
+  "cards/盲目": {
+    "icon": "盲目",
+    "file": "assets/icons/cards/_E7_9B_B2_E7_9B_AE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/盲目.png"
+  },
+  "cards/洞察": {
+    "icon": "洞察",
+    "file": "assets/icons/cards/_E6_B4_9E_E5_AF_9F.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/洞察.png"
+  },
+  "cards/0红果软糖": {
+    "icon": "0红果软糖",
+    "file": "assets/icons/cards/0_E7_BA_A2_E6_9E_9C_E8_BD_AF_E7_B3_96.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/0红果软糖.png"
+  },
+  "cards/0风铃薄荷糖": {
+    "icon": "0风铃薄荷糖",
+    "file": "assets/icons/cards/0_E9_A3_8E_E9_93_83_E8_96_84_E8_8D_B7_E7_B3_96.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/0风铃薄荷糖.png"
+  },
+  "cards/0灵猫跳跳糖": {
+    "icon": "0灵猫跳跳糖",
+    "file": "assets/icons/cards/0_E7_81_B5_E7_8C_AB_E8_B7_B3_E8_B7_B3_E7_B3_96.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/0灵猫跳跳糖.png"
+  },
+  "cards/0梦幻糖晶": {
+    "icon": "0梦幻糖晶",
+    "file": "assets/icons/cards/0_E6_A2_A6_E5_B9_BB_E7_B3_96_E6_99_B6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/0梦幻糖晶.png"
+  },
+  "cards/0万用糖果": {
+    "icon": "0万用糖果",
+    "file": "assets/icons/cards/0_E4_B8_87_E7_94_A8_E7_B3_96_E6_9E_9C.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/0万用糖果.png"
+  },
+  "items/香蕉皮": {
+    "icon": "香蕉皮",
+    "file": "assets/icons/items/_E9_A6_99_E8_95_89_E7_9A_AE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/香蕉皮.png"
+  },
+  "items/生锈的长剑": {
+    "icon": "生锈的长剑",
+    "file": "assets/icons/items/_E7_94_9F_E9_94_88_E7_9A_84_E9_95_BF_E5_89_91.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/生锈的长剑.png"
+  },
+  "items/老旧的法杖": {
+    "icon": "老旧的法杖",
+    "file": "assets/icons/items/_E8_80_81_E6_97_A7_E7_9A_84_E6_B3_95_E6_9D_96.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/老旧的法杖.png"
+  },
+  "items/生锈的短刀": {
+    "icon": "生锈的短刀",
+    "file": "assets/icons/items/_E7_94_9F_E9_94_88_E7_9A_84_E7_9F_AD_E5_88_80.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/生锈的短刀.png"
+  },
+  "items/磨破的靴子": {
+    "icon": "磨破的靴子",
+    "file": "assets/icons/items/_E7_A3_A8_E7_A0_B4_E7_9A_84_E9_9D_B4_E5_AD_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/磨破的靴子.png"
+  },
+  "items/断指的皮手套": {
+    "icon": "断指的皮手套",
+    "file": "assets/icons/items/_E6_96_AD_E6_8C_87_E7_9A_84_E7_9A_AE_E6_89_8B_E5_A5_97.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/断指的皮手套.png"
+  },
+  "items/褪色的项链": {
+    "icon": "褪色的项链",
+    "file": "assets/icons/items/_E8_A4_AA_E8_89_B2_E7_9A_84_E9_A1_B9_E9_93_BE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/褪色的项链.png"
+  },
+  "items/撕裂的斗篷": {
+    "icon": "撕裂的斗篷",
+    "file": "assets/icons/items/_E6_92_95_E8_A3_82_E7_9A_84_E6_96_97_E7_AF_B7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/撕裂的斗篷.png"
+  },
+  "items/裂开的圆盾": {
+    "icon": "裂开的圆盾",
+    "file": "assets/icons/items/_E8_A3_82_E5_BC_80_E7_9A_84_E5_9C_86_E7_9B_BE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/裂开的圆盾.png"
+  },
+  "items/破碎的手镯": {
+    "icon": "破碎的手镯",
+    "file": "assets/icons/items/_E7_A0_B4_E7_A2_8E_E7_9A_84_E6_89_8B_E9_95_AF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/破碎的手镯.png"
+  },
+  "items/塌陷的头盔": {
+    "icon": "塌陷的头盔",
+    "file": "assets/icons/items/_E5_A1_8C_E9_99_B7_E7_9A_84_E5_A4_B4_E7_9B_94.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/塌陷的头盔.png"
+  },
+  "items/魔法竖琴": {
+    "icon": "魔法竖琴",
+    "file": "assets/icons/items/_E9_AD_94_E6_B3_95_E7_AB_96_E7_90_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/魔法竖琴.png"
+  },
+  "items/生锈的铁锅": {
+    "icon": "生锈的铁锅",
+    "file": "assets/icons/items/_E7_94_9F_E9_94_88_E7_9A_84_E9_93_81_E9_94_85.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/生锈的铁锅.png"
+  },
+  "items/妖精的风笛": {
+    "icon": "妖精的风笛",
+    "file": "assets/icons/items/_E5_A6_96_E7_B2_BE_E7_9A_84_E9_A3_8E_E7_AC_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/妖精的风笛.png"
+  },
+  "items/幸运兔脚": {
+    "icon": "幸运兔脚",
+    "file": "assets/icons/items/_E5_B9_B8_E8_BF_90_E5_85_94_E8_84_9A.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/幸运兔脚.png"
+  },
+  "items/装满酒的杯子": {
+    "icon": "装满酒的杯子",
+    "file": "assets/icons/items/_E8_A3_85_E6_BB_A1_E9_85_92_E7_9A_84_E6_9D_AF_E5_AD_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/装满酒的杯子.png"
+  },
+  "items/小砖房": {
+    "icon": "小砖房",
+    "file": "assets/icons/items/_E5_B0_8F_E7_A0_96_E6_88_BF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/小砖房.png"
+  },
+  "items/火焰卷轴": {
+    "icon": "火焰卷轴",
+    "file": "assets/icons/items/_E7_81_AB_E7_84_B0_E5_8D_B7_E8_BD_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/火焰卷轴.png"
+  },
+  "items/月光之刃": {
+    "icon": "月光之刃",
+    "file": "assets/icons/items/_E6_9C_88_E5_85_89_E4_B9_8B_E5_88_83.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/月光之刃.png"
+  },
+  "items/妖精的茶点": {
+    "icon": "妖精的茶点",
+    "file": "assets/icons/items/_E5_A6_96_E7_B2_BE_E7_9A_84_E8_8C_B6_E7_82_B9.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/妖精的茶点.png"
+  },
+  "items/烂苹果": {
+    "icon": "烂苹果",
+    "file": "assets/icons/items/_E7_83_82_E8_8B_B9_E6_9E_9C.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/烂苹果.png"
+  },
+  "items/存钱罐": {
+    "icon": "存钱罐",
+    "file": "assets/icons/items/_E5_AD_98_E9_92_B1_E7_BD_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/存钱罐.png"
+  },
+  "items/巨人的大斧": {
+    "icon": "巨人的大斧",
+    "file": "assets/icons/items/_E5_B7_A8_E4_BA_BA_E7_9A_84_E5_A4_A7_E6_96_A7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/巨人的大斧.png"
+  },
+  "items/小矮人的锤子": {
+    "icon": "小矮人的锤子",
+    "file": "assets/icons/items/_E5_B0_8F_E7_9F_AE_E4_BA_BA_E7_9A_84_E9_94_A4_E5_AD_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/小矮人的锤子.png"
+  },
+  "items/铜指虎": {
+    "icon": "铜指虎",
+    "file": "assets/icons/items/_E9_93_9C_E6_8C_87_E8_99_8E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/铜指虎.png"
+  },
+  "items/锁链鞭": {
+    "icon": "锁链鞭",
+    "file": "assets/icons/items/_E9_94_81_E9_93_BE_E9_9E_AD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/锁链鞭.png"
+  },
+  "items/石脉护手": {
+    "icon": "石脉护手",
+    "file": "assets/icons/items/_E7_9F_B3_E8_84_89_E6_8A_A4_E6_89_8B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/石脉护手.png"
+  },
+  "items/诅咒铁钉": {
+    "icon": "诅咒铁钉",
+    "file": "assets/icons/items/_E8_AF_85_E5_92_92_E9_93_81_E9_92_89.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/诅咒铁钉.png"
+  },
+  "items/贪吃的蚱蜢": {
+    "icon": "贪吃的蚱蜢",
+    "file": "assets/icons/items/_E8_B4_AA_E5_90_83_E7_9A_84_E8_9A_B1_E8_9C_A2.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/贪吃的蚱蜢.png"
+  },
+  "items/女巫扫把": {
+    "icon": "女巫扫把",
+    "file": "assets/icons/items/_E5_A5_B3_E5_B7_AB_E6_89_AB_E6_8A_8A.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/女巫扫把.png"
+  },
+  "items/老怀表": {
+    "icon": "老怀表",
+    "file": "assets/icons/items/_E8_80_81_E6_80_80_E8_A1_A8.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/老怀表.png"
+  },
+  "items/铸铁齿轮": {
+    "icon": "铸铁齿轮",
+    "file": "assets/icons/items/_E9_93_B8_E9_93_81_E9_BD_BF_E8_BD_AE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/铸铁齿轮.png"
+  },
+  "items/磨刀石": {
+    "icon": "磨刀石",
+    "file": "assets/icons/items/_E7_A3_A8_E5_88_80_E7_9F_B3.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/磨刀石.png"
+  },
+  "items/小雪橇": {
+    "icon": "小雪橇",
+    "file": "assets/icons/items/_E5_B0_8F_E9_9B_AA_E6_A9_87.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/小雪橇.png"
+  },
+  "items/呼啸围巾": {
+    "icon": "呼啸围巾",
+    "file": "assets/icons/items/_E5_91_BC_E5_95_B8_E5_9B_B4_E5_B7_BE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/呼啸围巾.png"
+  },
+  "items/骑士的风车": {
+    "icon": "骑士的风车",
+    "file": "assets/icons/items/_E9_AA_91_E5_A3_AB_E7_9A_84_E9_A3_8E_E8_BD_A6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/骑士的风车.png"
+  },
+  "items/庆典烟花": {
+    "icon": "庆典烟花",
+    "file": "assets/icons/items/_E5_BA_86_E5_85_B8_E7_83_9F_E8_8A_B1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/庆典烟花.png"
+  },
+  "items/疯狂陀螺": {
+    "icon": "疯狂陀螺",
+    "file": "assets/icons/items/_E7_96_AF_E7_8B_82_E9_99_80_E8_9E_BA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/疯狂陀螺.png"
+  },
+  "items/爆燃蜡烛": {
+    "icon": "爆燃蜡烛",
+    "file": "assets/icons/items/_E7_88_86_E7_87_83_E8_9C_A1_E7_83_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/爆燃蜡烛.png"
+  },
+  "items/染血的镰刀": {
+    "icon": "染血的镰刀",
+    "file": "assets/icons/items/_E6_9F_93_E8_A1_80_E7_9A_84_E9_95_B0_E5_88_80.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/染血的镰刀.png"
+  },
+  "items/胡萝卜雪人": {
+    "icon": "胡萝卜雪人",
+    "file": "assets/icons/items/_E8_83_A1_E8_90_9D_E5_8D_9C_E9_9B_AA_E4_BA_BA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/胡萝卜雪人.png"
+  },
+  "items/世界树种子": {
+    "icon": "世界树种子",
+    "file": "assets/icons/items/_E4_B8_96_E7_95_8C_E6_A0_91_E7_A7_8D_E5_AD_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/世界树种子.png"
+  },
+  "items/神圣天秤": {
+    "icon": "神圣天秤",
+    "file": "assets/icons/items/_E7_A5_9E_E5_9C_A3_E5_A4_A9_E7_A7_A4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/神圣天秤.png"
+  },
+  "items/仙女棒": {
+    "icon": "仙女棒",
+    "file": "assets/icons/items/_E4_BB_99_E5_A5_B3_E6_A3_92.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/仙女棒.png"
+  },
+  "items/幽灵面纱": {
+    "icon": "幽灵面纱",
+    "file": "assets/icons/items/_E5_B9_BD_E7_81_B5_E9_9D_A2_E7_BA_B1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/幽灵面纱.png"
+  },
+  "items/姜饼屋": {
+    "icon": "姜饼屋",
+    "file": "assets/icons/items/_E5_A7_9C_E9_A5_BC_E5_B1_8B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/姜饼屋.png"
+  },
+  "items/巨人的豆茎": {
+    "icon": "巨人的豆茎",
+    "file": "assets/icons/items/_E5_B7_A8_E4_BA_BA_E7_9A_84_E8_B1_86_E8_8C_8E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/巨人的豆茎.png"
+  },
+  "items/猎杀号角": {
+    "icon": "猎杀号角",
+    "file": "assets/icons/items/_E7_8C_8E_E6_9D_80_E5_8F_B7_E8_A7_92.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/猎杀号角.png"
+  },
+  "items/染血的纺锤": {
+    "icon": "染血的纺锤",
+    "file": "assets/icons/items/_E6_9F_93_E8_A1_80_E7_9A_84_E7_BA_BA_E9_94_A4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/染血的纺锤.png"
+  },
+  "items/碎壳鸟蛋": {
+    "icon": "碎壳鸟蛋",
+    "file": "assets/icons/items/_E7_A2_8E_E5_A3_B3_E9_B8_9F_E8_9B_8B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/碎壳鸟蛋.png"
+  },
+  "items/昏睡花冠": {
+    "icon": "昏睡花冠",
+    "file": "assets/icons/items/_E6_98_8F_E7_9D_A1_E8_8A_B1_E5_86_A0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/昏睡花冠.png"
+  },
+  "items/笨重的枷锁": {
+    "icon": "笨重的枷锁",
+    "file": "assets/icons/items/_E7_AC_A8_E9_87_8D_E7_9A_84_E6_9E_B7_E9_94_81.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/笨重的枷锁.png"
+  },
+  "items/橡木拐杖": {
+    "icon": "橡木拐杖",
+    "file": "assets/icons/items/_E6_A9_A1_E6_9C_A8_E6_8B_90_E6_9D_96.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/橡木拐杖.png"
+  },
+  "items/宽松的腰带": {
+    "icon": "宽松的腰带",
+    "file": "assets/icons/items/_E5_AE_BD_E6_9D_BE_E7_9A_84_E8_85_B0_E5_B8_A6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/宽松的腰带.png"
+  },
+  "items/漂亮的书签": {
+    "icon": "漂亮的书签",
+    "file": "assets/icons/items/_E6_BC_82_E4_BA_AE_E7_9A_84_E4_B9_A6_E7_AD_BE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/漂亮的书签.png"
+  },
+  "items/祝福铁砧": {
+    "icon": "祝福铁砧",
+    "file": "assets/icons/items/_E7_A5_9D_E7_A6_8F_E9_93_81_E7_A0_A7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/祝福铁砧.png"
+  },
+  "items/魔女的香水": {
+    "icon": "魔女的香水",
+    "file": "assets/icons/items/_E9_AD_94_E5_A5_B3_E7_9A_84_E9_A6_99_E6_B0_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/魔女的香水.png"
+  },
+  "items/破碎星盘": {
+    "icon": "破碎星盘",
+    "file": "assets/icons/items/_E7_A0_B4_E7_A2_8E_E6_98_9F_E7_9B_98.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/破碎星盘.png"
+  },
+  "items/黄金小马": {
+    "icon": "黄金小马",
+    "file": "assets/icons/items/_E9_BB_84_E9_87_91_E5_B0_8F_E9_A9_AC.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/黄金小马.png"
+  },
+  "items/焦黑的风箱": {
+    "icon": "焦黑的风箱",
+    "file": "assets/icons/items/_E7_84_A6_E9_BB_91_E7_9A_84_E9_A3_8E_E7_AE_B1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/焦黑的风箱.png"
+  },
+  "items/鸦羽披风": {
+    "icon": "鸦羽披风",
+    "file": "assets/icons/items/_E9_B8_A6_E7_BE_BD_E6_8A_AB_E9_A3_8E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/鸦羽披风.png"
+  },
+  "items/精灵长弓": {
+    "icon": "精灵长弓",
+    "file": "assets/icons/items/_E7_B2_BE_E7_81_B5_E9_95_BF_E5_BC_93.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/精灵长弓.png"
+  },
+  "items/蘑菇伞": {
+    "icon": "蘑菇伞",
+    "file": "assets/icons/items/_E8_98_91_E8_8F_87_E4_BC_9E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/蘑菇伞.png"
+  },
+  "items/圣光火把": {
+    "icon": "圣光火把",
+    "file": "assets/icons/items/_E5_9C_A3_E5_85_89_E7_81_AB_E6_8A_8A.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/圣光火把.png"
+  },
+  "items/小女孩的火柴盒": {
+    "icon": "小女孩的火柴盒",
+    "file": "assets/icons/items/_E5_B0_8F_E5_A5_B3_E5_AD_A9_E7_9A_84_E7_81_AB_E6_9F_B4_E7_9B_92.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/小女孩的火柴盒.png"
+  },
+  "items/幸运四叶草": {
+    "icon": "幸运四叶草",
+    "file": "assets/icons/items/_E5_B9_B8_E8_BF_90_E5_9B_9B_E5_8F_B6_E8_8D_89.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/幸运四叶草.png"
+  },
+  "items/冰霜之核": {
+    "icon": "冰霜之核",
+    "file": "assets/icons/items/_E5_86_B0_E9_9C_9C_E4_B9_8B_E6_A0_B8.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/冰霜之核.png"
+  },
+  "items/藏宝图": {
+    "icon": "藏宝图",
+    "file": "assets/icons/items/_E8_97_8F_E5_AE_9D_E5_9B_BE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/藏宝图.png"
+  },
+  "items/冥狐的尾巴": {
+    "icon": "冥狐的尾巴",
+    "file": "assets/icons/items/_E5_86_A5_E7_8B_90_E7_9A_84_E5_B0_BE_E5_B7_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/冥狐的尾巴.png"
+  },
+  "items/水晶舞鞋": {
+    "icon": "水晶舞鞋",
+    "file": "assets/icons/items/_E6_B0_B4_E6_99_B6_E8_88_9E_E9_9E_8B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/水晶舞鞋.png"
+  },
+  "items/许愿王八": {
+    "icon": "许愿王八",
+    "file": "assets/icons/items/_E8_AE_B8_E6_84_BF_E7_8E_8B_E5_85_AB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/许愿王八.png"
+  },
+  "items/太阳石": {
+    "icon": "太阳石",
+    "file": "assets/icons/items/_E5_A4_AA_E9_98_B3_E7_9F_B3.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/太阳石.png"
+  },
+  "items/月光树枝": {
+    "icon": "月光树枝",
+    "file": "assets/icons/items/_E6_9C_88_E5_85_89_E6_A0_91_E6_9E_9D.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/月光树枝.png"
+  },
+  "items/深海面具": {
+    "icon": "深海面具",
+    "file": "assets/icons/items/_E6_B7_B1_E6_B5_B7_E9_9D_A2_E5_85_B7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/深海面具.png"
+  },
+  "items/预兆乌鸦": {
+    "icon": "预兆乌鸦",
+    "file": "assets/icons/items/_E9_A2_84_E5_85_86_E4_B9_8C_E9_B8_A6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/预兆乌鸦.png"
+  },
+  "items/人鱼的眼泪": {
+    "icon": "人鱼的眼泪",
+    "file": "assets/icons/items/_E4_BA_BA_E9_B1_BC_E7_9A_84_E7_9C_BC_E6_B3_AA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/人鱼的眼泪.png"
+  },
+  "items/勇气小鼓": {
+    "icon": "勇气小鼓",
+    "file": "assets/icons/items/_E5_8B_87_E6_B0_94_E5_B0_8F_E9_BC_93.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/勇气小鼓.png"
+  },
+  "items/英勇勋章": {
+    "icon": "英勇勋章",
+    "file": "assets/icons/items/_E8_8B_B1_E5_8B_87_E5_8B_8B_E7_AB_A0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/英勇勋章.png"
+  },
+  "items/翻滚的木桶": {
+    "icon": "翻滚的木桶",
+    "file": "assets/icons/items/_E7_BF_BB_E6_BB_9A_E7_9A_84_E6_9C_A8_E6_A1_B6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/翻滚的木桶.png"
+  },
+  "items/狼人之牙": {
+    "icon": "狼人之牙",
+    "file": "assets/icons/items/_E7_8B_BC_E4_BA_BA_E4_B9_8B_E7_89_99.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/狼人之牙.png"
+  },
+  "items/爆裂南瓜灯": {
+    "icon": "爆裂南瓜灯",
+    "file": "assets/icons/items/_E7_88_86_E8_A3_82_E5_8D_97_E7_93_9C_E7_81_AF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/爆裂南瓜灯.png"
+  },
+  "items/刁惠佳的镐": {
+    "icon": "刁惠佳的镐",
+    "file": "assets/icons/items/_E5_88_81_E6_83_A0_E4_BD_B3_E7_9A_84_E9_95_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/刁惠佳的镐.png"
+  },
+  "items/回声海螺": {
+    "icon": "回声海螺",
+    "file": "assets/icons/items/_E5_9B_9E_E5_A3_B0_E6_B5_B7_E8_9E_BA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/回声海螺.png"
+  },
+  "items/荆棘玫瑰": {
+    "icon": "荆棘玫瑰",
+    "file": "assets/icons/items/_E8_8D_86_E6_A3_98_E7_8E_AB_E7_91_B0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/荆棘玫瑰.png"
+  },
+  "items/十字架": {
+    "icon": "十字架",
+    "file": "assets/icons/items/_E5_8D_81_E5_AD_97_E6_9E_B6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/十字架.png"
+  },
+  "items/魔法枕头": {
+    "icon": "魔法枕头",
+    "file": "assets/icons/items/_E9_AD_94_E6_B3_95_E6_9E_95_E5_A4_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/魔法枕头.png"
+  },
+  "items/铁线风筝": {
+    "icon": "铁线风筝",
+    "file": "assets/icons/items/_E9_93_81_E7_BA_BF_E9_A3_8E_E7_AD_9D.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/铁线风筝.png"
+  },
+  "items/黄金法杖": {
+    "icon": "黄金法杖",
+    "file": "assets/icons/items/_E9_BB_84_E9_87_91_E6_B3_95_E6_9D_96.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/黄金法杖.png"
+  },
+  "items/灌铅骰子": {
+    "icon": "灌铅骰子",
+    "file": "assets/icons/items/_E7_81_8C_E9_93_85_E9_AA_B0_E5_AD_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/灌铅骰子.png"
+  },
+  "items/美杜莎之眼": {
+    "icon": "美杜莎之眼",
+    "file": "assets/icons/items/_E7_BE_8E_E6_9D_9C_E8_8E_8E_E4_B9_8B_E7_9C_BC.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/美杜莎之眼.png"
+  },
+  "items/烦人的小喇叭": {
+    "icon": "烦人的小喇叭",
+    "file": "assets/icons/items/_E7_83_A6_E4_BA_BA_E7_9A_84_E5_B0_8F_E5_96_87_E5_8F_AD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/烦人的小喇叭.png"
+  },
+  "items/神秘机关盒": {
+    "icon": "神秘机关盒",
+    "file": "assets/icons/items/_E7_A5_9E_E7_A7_98_E6_9C_BA_E5_85_B3_E7_9B_92.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/神秘机关盒.png"
+  },
+  "items/玩具发条": {
+    "icon": "玩具发条",
+    "file": "assets/icons/items/_E7_8E_A9_E5_85_B7_E5_8F_91_E6_9D_A1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/玩具发条.png"
+  },
+  "items/魂蝶灯": {
+    "icon": "魂蝶灯",
+    "file": "assets/icons/items/_E9_AD_82_E8_9D_B6_E7_81_AF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/魂蝶灯.png"
+  },
+  "items/赌徒的金币": {
+    "icon": "赌徒的金币",
+    "file": "assets/icons/items/_E8_B5_8C_E5_BE_92_E7_9A_84_E9_87_91_E5_B8_81.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/赌徒的金币.png"
+  },
+  "items/工匠目镜": {
+    "icon": "工匠目镜",
+    "file": "assets/icons/items/_E5_B7_A5_E5_8C_A0_E7_9B_AE_E9_95_9C.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/工匠目镜.png"
+  },
+  "items/恶魔契约": {
+    "icon": "恶魔契约",
+    "file": "assets/icons/items/_E6_81_B6_E9_AD_94_E5_A5_91_E7_BA_A6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/恶魔契约.png"
+  },
+  "items/启迪头环": {
+    "icon": "启迪头环",
+    "file": "assets/icons/items/_E5_90_AF_E8_BF_AA_E5_A4_B4_E7_8E_AF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/启迪头环.png"
+  },
+  "items/神奇糖果袋": {
+    "icon": "神奇糖果袋",
+    "file": "assets/icons/items/_E7_A5_9E_E5_A5_87_E7_B3_96_E6_9E_9C_E8_A2_8B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/神奇糖果袋.png"
+  },
+  "items/疯帽子": {
+    "icon": "疯帽子",
+    "file": "assets/icons/items/_E7_96_AF_E5_B8_BD_E5_AD_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/疯帽子.png"
+  },
+  "items/小裁缝的剪刀": {
+    "icon": "小裁缝的剪刀",
+    "file": "assets/icons/items/_E5_B0_8F_E8_A3_81_E7_BC_9D_E7_9A_84_E5_89_AA_E5_88_80.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/小裁缝的剪刀.png"
+  },
+  "items/迷路者罗盘": {
+    "icon": "迷路者罗盘",
+    "file": "assets/icons/items/_E8_BF_B7_E8_B7_AF_E8_80_85_E7_BD_97_E7_9B_98.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/迷路者罗盘.png"
+  },
+  "items/碎星挂坠": {
+    "icon": "碎星挂坠",
+    "file": "assets/icons/items/_E7_A2_8E_E6_98_9F_E6_8C_82_E5_9D_A0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/碎星挂坠.png"
+  },
+  "items/仇恨之书": {
+    "icon": "仇恨之书",
+    "file": "assets/icons/items/_E4_BB_87_E6_81_A8_E4_B9_8B_E4_B9_A6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/仇恨之书.png"
+  },
+  "items/坚果壳": {
+    "icon": "坚果壳",
+    "file": "assets/icons/items/_E5_9D_9A_E6_9E_9C_E5_A3_B3.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/坚果壳.png"
+  },
+  "items/钢铁之心": {
+    "icon": "钢铁之心",
+    "file": "assets/icons/items/_E9_92_A2_E9_93_81_E4_B9_8B_E5_BF_83.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/钢铁之心.png"
+  },
+  "items/凋零胸针": {
+    "icon": "凋零胸针",
+    "file": "assets/icons/items/_E5_87_8B_E9_9B_B6_E8_83_B8_E9_92_88.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/凋零胸针.png"
+  },
+  "items/替身人偶": {
+    "icon": "替身人偶",
+    "file": "assets/icons/items/_E6_9B_BF_E8_BA_AB_E4_BA_BA_E5_81_B6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/替身人偶.png"
+  },
+  "items/巫师帽": {
+    "icon": "巫师帽",
+    "file": "assets/icons/items/_E5_B7_AB_E5_B8_88_E5_B8_BD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/巫师帽.png"
+  },
+  "items/丑小鸭的羽毛": {
+    "icon": "丑小鸭的羽毛",
+    "file": "assets/icons/items/_E4_B8_91_E5_B0_8F_E9_B8_AD_E7_9A_84_E7_BE_BD_E6_AF_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/丑小鸭的羽毛.png"
+  },
+  "items/魔法茶壶": {
+    "icon": "魔法茶壶",
+    "file": "assets/icons/items/_E9_AD_94_E6_B3_95_E8_8C_B6_E5_A3_B6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/魔法茶壶.png"
+  },
+  "items/隐身戒指": {
+    "icon": "隐身戒指",
+    "file": "assets/icons/items/_E9_9A_90_E8_BA_AB_E6_88_92_E6_8C_87.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/隐身戒指.png"
+  },
+  "items/贪吃蛇": {
+    "icon": "贪吃蛇",
+    "file": "assets/icons/items/_E8_B4_AA_E5_90_83_E8_9B_87.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/贪吃蛇.png"
+  },
+  "items/青蛙王子": {
+    "icon": "青蛙王子",
+    "file": "assets/icons/items/_E9_9D_92_E8_9B_99_E7_8E_8B_E5_AD_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/青蛙王子.png"
+  },
+  "items/水晶王冠": {
+    "icon": "水晶王冠",
+    "file": "assets/icons/items/_E6_B0_B4_E6_99_B6_E7_8E_8B_E5_86_A0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/水晶王冠.png"
+  },
+  "items/红舞鞋": {
+    "icon": "红舞鞋",
+    "file": "assets/icons/items/_E7_BA_A2_E8_88_9E_E9_9E_8B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/红舞鞋.png"
+  },
+  "items/虚空权杖": {
+    "icon": "虚空权杖",
+    "file": "assets/icons/items/_E8_99_9A_E7_A9_BA_E6_9D_83_E6_9D_96.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/虚空权杖.png"
+  },
+  "items/锡兵的残腿": {
+    "icon": "锡兵的残腿",
+    "file": "assets/icons/items/_E9_94_A1_E5_85_B5_E7_9A_84_E6_AE_8B_E8_85_BF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/锡兵的残腿.png"
+  },
+  "items/海盗眼罩": {
+    "icon": "海盗眼罩",
+    "file": "assets/icons/items/_E6_B5_B7_E7_9B_97_E7_9C_BC_E7_BD_A9.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/海盗眼罩.png"
+  },
+  "items/星核": {
+    "icon": "星核",
+    "file": "assets/icons/items/_E6_98_9F_E6_A0_B8.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/星核.png"
+  },
+  "items/不死鸟羽毛": {
+    "icon": "不死鸟羽毛",
+    "file": "assets/icons/items/_E4_B8_8D_E6_AD_BB_E9_B8_9F_E7_BE_BD_E6_AF_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/不死鸟羽毛.png"
+  },
+  "items/圣剑": {
+    "icon": "圣剑",
+    "file": "assets/icons/items/_E5_9C_A3_E5_89_91.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/圣剑.png"
+  },
+  "items/死灵书": {
+    "icon": "死灵书",
+    "file": "assets/icons/items/_E6_AD_BB_E7_81_B5_E4_B9_A6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/死灵书.png"
+  },
+  "items/玩具大炮": {
+    "icon": "玩具大炮",
+    "file": "assets/icons/items/_E7_8E_A9_E5_85_B7_E5_A4_A7_E7_82_AE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/玩具大炮.png"
+  },
+  "items/原初火焰": {
+    "icon": "原初火焰",
+    "file": "assets/icons/items/_E5_8E_9F_E5_88_9D_E7_81_AB_E7_84_B0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/原初火焰.png"
+  },
+  "items/缝补心脏": {
+    "icon": "缝补心脏",
+    "file": "assets/icons/items/_E7_BC_9D_E8_A1_A5_E5_BF_83_E8_84_8F.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/缝补心脏.png"
+  },
+  "items/混乱之眼": {
+    "icon": "混乱之眼",
+    "file": "assets/icons/items/_E6_B7_B7_E4_B9_B1_E4_B9_8B_E7_9C_BC.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/混乱之眼.png"
+  },
+  "items/神灯": {
+    "icon": "神灯",
+    "file": "assets/icons/items/_E7_A5_9E_E7_81_AF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/神灯.png"
+  },
+  "items/鱼骨头": {
+    "icon": "鱼骨头",
+    "file": "assets/icons/items/_E9_B1_BC_E9_AA_A8_E5_A4_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/鱼骨头.png"
+  },
+  "items/小猫铃铛": {
+    "icon": "小猫铃铛",
+    "file": "assets/icons/items/_E5_B0_8F_E7_8C_AB_E9_93_83_E9_93_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/小猫铃铛.png"
+  },
+  "curses/混乱": {
+    "icon": "混乱",
+    "file": "assets/icons/curses/_E6_B7_B7_E4_B9_B1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/混乱.png"
+  },
+  "curses/缭乱": {
+    "icon": "缭乱",
+    "file": "assets/icons/curses/_E7_BC_AD_E4_B9_B1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/缭乱.png"
+  },
+  "curses/迟缓": {
+    "icon": "迟缓",
+    "file": "assets/icons/curses/_E8_BF_9F_E7_BC_93.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/迟缓.png"
+  },
+  "curses/迅捷": {
+    "icon": "迅捷",
+    "file": "assets/icons/curses/_E8_BF_85_E6_8D_B7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/迅捷.png"
+  },
+  "curses/怯懦": {
+    "icon": "怯懦",
+    "file": "assets/icons/curses/_E6_80_AF_E6_87_A6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/怯懦.png"
+  },
+  "curses/英勇": {
+    "icon": "英勇",
+    "file": "assets/icons/curses/_E8_8B_B1_E5_8B_87.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/英勇.png"
+  },
+  "curses/恍惚": {
+    "icon": "恍惚",
+    "file": "assets/icons/curses/_E6_81_8D_E6_83_9A.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/恍惚.png"
+  },
+  "curses/明晰": {
+    "icon": "明晰",
+    "file": "assets/icons/curses/_E6_98_8E_E6_99_B0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/明晰.png"
+  },
+  "curses/软弱": {
+    "icon": "软弱",
+    "file": "assets/icons/curses/_E8_BD_AF_E5_BC_B1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/软弱.png"
+  },
+  "curses/威严": {
+    "icon": "威严",
+    "file": "assets/icons/curses/_E5_A8_81_E4_B8_A5.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/威严.png"
+  },
+  "curses/萎靡": {
+    "icon": "萎靡",
+    "file": "assets/icons/curses/_E8_90_8E_E9_9D_A1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/萎靡.png"
+  },
+  "curses/激昂": {
+    "icon": "激昂",
+    "file": "assets/icons/curses/_E6_BF_80_E6_98_82.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/激昂.png"
+  },
+  "curses/轻视": {
+    "icon": "轻视",
+    "file": "assets/icons/curses/_E8_BD_BB_E8_A7_86.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/轻视.png"
+  },
+  "curses/蔑视": {
+    "icon": "蔑视",
+    "file": "assets/icons/curses/_E8_94_91_E8_A7_86.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/蔑视.png"
+  },
+  "curses/无知": {
+    "icon": "无知",
+    "file": "assets/icons/curses/_E6_97_A0_E7_9F_A5.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/无知.png"
+  },
+  "curses/无畏": {
+    "icon": "无畏",
+    "file": "assets/icons/curses/_E6_97_A0_E7_95_8F.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/无畏.png"
+  },
+  "curses/多虑": {
+    "icon": "多虑",
+    "file": "assets/icons/curses/_E5_A4_9A_E8_99_91.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/多虑.png"
+  },
+  "curses/稳健": {
+    "icon": "稳健",
+    "file": "assets/icons/curses/_E7_A8_B3_E5_81_A5.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/稳健.png"
+  },
+  "curses/衰竭": {
+    "icon": "衰竭",
+    "file": "assets/icons/curses/_E8_A1_B0_E7_AB_AD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/衰竭.png"
+  },
+  "curses/振奋": {
+    "icon": "振奋",
+    "file": "assets/icons/curses/_E6_8C_AF_E5_A5_8B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/振奋.png"
+  },
+  "curses/吝啬": {
+    "icon": "吝啬",
+    "file": "assets/icons/curses/_E5_90_9D_E5_95_AC.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/吝啬.png"
+  },
+  "curses/富饶": {
+    "icon": "富饶",
+    "file": "assets/icons/curses/_E5_AF_8C_E9_A5_B6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/富饶.png"
+  },
+  "curses/内向": {
+    "icon": "内向",
+    "file": "assets/icons/curses/_E5_86_85_E5_90_91.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/内向.png"
+  },
+  "curses/外向": {
+    "icon": "外向",
+    "file": "assets/icons/curses/_E5_A4_96_E5_90_91.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/外向.png"
+  },
+  "curses/偏执": {
+    "icon": "偏执",
+    "file": "assets/icons/curses/_E5_81_8F_E6_89_A7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/偏执.png"
+  },
+  "curses/执着": {
+    "icon": "执着",
+    "file": "assets/icons/curses/_E6_89_A7_E7_9D_80.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/执着.png"
+  },
+  "curses/困倦": {
+    "icon": "困倦",
+    "file": "assets/icons/curses/_E5_9B_B0_E5_80_A6.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/困倦.png"
+  },
+  "curses/清醒": {
+    "icon": "清醒",
+    "file": "assets/icons/curses/_E6_B8_85_E9_86_92.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/清醒.png"
+  },
+  "curses/愚善": {
+    "icon": "愚善",
+    "file": "assets/icons/curses/_E6_84_9A_E5_96_84.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/愚善.png"
+  },
+  "curses/仁慈": {
+    "icon": "仁慈",
+    "file": "assets/icons/curses/_E4_BB_81_E6_85_88.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/仁慈.png"
+  },
+  "curses/绝望": {
+    "icon": "绝望",
+    "file": "assets/icons/curses/_E7_BB_9D_E6_9C_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/绝望.png"
+  },
+  "curses/坚定": {
+    "icon": "坚定",
+    "file": "assets/icons/curses/_E5_9D_9A_E5_AE_9A.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/坚定.png"
+  },
+  "curses/狂妄": {
+    "icon": "狂妄",
+    "file": "assets/icons/curses/_E7_8B_82_E5_A6_84.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/狂妄.png"
+  },
+  "curses/荣耀": {
+    "icon": "荣耀",
+    "file": "assets/icons/curses/_E8_8D_A3_E8_80_80.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/荣耀.png"
+  },
+  "curses/恐惧": {
+    "icon": "恐惧",
+    "file": "assets/icons/curses/_E6_81_90_E6_83_A7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/恐惧.png"
+  },
+  "curses/勇气": {
+    "icon": "勇气",
+    "file": "assets/icons/curses/_E5_8B_87_E6_B0_94.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/勇气.png"
+  },
+  "curses/焦虑": {
+    "icon": "焦虑",
+    "file": "assets/icons/curses/_E7_84_A6_E8_99_91.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/焦虑.png"
+  },
+  "curses/放松": {
+    "icon": "放松",
+    "file": "assets/icons/curses/_E6_94_BE_E6_9D_BE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/放松.png"
+  },
+  "curses/懒惰": {
+    "icon": "懒惰",
+    "file": "assets/icons/curses/_E6_87_92_E6_83_B0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/懒惰.png"
+  },
+  "curses/勤快": {
+    "icon": "勤快",
+    "file": "assets/icons/curses/_E5_8B_A4_E5_BF_AB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/勤快.png"
+  },
+  "curses/笨拙": {
+    "icon": "笨拙",
+    "file": "assets/icons/curses/_E7_AC_A8_E6_8B_99.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/笨拙.png"
+  },
+  "curses/娴熟": {
+    "icon": "娴熟",
+    "file": "assets/icons/curses/_E5_A8_B4_E7_86_9F.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/娴熟.png"
+  },
+  "curses/不幸": {
+    "icon": "不幸",
+    "file": "assets/icons/curses/_E4_B8_8D_E5_B9_B8.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/不幸.png"
+  },
+  "curses/幸运": {
+    "icon": "幸运",
+    "file": "assets/icons/curses/_E5_B9_B8_E8_BF_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/幸运.png"
+  },
+  "curses/张扬": {
+    "icon": "张扬",
+    "file": "assets/icons/curses/_E5_BC_A0_E6_89_AC.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/张扬.png"
+  },
+  "curses/内敛": {
+    "icon": "内敛",
+    "file": "assets/icons/curses/_E5_86_85_E6_95_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/内敛.png"
+  },
+  "curses/多疑": {
+    "icon": "多疑",
+    "file": "assets/icons/curses/_E5_A4_9A_E7_96_91.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/多疑.png"
+  },
+  "curses/笃信": {
+    "icon": "笃信",
+    "file": "assets/icons/curses/_E7_AC_83_E4_BF_A1.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/笃信.png"
+  },
+  "curses/骄矜": {
+    "icon": "骄矜",
+    "file": "assets/icons/curses/_E9_AA_84_E7_9F_9C.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/骄矜.png"
+  },
+  "curses/正直": {
+    "icon": "正直",
+    "file": "assets/icons/curses/_E6_AD_A3_E7_9B_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/正直.png"
+  },
+  "curses/暴食": {
+    "icon": "暴食",
+    "file": "assets/icons/curses/_E6_9A_B4_E9_A3_9F.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/暴食.png"
+  },
+  "curses/盛宴": {
+    "icon": "盛宴",
+    "file": "assets/icons/curses/_E7_9B_9B_E5_AE_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/盛宴.png"
+  },
+  "curses/盲目": {
+    "icon": "盲目",
+    "file": "assets/icons/curses/_E7_9B_B2_E7_9B_AE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/盲目.png"
+  },
+  "curses/洞察": {
+    "icon": "洞察",
+    "file": "assets/icons/curses/_E6_B4_9E_E5_AF_9F.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/侵蚀图标/洞察.png"
+  },
+  "curses/缺图": {
+    "icon": "缺图",
+    "file": "assets/icons/curses/_E7_BC_BA_E5_9B_BE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/buff图标/缺图.png"
+  }
+}

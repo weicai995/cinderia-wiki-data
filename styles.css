@@ -317,9 +317,47 @@ select:focus {
 }
 
 .data-card h3 {
-  margin: 16px 0 4px;
+  margin: 0 0 4px;
   font-size: 1.55rem;
   letter-spacing: -0.03em;
+}
+
+.card-main {
+  display: grid;
+  grid-template-columns: 64px minmax(0, 1fr);
+  gap: 12px;
+  align-items: start;
+  margin-top: 16px;
+}
+
+.card-main.no-icon {
+  grid-template-columns: 1fr;
+}
+
+.icon-slot {
+  display: grid;
+  width: 64px;
+  height: 64px;
+  place-items: center;
+  border: 1px solid rgba(23, 33, 27, 0.12);
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.5);
+  overflow: hidden;
+}
+
+.icon-slot[hidden] {
+  display: none;
+}
+
+.icon-image {
+  width: 56px;
+  height: 56px;
+  object-fit: contain;
+  image-rendering: auto;
+}
+
+.card-title-block {
+  min-width: 0;
 }
 
 .subname {
@@ -444,6 +482,19 @@ td {
   color: #26382f;
   overflow-wrap: anywhere;
   line-height: 1.42;
+}
+
+.image-cell {
+  width: 72px;
+  min-width: 72px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.table-icon {
+  width: 44px;
+  height: 44px;
+  object-fit: contain;
 }
 
 tbody tr:hover td {

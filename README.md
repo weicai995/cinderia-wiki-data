@@ -22,3 +22,4 @@ http://localhost:4173
 The `site` folder is static. It can be deployed to GitHub Pages, Cloudflare Pages, Netlify, or any static hosting provider.
 
 Use `D:\data_exproter\build_site.mjs` after every export to refresh `site/data`.
+The build also copies card, item, and curse icons into `site/assets/icons` and adds `icon_image` paths to the site JSON.

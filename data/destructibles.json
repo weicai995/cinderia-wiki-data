@@ -234,10 +234,10 @@
     "hide_skill_effect": "no"
   },
   {
-    "en_name": "Candles",
+    "en_name": "Candle",
     "id": "蜡烛",
     "cn_name": "蜡烛",
-    "en_type": "Candles",
+    "en_type": "Candle",
     "type_cn": "蜡烛",
     "hp": "10",
     "blocks_path": "no",
@@ -669,7 +669,7 @@
     "en_name": "绳子",
     "id": "绳子",
     "cn_name": "绳子",
-    "en_type": "Candles",
+    "en_type": "Candle",
     "type_cn": "蜡烛",
     "hp": "10",
     "blocks_path": "no",

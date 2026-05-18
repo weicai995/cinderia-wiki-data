@@ -4,7 +4,7 @@ const DATASETS = {
     file: "cards.json",
     title: "Magic Cards and passive abilities",
     searchable: ["en_name", "id", "cn_name", "base_en_name", "base_id", "base_cn_name", "en_description", "cn_description", "hero_en", "kind_en", "icon"],
-    tableFields: ["base_en_name", "en_name", "id", "cn_name", "hero_en", "kind_en", "rarity", "item_level", "icon", "en_description"],
+    tableFields: ["icon_image", "base_en_name", "en_name", "id", "cn_name", "hero_en", "kind_en", "rarity", "item_level", "icon", "en_description"],
     hero: true,
     type: true,
     render: renderCard,
@@ -14,7 +14,7 @@ const DATASETS = {
     file: "items.json",
     title: "Items and artifacts",
     searchable: ["en_name", "id", "cn_name", "base_en_name", "base_id", "base_cn_name", "en_description", "cn_description", "icon"],
-    tableFields: ["base_en_name", "en_name", "id", "cn_name", "item_level", "rarity", "icon", "obtainable", "en_description"],
+    tableFields: ["icon_image", "base_en_name", "en_name", "id", "cn_name", "item_level", "rarity", "icon", "obtainable", "en_description"],
     render: renderItem,
   },
   curses: {
@@ -22,7 +22,7 @@ const DATASETS = {
     file: "curses.json",
     title: "Curses and blessings",
     searchable: ["en_name", "id", "cn_name", "base_en_name", "base_id", "base_cn_name", "en_description", "cn_description", "icon"],
-    tableFields: ["base_en_name", "en_name", "id", "cn_name", "item_level", "rarity", "icon", "obtainable", "en_description"],
+    tableFields: ["icon_image", "base_en_name", "en_name", "id", "cn_name", "item_level", "rarity", "icon", "obtainable", "en_description"],
     render: renderCurse,
   },
   events: {
@@ -51,7 +51,7 @@ const DATASETS = {
   },
 };
 
-const BUILD_VERSION = "20260429-base-title";
+const BUILD_VERSION = "20260518-icons";
 
 const state = {
   active: "cards",
@@ -241,6 +241,8 @@ function renderCard(row) {
   const subtitle = [row.en_name, row.cn_name].filter(Boolean).join(" / ");
   return baseCard({
     className: heroClass(row.hero_en),
+    iconImage: row.icon_image,
+    iconAlt: row.icon || row.base_en_name || row.en_name,
     badge: [row.hero_en, row.kind_en].filter(Boolean).join(" / ") || "Card",
     id: row.id,
     title: row.base_en_name || row.en_name,
@@ -262,6 +264,8 @@ function renderCard(row) {
 function renderItem(row) {
   const subtitle = [row.en_name, row.cn_name].filter(Boolean).join(" / ");
   return baseCard({
+    iconImage: row.icon_image,
+    iconAlt: row.icon || row.base_en_name || row.en_name,
     badge: `Item Lv ${row.item_level || "?"}`,
     id: row.id,
     title: row.base_en_name || row.en_name,
@@ -281,6 +285,8 @@ function renderItem(row) {
 function renderCurse(row) {
   const subtitle = [row.en_name, row.cn_name].filter(Boolean).join(" / ");
   return baseCard({
+    iconImage: row.icon_image,
+    iconAlt: row.icon || row.base_en_name || row.en_name,
     badge: `Curse / Blessing${row.item_level ? ` Lv ${row.item_level}` : ""}`,
     id: row.id,
     title: row.base_en_name || row.en_name,
@@ -359,7 +365,18 @@ function renderTable(rows, spec) {
 
 function renderTableRow(row, fields) {
   const hero = heroClass(row.hero_en);
-  return `<tr class="${hero ? `row-${hero}` : ""}">${fields.map((field) => `<td>${escapeHtml(row[field] ?? "")}</td>`).join("")}</tr>`;
+  return `<tr class="${hero ? `row-${hero}` : ""}">${fields.map((field) => renderTableCell(row, field)).join("")}</tr>`;
+}
+
+function renderTableCell(row, field) {
+  if (field === "icon_image") {
+    const image = row.icon_image;
+    if (!image) return `<td class="image-cell"></td>`;
+    const alt = row.icon || row.base_en_name || row.en_name || "Icon";
+    return `<td class="image-cell"><img class="table-icon" src="${escapeHtml(image)}" alt="${escapeHtml(alt)}" loading="lazy" /></td>`;
+  }
+
+  return `<td>${escapeHtml(row[field] ?? "")}</td>`;
 }
 
 function renderPagination(totalPages) {
@@ -392,6 +409,7 @@ function paginationWindow(current, total) {
 function labelFor(field) {
   const labels = {
     en_name: "English Name",
+    icon_image: "Image",
     base_en_name: "Base English Name",
     base_id: "Base ID",
     base_cn_name: "Base Chinese Name",
@@ -422,7 +440,7 @@ function labelFor(field) {
   return labels[field] ?? field.replaceAll("_", " ");
 }
 
-function baseCard({ className = "", badge = "", id = "", title = "", subtitle = "", description = "", meta = [] }) {
+function baseCard({ className = "", iconImage = "", iconAlt = "", badge = "", id = "", title = "", subtitle = "", description = "", meta = [] }) {
   const node = template.content.firstElementChild.cloneNode(true);
   const descriptionText = String(description || "");
   const canExpand = descriptionText.length > 190 || descriptionText.includes("\n");
@@ -434,6 +452,16 @@ function baseCard({ className = "", badge = "", id = "", title = "", subtitle = 
   node.querySelector(".subname").textContent = subtitle || "";
   node.querySelector(".description").textContent = descriptionText;
   node.querySelector(".expand-toggle").hidden = !canExpand;
+
+  const iconSlot = node.querySelector(".icon-slot");
+  const icon = node.querySelector(".icon-image");
+  if (iconImage) {
+    iconSlot.hidden = false;
+    icon.src = iconImage;
+    icon.alt = iconAlt ? `${iconAlt} icon` : "";
+  } else {
+    node.querySelector(".card-main").classList.add("no-icon");
+  }
 
   const metaNode = node.querySelector(".meta");
   metaNode.innerHTML = meta
