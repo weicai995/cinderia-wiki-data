@@ -49,76 +49,6 @@
     "first_seen_id": "小蓝右键移动"
   },
   {
-    "category": "description",
-    "cn_text": "当刺猬的攻击或针刺散射命中敌人时，叠加1.5%的的尖刺易伤。最多叠加50层。",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "连环刺痛"
-  },
-  {
-    "category": "description",
-    "cn_text": "当刺猬的攻击或针刺散射命中敌人时，叠加2%的的尖刺易伤。最多叠加60层。",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "连环刺痛+"
-  },
-  {
-    "category": "description",
-    "cn_text": "地震有12%额外几率造成暴击，并增加增加16%的作用范围。",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "震级提升"
-  },
-  {
-    "category": "description",
-    "cn_text": "地震有16%额外几率造成暴击，并增加增加24%的作用范围。",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "震级提升+"
-  },
-  {
-    "category": "description",
-    "cn_text": "地震越接近中心伤害越高，最多提65%。",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "震核"
-  },
-  {
-    "category": "description",
-    "cn_text": "每次近战攻击都会使你获得3.5%闪避率，持续8秒，可叠加最多10层。",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "闪避本能"
-  },
-  {
-    "category": "description",
-    "cn_text": "每次近战攻击都会使你获得5%闪避率，持续8秒，可叠加最多10层。",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "闪避本能+"
-  },
-  {
-    "category": "description",
-    "cn_text": "使用技能后在1秒内内回复20点霜寒值。",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "雪崩6"
-  },
-  {
-    "category": "description",
-    "cn_text": "使用魔卡时熊会怒吼并恐惧周围的敌人，动物伙伴在4.5秒内获得50%攻击力。",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "领袖咆哮+"
-  },
-  {
-    "category": "description",
-    "cn_text": "投掷一枚闪光雷，对一定范围内的全部敌人造成40点伤害并在他他们身上附加1层标记，闪光雷爆炸后可以再向前弹射一次。冷却时间9秒。",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "弹跳闪光雷"
-  },
-  {
     "category": "destructible_name",
     "cn_text": "玻璃瓶",
     "suggested_en": "",
@@ -1863,6 +1793,13 @@
   },
   {
     "category": "event_talker",
+    "cn_text": "园丁",
+    "suggested_en": "",
+    "count": 15,
+    "first_seen_id": "园丁初见1"
+  },
+  {
+    "category": "event_talker",
     "cn_text": "黑妖精",
     "suggested_en": "",
     "count": 14,
@@ -1874,13 +1811,6 @@
     "suggested_en": "",
     "count": 14,
     "first_seen_id": "治疗动物一4"
-  },
-  {
-    "category": "event_talker",
-    "cn_text": "园丁(临时)",
-    "suggested_en": "",
-    "count": 14,
-    "first_seen_id": "园丁初见1"
   },
   {
     "category": "event_talker",
@@ -2147,13 +2077,6 @@
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "扣钱100"
-  },
-  {
-    "category": "name",
-    "cn_text": "领袖咆哮+",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "领袖咆哮+"
   },
   {
     "category": "name",
