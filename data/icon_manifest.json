@@ -1324,50 +1324,110 @@
     "file": "assets/icons/cards/_E5_AF_92_E5_86_B0_E4_B9_8B_E5_BF_83.png",
     "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒冰之心.png"
   },
-  "cards/龙角顶撞": {
-    "icon": "龙角顶撞",
-    "file": "assets/icons/cards/_E9_BE_99_E8_A7_92_E9_A1_B6_E6_92_9E.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/龙角顶撞.png"
+  "cards/轻装": {
+    "icon": "轻装",
+    "file": "assets/icons/cards/_E8_BD_BB_E8_A3_85.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/轻装.png"
+  },
+  "cards/以攻为守": {
+    "icon": "以攻为守",
+    "file": "assets/icons/cards/_E4_BB_A5_E6_94_BB_E4_B8_BA_E5_AE_88.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/以攻为守.png"
+  },
+  "cards/冰结光环": {
+    "icon": "冰结光环",
+    "file": "assets/icons/cards/_E5_86_B0_E7_BB_93_E5_85_89_E7_8E_AF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰结光环.png"
+  },
+  "cards/连续冲撞": {
+    "icon": "连续冲撞",
+    "file": "assets/icons/cards/_E8_BF_9E_E7_BB_AD_E5_86_B2_E6_92_9E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/连续冲撞.png"
+  },
+  "cards/震荡撞击": {
+    "icon": "震荡撞击",
+    "file": "assets/icons/cards/_E9_9C_87_E8_8D_A1_E6_92_9E_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/震荡撞击.png"
+  },
+  "cards/势大力沉": {
+    "icon": "势大力沉",
+    "file": "assets/icons/cards/_E5_8A_BF_E5_A4_A7_E5_8A_9B_E6_B2_89.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/势大力沉.png"
   },
   "cards/长枪横扫": {
     "icon": "长枪横扫",
     "file": "assets/icons/cards/_E9_95_BF_E6_9E_AA_E6_A8_AA_E6_89_AB.png",
     "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/长枪横扫.png"
   },
-  "cards/顺势猛砸": {
-    "icon": "顺势猛砸",
-    "file": "assets/icons/cards/_E9_A1_BA_E5_8A_BF_E7_8C_9B_E7_A0_B8.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/顺势猛砸.png"
+  "cards/迅猛连击": {
+    "icon": "迅猛连击",
+    "file": "assets/icons/cards/_E8_BF_85_E7_8C_9B_E8_BF_9E_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/迅猛连击.png"
   },
-  "cards/龙族呼吸": {
-    "icon": "龙族呼吸",
-    "file": "assets/icons/cards/_E9_BE_99_E6_97_8F_E5_91_BC_E5_90_B8.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/龙族呼吸.png"
+  "cards/巨力挥击": {
+    "icon": "巨力挥击",
+    "file": "assets/icons/cards/_E5_B7_A8_E5_8A_9B_E6_8C_A5_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/巨力挥击.png"
+  },
+  "cards/枪舞": {
+    "icon": "枪舞",
+    "file": "assets/icons/cards/_E6_9E_AA_E8_88_9E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/枪舞.png"
   },
   "cards/寒风突袭": {
     "icon": "寒风突袭",
     "file": "assets/icons/cards/_E5_AF_92_E9_A3_8E_E7_AA_81_E8_A2_AD.png",
     "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒风突袭.png"
   },
-  "cards/迅猛连击": {
-    "icon": "迅猛连击",
-    "file": "assets/icons/cards/_E8_BF_85_E7_8C_9B_E8_BF_9E_E5_87_BB.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/迅猛连击.png"
-  },
   "cards/捅穿": {
     "icon": "捅穿",
     "file": "assets/icons/cards/_E6_8D_85_E7_A9_BF.png",
     "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/捅穿.png"
   },
-  "cards/坠击": {
-    "icon": "坠击",
-    "file": "assets/icons/cards/_E5_9D_A0_E5_87_BB.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/坠击.png"
+  "cards/破军突刺": {
+    "icon": "破军突刺",
+    "file": "assets/icons/cards/_E7_A0_B4_E5_86_9B_E7_AA_81_E5_88_BA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/破军突刺.png"
+  },
+  "cards/破碎": {
+    "icon": "破碎",
+    "file": "assets/icons/cards/_E7_A0_B4_E7_A2_8E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/破碎.png"
+  },
+  "cards/钝锋重击": {
+    "icon": "钝锋重击",
+    "file": "assets/icons/cards/_E9_92_9D_E9_94_8B_E9_87_8D_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/钝锋重击.png"
+  },
+  "cards/冰锋穿刺": {
+    "icon": "冰锋穿刺",
+    "file": "assets/icons/cards/_E5_86_B0_E9_94_8B_E7_A9_BF_E5_88_BA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰锋穿刺.png"
   },
   "cards/巨盾冲击": {
     "icon": "巨盾冲击",
     "file": "assets/icons/cards/_E5_B7_A8_E7_9B_BE_E5_86_B2_E5_87_BB.png",
     "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/巨盾冲击.png"
+  },
+  "cards/护盾充能": {
+    "icon": "护盾充能",
+    "file": "assets/icons/cards/_E6_8A_A4_E7_9B_BE_E5_85_85_E8_83_BD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/护盾充能.png"
+  },
+  "cards/寒意": {
+    "icon": "寒意",
+    "file": "assets/icons/cards/_E5_AF_92_E6_84_8F.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒意.png"
+  },
+  "cards/灵活步伐": {
+    "icon": "灵活步伐",
+    "file": "assets/icons/cards/_E7_81_B5_E6_B4_BB_E6_AD_A5_E4_BC_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/灵活步伐.png"
+  },
+  "cards/寒霜回流": {
+    "icon": "寒霜回流",
+    "file": "assets/icons/cards/_E5_AF_92_E9_9C_9C_E5_9B_9E_E6_B5_81.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒霜回流.png"
   },
   "cards/三重壁垒": {
     "icon": "三重壁垒",
@@ -1379,25 +1439,40 @@
     "file": "assets/icons/cards/_E6_8C_81_E7_BB_AD_E5_8F_8D_E5_87_BB.png",
     "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/持续反击.png"
   },
-  "cards/破盾霜爆": {
-    "icon": "破盾霜爆",
-    "file": "assets/icons/cards/_E7_A0_B4_E7_9B_BE_E9_9C_9C_E7_88_86.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/破盾霜爆.png"
-  },
-  "cards/护盾充能": {
-    "icon": "护盾充能",
-    "file": "assets/icons/cards/_E6_8A_A4_E7_9B_BE_E5_85_85_E8_83_BD.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/护盾充能.png"
-  },
-  "cards/碎冰回响": {
-    "icon": "碎冰回响",
-    "file": "assets/icons/cards/_E7_A2_8E_E5_86_B0_E5_9B_9E_E5_93_8D.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/碎冰回响.png"
-  },
   "cards/寒光折射": {
     "icon": "寒光折射",
     "file": "assets/icons/cards/_E5_AF_92_E5_85_89_E6_8A_98_E5_B0_84.png",
     "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒光折射.png"
+  },
+  "cards/壁垒": {
+    "icon": "壁垒",
+    "file": "assets/icons/cards/_E5_A3_81_E5_9E_92.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/壁垒.png"
+  },
+  "cards/凌凌如风": {
+    "icon": "凌凌如风",
+    "file": "assets/icons/cards/_E5_87_8C_E5_87_8C_E5_A6_82_E9_A3_8E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/凌凌如风.png"
+  },
+  "cards/霜盾反击": {
+    "icon": "霜盾反击",
+    "file": "assets/icons/cards/_E9_9C_9C_E7_9B_BE_E5_8F_8D_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/霜盾反击.png"
+  },
+  "cards/极寒延续": {
+    "icon": "极寒延续",
+    "file": "assets/icons/cards/_E6_9E_81_E5_AF_92_E5_BB_B6_E7_BB_AD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/极寒延续.png"
+  },
+  "cards/节奏掌控": {
+    "icon": "节奏掌控",
+    "file": "assets/icons/cards/_E8_8A_82_E5_A5_8F_E6_8E_8C_E6_8E_A7.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/节奏掌控.png"
+  },
+  "cards/顺势猛砸": {
+    "icon": "顺势猛砸",
+    "file": "assets/icons/cards/_E9_A1_BA_E5_8A_BF_E7_8C_9B_E7_A0_B8.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/顺势猛砸.png"
   },
   "cards/寒风步": {
     "icon": "寒风步",
@@ -1408,6 +1483,36 @@
     "icon": "冰霜余震",
     "file": "assets/icons/cards/_E5_86_B0_E9_9C_9C_E4_BD_99_E9_9C_87.png",
     "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰霜余震.png"
+  },
+  "cards/破盾霜爆": {
+    "icon": "破盾霜爆",
+    "file": "assets/icons/cards/_E7_A0_B4_E7_9B_BE_E9_9C_9C_E7_88_86.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/破盾霜爆.png"
+  },
+  "cards/速冻之环": {
+    "icon": "速冻之环",
+    "file": "assets/icons/cards/_E9_80_9F_E5_86_BB_E4_B9_8B_E7_8E_AF.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/速冻之环.png"
+  },
+  "cards/霜锋锐化": {
+    "icon": "霜锋锐化",
+    "file": "assets/icons/cards/_E9_9C_9C_E9_94_8B_E9_94_90_E5_8C_96.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/霜锋锐化.png"
+  },
+  "cards/余波": {
+    "icon": "余波",
+    "file": "assets/icons/cards/_E4_BD_99_E6_B3_A2.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/余波.png"
+  },
+  "cards/寒气扩张": {
+    "icon": "寒气扩张",
+    "file": "assets/icons/cards/_E5_AF_92_E6_B0_94_E6_89_A9_E5_BC_A0.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒气扩张.png"
+  },
+  "cards/碎冰回响": {
+    "icon": "碎冰回响",
+    "file": "assets/icons/cards/_E7_A2_8E_E5_86_B0_E5_9B_9E_E5_93_8D.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/碎冰回响.png"
   },
   "cards/寒气侵蚀": {
     "icon": "寒气侵蚀",
@@ -1454,20 +1559,65 @@
     "file": "assets/icons/cards/_E5_86_B0_E9_9C_9C_E8_B7_83_E5_87_BB.png",
     "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰霜跃击.png"
   },
-  "cards/霜爆侵袭": {
-    "icon": "霜爆侵袭",
-    "file": "assets/icons/cards/_E9_9C_9C_E7_88_86_E4_BE_B5_E8_A2_AD.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/霜爆侵袭.png"
+  "cards/冰霜降临": {
+    "icon": "冰霜降临",
+    "file": "assets/icons/cards/_E5_86_B0_E9_9C_9C_E9_99_8D_E4_B8_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰霜降临.png"
   },
   "cards/冰晶怒放": {
     "icon": "冰晶怒放",
     "file": "assets/icons/cards/_E5_86_B0_E6_99_B6_E6_80_92_E6_94_BE.png",
     "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰晶怒放.png"
   },
+  "cards/霜爆侵袭": {
+    "icon": "霜爆侵袭",
+    "file": "assets/icons/cards/_E9_9C_9C_E7_88_86_E4_BE_B5_E8_A2_AD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/霜爆侵袭.png"
+  },
   "cards/冰霜余波": {
     "icon": "冰霜余波",
     "file": "assets/icons/cards/_E5_86_B0_E9_9C_9C_E4_BD_99_E6_B3_A2.png",
     "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰霜余波.png"
+  },
+  "cards/霜域之力": {
+    "icon": "霜域之力",
+    "file": "assets/icons/cards/_E9_9C_9C_E5_9F_9F_E4_B9_8B_E5_8A_9B.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/霜域之力.png"
+  },
+  "cards/寒霜领域": {
+    "icon": "寒霜领域",
+    "file": "assets/icons/cards/_E5_AF_92_E9_9C_9C_E9_A2_86_E5_9F_9F.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒霜领域.png"
+  },
+  "cards/霜雪之痕": {
+    "icon": "霜雪之痕",
+    "file": "assets/icons/cards/_E9_9C_9C_E9_9B_AA_E4_B9_8B_E7_97_95.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/霜雪之痕.png"
+  },
+  "cards/冰封反击": {
+    "icon": "冰封反击",
+    "file": "assets/icons/cards/_E5_86_B0_E5_B0_81_E5_8F_8D_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰封反击.png"
+  },
+  "cards/冰龙降临": {
+    "icon": "冰龙降临",
+    "file": "assets/icons/cards/_E5_86_B0_E9_BE_99_E9_99_8D_E4_B8_B4.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰龙降临.png"
+  },
+  "cards/霜域囚笼": {
+    "icon": "霜域囚笼",
+    "file": "assets/icons/cards/_E9_9C_9C_E5_9F_9F_E5_9B_9A_E7_AC_BC.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/霜域囚笼.png"
+  },
+  "cards/冰霜镇静": {
+    "icon": "冰霜镇静",
+    "file": "assets/icons/cards/_E5_86_B0_E9_9C_9C_E9_95_87_E9_9D_99.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰霜镇静.png"
+  },
+  "cards/冰霜蕴能": {
+    "icon": "冰霜蕴能",
+    "file": "assets/icons/cards/_E5_86_B0_E9_9C_9C_E8_95_B4_E8_83_BD.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰霜蕴能.png"
   },
   "cards/贯穿终结": {
     "icon": "贯穿终结",
@@ -1494,6 +1644,21 @@
     "file": "assets/icons/cards/_E7_A9_BA_E4_B8_AD_E8_BF_BD_E9_94_8B.png",
     "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/空中追锋.png"
   },
+  "cards/投掷专精": {
+    "icon": "投掷专精",
+    "file": "assets/icons/cards/_E6_8A_95_E6_8E_B7_E4_B8_93_E7_B2_BE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/投掷专精.png"
+  },
+  "cards/坠击": {
+    "icon": "坠击",
+    "file": "assets/icons/cards/_E5_9D_A0_E5_87_BB.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/坠击.png"
+  },
+  "cards/龙角顶撞": {
+    "icon": "龙角顶撞",
+    "file": "assets/icons/cards/_E9_BE_99_E8_A7_92_E9_A1_B6_E6_92_9E.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/龙角顶撞.png"
+  },
   "cards/空中截杀": {
     "icon": "空中截杀",
     "file": "assets/icons/cards/_E7_A9_BA_E4_B8_AD_E6_88_AA_E6_9D_80.png",
@@ -1509,6 +1674,16 @@
     "file": "assets/icons/cards/_E5_AF_B9_E7_A9_BA_E6_9A_B4_E5_87_BB.png",
     "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/对空暴击.png"
   },
+  "cards/龙族呼吸": {
+    "icon": "龙族呼吸",
+    "file": "assets/icons/cards/_E9_BE_99_E6_97_8F_E5_91_BC_E5_90_B8.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/龙族呼吸.png"
+  },
+  "cards/撒雪": {
+    "icon": "撒雪",
+    "file": "assets/icons/cards/_E6_92_92_E9_9B_AA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/撒雪.png"
+  },
   "cards/破冰盾": {
     "icon": "破冰盾",
     "file": "assets/icons/cards/_E7_A0_B4_E5_86_B0_E7_9B_BE.png",
@@ -1523,171 +1698,6 @@
     "icon": "凿冰大师",
     "file": "assets/icons/cards/_E5_87_BF_E5_86_B0_E5_A4_A7_E5_B8_88.png",
     "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/凿冰大师.png"
-  },
-  "cards/巨力挥击": {
-    "icon": "巨力挥击",
-    "file": "assets/icons/cards/_E5_B7_A8_E5_8A_9B_E6_8C_A5_E5_87_BB.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/巨力挥击.png"
-  },
-  "cards/枪舞": {
-    "icon": "枪舞",
-    "file": "assets/icons/cards/_E6_9E_AA_E8_88_9E.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/枪舞.png"
-  },
-  "cards/撒雪": {
-    "icon": "撒雪",
-    "file": "assets/icons/cards/_E6_92_92_E9_9B_AA.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/撒雪.png"
-  },
-  "cards/破军突刺": {
-    "icon": "破军突刺",
-    "file": "assets/icons/cards/_E7_A0_B4_E5_86_9B_E7_AA_81_E5_88_BA.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/破军突刺.png"
-  },
-  "cards/破碎": {
-    "icon": "破碎",
-    "file": "assets/icons/cards/_E7_A0_B4_E7_A2_8E.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/破碎.png"
-  },
-  "cards/寒意": {
-    "icon": "寒意",
-    "file": "assets/icons/cards/_E5_AF_92_E6_84_8F.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒意.png"
-  },
-  "cards/轻装": {
-    "icon": "轻装",
-    "file": "assets/icons/cards/_E8_BD_BB_E8_A3_85.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/轻装.png"
-  },
-  "cards/壁垒": {
-    "icon": "壁垒",
-    "file": "assets/icons/cards/_E5_A3_81_E5_9E_92.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/壁垒.png"
-  },
-  "cards/以攻为守": {
-    "icon": "以攻为守",
-    "file": "assets/icons/cards/_E4_BB_A5_E6_94_BB_E4_B8_BA_E5_AE_88.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/以攻为守.png"
-  },
-  "cards/凌凌如风": {
-    "icon": "凌凌如风",
-    "file": "assets/icons/cards/_E5_87_8C_E5_87_8C_E5_A6_82_E9_A3_8E.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/凌凌如风.png"
-  },
-  "cards/寒霜回流": {
-    "icon": "寒霜回流",
-    "file": "assets/icons/cards/_E5_AF_92_E9_9C_9C_E5_9B_9E_E6_B5_81.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒霜回流.png"
-  },
-  "cards/投掷专精": {
-    "icon": "投掷专精",
-    "file": "assets/icons/cards/_E6_8A_95_E6_8E_B7_E4_B8_93_E7_B2_BE.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/投掷专精.png"
-  },
-  "cards/冰结光环": {
-    "icon": "冰结光环",
-    "file": "assets/icons/cards/_E5_86_B0_E7_BB_93_E5_85_89_E7_8E_AF.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰结光环.png"
-  },
-  "cards/灵活步伐": {
-    "icon": "灵活步伐",
-    "file": "assets/icons/cards/_E7_81_B5_E6_B4_BB_E6_AD_A5_E4_BC_90.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/灵活步伐.png"
-  },
-  "cards/连续冲撞": {
-    "icon": "连续冲撞",
-    "file": "assets/icons/cards/_E8_BF_9E_E7_BB_AD_E5_86_B2_E6_92_9E.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/连续冲撞.png"
-  },
-  "cards/震荡撞击": {
-    "icon": "震荡撞击",
-    "file": "assets/icons/cards/_E9_9C_87_E8_8D_A1_E6_92_9E_E5_87_BB.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/震荡撞击.png"
-  },
-  "cards/势大力沉": {
-    "icon": "势大力沉",
-    "file": "assets/icons/cards/_E5_8A_BF_E5_A4_A7_E5_8A_9B_E6_B2_89.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/势大力沉.png"
-  },
-  "cards/霜雪之痕": {
-    "icon": "霜雪之痕",
-    "file": "assets/icons/cards/_E9_9C_9C_E9_9B_AA_E4_B9_8B_E7_97_95.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/霜雪之痕.png"
-  },
-  "cards/冰锋穿刺": {
-    "icon": "冰锋穿刺",
-    "file": "assets/icons/cards/_E5_86_B0_E9_94_8B_E7_A9_BF_E5_88_BA.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰锋穿刺.png"
-  },
-  "cards/龙威": {
-    "icon": "龙威",
-    "file": "assets/icons/cards/_E9_BE_99_E5_A8_81.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/龙威.png"
-  },
-  "cards/冰霜镇静": {
-    "icon": "冰霜镇静",
-    "file": "assets/icons/cards/_E5_86_B0_E9_9C_9C_E9_95_87_E9_9D_99.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰霜镇静.png"
-  },
-  "cards/速冻之环": {
-    "icon": "速冻之环",
-    "file": "assets/icons/cards/_E9_80_9F_E5_86_BB_E4_B9_8B_E7_8E_AF.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/速冻之环.png"
-  },
-  "cards/余波": {
-    "icon": "余波",
-    "file": "assets/icons/cards/_E4_BD_99_E6_B3_A2.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/余波.png"
-  },
-  "cards/寒气扩张": {
-    "icon": "寒气扩张",
-    "file": "assets/icons/cards/_E5_AF_92_E6_B0_94_E6_89_A9_E5_BC_A0.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒气扩张.png"
-  },
-  "cards/寒能回流": {
-    "icon": "寒能回流",
-    "file": "assets/icons/cards/_E5_AF_92_E8_83_BD_E5_9B_9E_E6_B5_81.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒能回流.png"
-  },
-  "cards/霜锋锐化": {
-    "icon": "霜锋锐化",
-    "file": "assets/icons/cards/_E9_9C_9C_E9_94_8B_E9_94_90_E5_8C_96.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/霜锋锐化.png"
-  },
-  "cards/冰霜降临": {
-    "icon": "冰霜降临",
-    "file": "assets/icons/cards/_E5_86_B0_E9_9C_9C_E9_99_8D_E4_B8_B4.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰霜降临.png"
-  },
-  "cards/霜域之力": {
-    "icon": "霜域之力",
-    "file": "assets/icons/cards/_E9_9C_9C_E5_9F_9F_E4_B9_8B_E5_8A_9B.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/霜域之力.png"
-  },
-  "cards/寒霜领域": {
-    "icon": "寒霜领域",
-    "file": "assets/icons/cards/_E5_AF_92_E9_9C_9C_E9_A2_86_E5_9F_9F.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒霜领域.png"
-  },
-  "cards/寒霜审判": {
-    "icon": "寒霜审判",
-    "file": "assets/icons/cards/_E5_AF_92_E9_9C_9C_E5_AE_A1_E5_88_A4.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/寒霜审判.png"
-  },
-  "cards/冰封反击": {
-    "icon": "冰封反击",
-    "file": "assets/icons/cards/_E5_86_B0_E5_B0_81_E5_8F_8D_E5_87_BB.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰封反击.png"
-  },
-  "cards/霜域囚笼": {
-    "icon": "霜域囚笼",
-    "file": "assets/icons/cards/_E9_9C_9C_E5_9F_9F_E5_9B_9A_E7_AC_BC.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/霜域囚笼.png"
-  },
-  "cards/冰霜蕴能": {
-    "icon": "冰霜蕴能",
-    "file": "assets/icons/cards/_E5_86_B0_E9_9C_9C_E8_95_B4_E8_83_BD.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰霜蕴能.png"
   },
   "cards/龙爪庇护": {
     "icon": "龙爪庇护",
@@ -1709,40 +1719,10 @@
     "file": "assets/icons/cards/_E9_BE_99_E7_89_99_E6_92_95_E8_A3_82.png",
     "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/龙牙撕裂.png"
   },
-  "cards/冰龙降临": {
-    "icon": "冰龙降临",
-    "file": "assets/icons/cards/_E5_86_B0_E9_BE_99_E9_99_8D_E4_B8_B4.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰龙降临.png"
-  },
-  "cards/钝锋重击": {
-    "icon": "钝锋重击",
-    "file": "assets/icons/cards/_E9_92_9D_E9_94_8B_E9_87_8D_E5_87_BB.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/钝锋重击.png"
-  },
-  "cards/霜盾反击": {
-    "icon": "霜盾反击",
-    "file": "assets/icons/cards/_E9_9C_9C_E7_9B_BE_E5_8F_8D_E5_87_BB.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/霜盾反击.png"
-  },
-  "cards/极寒延续": {
-    "icon": "极寒延续",
-    "file": "assets/icons/cards/_E6_9E_81_E5_AF_92_E5_BB_B6_E7_BB_AD.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/极寒延续.png"
-  },
-  "cards/节奏掌控": {
-    "icon": "节奏掌控",
-    "file": "assets/icons/cards/_E8_8A_82_E5_A5_8F_E6_8E_8C_E6_8E_A7.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/节奏掌控.png"
-  },
-  "cards/霜壁涟漪": {
-    "icon": "霜壁涟漪",
-    "file": "assets/icons/cards/_E9_9C_9C_E5_A3_81_E6_B6_9F_E6_BC_AA.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/霜壁涟漪.png"
-  },
-  "cards/无休之盾": {
-    "icon": "无休之盾",
-    "file": "assets/icons/cards/_E6_97_A0_E4_BC_91_E4_B9_8B_E7_9B_BE.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/无休之盾.png"
+  "cards/龙威": {
+    "icon": "龙威",
+    "file": "assets/icons/cards/_E9_BE_99_E5_A8_81.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/龙威.png"
   },
   "cards/凯旋之旗": {
     "icon": "凯旋之旗",
@@ -1754,15 +1734,15 @@
     "file": "assets/icons/cards/_E6_88_98_E6_84_8F_E9_AB_98_E6_98_82.png",
     "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/战意高昂.png"
   },
-  "cards/冰域旗帜": {
-    "icon": "冰域旗帜",
-    "file": "assets/icons/cards/_E5_86_B0_E5_9F_9F_E6_97_97_E5_B8_9C.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰域旗帜.png"
-  },
   "cards/震撼冲击": {
     "icon": "震撼冲击",
     "file": "assets/icons/cards/_E9_9C_87_E6_92_BC_E5_86_B2_E5_87_BB.png",
     "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/震撼冲击.png"
+  },
+  "cards/冰域旗帜": {
+    "icon": "冰域旗帜",
+    "file": "assets/icons/cards/_E5_86_B0_E5_9F_9F_E6_97_97_E5_B8_9C.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/冰域旗帜.png"
   },
   "cards/小绿左键": {
     "icon": "小绿左键",

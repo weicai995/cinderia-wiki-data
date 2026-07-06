@@ -553,7 +553,7 @@
     "strike_efficiency": "1",
     "bullet_efficiency": "1",
     "phases": "120 | 90 | 50",
-    "hit_effect": "被打烟雾特效",
+    "hit_effect": "树被打特效",
     "destroy_effect": "木头黄破坏特效",
     "hide_skill_effect": "no"
   },
@@ -590,7 +590,7 @@
     "bullet_efficiency": "1",
     "phases": "100 | 50",
     "hit_effect": "树灯被打特效",
-    "destroy_effect": "木牌破坏特效",
+    "destroy_effect": "树灯破坏特效",
     "hide_skill_effect": "no"
   },
   {
@@ -770,7 +770,7 @@
     "bullet_efficiency": "0.5",
     "phases": "100 | 95 | 50",
     "hit_effect": "大路灯被打特效",
-    "destroy_effect": "路灯破坏特效",
+    "destroy_effect": "桌子破坏特效",
     "hide_skill_effect": "no"
   },
   {
@@ -1112,7 +1112,7 @@
     "bullet_efficiency": "0.5",
     "phases": "100 | 50",
     "hit_effect": "大路灯被打特效",
-    "destroy_effect": "路灯破坏特效",
+    "destroy_effect": "桌子破坏特效",
     "hide_skill_effect": "no"
   },
   {
@@ -1311,6 +1311,60 @@
     "phases": "100 | 50",
     "hit_effect": "旗帜被打特效",
     "destroy_effect": "旗帜破坏特效",
+    "hide_skill_effect": "no"
+  },
+  {
+    "en_name": "教会十字架",
+    "id": "教会十字架",
+    "cn_name": "教会十字架",
+    "en_type": "中木头",
+    "type_cn": "中木头",
+    "hp": "80",
+    "blocks_path": "yes",
+    "indestructible": "yes",
+    "blocks_bullets": "yes",
+    "slash_efficiency": "2",
+    "strike_efficiency": "1",
+    "bullet_efficiency": "0.5",
+    "phases": "100 | 50",
+    "hit_effect": "旗杆被打特效",
+    "destroy_effect": "旗杆破坏特效",
+    "hide_skill_effect": "no"
+  },
+  {
+    "en_name": "教会旗帜小",
+    "id": "教会旗帜小",
+    "cn_name": "教会旗帜小",
+    "en_type": "中木头",
+    "type_cn": "中木头",
+    "hp": "80",
+    "blocks_path": "yes",
+    "indestructible": "yes",
+    "blocks_bullets": "yes",
+    "slash_efficiency": "2",
+    "strike_efficiency": "1",
+    "bullet_efficiency": "0.5",
+    "phases": "100 | 50",
+    "hit_effect": "旗杆被打特效",
+    "destroy_effect": "旗杆带布破坏特效",
+    "hide_skill_effect": "no"
+  },
+  {
+    "en_name": "教会旗帜大",
+    "id": "教会旗帜大",
+    "cn_name": "教会旗帜大",
+    "en_type": "巨大木头",
+    "type_cn": "巨大木头",
+    "hp": "120",
+    "blocks_path": "yes",
+    "indestructible": "yes",
+    "blocks_bullets": "yes",
+    "slash_efficiency": "2",
+    "strike_efficiency": "1",
+    "bullet_efficiency": "0.5",
+    "phases": "100 | 95 | 50",
+    "hit_effect": "铁杆子被打特效",
+    "destroy_effect": "旗杆铁破坏特效",
     "hide_skill_effect": "no"
   },
   {
@@ -2462,7 +2516,7 @@
     "bullet_efficiency": "1",
     "phases": "100 | 50",
     "hit_effect": "铁杆子被打特效",
-    "destroy_effect": "石头白破坏特效",
+    "destroy_effect": "旗杆铁破坏特效",
     "hide_skill_effect": "no"
   },
   {

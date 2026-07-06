@@ -49,6 +49,153 @@
     "first_seen_id": "小蓝右键移动"
   },
   {
+    "category": "description",
+    "cn_text": "冰晶柱持续时间+4，场上每有一个冰晶柱，你造成的伤害提高8%，受到的伤害减4%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "冰晶仪式"
+  },
+  {
+    "category": "description",
+    "cn_text": "冰晶柱持续时间+6，场上每有一个冰晶柱，你造成的伤害提高12%，受到的伤害减6%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "冰晶仪式+"
+  },
+  {
+    "category": "description",
+    "cn_text": "格挡值上限+2。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "寒冰之心2"
+  },
+  {
+    "category": "description",
+    "cn_text": "格挡值上限+2。举盾时可以反弹敌人的远程攻击，造成额外1100%伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "寒光折射"
+  },
+  {
+    "category": "description",
+    "cn_text": "格挡值上限+3。举盾时可以反弹敌人的远程攻击，造成额外1700%伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "寒光折射+"
+  },
+  {
+    "category": "description",
+    "cn_text": "恢复格挡值时有35%几率召唤冰龙，对你身边的随机位置投掷长矛，造成120点伤害并创造一个冰晶柱。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "空投"
+  },
+  {
+    "category": "description",
+    "cn_text": "恢复格挡值时有50%几率召唤冰龙，对你身边的随机位置投掷长矛，造成120点伤害并创造一个冰晶柱。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "空投+"
+  },
+  {
+    "category": "description",
+    "cn_text": "基础伤害+100，技能附带大幅度的击飞。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "雪崩5"
+  },
+  {
+    "category": "description",
+    "cn_text": "激活寒冰能量，获得额外的3点格挡值上限，此状态下，你的所有格挡会对面前的敌人反射碎冰，造成70点伤害。状态持续12秒。冷却26秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "寒冰之心"
+  },
+  {
+    "category": "description",
+    "cn_text": "技能以一个巨大的回旋斩收尾，回旋斩造成175点范围伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "旋风枪舞6"
+  },
+  {
+    "category": "description",
+    "cn_text": "举盾时可以格挡来自前方240度的攻击，格挡值上限+1。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "三重壁垒"
+  },
+  {
+    "category": "description",
+    "cn_text": "举盾时可以格挡来自前方240度的攻击，格挡值上限+3。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "三重壁垒+"
+  },
+  {
+    "category": "description",
+    "cn_text": "每秒伤害+20点。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "喷火装置1"
+  },
+  {
+    "category": "description",
+    "cn_text": "每秒伤害+36。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "旋风枪舞2"
+  },
+  {
+    "category": "description",
+    "cn_text": "每消耗1点格挡额外提高35点技能伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "雪崩3"
+  },
+  {
+    "category": "description",
+    "cn_text": "你的完美弹反伤害会附加剩余格挡值x50的伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "霜盾反击+"
+  },
+  {
+    "category": "description",
+    "cn_text": "你完美弹反时，冰封命中的所有敌人2.8秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "极寒反震+"
+  },
+  {
+    "category": "description",
+    "cn_text": "你完美弹反时，冰封命中的所有敌人2秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "极寒反震"
+  },
+  {
+    "category": "description",
+    "cn_text": "生成一道光障围绕自身，光障会使你免受任何伤害并增加20%攻击力，效果持续5秒。冷却时间120秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "纯洁圣盾"
+  },
+  {
+    "category": "description",
+    "cn_text": "消耗剩余的全部格挡值，对前方锥形区域造成40点伤害，每消耗1点格挡值额外提高75点伤害。冷却时间10.5秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "雪崩"
+  },
+  {
+    "category": "description",
+    "cn_text": "旋舞长枪，对周围敌人每秒造成150点伤害，持续2.4秒。\n期间以70%的速度移动。冷却时间13秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "旋风枪舞"
+  },
+  {
     "category": "destructible_name",
     "cn_text": "玻璃瓶",
     "suggested_en": "",
@@ -596,6 +743,27 @@
   },
   {
     "category": "destructible_name",
+    "cn_text": "教会旗帜大",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "教会旗帜大"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "教会旗帜小",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "教会旗帜小"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "教会十字架",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "教会十字架"
+  },
+  {
+    "category": "destructible_name",
     "cn_text": "教堂椅子",
     "suggested_en": "",
     "count": 1,
@@ -1128,17 +1296,17 @@
   },
   {
     "category": "destructible_type",
+    "cn_text": "中木头",
+    "suggested_en": "",
+    "count": 10,
+    "first_seen_id": "中木头黄"
+  },
+  {
+    "category": "destructible_type",
     "cn_text": "石头",
     "suggested_en": "",
     "count": 9,
     "first_seen_id": "石头白"
-  },
-  {
-    "category": "destructible_type",
-    "cn_text": "中木头",
-    "suggested_en": "",
-    "count": 8,
-    "first_seen_id": "中木头黄"
   },
   {
     "category": "destructible_type",
@@ -1195,6 +1363,13 @@
     "suggested_en": "",
     "count": 2,
     "first_seen_id": "陷阱火堆"
+  },
+  {
+    "category": "destructible_type",
+    "cn_text": "巨大木头",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "桌子"
   },
   {
     "category": "destructible_type",
@@ -1265,13 +1440,6 @@
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "举枪士兵树根"
-  },
-  {
-    "category": "destructible_type",
-    "cn_text": "巨大木头",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "桌子"
   },
   {
     "category": "destructible_type",

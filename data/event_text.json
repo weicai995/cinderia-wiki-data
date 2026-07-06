@@ -21805,7 +21805,7 @@
   },
   {
     "display_event": "Special with 园丁 001",
-    "en_text": "Director of the Royal Botanical Gardens and Grand Alchemist",
+    "en_text": "Royal Botanist & Alchemist",
     "cn_text": "皇家植物园园长兼大炼金术师",
     "en_talker": "园丁",
     "cn_talker": "园丁",
@@ -36956,7 +36956,7 @@
     "timing": "",
     "duration": "8",
     "waitfor": "0",
-    "event_actions": "说话后破房子侵蚀100 | 说话后开门",
+    "event_actions": "说话后破房子侵蚀45 | 说话后开门",
     "has_text": "yes",
     "internal_event_id": "破房子☆全部吃光3"
   },
