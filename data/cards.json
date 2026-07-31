@@ -9055,7 +9055,7 @@
     "base_en_name": "Flamethrower",
     "base_id": "喷火装置",
     "base_cn_name": "喷火装置",
-    "en_description": "每秒伤害+20点。",
+    "en_description": "Damage +20 points per second.",
     "cn_description": "每秒伤害+20点。",
     "hero_en": "Rivet",
     "hero_cn": "小黄",
@@ -15943,8 +15943,8 @@
     "base_en_name": "Isdra Base Dash",
     "base_id": "小蓝冲刺",
     "base_cn_name": "顶盾冲刺",
-    "en_description": "Dash forward behind your shield. If you collide with an enemy, deal 20 damage.",
-    "cn_description": "向前顶盾冲刺，如果撞到敌人造成20点伤害。",
+    "en_description": "Dash forward behind your shield. If you collide with an enemy, deal 12 damage.",
+    "cn_description": "向前顶盾冲刺，如果撞到敌人造成12点伤害。",
     "hero_en": "Isdra",
     "hero_cn": "小蓝",
     "kind_en": "Dash",
@@ -16471,7 +16471,7 @@
     "base_en_name": "Whirling Gun Dance",
     "base_id": "旋风枪舞",
     "base_cn_name": "旋风枪舞",
-    "en_description": "旋舞长枪，对周围敌人每秒造成150点伤害，持续2.4秒。\n期间以70%的速度移动。冷却时间13秒。",
+    "en_description": "Spin your spear, dealing 150 Sweep damage per second to nearby enemies for 2.4s.\nMove at 70% speed during the skill. Cooldown: 13s.",
     "cn_description": "旋舞长枪，对周围敌人每秒造成150点伤害，持续2.4秒。\n期间以70%的速度移动。冷却时间13秒。",
     "hero_en": "Isdra",
     "hero_cn": "小蓝",
@@ -16519,7 +16519,7 @@
     "base_en_name": "Whirling Gun Dance",
     "base_id": "旋风枪舞",
     "base_cn_name": "旋风枪舞",
-    "en_description": "每秒伤害+36。",
+    "en_description": "Damage +36 per second.",
     "cn_description": "每秒伤害+36。",
     "hero_en": "Isdra",
     "hero_cn": "小蓝",
@@ -16615,7 +16615,7 @@
     "base_en_name": "Whirling Gun Dance",
     "base_id": "旋风枪舞",
     "base_cn_name": "旋风枪舞",
-    "en_description": "技能以一个巨大的回旋斩收尾，回旋斩造成175点范围伤害。",
+    "en_description": "The skill ends with a huge Whirling Slash that deals 175 area damage.",
     "cn_description": "技能以一个巨大的回旋斩收尾，回旋斩造成175点范围伤害。",
     "hero_en": "Isdra",
     "hero_cn": "小蓝",
@@ -16989,7 +16989,7 @@
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
     "shop_unlock": "no",
-    "groups": "龙"
+    "groups": "龙 | 对空"
   },
   {
     "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
@@ -18319,7 +18319,7 @@
     "base_en_name": "Avalanche",
     "base_id": "雪崩",
     "base_cn_name": "雪崩",
-    "en_description": "消耗剩余的全部格挡值，对前方锥形区域造成40点伤害，每消耗1点格挡值额外提高75点伤害。冷却时间10.5秒。",
+    "en_description": "Consume all remaining Guard, dealing 40 damage in a cone ahead. Each 1 Guard consumed increases damage by 75. Cooldown: 10.5s.",
     "cn_description": "消耗剩余的全部格挡值，对前方锥形区域造成40点伤害，每消耗1点格挡值额外提高75点伤害。冷却时间10.5秒。",
     "hero_en": "Isdra",
     "hero_cn": "小蓝",
@@ -18391,7 +18391,7 @@
     "base_en_name": "Avalanche",
     "base_id": "雪崩",
     "base_cn_name": "雪崩",
-    "en_description": "每消耗1点格挡额外提高35点技能伤害。",
+    "en_description": "Each point of Guard consumed increases skill damage by 35.",
     "cn_description": "每消耗1点格挡额外提高35点技能伤害。",
     "hero_en": "Isdra",
     "hero_cn": "小蓝",
@@ -18439,7 +18439,7 @@
     "base_en_name": "Avalanche",
     "base_id": "雪崩",
     "base_cn_name": "雪崩",
-    "en_description": "基础伤害+100，技能附带大幅度的击飞。",
+    "en_description": "Base damage +100, the skill comes with a large knock-up effect.",
     "cn_description": "基础伤害+100，技能附带大幅度的击飞。",
     "hero_en": "Isdra",
     "hero_cn": "小蓝",
@@ -18837,7 +18837,7 @@
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
     "shop_unlock": "no",
-    "groups": "冰封"
+    "groups": "冰封 | 龙"
   },
   {
     "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
@@ -18991,7 +18991,7 @@
     "base_en_name": "Heart of Ice",
     "base_id": "寒冰之心",
     "base_cn_name": "寒冰之心",
-    "en_description": "激活寒冰能量，获得额外的3点格挡值上限，此状态下，你的所有格挡会对面前的敌人反射碎冰，造成70点伤害。状态持续12秒。冷却26秒。",
+    "en_description": "Activate icy power, gaining +3 max Guard. While this state is active, all of your blocks reflect ice shards at enemies in front of you, dealing 70 damage. Duration: 12s. Cooldown: 26s.",
     "cn_description": "激活寒冰能量，获得额外的3点格挡值上限，此状态下，你的所有格挡会对面前的敌人反射碎冰，造成70点伤害。状态持续12秒。冷却26秒。",
     "hero_en": "Isdra",
     "hero_cn": "小蓝",
@@ -19039,7 +19039,7 @@
     "base_en_name": "Heart of Ice",
     "base_id": "寒冰之心",
     "base_cn_name": "寒冰之心",
-    "en_description": "格挡值上限+2。",
+    "en_description": "Max Guard +2.",
     "cn_description": "格挡值上限+2。",
     "hero_en": "Isdra",
     "hero_cn": "小蓝",
@@ -19152,7 +19152,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E7_B4_A7_E6_80_A5_E9_97_AA_E9_81_BF.png",
     "en_name": "Emergency Dash",
     "id": "紧急闪避",
     "cn_name": "紧急闪避",
@@ -19168,7 +19168,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "紧急闪避",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -19176,7 +19176,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E7_B4_A7_E6_80_A5_E9_97_AA_E9_81_BF.png",
     "en_name": "Emergency Dash+",
     "id": "紧急闪避+",
     "cn_name": "紧急闪避+",
@@ -19192,7 +19192,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "紧急闪避",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -19759,8 +19759,8 @@
     "base_en_name": "Pierce Through",
     "base_id": "捅穿",
     "base_cn_name": "捅穿",
-    "en_description": "Before the heavy Thrust in the 4th combo hit, insert 4 light Thrust attacks. Each hit deals 30 damage.",
-    "cn_description": "在连招第四段的大戳刺前，插入4段轻戳刺攻击。每段造成30点伤害。",
+    "en_description": "Before the heavy Thrust in the 4th combo hit, insert 4 light Thrust attacks. Each hit deals 40 damage.",
+    "cn_description": "在连招第四段的大戳刺前，插入4段轻戳刺攻击。每段造成40点伤害。",
     "hero_en": "Isdra",
     "hero_cn": "小蓝",
     "kind_en": "General Rune",
@@ -19776,15 +19776,15 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E9_95_BF_E6_9E_AA_E7_AA_81_E8_BF_9B.png",
     "en_name": "Spear Lunge",
     "id": "长枪突进",
     "cn_name": "长枪突进",
     "base_en_name": "Spear Lunge",
     "base_id": "长枪突进",
     "base_cn_name": "长枪突进",
-    "en_description": "Your Thrust damage increases with distance from the enemy, up to +90. The final Thrust in your combo now lunges far forward.",
-    "cn_description": "你的戳刺造成的伤害会随着和敌人的距离提升最高90点。连招结尾的戳刺现在可以大幅向前冲刺。",
+    "en_description": "Your Thrust damage increases with distance from the enemy, up to +120. The final Thrust in your combo now lunges far forward.",
+    "cn_description": "你的戳刺造成的伤害会随着和敌人的距离提升最高120点。连招结尾的戳刺现在可以大幅向前冲刺。",
     "hero_en": "Isdra",
     "hero_cn": "小蓝",
     "kind_en": "General Rune",
@@ -19792,7 +19792,7 @@
     "rarity": "3",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "长枪突进",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -19800,15 +19800,15 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E9_95_BF_E6_9E_AA_E7_AA_81_E8_BF_9B.png",
     "en_name": "Spear Lunge+",
     "id": "长枪突进+",
     "cn_name": "长枪突进+",
     "base_en_name": "Spear Lunge",
     "base_id": "长枪突进",
     "base_cn_name": "长枪突进",
-    "en_description": "Your Thrust damage increases with distance from the enemy, up to +145. The final Thrust in your combo now lunges far forward.",
-    "cn_description": "你的戳刺造成的伤害会随着和敌人的距离提升最高145点。连招结尾的戳刺现在可以大幅向前冲刺。",
+    "en_description": "Your Thrust damage increases with distance from the enemy, up to +185. The final Thrust in your combo now lunges far forward.",
+    "cn_description": "你的戳刺造成的伤害会随着和敌人的距离提升最高185点。连招结尾的戳刺现在可以大幅向前冲刺。",
     "hero_en": "Isdra",
     "hero_cn": "小蓝",
     "kind_en": "General Rune",
@@ -19816,7 +19816,7 @@
     "rarity": "3",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "长枪突进",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -20263,7 +20263,7 @@
     "base_en_name": "Triple Barrier",
     "base_id": "三重壁垒",
     "base_cn_name": "三重壁垒",
-    "en_description": "举盾时可以格挡来自前方240度的攻击，格挡值上限+1。",
+    "en_description": "While your shield is raised, block attacks from a 240-degree arc in front of you. Max Guard +1.",
     "cn_description": "举盾时可以格挡来自前方240度的攻击，格挡值上限+1。",
     "hero_en": "Isdra",
     "hero_cn": "小蓝",
@@ -20287,7 +20287,7 @@
     "base_en_name": "Triple Barrier",
     "base_id": "三重壁垒",
     "base_cn_name": "三重壁垒",
-    "en_description": "举盾时可以格挡来自前方240度的攻击，格挡值上限+3。",
+    "en_description": "While your shield is raised, block attacks from a 240-degree arc in front of you. Max Guard +3.",
     "cn_description": "举盾时可以格挡来自前方240度的攻击，格挡值上限+3。",
     "hero_en": "Isdra",
     "hero_cn": "小蓝",
@@ -20359,7 +20359,7 @@
     "base_en_name": "Coldlight Refraction",
     "base_id": "寒光折射",
     "base_cn_name": "寒光折射",
-    "en_description": "格挡值上限+2。举盾时可以反弹敌人的远程攻击，造成额外1100%伤害。",
+    "en_description": "Max Guard +2. While your shield is raised, reflect enemy ranged attacks, dealing 1100% bonus damage.",
     "cn_description": "格挡值上限+2。举盾时可以反弹敌人的远程攻击，造成额外1100%伤害。",
     "hero_en": "Isdra",
     "hero_cn": "小蓝",
@@ -20383,7 +20383,7 @@
     "base_en_name": "Coldlight Refraction",
     "base_id": "寒光折射",
     "base_cn_name": "寒光折射",
-    "en_description": "格挡值上限+3。举盾时可以反弹敌人的远程攻击，造成额外1700%伤害。",
+    "en_description": "Max Guard +3. While your shield is raised, reflect enemy ranged attacks, dealing 1700% bonus damage.",
     "cn_description": "格挡值上限+3。举盾时可以反弹敌人的远程攻击，造成额外1700%伤害。",
     "hero_en": "Isdra",
     "hero_cn": "小蓝",
@@ -20527,7 +20527,7 @@
     "base_en_name": "Frost Riposte",
     "base_id": "霜盾反击",
     "base_cn_name": "霜盾反击",
-    "en_description": "你的完美弹反伤害会附加剩余格挡值x50的伤害。",
+    "en_description": "Your Perfect Parry damage adds damage equal to remaining Guard x50.",
     "cn_description": "你的完美弹反伤害会附加剩余格挡值x50的伤害。",
     "hero_en": "Isdra",
     "hero_cn": "小蓝",
@@ -20544,7 +20544,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E9_98_B2_E5_BE_A1_E7_B2_BE_E9_80_9A.png",
     "en_name": "Defensive Mastery",
     "id": "防御精通",
     "cn_name": "防御精通",
@@ -20560,7 +20560,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "防御精通",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -20568,7 +20568,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E9_98_B2_E5_BE_A1_E7_B2_BE_E9_80_9A.png",
     "en_name": "Defensive Mastery+",
     "id": "防御精通+",
     "cn_name": "防御精通+",
@@ -20584,7 +20584,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "防御精通",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -20688,7 +20688,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E5_86_B0_E7_9B_BE_E8_AA_93_E7_BA_A6.png",
     "en_name": "Frostshield Oath",
     "id": "冰盾誓约",
     "cn_name": "冰盾誓约",
@@ -20704,7 +20704,7 @@
     "rarity": "4",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "冰盾誓约",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -20712,7 +20712,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E5_86_B0_E7_9B_BE_E8_AA_93_E7_BA_A6.png",
     "en_name": "Frostshield Oath+",
     "id": "冰盾誓约+",
     "cn_name": "冰盾誓约+",
@@ -20728,7 +20728,7 @@
     "rarity": "4",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "冰盾誓约",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -20805,7 +20805,7 @@
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
     "shop_unlock": "no",
-    "groups": "冰封 | 冰环"
+    "groups": "冰环"
   },
   {
     "icon_image": "assets/icons/cards/_E5_AF_92_E9_A3_8E_E6_AD_A5.png",
@@ -20829,7 +20829,7 @@
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
     "shop_unlock": "no",
-    "groups": "冰封 | 冰环"
+    "groups": "冰环"
   },
   {
     "icon_image": "assets/icons/cards/_E5_86_B0_E9_9C_9C_E4_BD_99_E9_9C_87.png",
@@ -20853,7 +20853,7 @@
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
     "shop_unlock": "no",
-    "groups": "冰封 | 冰环"
+    "groups": "冰环"
   },
   {
     "icon_image": "assets/icons/cards/_E5_86_B0_E9_9C_9C_E4_BD_99_E9_9C_87.png",
@@ -20877,7 +20877,7 @@
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
     "shop_unlock": "no",
-    "groups": "冰封 | 冰环"
+    "groups": "冰环"
   },
   {
     "icon_image": "assets/icons/cards/_E7_A0_B4_E7_9B_BE_E9_9C_9C_E7_88_86.png",
@@ -20901,7 +20901,7 @@
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
     "shop_unlock": "no",
-    "groups": "冰封 | 冰环"
+    "groups": "冰环"
   },
   {
     "icon_image": "assets/icons/cards/_E7_A0_B4_E7_9B_BE_E9_9C_9C_E7_88_86.png",
@@ -20925,10 +20925,10 @@
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
     "shop_unlock": "no",
-    "groups": "冰封 | 冰环"
+    "groups": "冰环"
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E5_86_B0_E7_9F_9B_E7_A0_B4_E7_A2_8E.png",
     "en_name": "Ice Spear Shatter",
     "id": "冰矛破碎",
     "cn_name": "冰矛破碎",
@@ -20944,15 +20944,15 @@
     "rarity": "2",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "冰矛破碎",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
     "shop_unlock": "no",
-    "groups": ""
+    "groups": "冰环"
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E5_86_B0_E7_9F_9B_E7_A0_B4_E7_A2_8E.png",
     "en_name": "Ice Spear Shatter+",
     "id": "冰矛破碎+",
     "cn_name": "冰矛破碎+",
@@ -20968,12 +20968,12 @@
     "rarity": "2",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "冰矛破碎",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
     "shop_unlock": "no",
-    "groups": ""
+    "groups": "冰环"
   },
   {
     "icon_image": "assets/icons/cards/_E9_80_9F_E5_86_BB_E4_B9_8B_E7_8E_AF.png",
@@ -21168,7 +21168,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E6_9E_81_E5_AF_92_E5_85_B1_E6_8C_AF.png",
     "en_name": "Frigid Resonance",
     "id": "极寒共振",
     "cn_name": "极寒共振",
@@ -21184,7 +21184,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "极寒共振",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -21192,7 +21192,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E6_9E_81_E5_AF_92_E5_85_B1_E6_8C_AF.png",
     "en_name": "Frigid Resonance+",
     "id": "极寒共振+",
     "cn_name": "极寒共振+",
@@ -21208,7 +21208,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "极寒共振",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -21552,7 +21552,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E9_80_8F_E9_AA_A8_E4_B9_8B_E5_AF_92.png",
     "en_name": "Bone Chill",
     "id": "透骨之寒",
     "cn_name": "透骨之寒",
@@ -21568,7 +21568,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "透骨之寒",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -21576,15 +21576,15 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E9_80_8F_E9_AA_A8_E4_B9_8B_E5_AF_92.png",
     "en_name": "Bone Chill+",
     "id": "透骨之寒+",
     "cn_name": "透骨之寒+",
     "base_en_name": "Bone Chill",
     "base_id": "透骨之寒",
     "base_cn_name": "透骨之寒",
-    "en_description": "The lower the Health of enemies with Frostbite, the more frequently Frostbite triggers, up to +75%.",
-    "cn_description": "具有冻伤的敌人生命值越低，冻伤的触发频率越高，最多75%。",
+    "en_description": "The lower the Health of enemies with Frostbite, the more frequently Frostbite triggers, up to +100%.",
+    "cn_description": "具有冻伤的敌人生命值越低，冻伤的触发频率越高，最多100%。",
     "hero_en": "Isdra",
     "hero_cn": "小蓝",
     "kind_en": "General Rune",
@@ -21592,7 +21592,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "透骨之寒",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -21621,7 +21621,7 @@
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
     "shop_unlock": "no",
-    "groups": "投掷 | 冰柱"
+    "groups": "冰柱 | 击飞"
   },
   {
     "icon_image": "assets/icons/cards/_E5_86_B0_E7_9F_9B_E5_9B_9E_E5_87_BB.png",
@@ -21645,7 +21645,7 @@
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
     "shop_unlock": "no",
-    "groups": "投掷 | 冰柱"
+    "groups": "冰柱 | 击飞"
   },
   {
     "icon_image": "assets/icons/cards/_E6_9E_81_E5_AF_92_E6_B3_A2_E7_BA_B9.png",
@@ -21696,7 +21696,7 @@
     "groups": "冰柱"
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E5_AE_A1_E5_88_A4.png",
     "en_name": "Judgment",
     "id": "审判",
     "cn_name": "审判",
@@ -21712,7 +21712,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "审判",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -21720,7 +21720,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E5_AE_A1_E5_88_A4.png",
     "en_name": "Judgment+",
     "id": "审判+",
     "cn_name": "审判+",
@@ -21736,7 +21736,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "审判",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -21799,7 +21799,7 @@
     "base_en_name": "Airdrop",
     "base_id": "空投",
     "base_cn_name": "空投",
-    "en_description": "恢复格挡值时有35%几率召唤冰龙，对你身边的随机位置投掷长矛，造成120点伤害并创造一个冰晶柱。",
+    "en_description": "When you restore Guard, there is a 35% chance to summon an Ice Dragon to throw a spear at a random position near you, dealing 120 damage and creating an Ice Pillar.",
     "cn_description": "恢复格挡值时有35%几率召唤冰龙，对你身边的随机位置投掷长矛，造成120点伤害并创造一个冰晶柱。",
     "hero_en": "Isdra",
     "hero_cn": "小蓝",
@@ -21823,7 +21823,7 @@
     "base_en_name": "Airdrop",
     "base_id": "空投",
     "base_cn_name": "空投",
-    "en_description": "恢复格挡值时有50%几率召唤冰龙，对你身边的随机位置投掷长矛，造成120点伤害并创造一个冰晶柱。",
+    "en_description": "When you restore Guard, there is a 50% chance to summon an Ice Dragon to throw a spear at a random position near you, dealing 120 damage and creating an Ice Pillar.",
     "cn_description": "恢复格挡值时有50%几率召唤冰龙，对你身边的随机位置投掷长矛，造成120点伤害并创造一个冰晶柱。",
     "hero_en": "Isdra",
     "hero_cn": "小蓝",
@@ -21991,7 +21991,7 @@
     "base_en_name": "Ice Crystal Ritual",
     "base_id": "冰晶仪式",
     "base_cn_name": "冰晶仪式",
-    "en_description": "冰晶柱持续时间+4，场上每有一个冰晶柱，你造成的伤害提高8%，受到的伤害减4%。",
+    "en_description": "The duration of the Ice Pillar is +4. For each Ice Pillar on the field, the damage you cause is increased by 8%, and the damage you receive is reduced by 4%.",
     "cn_description": "冰晶柱持续时间+4，场上每有一个冰晶柱，你造成的伤害提高8%，受到的伤害减4%。",
     "hero_en": "Isdra",
     "hero_cn": "小蓝",
@@ -22015,7 +22015,7 @@
     "base_en_name": "Ice Crystal Ritual",
     "base_id": "冰晶仪式",
     "base_cn_name": "冰晶仪式",
-    "en_description": "冰晶柱持续时间+6，场上每有一个冰晶柱，你造成的伤害提高12%，受到的伤害减6%。",
+    "en_description": "The duration of the Ice Pillar is +6. For each Ice Pillar on the field, the damage you cause is increased by 12%, and the damage you receive is reduced by 6%.",
     "cn_description": "冰晶柱持续时间+6，场上每有一个冰晶柱，你造成的伤害提高12%，受到的伤害减6%。",
     "hero_en": "Isdra",
     "hero_cn": "小蓝",
@@ -22080,7 +22080,7 @@
     "groups": "冰路"
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E6_9E_81_E5_AF_92_E5_87_9D_E7_BB_93.png",
     "en_name": "Deepfreeze",
     "id": "极寒凝结",
     "cn_name": "极寒凝结",
@@ -22096,7 +22096,7 @@
     "rarity": "3",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "极寒凝结",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -22104,7 +22104,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E6_9E_81_E5_AF_92_E5_87_9D_E7_BB_93.png",
     "en_name": "Deepfreeze+",
     "id": "极寒凝结+",
     "cn_name": "极寒凝结+",
@@ -22120,7 +22120,7 @@
     "rarity": "3",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "极寒凝结",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -22272,7 +22272,7 @@
     "groups": "龙 | 冰路"
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E5_AF_92_E9_9C_9C_E9_99_B7_E9_98_B1.png",
     "en_name": "Frost Trap",
     "id": "寒霜陷阱",
     "cn_name": "寒霜陷阱",
@@ -22288,7 +22288,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "寒霜陷阱",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -22296,7 +22296,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E5_AF_92_E9_9C_9C_E9_99_B7_E9_98_B1.png",
     "en_name": "Frost Trap+",
     "id": "寒霜陷阱+",
     "cn_name": "寒霜陷阱+",
@@ -22312,7 +22312,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "寒霜陷阱",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -22368,7 +22368,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E6_B0_94_E6_B8_A9_E9_AA_A4_E9_99_8D.png",
     "en_name": "Cold Snap",
     "id": "气温骤降",
     "cn_name": "气温骤降",
@@ -22384,7 +22384,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "气温骤降",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -22392,7 +22392,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E6_B0_94_E6_B8_A9_E9_AA_A4_E9_99_8D.png",
     "en_name": "Cold Snap+",
     "id": "气温骤降+",
     "cn_name": "气温骤降+",
@@ -22408,7 +22408,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "气温骤降",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -22464,7 +22464,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E5_86_B0_E9_9C_9C_E8_95_B4_E8_83_BD.png",
+    "icon_image": "assets/icons/cards/_E6_BB_91_E9_9B_AA.png",
     "en_name": "Ice Glide",
     "id": "滑雪",
     "cn_name": "滑雪",
@@ -22480,7 +22480,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "冰霜蕴能",
+    "icon": "滑雪",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -22488,7 +22488,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E5_86_B0_E9_9C_9C_E8_95_B4_E8_83_BD.png",
+    "icon_image": "assets/icons/cards/_E6_BB_91_E9_9B_AA.png",
     "en_name": "Ice Glide+",
     "id": "滑雪+",
     "cn_name": "滑雪+",
@@ -22504,7 +22504,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "冰霜蕴能",
+    "icon": "滑雪",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -22800,7 +22800,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E6_8A_95_E6_8E_B7_E4_B8_93_E7_B2_BE.png",
+    "icon_image": "assets/icons/cards/_E6_AD_A6_E5_99_A8_E5_9B_9E_E6_94_B6.png",
     "en_name": "Weapon Recovery",
     "id": "武器回收",
     "cn_name": "武器回收",
@@ -22816,7 +22816,7 @@
     "rarity": "3",
     "item_level": "",
     "card_cd": "",
-    "icon": "投掷专精",
+    "icon": "武器回收",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -22824,7 +22824,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E6_8A_95_E6_8E_B7_E4_B8_93_E7_B2_BE.png",
+    "icon_image": "assets/icons/cards/_E6_AD_A6_E5_99_A8_E5_9B_9E_E6_94_B6.png",
     "en_name": "Weapon Recovery+",
     "id": "武器回收+",
     "cn_name": "武器回收+",
@@ -22840,7 +22840,7 @@
     "rarity": "3",
     "item_level": "",
     "card_cd": "",
-    "icon": "投掷专精",
+    "icon": "武器回收",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -22896,7 +22896,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E6_8A_95_E6_8E_B7_E4_B8_93_E7_B2_BE.png",
+    "icon_image": "assets/icons/cards/_E5_B7_A8_E5_8A_9B_E6_8A_95_E6_8E_B7.png",
     "en_name": "Mighty Throw",
     "id": "巨力投掷",
     "cn_name": "巨力投掷",
@@ -22912,7 +22912,7 @@
     "rarity": "2",
     "item_level": "",
     "card_cd": "",
-    "icon": "投掷专精",
+    "icon": "巨力投掷",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -22920,7 +22920,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E6_8A_95_E6_8E_B7_E4_B8_93_E7_B2_BE.png",
+    "icon_image": "assets/icons/cards/_E5_B7_A8_E5_8A_9B_E6_8A_95_E6_8E_B7.png",
     "en_name": "Mighty Throw+",
     "id": "巨力投掷+",
     "cn_name": "巨力投掷+",
@@ -22936,7 +22936,7 @@
     "rarity": "2",
     "item_level": "",
     "card_cd": "",
-    "icon": "投掷专精",
+    "icon": "巨力投掷",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -23061,7 +23061,7 @@
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
     "shop_unlock": "no",
-    "groups": ""
+    "groups": "对空"
   },
   {
     "icon_image": "assets/icons/cards/_E7_A9_BA_E4_B8_AD_E6_88_AA_E6_9D_80.png",
@@ -23085,7 +23085,7 @@
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
     "shop_unlock": "no",
-    "groups": ""
+    "groups": "对空"
   },
   {
     "icon_image": "assets/icons/cards/_E5_AF_B9_E7_A9_BA_E4_B8_A2_E7_9F_9B.png",
@@ -23109,7 +23109,7 @@
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
     "shop_unlock": "no",
-    "groups": "投掷 | 龙"
+    "groups": "龙 | 对空"
   },
   {
     "icon_image": "assets/icons/cards/_E5_AF_B9_E7_A9_BA_E4_B8_A2_E7_9F_9B.png",
@@ -23133,7 +23133,7 @@
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
     "shop_unlock": "no",
-    "groups": "投掷 | 龙"
+    "groups": "龙 | 对空"
   },
   {
     "icon_image": "assets/icons/cards/_E5_AF_B9_E7_A9_BA_E6_9A_B4_E5_87_BB.png",
@@ -23184,7 +23184,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E5_AF_92_E9_9C_9C_E5_A4_A9_E6_B0_94.png",
     "en_name": "Frost Front",
     "id": "寒霜天气",
     "cn_name": "寒霜天气",
@@ -23197,10 +23197,10 @@
     "hero_cn": "小蓝",
     "kind_en": "General Rune",
     "kind_cn": "通用符文",
-    "rarity": "1",
+    "rarity": "2",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "寒霜天气",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -23208,7 +23208,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E5_AF_92_E9_9C_9C_E5_A4_A9_E6_B0_94.png",
     "en_name": "Frost Front+",
     "id": "寒霜天气+",
     "cn_name": "寒霜天气+",
@@ -23221,10 +23221,10 @@
     "hero_cn": "小蓝",
     "kind_en": "General Rune",
     "kind_cn": "通用符文",
-    "rarity": "1",
+    "rarity": "2",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "寒霜天气",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -23232,7 +23232,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E6_B0_94_E5_8A_BF_E5_8E_8B_E5_88_B6.png",
     "en_name": "Overwhelming Presence",
     "id": "气势压制",
     "cn_name": "气势压制",
@@ -23245,10 +23245,10 @@
     "hero_cn": "小蓝",
     "kind_en": "General Rune",
     "kind_cn": "通用符文",
-    "rarity": "1",
+    "rarity": "2",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "气势压制",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -23256,7 +23256,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E6_B0_94_E5_8A_BF_E5_8E_8B_E5_88_B6.png",
     "en_name": "Overwhelming Presence+",
     "id": "气势压制+",
     "cn_name": "气势压制+",
@@ -23269,10 +23269,10 @@
     "hero_cn": "小蓝",
     "kind_en": "General Rune",
     "kind_cn": "通用符文",
-    "rarity": "1",
+    "rarity": "2",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "气势压制",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -23280,14 +23280,14 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E6_9E_81_E5_AF_92_E5_8F_8D_E9_9C_87.png",
     "en_name": "Frigid Rebound",
     "id": "极寒反震",
     "cn_name": "极寒反震",
     "base_en_name": "Frigid Rebound",
     "base_id": "极寒反震",
     "base_cn_name": "极寒反震",
-    "en_description": "你完美弹反时，冰封命中的所有敌人2秒。",
+    "en_description": "When you Perfect Parry, inflict Frozen on all enemies hit for 2s.",
     "cn_description": "你完美弹反时，冰封命中的所有敌人2秒。",
     "hero_en": "Isdra",
     "hero_cn": "小蓝",
@@ -23296,7 +23296,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "极寒反震",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -23304,14 +23304,14 @@
     "groups": "冰封"
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E6_9E_81_E5_AF_92_E5_8F_8D_E9_9C_87.png",
     "en_name": "Frigid Rebound+",
     "id": "极寒反震+",
     "cn_name": "极寒反震+",
     "base_en_name": "Frigid Rebound",
     "base_id": "极寒反震",
     "base_cn_name": "极寒反震",
-    "en_description": "你完美弹反时，冰封命中的所有敌人2.8秒。",
+    "en_description": "When you Perfect Parry, inflict Frozen on all enemies hit for 2.8s.",
     "cn_description": "你完美弹反时，冰封命中的所有敌人2.8秒。",
     "hero_en": "Isdra",
     "hero_cn": "小蓝",
@@ -23320,7 +23320,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "极寒反震",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -23424,7 +23424,7 @@
     "groups": "冰封"
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E5_87_9B_E5_86_AC_E7_AA_81_E8_A2_AD.png",
     "en_name": "Winter Assault",
     "id": "凛冬突袭",
     "cn_name": "凛冬突袭",
@@ -23440,7 +23440,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "凛冬突袭",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -23448,7 +23448,7 @@
     "groups": "冰封"
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E5_87_9B_E5_86_AC_E7_AA_81_E8_A2_AD.png",
     "en_name": "Winter Assault+",
     "id": "凛冬突袭+",
     "cn_name": "凛冬突袭+",
@@ -23464,7 +23464,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "凛冬突袭",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -23760,7 +23760,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E9_BE_99_E7_89_99_E6_92_95_E8_A3_82.png",
     "en_name": "Dragon Teeth Tear",
     "id": "龙牙撕裂",
     "cn_name": "龙牙撕裂",
@@ -23776,7 +23776,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "龙牙撕裂",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -23784,7 +23784,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E9_BE_99_E7_89_99_E6_92_95_E8_A3_82.png",
     "en_name": "Dragon Teeth Tear+",
     "id": "龙牙撕裂+",
     "cn_name": "龙牙撕裂+",
@@ -23800,7 +23800,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "龙牙撕裂",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -23808,7 +23808,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E9_BE_99_E7_89_99_E6_92_95_E8_A3_82.png",
+    "icon_image": "assets/icons/cards/_E6_8A_95_E9_A3_9F.png",
     "en_name": "Feeding Time",
     "id": "投食",
     "cn_name": "投食",
@@ -23824,7 +23824,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "龙牙撕裂",
+    "icon": "投食",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -23832,7 +23832,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E9_BE_99_E7_89_99_E6_92_95_E8_A3_82.png",
+    "icon_image": "assets/icons/cards/_E6_8A_95_E9_A3_9F.png",
     "en_name": "Feeding Time+",
     "id": "投食+",
     "cn_name": "投食+",
@@ -23848,7 +23848,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "龙牙撕裂",
+    "icon": "投食",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -23952,7 +23952,7 @@
     "groups": "旗子"
   },
   {
-    "icon_image": "assets/icons/cards/_E5_87_AF_E6_97_8B_E4_B9_8B_E6_97_97.png",
+    "icon_image": "assets/icons/cards/_E5_AE_88_E6_8A_A4_E4_B9_8B_E6_97_97.png",
     "en_name": "Banner of Protection",
     "id": "守护之旗",
     "cn_name": "守护之旗",
@@ -23968,7 +23968,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "凯旋之旗",
+    "icon": "守护之旗",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -23976,7 +23976,7 @@
     "groups": "旗子"
   },
   {
-    "icon_image": "assets/icons/cards/_E5_87_AF_E6_97_8B_E4_B9_8B_E6_97_97.png",
+    "icon_image": "assets/icons/cards/_E5_AE_88_E6_8A_A4_E4_B9_8B_E6_97_97.png",
     "en_name": "Banner of Protection+",
     "id": "守护之旗+",
     "cn_name": "守护之旗+",
@@ -23992,7 +23992,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "凯旋之旗",
+    "icon": "守护之旗",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -24144,7 +24144,7 @@
     "groups": "冰环"
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E5_86_B0_E9_9B_A8_E6_88_98_E6_97_97.png",
     "en_name": "Icefall Banner",
     "id": "冰雨战旗",
     "cn_name": "冰雨战旗",
@@ -24160,7 +24160,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "冰雨战旗",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -24168,7 +24168,7 @@
     "groups": ""
   },
   {
-    "icon_image": "assets/icons/cards/_E7_BC_BA_E5_9B_BE.png",
+    "icon_image": "assets/icons/cards/_E5_86_B0_E9_9B_A8_E6_88_98_E6_97_97.png",
     "en_name": "Icefall Banner+",
     "id": "冰雨战旗+",
     "cn_name": "冰雨战旗+",
@@ -24184,7 +24184,7 @@
     "rarity": "1",
     "item_level": "",
     "card_cd": "",
-    "icon": "缺图",
+    "icon": "冰雨战旗",
     "obtainable": "yes",
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
@@ -29421,7 +29421,7 @@
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
     "shop_unlock": "no",
-    "groups": "刺猬 | 刺"
+    "groups": "猫头鹰 | 烈风"
   },
   {
     "icon_image": "assets/icons/cards/_E5_81_B7_E5_90_83_E6_9E_9C_E5_AD_90.png",
@@ -29445,7 +29445,7 @@
     "visible_in_codex": "yes",
     "banned_or_internal": "no",
     "shop_unlock": "no",
-    "groups": "刺猬 | 刺"
+    "groups": "猫头鹰 | 烈风"
   },
   {
     "icon_image": "assets/icons/cards/_E5_9B_9E_E5_BA_94.png",
