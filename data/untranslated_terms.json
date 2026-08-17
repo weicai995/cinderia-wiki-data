@@ -50,13 +50,6 @@
   },
   {
     "category": "card_base_name",
-    "cn_text": "棱镜",
-    "suggested_en": "",
-    "count": 4,
-    "first_seen_id": "棱镜1"
-  },
-  {
-    "category": "card_base_name",
     "cn_text": "魔力宝珠",
     "suggested_en": "",
     "count": 4,
@@ -85,10 +78,31 @@
   },
   {
     "category": "card_base_name",
-    "cn_text": "手弩",
+    "cn_text": "十字弩",
     "suggested_en": "",
     "count": 4,
-    "first_seen_id": "手弩1"
+    "first_seen_id": "十字弩1"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "手摇钻头",
+    "suggested_en": "",
+    "count": 4,
+    "first_seen_id": "手摇钻头1"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "缩小镜",
+    "suggested_en": "",
+    "count": 4,
+    "first_seen_id": "缩小镜1"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小刺球",
+    "suggested_en": "",
+    "count": 4,
+    "first_seen_id": "小刺球1"
   },
   {
     "category": "card_base_name",
@@ -106,24 +120,10 @@
   },
   {
     "category": "card_base_name",
-    "cn_text": "小钻头",
-    "suggested_en": "",
-    "count": 4,
-    "first_seen_id": "小钻头1"
-  },
-  {
-    "category": "card_base_name",
     "cn_text": "萤火之灯",
     "suggested_en": "",
     "count": 4,
     "first_seen_id": "萤火之灯1"
-  },
-  {
-    "category": "card_base_name",
-    "cn_text": "诅咒箭头",
-    "suggested_en": "",
-    "count": 4,
-    "first_seen_id": "诅咒箭头1"
   },
   {
     "category": "card_base_name",
@@ -134,10 +134,10 @@
   },
   {
     "category": "card_base_name",
-    "cn_text": "德拉莫尔的马铠",
+    "cn_text": "德拉莫尔的铠甲",
     "suggested_en": "",
     "count": 3,
-    "first_seen_id": "德拉莫尔的马铠2"
+    "first_seen_id": "德拉莫尔的铠甲2"
   },
   {
     "category": "card_base_name",
@@ -148,17 +148,10 @@
   },
   {
     "category": "card_base_name",
-    "cn_text": "红桃Q",
+    "cn_text": "红桃扑克",
     "suggested_en": "",
     "count": 3,
-    "first_seen_id": "红桃Q2"
-  },
-  {
-    "category": "card_base_name",
-    "cn_text": "幻影之刃",
-    "suggested_en": "",
-    "count": 3,
-    "first_seen_id": "幻影之刃2"
+    "first_seen_id": "红桃扑克2"
   },
   {
     "category": "card_base_name",
@@ -166,6 +159,13 @@
     "suggested_en": "",
     "count": 3,
     "first_seen_id": "礼物盒2"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "魔术兔子",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "魔术兔子2"
   },
   {
     "category": "card_base_name",
@@ -190,10 +190,24 @@
   },
   {
     "category": "card_base_name",
+    "cn_text": "幽灵弯刀",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "幽灵弯刀2"
+  },
+  {
+    "category": "card_base_name",
     "cn_text": "月亮石",
     "suggested_en": "",
     "count": 3,
     "first_seen_id": "月亮石2"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "诅咒箭头",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "诅咒箭头2"
   },
   {
     "category": "card_base_name",
@@ -239,6 +253,13 @@
   },
   {
     "category": "card_base_name",
+    "cn_text": "小夜",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "小夜3"
+  },
+  {
+    "category": "card_base_name",
     "cn_text": "博学祝福",
     "suggested_en": "",
     "count": 1,
@@ -253,21 +274,21 @@
   },
   {
     "category": "card_base_name",
-    "cn_text": "贵族红宝石",
+    "cn_text": "华贵的红宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "红宝石3"
   },
   {
     "category": "card_base_name",
-    "cn_text": "贵族蓝宝石",
+    "cn_text": "华贵的蓝宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "蓝宝石3"
   },
   {
     "category": "card_base_name",
-    "cn_text": "贵族绿宝石",
+    "cn_text": "华贵的绿宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "绿宝石3"
@@ -281,10 +302,38 @@
   },
   {
     "category": "card_base_name",
+    "cn_text": "开裂的红宝石",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "红宝石1"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "开裂的蓝宝石",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "蓝宝石1"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "开裂的绿宝石",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "绿宝石1"
+  },
+  {
+    "category": "card_base_name",
     "cn_text": "扣钱100",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "扣钱100"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "龙族信物",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "龙族信物4"
   },
   {
     "category": "card_base_name",
@@ -295,52 +344,24 @@
   },
   {
     "category": "card_base_name",
-    "cn_text": "魔术兔子",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "魔术兔子2"
-  },
-  {
-    "category": "card_base_name",
-    "cn_text": "破碎红宝石",
+    "cn_text": "破碎的红宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "红宝石0"
   },
   {
     "category": "card_base_name",
-    "cn_text": "破碎蓝宝石",
+    "cn_text": "破碎的蓝宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "蓝宝石0"
   },
   {
     "category": "card_base_name",
-    "cn_text": "破碎绿宝石",
+    "cn_text": "破碎的绿宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "绿宝石0"
-  },
-  {
-    "category": "card_base_name",
-    "cn_text": "普通红宝石",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "红宝石1"
-  },
-  {
-    "category": "card_base_name",
-    "cn_text": "普通蓝宝石",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "蓝宝石1"
-  },
-  {
-    "category": "card_base_name",
-    "cn_text": "普通绿宝石",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "绿宝石1"
   },
   {
     "category": "card_base_name",
@@ -358,38 +379,31 @@
   },
   {
     "category": "card_base_name",
-    "cn_text": "缩小药水",
+    "cn_text": "缩小蘑菇",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "缩小药水4"
+    "first_seen_id": "缩小蘑菇4"
   },
   {
     "category": "card_base_name",
-    "cn_text": "完美红宝石",
+    "cn_text": "完美的红宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "红宝石4"
   },
   {
     "category": "card_base_name",
-    "cn_text": "完美蓝宝石",
+    "cn_text": "完美的蓝宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "蓝宝石4"
   },
   {
     "category": "card_base_name",
-    "cn_text": "完美绿宝石",
+    "cn_text": "完美的绿宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "绿宝石4"
-  },
-  {
-    "category": "card_base_name",
-    "cn_text": "小刺球",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "小刺球1"
   },
   {
     "category": "card_base_name",
@@ -407,66 +421,31 @@
   },
   {
     "category": "card_base_name",
-    "cn_text": "小夜",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "小夜3"
-  },
-  {
-    "category": "card_base_name",
-    "cn_text": "优质红宝石",
+    "cn_text": "优质的红宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "红宝石2"
   },
   {
     "category": "card_base_name",
-    "cn_text": "优质蓝宝石",
+    "cn_text": "优质的蓝宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "蓝宝石2"
   },
   {
     "category": "card_base_name",
-    "cn_text": "优质绿宝石",
+    "cn_text": "优质的绿宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "绿宝石2"
   },
   {
     "category": "description",
-    "cn_text": "》装备：放在最下面的格子里孵化，需要5个房间才能孵化！",
-    "suggested_en": "",
-    "count": 4,
-    "first_seen_id": "恶魔蛋1"
-  },
-  {
-    "category": "description",
-    "cn_text": "》宠物：调皮的捣蛋鬼，会发射神奇的魔法光弹，以此协助你战斗。\n攻击力：22\n攻击速度：0.8次/秒",
+    "cn_text": "》拆解时：实现1个愿望。\n装备：每经历6场战斗，可以多实现一个愿望（最多额外储存2个）。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "魔术兔子2"
-  },
-  {
-    "category": "description",
-    "cn_text": "》宠物：高冷潇洒的亡灵，会连续投掷多把小刀，以此协助你战斗。\n攻击力：16\n攻击连发数：3\n攻击速度：1.25次/秒",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "小夜3"
-  },
-  {
-    "category": "description",
-    "cn_text": "》宠物：邪恶的恶魔伙伴，会喷吐诅咒之火，以此协助你战斗。\n攻击力：288\n攻击速度：0.35次/秒",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "小恶魔4"
-  },
-  {
-    "category": "description",
-    "cn_text": "》宠物：一蹦一跳的小怪物，会用身子撞击敌人，以此协助你战斗。\n攻击力：28\n攻击速度：1次/秒",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "小刺球1"
+    "first_seen_id": "神灯4"
   },
   {
     "category": "description",
@@ -645,6 +624,41 @@
   },
   {
     "category": "description",
+    "cn_text": "》装备：-5%攻击速度\n近战：获得8点护盾，持续4.5秒（冷却10秒）。\n装备：护盾被打破或者结束时，对周围敌人造成1200%护盾值的伤害。\n装备：每5%攻击力转化为1点护盾值。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "石脉护手3"
+  },
+  {
+    "category": "description",
+    "cn_text": "》装备：-5%攻击速度\n近战：获得8点护盾，持续4.5秒（冷却11秒）。\n装备：护盾被打破或者结束时，对周围敌人造成800%护盾值的伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "石脉护手2"
+  },
+  {
+    "category": "description",
+    "cn_text": "》装备：-5%攻击速度\n近战：获得8点护盾，持续4.5秒（冷却12秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "石脉护手1"
+  },
+  {
+    "category": "description",
+    "cn_text": "》装备：-5%攻击速度\n近战：获得8点护盾，持续4.5秒（冷却9秒）。\n装备：护盾被打破或者结束时，对周围敌人造成1800%护盾值的伤害和短暂的眩晕。\n装备：每3%攻击力转化为1点护盾值。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "石脉护手4"
+  },
+  {
+    "category": "description",
+    "cn_text": "》装备：+10%闪避率\n冲刺：对撞到的所有敌人造成100点伤害并小幅度的击退他们（冷却2秒）。\n装备：撞击时有33%几率击晕敌人，持续1秒。\n装备：每撞到一个敌人获得可叠加的4点护盾，护盾持续4秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "滚滚啤酒桶4"
+  },
+  {
+    "category": "description",
     "cn_text": "》装备：+10护甲\n受到攻击：向周围敌人发射3次针刺散射，每次造成12伤害",
     "suggested_en": "",
     "count": 1,
@@ -680,6 +694,13 @@
   },
   {
     "category": "description",
+    "cn_text": "》装备：+18%生命值上限。\n装备：血瓶额外回复30%生命值。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "世界树种子2"
+  },
+  {
+    "category": "description",
     "cn_text": "》装备：+2%暴击率\n装备：+3%移动速度\n装备：移动和攻击时获得电能，满100电能时，下次攻击附加闪电链，造成36伤害",
     "suggested_en": "",
     "count": 1,
@@ -701,6 +722,13 @@
   },
   {
     "category": "description",
+    "cn_text": "》装备：+22%生命值上限。\n装备：血瓶额外回复50%生命值。\nBOSS战时：每5秒回复1点生命值。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "世界树种子3"
+  },
+  {
+    "category": "description",
     "cn_text": "》装备：+25%魔卡暴击率\n装备：+5%魔卡冷却速率\n装备：每用一张魔卡命中敌人，获得18%暴击伤害，持续6秒，至多叠加5层\n装备：魔卡暴击时，缩短所有魔卡5%冷却时间",
     "suggested_en": "",
     "count": 1,
@@ -712,6 +740,13 @@
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "发电装置2"
+  },
+  {
+    "category": "description",
+    "cn_text": "》装备：+30%生命值上限。\n装备：血瓶额外回复80%生命值。\nBOSS战时：每5秒回复2点生命值。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "世界树种子4"
   },
   {
     "category": "description",
@@ -743,10 +778,24 @@
   },
   {
     "category": "description",
+    "cn_text": "》装备：+5%闪避率\n冲刺：对撞到的所有敌人造成50点伤害并小幅度的击退他们（冷却3秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "滚滚啤酒桶2"
+  },
+  {
+    "category": "description",
     "cn_text": "》装备：+50生命值上限\n吃蛋糕：额外回复10生命值\n装备：每拥有10生命上限增加2%攻击力",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "奶酪4"
+  },
+  {
+    "category": "description",
+    "cn_text": "》装备：+7%闪避率\n冲刺：对撞到的所有敌人造成70点伤害并小幅度的击退他们（冷却2.5秒）。\n装备：撞击时有25%几率击晕敌人，持续1秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "滚滚啤酒桶3"
   },
   {
     "category": "description",
@@ -771,6 +820,174 @@
   },
   {
     "category": "description",
+    "cn_text": "》装备：富有魔力的蛋，需要放在最下面的格子里，经过5个房间后孵化！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "恶魔蛋2"
+  },
+  {
+    "category": "description",
+    "cn_text": "》装备：连招的最后一段攻击提高50%暴击率。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "橡木拐杖2"
+  },
+  {
+    "category": "description",
+    "cn_text": "》装备：连招的最后一段攻击提高60%暴击率。\n装备：连招的最后一段攻击提高50%的暴击伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "橡木拐杖3"
+  },
+  {
+    "category": "description",
+    "cn_text": "》装备：连招的最后一段攻击提高75%暴击率。\n装备：连招的最后一段攻击提高80%的暴击伤害。\n装备：连招的最后一段攻击可以将敌人击晕，持续0.5秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "橡木拐杖4"
+  },
+  {
+    "category": "description",
+    "cn_text": "》装备：每击杀4个敌人，召唤一个姜饼守卫协助你战斗。姜饼守卫最多持续16秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "姜饼屋1"
+  },
+  {
+    "category": "description",
+    "cn_text": "》装备：每击杀4个敌人，召唤一个姜饼守卫协助你战斗。姜饼守卫最多持续18秒。\n装备：有机会召唤更强的姜饼守卫。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "姜饼屋2"
+  },
+  {
+    "category": "description",
+    "cn_text": "》装备：每击杀4个敌人，召唤一个姜饼守卫协助你战斗。姜饼守卫最多持续20秒。\n装备：有机会召唤更强大的姜饼守卫。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "姜饼屋3"
+  },
+  {
+    "category": "description",
+    "cn_text": "》装备：每击杀4个敌人，召唤一个姜饼守卫协助你战斗。姜饼守卫最多持续24秒。\n装备：有机会召唤最强的姜饼守卫。\n装备：持续时间结束后姜饼人会变成小糖块，拾取时回复1点生命值。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "姜饼屋4"
+  },
+  {
+    "category": "description",
+    "cn_text": "》装备：弱小恶魔的蛋，需要放在最下面的格子里，经过5个房间后孵化！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "恶魔蛋1"
+  },
+  {
+    "category": "description",
+    "cn_text": "》装备：散发死亡气息的蛋，需要放在最下面的格子里，经过5个房间后孵化！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "恶魔蛋3"
+  },
+  {
+    "category": "description",
+    "cn_text": "》装备：最邪恶的蛋，需要放在最下面的格子里，经过5个房间后孵化！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "恶魔蛋4"
+  },
+  {
+    "category": "description",
+    "cn_text": "宠物：调皮的捣蛋鬼，会发射神奇的魔法光弹，以此协助你战斗。\n攻击力：22\n攻击速度：0.9次/秒\n被动：有40%概率发射一颗彩虹光弹",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "魔术兔子2"
+  },
+  {
+    "category": "description",
+    "cn_text": "宠物：调皮的捣蛋鬼，会发射神奇的魔法光弹，以此协助你战斗。\n攻击力：28\n攻击速度：0.9次/秒\n被动：有50%概率发射一颗彩虹光弹",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "魔术兔子3"
+  },
+  {
+    "category": "description",
+    "cn_text": "宠物：调皮的捣蛋鬼，会发射神奇的魔法光弹，以此协助你战斗。\n攻击力：44\n攻击速度：1次/秒\n被动：有75%概率发射一颗彩虹光弹",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "魔术兔子4"
+  },
+  {
+    "category": "description",
+    "cn_text": "宠物：高冷潇洒的亡灵，会连续投掷多把餐刀，以此协助你战斗。\n攻击力：16\n攻击连发数：3\n攻击速度：1.25次/秒\n被动：有15%概率额外丢出6把餐刀\n被动：有概率把敌人切成肉块，吃掉永久增加1生命上限。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小夜3"
+  },
+  {
+    "category": "description",
+    "cn_text": "宠物：高冷潇洒的亡灵，会连续投掷多把餐刀，以此协助你战斗。\n攻击力：16\n攻击连发数：4\n攻击速度：1.25次/秒\n被动：有20%概率额外丢出8把餐刀\n被动：有更高概率把敌人切成肉块，吃掉永久增加1生命上限。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小夜4"
+  },
+  {
+    "category": "description",
+    "cn_text": "宠物：邪恶的恶魔伙伴，会喷吐诅咒之火，以此协助你战斗。\n攻击力：288\n攻击速度：0.35次/秒",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小恶魔4"
+  },
+  {
+    "category": "description",
+    "cn_text": "宠物：一蹦一跳的小怪物，会用身子撞击敌人，以此协助你战斗。\n攻击力：28\n攻击速度：1次/秒\n被动：每过3个房间，吐出少量装备碎片",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小刺球1"
+  },
+  {
+    "category": "description",
+    "cn_text": "宠物：一蹦一跳的小怪物，会用身子撞击敌人，以此协助你战斗。\n攻击力：35\n攻击速度：1次/秒\n被动：每过3个房间，吐出少量装备碎片",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小刺球2"
+  },
+  {
+    "category": "description",
+    "cn_text": "宠物：一蹦一跳的小怪物，会用身子撞击敌人，以此协助你战斗。\n攻击力：50\n攻击速度：1次/秒\n被动：每过3个房间，吐出一些装备碎片\n被动：有20%概率撞晕敌人1秒",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小刺球3"
+  },
+  {
+    "category": "description",
+    "cn_text": "宠物：一蹦一跳的小怪物，会用身子撞击敌人，以此协助你战斗。\n攻击力：70\n攻击速度：1次/秒\n被动：每过3个房间，吐出更多装备碎片\n被动：有25%概率撞晕敌人1.5秒，并给予3秒破甲",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小刺球4"
+  },
+  {
+    "category": "description",
+    "cn_text": "精神+10\n》装备：+24%魔卡冷却速度\n装备：魔卡命中时，向敌人发射1道缩小射线，造成180伤害，使敌人造成的伤害降低20%，持续6秒（冷却：8秒）\n装备：激光在命中第一目标后，向周围5个敌人折射\n装备：被缩小的敌人会受到40%额外伤害",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "缩小镜4"
+  },
+  {
+    "category": "description",
+    "cn_text": "精神+11\n》受到伤害：魅惑周围的敌人10秒（冷却时间8秒）。\n装备：附近的敌人攻击力降低20%。\n装备：场上每有一个被魅惑的单位，提升你5%攻击力。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "魔女的香水4"
+  },
+  {
+    "category": "description",
+    "cn_text": "精神+11\n》装备：+15%减伤\n受到伤害：每受到5次伤害，触发一次支援技能。\n触发：施放支援技能时，短暂获得35%攻击力，持续7秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "神圣十字章4"
+  },
+  {
+    "category": "description",
     "cn_text": "精神+12\n》装备：+12%魔卡伤害\n装备：+12%魔卡冷却速率\n装备：造成技能伤害时，暂停敌人的时间，持续2.5秒，之后造成90伤害。（冷却：8秒）\n装备：如果敌人在时间暂停的过程中死亡，则有50%概率掉落1个时之沙（拾取时降低所有魔卡30%冷却时间，并获得30%魔卡伤害，持续6秒）",
     "suggested_en": "",
     "count": 1,
@@ -778,24 +995,31 @@
   },
   {
     "category": "description",
-    "cn_text": "精神+12\n》装备：+20%魔卡伤害\n装备：每秒积攒10魔力，满100魔力时，使用魔卡释放12枚法力飞弹，造成20伤害\n装备：使用魔卡时积攒20魔力\n装备：有概率发射强能法力飞弹",
+    "cn_text": "精神+12\n》装备：战斗开始后5秒，随机召唤4个图腾，持续25秒\n灼热图腾：发射2枚火球敌人造成36伤害（攻击速度：0.58次/秒）\n邪恶图腾：增加周围友军30%伤害\n鲜血图腾：每过4秒治疗1生命值\n大地图腾：增加周围友军30护甲",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "魔力宝珠4"
+    "first_seen_id": "小图腾4"
   },
   {
     "category": "description",
-    "cn_text": "精神+12\n》装备：+24%魔卡冷却速度\n装备：魔卡命中时，向敌人发射1道缩小射线，造成180伤害，使敌人造成的伤害降低20%，持续6秒（冷却：8秒）\n装备：激光在命中第一目标后，向周围5个敌人折射\n装备：被缩小的敌人会受到40%额外伤害",
+    "cn_text": "精神+2\n》近战：使命中的普通敌人变成小动物，持续3.5秒（冷却18秒）。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "棱镜4"
+    "first_seen_id": "仙女棒1"
+  },
+  {
+    "category": "description",
+    "cn_text": "精神+3\n》受到伤害：每秒恢复1点生命值，持续3秒（冷却时间25秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "魔法竖琴1"
   },
   {
     "category": "description",
     "cn_text": "精神+3\n》装备：+8%魔卡冷却速度\n装备：魔卡命中时，向敌人发射1道缩小射线，造成50伤害，使敌人造成的伤害降低20%，持续6秒（冷却：8秒）",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "棱镜1"
+    "first_seen_id": "缩小镜1"
   },
   {
     "category": "description",
@@ -813,10 +1037,45 @@
   },
   {
     "category": "description",
+    "cn_text": "精神+4\n》击杀时：所有魔卡的冷却时间降低8%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "铸铁齿轮1"
+  },
+  {
+    "category": "description",
+    "cn_text": "精神+4\n》近战：使命中的普通敌人变成小动物，持续3.5秒（冷却15秒）。\n装备：对变形的敌人造成的伤害提高100%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "仙女棒2"
+  },
+  {
+    "category": "description",
+    "cn_text": "精神+5\n》击杀时：所有魔卡的冷却时间降低10%。\n装备：+5%魔卡伤害",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "铸铁齿轮2"
+  },
+  {
+    "category": "description",
+    "cn_text": "精神+5\n》受到伤害：每秒恢复1点生命值，持续5秒（冷却时间23秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "魔法竖琴2"
+  },
+  {
+    "category": "description",
+    "cn_text": "精神+5\n》受到伤害：魅惑周围的敌人5秒（冷却时间8秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "魔女的香水2"
+  },
+  {
+    "category": "description",
     "cn_text": "精神+5\n》装备：+10%魔卡冷却速度\n装备：魔卡命中时，向敌人发射1道缩小射线，造成70伤害，使敌人造成的伤害降低20%，持续6秒（冷却：8秒）\n装备：激光在命中第一目标后，向周围1个敌人折射",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "棱镜2"
+    "first_seen_id": "缩小镜2"
   },
   {
     "category": "description",
@@ -834,6 +1093,20 @@
   },
   {
     "category": "description",
+    "cn_text": "精神+6\n》击杀时：所有魔卡的冷却时间降低14%。\n装备：+8%魔卡伤害\n装备：当你生命值低于50%时，冷却时间降低的效果提升50%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "铸铁齿轮3"
+  },
+  {
+    "category": "description",
+    "cn_text": "精神+6\n》近战：使命中的普通敌人变成小动物，持续3.5秒（冷却13秒）。\n装备：对变形的敌人造成的伤害提高125%。\n装备：击杀变形状态的敌人可以额外爆出2.5倍金币。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "仙女棒3"
+  },
+  {
+    "category": "description",
     "cn_text": "精神+6\n》装备：+6%魔卡伤害\n装备：+6%魔卡冷却速率\n装备：造成技能伤害时，暂停敌人的时间，持续1.5秒（冷却：8秒）",
     "suggested_en": "",
     "count": 1,
@@ -841,17 +1114,52 @@
   },
   {
     "category": "description",
-    "cn_text": "精神+8\n》装备：+14%魔卡伤害\n装备：每秒积攒10魔力，满100魔力时，使用魔卡释放8枚法力飞弹，造成20伤害\n装备：使用魔卡时积攒20魔力",
+    "cn_text": "精神+7\n》受到伤害：每秒恢复1点生命值，持续6秒，期间获得60%冷却速率（冷却时间20秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "魔法竖琴3"
+  },
+  {
+    "category": "description",
+    "cn_text": "精神+7\n》装备：+14%魔卡伤害\n装备：每秒积攒10魔力，满100魔力时，使用魔卡释放8枚法力飞弹，造成20伤害\n装备：使用魔卡时积攒20魔力",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "魔力宝珠3"
   },
   {
     "category": "description",
-    "cn_text": "精神+8\n》装备：+16%魔卡冷却速度\n装备：魔卡命中时，向敌人发射1道缩小射线，造成130伤害，使敌人造成的伤害降低20%，持续6秒（冷却：8秒）\n装备：激光在命中第一目标后，向周围3个敌人折射",
+    "cn_text": "精神+7\n》装备：+16%魔卡冷却速度\n装备：魔卡命中时，向敌人发射1道缩小射线，造成130伤害，使敌人造成的伤害降低20%，持续6秒（冷却：8秒）\n装备：激光在命中第一目标后，向周围3个敌人折射",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "棱镜3"
+    "first_seen_id": "缩小镜3"
+  },
+  {
+    "category": "description",
+    "cn_text": "精神+7\n》装备：+9%减伤\n受到伤害：每受到8次伤害，触发一次支援技能。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "神圣十字章3"
+  },
+  {
+    "category": "description",
+    "cn_text": "精神+8\n》击杀时：所有魔卡的冷却时间降低20%。\n装备：+15%魔卡伤害\n装备：当你生命值低于50%时，冷却时间降低的效果提升75%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "铸铁齿轮4"
+  },
+  {
+    "category": "description",
+    "cn_text": "精神+8\n》近战：使命中的敌人变成小动物，持续3.5秒（冷却11秒）。\n装备：对变形的敌人造成的伤害提高150%。\n装备：击杀变形状态的敌人可以额外爆出4倍金币。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "仙女棒4"
+  },
+  {
+    "category": "description",
+    "cn_text": "精神+8\n》受到伤害：魅惑周围的敌人8秒（冷却时间8秒）。\n装备：附近的敌人攻击力降低14%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "魔女的香水3"
   },
   {
     "category": "description",
@@ -862,10 +1170,17 @@
   },
   {
     "category": "description",
-    "cn_text": "精神+8\n》装备：战斗开始后5秒，随机召唤4个图腾，持续25秒\n灼热图腾：发射2枚火球敌人造成36伤害（攻击速度：0.58次/秒）\n邪恶图腾：增加周围友军30%伤害\n鲜血图腾：每过4秒治疗1生命值\n大地图腾：增加周围友军30护甲",
+    "cn_text": "精神+9\n》受到伤害：每秒恢复1点生命值，持续8秒，期间获得120%冷却速率，并使周围的所有敌人残废3.5秒（冷却时间17秒）。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "小图腾4"
+    "first_seen_id": "魔法竖琴4"
+  },
+  {
+    "category": "description",
+    "cn_text": "精神+9\n》装备：+20%魔卡伤害\n装备：每秒积攒10魔力，满100魔力时，使用魔卡释放12枚法力飞弹，造成20伤害\n装备：使用魔卡时积攒20魔力\n装备：有概率发射强能法力飞弹",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "魔力宝珠4"
   },
   {
     "category": "description",
@@ -876,6 +1191,20 @@
   },
   {
     "category": "description",
+    "cn_text": "力量+1\n精神+1\n》装备：+5%魔卡冷却速率\n装备：每有一张魔卡在冷却中，获得8点护甲。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "冰霜之核2"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+1\n精神+3\n》进入房间：获得8点护盾，持续25秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "永续酒杯2"
+  },
+  {
+    "category": "description",
     "cn_text": "力量+1\n精神+3\n》使用魔卡：在周围随机敌人头上降下一道月光，造成40伤害，其会受到的技能伤害增加20%，持续6秒",
     "suggested_en": "",
     "count": 1,
@@ -883,45 +1212,52 @@
   },
   {
     "category": "description",
-    "cn_text": "力量+1\n精神+3\n》使用魔卡：在周围随机敌人头上降下一道月光，造成60伤害，其受到的技能伤害增加20%，持续6秒",
+    "cn_text": "力量+1\n精神+3\n》装备：+7%魔卡冷却速率\n装备：每有一张魔卡在冷却中，获得10点护甲。\n装备：如果所有魔卡在冷却中，每隔3秒释放一个冰霜之环",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "月亮石3"
-  },
-  {
-    "category": "description",
-    "cn_text": "力量+1\n精神+3\n》使用魔卡：在周围随机敌人头上降下一道月光，造成80伤害，其受到的技能伤害增加20%，持续6秒，每次照射，减少所有魔卡1秒冷却时间",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "月亮石4"
+    "first_seen_id": "冰霜之核3"
   },
   {
     "category": "description",
     "cn_text": "力量+1\n敏捷+11\n》近战：连续近战攻击敌人14次后启动钻头，近战附加2伤害6次\n装备：钻头启动后获得20%攻击速度\n装备：钻头启动后，近战攻击获得5%钻头暴击率，14次后钻头必定暴击！",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "小钻头4"
+    "first_seen_id": "手摇钻头4"
   },
   {
     "category": "description",
     "cn_text": "力量+1\n敏捷+2\n》近战：连续近战攻击敌人14次后启动钻头，近战附加2伤害3次",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "小钻头1"
+    "first_seen_id": "手摇钻头1"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+1\n敏捷+2\n》装备：+12%攻击速度",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小木锯1"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+1\n敏捷+3\n》装备：移动16米后，下一次近战攻击被强化，造成400%伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "骑士的风车1"
   },
   {
     "category": "description",
     "cn_text": "力量+1\n敏捷+4\n》近战：连续近战攻击敌人14次后启动钻头，近战附加2伤害4次",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "小钻头2"
+    "first_seen_id": "手摇钻头2"
   },
   {
     "category": "description",
     "cn_text": "力量+1\n敏捷+7\n》近战：连续近战攻击敌人14次后启动钻头，近战附加2伤害5次\n装备：钻头启动后获得15%攻击速度",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "小钻头3"
+    "first_seen_id": "手摇钻头3"
   },
   {
     "category": "description",
@@ -932,17 +1268,38 @@
   },
   {
     "category": "description",
-    "cn_text": "力量+11\n》装备：+30生命值\n装备：每拥有1个诅咒增加7护甲\n装备：每点护甲提升2%冲刺攻击伤害\n装备：10%概率抵挡1次伤害",
+    "cn_text": "力量+10\n精神+10\n》装备：+30生命上限\n装备：每2秒失去1点生命值。\n死亡时：以180血复活（冷却时间90秒）",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "德拉莫尔的马铠4"
+    "first_seen_id": "不死鸟的羽毛4"
   },
   {
     "category": "description",
-    "cn_text": "力量+12\n》装备：+12%魔卡冷却速率\n装备：召唤红桃皇后,每释放3张魔卡，她就会召唤1名红桃士兵，持续21秒\n装备：红桃皇后提升友方20%攻击力\n装备：场上每有1名红桃士兵，红桃皇后获得30%攻击速度",
+    "cn_text": "力量+10\n精神+4\n》装备：击杀敌人后，获得50点护甲和控制免疫效果，持续6秒。\n装备：周围每存在一个敌人，获得2%伤害减免（Boss为20%）。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "红桃Q4"
+    "first_seen_id": "英勇徽章4"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+11\n》装备：+30生命值\n装备：每拥有1个诅咒增加7护甲\n装备：每点护甲提升2%冲刺攻击伤害\n装备：10%概率抵挡1次伤害",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "德拉莫尔的铠甲4"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+11\n》装备：降低14%的攻击速度和6%的移动速度，降低16%的冲刺冷却速率。\n装备：+40%近战攻击力\n装备：+5%近战暴击率",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "笨重的枷锁3"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+12\n》装备：召唤1名红桃士兵，你每拥有一张魔卡增加1名士兵\n装备：根据所有魔卡的等级强化士兵，每有1级，士兵造成的伤害增加1\n装备：如果你拥有4名红桃士兵，召唤红桃皇后",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "红桃扑克4"
   },
   {
     "category": "description",
@@ -953,6 +1310,27 @@
   },
   {
     "category": "description",
+    "cn_text": "力量+15\n》装备：召唤一只火焰雏龙，会喷吐火球，以此战斗\n攻击力：220\n攻击速度：0.45次/秒",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "龙族信物4"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+16\n》装备：降低16%的攻击速度和8%的移动速度，降低20%的冲刺冷却速率。\n装备：+55%近战攻击力\n装备：+10%近战暴击率\n近战：对满血的敌人造成伤害时，将其眩晕2秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "笨重的枷锁4"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+2\n》装备：近战攻击对敌人身后的较小区域造成20%溅射伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "锁链鞭1"
+  },
+  {
+    "category": "description",
     "cn_text": "力量+2\n精神+1\n》装备：召唤物造成的伤害增加3",
     "suggested_en": "",
     "count": 1,
@@ -960,24 +1338,45 @@
   },
   {
     "category": "description",
-    "cn_text": "力量+2\n精神+4\n》装备：每过12秒撒下一枚种子，靠近之后浇水，培育出一朵自动攻击的花",
+    "cn_text": "力量+2\n精神+3\n》进入房间：获得12点护盾，持续25秒。\n护盾存在时：获得8%闪避和暴击率。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "塞弗林的水壶2"
+    "first_seen_id": "永续酒杯3"
   },
   {
     "category": "description",
-    "cn_text": "力量+2\n敏捷+2\n》装备：+12%攻击速度",
+    "cn_text": "力量+2\n精神+4\n》装备：+10%魔卡冷却速率\n装备：每有一张魔卡在冷却中，获得12点护甲。\n装备：如果所有魔卡在冷却中，每隔3秒释放一个强化冰霜之环\n装备：魔卡冷却完毕时，获得一个持续5秒的3点护盾。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "小木锯1"
+    "first_seen_id": "冰霜之核4"
   },
   {
     "category": "description",
-    "cn_text": "力量+2\n敏捷+2\n精神+5\n》清空房间：使上边的格子的道具随机变化",
+    "cn_text": "力量+2\n精神+5\n》使用魔卡：在周围随机敌人头上降下一道月光，造成60伤害，其受到的技能伤害增加20%，持续6秒",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "月亮石3"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+2\n敏捷+2\n精神+5\n》装备：获得1个额外的道具格\n清空房间：使上边的格子的道具随机变化",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "潘多拉魔盒3"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+2\n敏捷+3\n》装备：+14%攻击速度\n近战：对相同目标每4次近战攻击附加1层伤口，使其受到的伤害增加1",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小木锯2"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+2\n敏捷+3\n精神+2\n》装备：+12%魔卡伤害\n使用魔卡：你的魔卡技能可以处决生命值小于16%的普通敌人。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小裁缝的剪刀3"
   },
   {
     "category": "description",
@@ -988,10 +1387,66 @@
   },
   {
     "category": "description",
+    "cn_text": "力量+2\n敏捷+5\n》装备：+2%攻击速度\n装备：+2%移动速度\n装备：如果近战攻击连续命中同一个敌人4次，可以在接下来的3秒内获得38%攻击速度和8%移动速度，状态持续期间无法使用魔卡。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "疯帽子3"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+2\n敏捷+5\n》装备：+50%攻击速度\n装备：+20%移动速度\n如果在6秒内未对敌人造成伤害，则每3秒损失1点生命值。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "红舞鞋4"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+2\n敏捷+5\n》装备：移动16米后，下一次近战攻击或魔卡被强化，造成450%伤害（魔卡为150%）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "骑士的风车2"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+20\n敏捷+4\n》进入房间：选择一个位置进行炮击。对落点处造成999点伤害和持续3秒的眩晕。你从炮击的位置登场。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "玩具大炮4"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+3\n精神+1\n》近战：发出亮光照射前方，造成90点范围伤害，眩晕1秒并将其致盲2.5秒（冷却8.5秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "太阳石2"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+3\n精神+1\n》装备：使上边的格子的道具的属性提高40%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "祝福铁砧2"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+3\n精神+2\n》使用魔卡：接下来的3.5秒内，每秒对周围的敌人造成36点伤害并附加致盲效果。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "圣光火把2"
+  },
+  {
+    "category": "description",
     "cn_text": "力量+3\n精神+2\n》装备：召唤物造成的伤害增加5",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "骨笛2"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+3\n精神+3\n》使用魔卡：下次攻击造成额外的250%伤害，此攻击拥有额外的20%暴击率。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小女孩的火柴盒3"
   },
   {
     "category": "description",
@@ -1002,24 +1457,73 @@
   },
   {
     "category": "description",
-    "cn_text": "力量+3\n精神+6\n》装备：每过10秒撒下一枚种子，靠近之后浇水，培育出一朵自动攻击的花\n装备：有25%概率种出一株双子花",
+    "cn_text": "力量+3\n精神+3\n》装备：复活时爆炸，对周围所有敌人造成400点伤害。在3场战斗中获得45%攻击力。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "塞弗林的水壶3"
+    "first_seen_id": "地狱南瓜灯2"
   },
   {
     "category": "description",
-    "cn_text": "力量+3\n敏捷+3\n》装备：+14%攻击速度\n近战：对相同目标每4次近战攻击附加1层伤口，使其受到的伤害增加1",
+    "cn_text": "力量+3\n精神+4\n》装备：每过12秒撒下一枚种子，靠近之后浇水，培育出一朵自动攻击的花",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "小木锯2"
+    "first_seen_id": "塞弗林的水壶2"
   },
   {
     "category": "description",
-    "cn_text": "力量+3\n敏捷+3\n精神+6\n》清空房间：使上边的格子的道具随机变化\n装备：有20%概率变形成更高等级的道具",
+    "cn_text": "力量+3\n精神+5\n》进入房间：获得16点护盾，持续25秒。\n护盾存在时：获得12%闪避和暴击率，以及15%技能伤害。\n护盾被打破时：周围所有敌人陷入持续8秒的睡眠。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "永续酒杯4"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+3\n精神+6\n》使用魔卡：在周围随机敌人头上降下一道月光，造成80伤害，其受到的技能伤害增加20%，持续6秒，每次照射，减少所有魔卡1秒冷却时间",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "月亮石4"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+3\n精神+7\n》近战：有14%几率发出一道旋风，对周围的敌人造成80点伤害并附加残废，持续6秒。\n装备：发出旋风后，下一次冲刺距离增加125%，并对经过的敌人造成160点伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "女巫扫把4"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+3\n敏捷+1\n》装备：每隔3.5秒获得强化，下一次冲刺攻击造成的伤害提高30点。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "染血的镰刀1"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+3\n敏捷+3\n》装备：+15生命值\n冲刺：下一次攻击附加鲜血华尔兹，造成30伤害",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "舞会假面3"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+3\n敏捷+3\n精神+6\n》装备：获得1个额外的道具格\n清空房间：使上边的格子的道具随机变化\n装备：有20%概率变形成更高等级的道具",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "潘多拉魔盒4"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+3\n敏捷+4\n》装备：+18%攻击速度\n近战：对相同目标每3次近战攻击附加1层伤口，使其受到的伤害增加1",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小木锯3"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+3\n敏捷+5\n精神+3\n》装备：+20%魔卡伤害\n使用魔卡：你的魔卡技能可以处决生命值小于20%的普通敌人。每3次处决增加1点生命值上限。最多60点。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小裁缝的剪刀4"
   },
   {
     "category": "description",
@@ -1027,6 +1531,34 @@
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "木雕小鹿2"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+3\n敏捷+7\n》装备：移动16米后，下一次近战攻击或魔卡被强化，造成500%伤害（魔卡为175%），并附加1.5秒的眩晕。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "骑士的风车3"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+4\n》装备：近战攻击对敌人身后的区域造成25%溅射伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "锁链鞭2"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+4\n精神+2\n》装备：使上边的格子的道具的属性提高60%。\n装备：使上边的格子的道具造成的伤害提高90%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "祝福铁砧3"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+4\n精神+3\n》使用魔卡：接下来的3.5秒内，每秒对周围的敌人造成48点伤害并附加致盲效果。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "圣光火把3"
   },
   {
     "category": "description",
@@ -1044,24 +1576,52 @@
   },
   {
     "category": "description",
-    "cn_text": "力量+4\n精神+8\n》装备：每过8秒撒下一枚种子，靠近之后浇水，培育出一朵自动攻击的花\n装备：有33%概率种出一株双子花\n装备：场上每有一朵花，都可以使你获得10%攻击力。",
+    "cn_text": "力量+4\n精神+4\n》装备：复活时爆炸，对周围所有敌人造成500点伤害。在3场战斗中获得60%攻击力。\n装备：复活时额外回复12%生命值。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "塞弗林的水壶4"
+    "first_seen_id": "地狱南瓜灯3"
   },
   {
     "category": "description",
-    "cn_text": "力量+4\n敏捷+4\n》装备：+18%攻击速度\n近战：对相同目标每3次近战攻击附加1层伤口，使其受到的伤害增加1",
+    "cn_text": "力量+4\n精神+5\n》装备：每过10秒撒下一枚种子，靠近之后浇水，培育出一朵自动攻击的花\n装备：有25%概率种出一株双子花",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "小木锯3"
+    "first_seen_id": "塞弗林的水壶3"
   },
   {
     "category": "description",
-    "cn_text": "力量+4\n敏捷+4\n》装备：+20生命值\n冲刺：下一次攻击附加鲜血华尔兹，造成30伤害",
+    "cn_text": "力量+4\n敏捷+10\n》装备：+16%攻击速度\n装备：+6%移动速度\n装备：+3%暴击率\n装备：移动时不会被敌人阻拦，可以穿过敌方单位。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "舞会假面3"
+    "first_seen_id": "幽灵面纱3"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+4\n敏捷+2\n》装备：每隔3秒获得强化，下一次冲刺攻击造成的伤害提高35点。\n装备：如果强化冲刺攻击击杀了敌人，伤害永久提升0.25点。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "染血的镰刀2"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+4\n敏捷+5\n》装备：+24%攻击速度\n近战：对相同目标每2次近战攻击附加1层伤口，使其受到的伤害增加1\n装备：攻击超过7层伤口的敌人，施加残废，持续4秒",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小木锯4"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+4\n敏捷+6\n》装备：+4%攻击速度\n装备：+3%移动速度\n装备：如果近战攻击连续命中同一个敌人4次，可以在接下来的3秒内获得52%攻击速度和10%移动速度，以及15点护甲，状态持续期间无法使用魔卡。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "疯帽子4"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+4\n敏捷+6\n》装备：当你生命值归0时，暂时不会死亡而是进入濒死状态，获得60%的攻击和技能速度。如果在12秒内击杀3个敌人，解除濒死状态并回复12点生命值（冷却时间30秒）。\n装备：每次进入濒死状态，获得20点侵蚀度。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "缝补心脏4"
   },
   {
     "category": "description",
@@ -1082,14 +1642,49 @@
     "cn_text": "力量+5\n》装备：+15生命值\n装备：每拥有1个诅咒增加5护甲",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "德拉莫尔的马铠2"
+    "first_seen_id": "德拉莫尔的铠甲2"
   },
   {
     "category": "description",
-    "cn_text": "力量+5\n》装备：+5%魔卡冷却速率\n装备：召唤红桃皇后,每释放5张魔卡，她就会召唤1名红桃士兵，持续15秒",
+    "cn_text": "力量+5\n》装备：召唤1名红桃士兵，你每拥有一张魔卡增加1名士兵",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "红桃Q2"
+    "first_seen_id": "红桃扑克2"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+5\n精神+2\n》近战：发出亮光照射前方，造成130点范围伤害，眩晕1秒并将其致盲3秒（冷却6.5秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "太阳石3"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+5\n精神+2\n》装备：击杀敌人后，获得40点护甲和控制免疫效果，持续5秒。\n装备：周围每存在一个敌人，获得1%伤害减免",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "英勇徽章3"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+5\n精神+2\n》装备：如果你在一场战斗失去超过10点生命值，召唤一个小丑，小丑拥有你10%的生命值并为你承担伤害，持续5秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "神秘机关盒3"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+5\n精神+3\n》装备：+10护甲\n装备：每当你失去12点生命值，获得一个可以抵抗25点伤害的护盾。护盾在12秒内逐渐衰减（冷却时间45秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "钢铁之心3"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+5\n精神+3\n》装备：使上边的格子的道具的属性提高85%。\n装备：使上边的格子的道具造成的伤害提高105%。\n装备：使上边的格子的道具稀有度提高1级。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "祝福铁砧4"
   },
   {
     "category": "description",
@@ -1107,10 +1702,80 @@
   },
   {
     "category": "description",
-    "cn_text": "力量+5\n敏捷+3\n》击杀时：获得30%攻速和10%移速，持续4秒\n装备：每杀死4个敌人回复1生命值",
+    "cn_text": "力量+5\n精神+5\n》使用魔卡：下次攻击造成额外的300%伤害，此攻击拥有额外的30%暴击率。\n装备：触发额外伤害时会留下一团火，每秒造成25点伤害并持续的点燃经过的敌人。（冷却5.5秒）",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小女孩的火柴盒4"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+5\n精神+5\n》装备：单位死亡时，有15%概率掉下1个零件（拾取获得4护盾至多叠加20，并在2秒内获得25%移动速度）\n装备：每拾取3个零件，建造1个随机炮台",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "工具箱4"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+5\n精神+6\n》装备：每过8秒撒下一枚种子，靠近之后浇水，培育出一朵自动攻击的花\n装备：有33%概率种出一株双子花\n装备：场上每有一朵花，都可以使你获得10%攻击力。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "塞弗林的水壶4"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+5\n精神+7\n》装备：+20%魔卡冷却速率\n虚空仪式：短时间内快速切换方向即可完成仪式，在原地留下一个黑洞，对附近的敌人每秒造成350点伤害，并缓慢地将他们拉拽向黑洞的中心，持续5秒（冷却15秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "虚空权杖4"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+5\n敏捷+14\n》装备：+22%攻击速度\n装备：+7%移动速度\n装备：+5%暴击率\n装备：移动时不会被敌人阻拦，可以穿过敌方单位。\n装备：穿过敌人时立即获得50%移动速度，在0.5秒内衰减。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "幽灵面纱4"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+5\n敏捷+3\n》击杀时：获得30%攻速和10%移速，持续4秒\n装备：每杀死6个敌人回复1生命值",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "噬骨者之爪3"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+5\n敏捷+3\n》受到伤害：获得3%伤害，可以叠加，击败一个BOSS后清除。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "仇恨之书3"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+5\n敏捷+3\n》装备：每隔2.5秒获得强化，下一次冲刺攻击造成的伤害提高40点。\n装备：如果强化冲刺攻击击杀了敌人，伤害永久提升0.5点。\n装备：如果强化冲刺攻击击杀了BOSS，伤害永久提升20点。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "染血的镰刀3"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+5\n敏捷+5\n》装备：+12生命值上限\n装备：你身上每持有100金币增加5%伤害。\n装备：额外获得20%金币。\n分解道具：额外获得相当于装备碎片50%的金币。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "黄金小马4"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+5\n敏捷+5\n》装备：+25生命值\n冲刺：下一次攻击附加鲜血华尔兹，造成50伤害\n装备：命中敌人积攒1层鲜血（BOSS为4层），当积攒25层鲜血后，回复3生命值",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "舞会假面4"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+5\n敏捷+8\n》装备：移动16米后，下一次近战攻击或魔卡被强化，造成600%伤害（魔卡为200%），并附加1.5秒的眩晕。\n装备：+20%移动速度",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "骑士的风车4"
   },
   {
     "category": "description",
@@ -1121,6 +1786,20 @@
   },
   {
     "category": "description",
+    "cn_text": "力量+6\n》装备：近战攻击对敌人身后的较大区域造成30%溅射伤害。\n装备：攻击和溅射伤害有8%几率使敌人破甲。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "锁链鞭3"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+6\n精神+3\n》近战：发出亮光照射前方，造成180点范围伤害，眩晕1秒并将其致盲3.5秒，每照到一名敌人可以暂时获得4点护盾（冷却6.5秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "太阳石4"
+  },
+  {
+    "category": "description",
     "cn_text": "力量+6\n精神+5\n》装备：+15护甲\n装备：腐化周围的敌人，对他们攻击附加7暗影伤害\n装备：被腐化的敌人死亡时，掉落1水晶碎片",
     "suggested_en": "",
     "count": 1,
@@ -1128,24 +1807,24 @@
   },
   {
     "category": "description",
-    "cn_text": "力量+6\n精神+6\n》装备：单位死亡时，有15%概率掉下1个零件（拾取获得4护盾至多叠加20，并在2秒内获得25%移动速度）\n装备：每拾取3个零件，建造1个随机炮台",
+    "cn_text": "力量+6\n精神+6\n》装备：复活时爆炸，对周围所有敌人造成800点伤害。在3场战斗中获得75%攻击力。\n装备：复活时额外回复20%生命值。\n装备：获得1次额外的复活次数。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "工具箱4"
+    "first_seen_id": "地狱南瓜灯4"
   },
   {
     "category": "description",
-    "cn_text": "力量+6\n敏捷+6\n》装备：+24%攻击速度\n近战：对相同目标每2次近战攻击附加1层伤口，使其受到的伤害增加1\n装备：攻击超过7层伤口的敌人，施加残废，持续4秒",
+    "cn_text": "力量+6\n敏捷+4\n》受到伤害：获得4%伤害，可以叠加，击败一个BOSS后清除。\n受到伤害：对向你造成伤害的敌人施放复仇印记，在接下来的15秒内对其暴击率提高12%。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "小木锯4"
+    "first_seen_id": "仇恨之书4"
   },
   {
     "category": "description",
-    "cn_text": "力量+6\n敏捷+6\n》装备：+30生命值\n冲刺：下一次攻击附加鲜血华尔兹，造成50伤害\n装备：命中敌人积攒1层鲜血（BOSS为4层），当积攒25层鲜血后，回复3生命值",
+    "cn_text": "力量+6\n敏捷+4\n》装备：每隔2秒获得强化，下一次冲刺攻击造成的伤害提高50点。\n装备：如果强化冲刺攻击击杀了敌人，伤害永久提升1点。\n装备：如果强化冲刺攻击击杀了BOSS，伤害永久提升35点。\n装备：强化可以储存3层。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "舞会假面4"
+    "first_seen_id": "染血的镰刀4"
   },
   {
     "category": "description",
@@ -1159,7 +1838,28 @@
     "cn_text": "力量+7\n》装备：+20生命值\n装备：每拥有1个诅咒增加6护甲\n装备：每点护甲提升1%冲刺攻击伤害",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "德拉莫尔的马铠3"
+    "first_seen_id": "德拉莫尔的铠甲3"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+7\n精神+4\n》装备：如果你在一场战斗失去超过10点生命值，召唤一个小丑，小丑拥有你15%的生命值并为你承担伤害，持续5秒。小丑死亡时会爆炸，对周围的所有敌人造成140点伤害并眩晕2.5秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "神秘机关盒4"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+7\n精神+5\n》装备：+15护甲\n装备：每当你失去12点生命值，获得一个可以抵抗40点伤害的护盾。护盾在12秒内逐渐衰减（冷却时间45秒）。\n装备：此护盾持续期间，获得20%的额外攻击力并免疫控制效果。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "钢铁之心4"
+  },
+  {
+    "category": "description",
+    "cn_text": "力量+7\n敏捷+4\n》击杀时：获得40%攻速和15%移速，持续4秒\n装备：每杀死4个敌人回复1生命值\n装备：每杀死1个BOSS获得30生命上限",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "噬骨者之爪4"
   },
   {
     "category": "description",
@@ -1170,38 +1870,52 @@
   },
   {
     "category": "description",
-    "cn_text": "力量+8\n》装备：+8%魔卡冷却速率\n装备：召唤红桃皇后,每释放4张魔卡，她就会召唤1名红桃士兵，持续18秒\n装备：红桃皇后提升友方12%攻击力",
+    "cn_text": "力量+8\n》装备：降低12%的攻击速度和5%的移动速度，降低15%的冲刺冷却速率。\n装备：+35%近战攻击力",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "红桃Q3"
+    "first_seen_id": "笨重的枷锁2"
   },
   {
     "category": "description",
-    "cn_text": "力量+8\n敏捷+4\n》击杀时：获得40%攻速和15%移速，持续4秒\n装备：每杀死3个敌人回复1生命值\n装备：每杀死1个BOSS获得30生命上限",
+    "cn_text": "力量+8\n》装备：召唤1名红桃士兵，你每拥有一张魔卡增加1名士兵\n装备：根据所有魔卡的等级强化士兵，每有1级，士兵造成的伤害增加1",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "噬骨者之爪4"
+    "first_seen_id": "红桃扑克3"
   },
   {
     "category": "description",
-    "cn_text": "敏捷+10\n精神+6\n》受到伤害：喝下药水，体型变小35%，获得100%攻击速度，50%减伤，35%移动速度，持续8秒（冷却：20秒）",
+    "cn_text": "力量+8\n精神+4\n》使用魔卡：接下来的3.5秒内，每秒对周围的敌人造成104点伤害并附加致盲效果。\n使用支援技能：接下来的14秒内，每秒对周围的敌人造成104点伤害并附加致盲效果。\n使用魔卡：获得持续3.5秒的4点护盾。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "缩小药水4"
+    "first_seen_id": "圣光火把4"
   },
   {
     "category": "description",
-    "cn_text": "敏捷+12\n》装备：+33%对远处敌人的攻击伤害\n装备：每次攻击远处的敌人，射出2发弩箭，造成50%伤害\n装备：有25%概率连发弩箭",
+    "cn_text": "敏捷+1\n精神+3\n》装备：每隔13秒敲响战鼓，使你和你的召唤物在6秒内提升10%/20%的攻击力。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "手弩4"
+    "first_seen_id": "勇气小鼓2"
   },
   {
     "category": "description",
-    "cn_text": "敏捷+12\n》装备：+5%暴击率\n装备：+20%攻击速度\n装备：在宝箱中找到额外30金币\n装备：有80%概率在宝箱中找到1颗宝石\n装备：可以在商店里，偷取1个物品",
+    "cn_text": "敏捷+10\n精神+6\n》受到伤害：吃下蘑菇，体型变小35%，获得100%攻击速度，50%减伤，35%移动速度，持续8秒（冷却：20秒）",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "窃贼手套4"
+    "first_seen_id": "缩小蘑菇4"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+12\n》装备：+13护甲\n近战：获得可叠加的5%闪避率，持续1.5秒。\n闪避：召唤3道风刃，对碰到的敌人造成75点伤害（冷却时间0.8秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "鸦羽斗篷4"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+2\n精神+1\n》装备：+1%暴击率\n装备：商店有15%几率打折。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "幸运兔脚1"
   },
   {
     "category": "description",
@@ -1212,10 +1926,10 @@
   },
   {
     "category": "description",
-    "cn_text": "敏捷+2\n精神+2\n》装备：攻击命中时射出一支诅咒之箭造成3伤害",
+    "cn_text": "敏捷+2\n精神+2\n》装备：+8%魔卡冷却速率\n装备：使用魔卡时对首个命中的目标投掷3个雪球，分别造成9点伤害。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "诅咒箭头1"
+    "first_seen_id": "胡萝卜雪人1"
   },
   {
     "category": "description",
@@ -1226,10 +1940,31 @@
   },
   {
     "category": "description",
+    "cn_text": "敏捷+2\n精神+4\n》击杀时：吸收敌人的灵魂。\n装备：每吸收1个灵魂，增加1点侵蚀度。\n装备：每吸收1个灵魂，永久增加0.75%暴击伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "魂蝶灯3"
+  },
+  {
+    "category": "description",
     "cn_text": "敏捷+2\n精神+4\n》装备：+7%移动速度\n装备：浮空行走，不会踩到地刺，熔岩，毒液",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "奈薇娅残羽2"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+2\n精神+5\n》装备：每隔12秒敲响战鼓，使你和你的召唤物在6秒内提升15%/30%的攻击力。\n装备：敲响战鼓时，你获得5点护盾。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "勇气小鼓3"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+2\n精神+5\n》装备：相邻的道具触发时有25%几率再触发一次。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "回声海螺2"
   },
   {
     "category": "description",
@@ -1240,10 +1975,24 @@
   },
   {
     "category": "description",
-    "cn_text": "敏捷+3\n》装备：+14%对远处敌人的攻击伤害",
+    "cn_text": "敏捷+3\n》装备：+12%对远处敌人的攻击伤害",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "手弩1"
+    "first_seen_id": "十字弩1"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+3\n精神+1\n》装备：+5%移动速度\n装备：在冲刺后的0.5秒内移动会在地上留下鬼火，鬼火持续1.2秒，火焰之中的敌人每秒受到40伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "冥狐的尾巴2"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+3\n精神+2\n》装备：+2%暴击率\n装备：商店有20%几率打折。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "幸运兔脚2"
   },
   {
     "category": "description",
@@ -1254,10 +2003,31 @@
   },
   {
     "category": "description",
-    "cn_text": "敏捷+3\n精神+3\n》装备：攻击命中时射出一支诅咒之箭造成5伤害",
+    "cn_text": "敏捷+3\n精神+3\n》装备：+10%魔卡冷却速率\n装备：使用魔卡时对首个命中的目标投掷3个雪球，分别造成12点伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "胡萝卜雪人2"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+3\n精神+3\n》装备：攻击命中时射出一支诅咒之箭造成6伤害",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "诅咒箭头2"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+3\n精神+5\n》击杀时：吸收敌人的灵魂。\n装备：每吸收1个灵魂，增加1点侵蚀度。\n装备：每吸收1个灵魂，永久增加1%暴击伤害。\n装备：吸收灵魂时如果生命值小于15%，额外回复1点生命值。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "魂蝶灯4"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+3\n精神+5\n》装备：+12护甲\n装备：你每拥有4护甲就增加1%伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "荆棘玫瑰3"
   },
   {
     "category": "description",
@@ -1268,10 +2038,38 @@
   },
   {
     "category": "description",
+    "cn_text": "敏捷+3\n精神+6\n》装备：发射一道昏睡波，对周围的全部敌人造成6点伤害并短暂降低他们55%的攻击速度（冷却7秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "昏睡花冠2"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+3\n精神+6\n》装备：相邻的道具触发时有30%几率再触发一次。\n装备：提高相邻的道具25%的触发几率。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "回声海螺3"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+3\n精神+8\n》装备：每隔11秒敲响战鼓，使你和你的召唤物在6秒内提升25%/50%的攻击力。\n装备：敲响战鼓时，你获得8点护盾。\n装备：你的召唤物获得3秒的额外持续时间。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "勇气小鼓4"
+  },
+  {
+    "category": "description",
     "cn_text": "敏捷+4\n》装备：+2%暴击率\n装备：+10%攻击速度\n装备：在宝箱中找到额外10金币",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "窃贼手套2"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+4\n精神+12\n》近战：召唤一个死神协助你作战，持续6秒（冷却时间20秒）。\n装备：每击杀一个敌人，死神获得0.2%的攻击力。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "死灵书4"
   },
   {
     "category": "description",
@@ -1285,11 +2083,32 @@
     "cn_text": "敏捷+4\n精神+2\n》冲刺：近战攻击可以快速连击3次（冷却：5秒）",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "幻影之刃2"
+    "first_seen_id": "幽灵弯刀2"
   },
   {
     "category": "description",
-    "cn_text": "敏捷+4\n精神+4\n》装备：攻击命中时射出一支诅咒之箭造成7伤害\n装备：诅咒之箭会扎在敌人身上，你的技能可以将其拔出造成30伤害，每根箭额外造成9伤害",
+    "cn_text": "敏捷+4\n精神+2\n》装备：+8%移动速度\n装备：在冲刺后的0.9秒内移动会在地上留下鬼火，鬼火持续1.5秒，火焰之中的敌人每秒受到50伤害。\n装备：鬼火使敌人减速25%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "冥狐的尾巴3"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+4\n精神+3\n》击杀时：恐惧周围所有敌人2秒，冷却7.5秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "深海面具2"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+4\n精神+4\n》装备：+12%魔卡冷却速率\n装备：使用魔卡时对首个命中的目标投掷3个雪球，分别造成18点伤害。\n装备：每第3次触发改为连续投掷9个雪球。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "胡萝卜雪人3"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+4\n精神+4\n》装备：攻击命中时射出一支诅咒之箭造成9伤害\n装备：诅咒之箭会扎在敌人身上，你的技能可以将其拔出造成30伤害，每根箭额外造成13伤害",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "诅咒箭头3"
@@ -1303,17 +2122,52 @@
   },
   {
     "category": "description",
-    "cn_text": "敏捷+4\n精神+8\n》装备：+15%移动速度\n装备：浮空行走，不会踩到地刺，熔岩，毒液\n使用魔卡：下2次冲刺的距离提升45%并释放3只蝴蝶，自动追踪敌人造成30伤害",
+    "cn_text": "敏捷+4\n精神+7\n》装备：+18护甲\n装备：你每拥有3护甲就增加1%伤害。\n受到伤害：对周围大范围的所有敌人在3秒内造成324点伤害（冷却4秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "荆棘玫瑰4"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+4\n精神+8\n》装备：+15%移动速度\n装备：浮空行走，不会踩到地刺，熔岩，毒液\n使用魔卡：下2次冲刺的距离提升45%并释放3只蝴蝶，自动追踪敌人造成40伤害",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "奈薇娅残羽4"
   },
   {
     "category": "description",
-    "cn_text": "敏捷+5\n》装备：+19%对远处敌人的攻击伤害",
+    "cn_text": "敏捷+4\n精神+9\n》装备：发射一道昏睡波，对周围的全部敌人造成6点伤害并短暂降低他们70%的攻击速度（冷却6.5秒）。\n装备：光环命中敌人时有35%几率附加催眠。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "手弩2"
+    "first_seen_id": "昏睡花冠3"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+5\n》装备：+16%对远处敌人的攻击伤害",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "十字弩2"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+5\n》装备：+7护甲\n近战：获得可叠加的3%闪避率，持续1.5秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "鸦羽斗篷2"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+5\n精神+14\n》装备：发射一道昏睡波，对周围的全部敌人造成6点伤害并短暂降低他们85%的攻击速度（冷却6秒）。\n装备：光环命中敌人时有35%几率附加催眠。\n装备：受到伤害时会施放额外的昏睡波。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "昏睡花冠4"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+5\n精神+3\n》装备：+3%暴击率\n装备：商店有27%几率打折。\n装备：打折幅度提升至6折。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "幸运兔脚3"
   },
   {
     "category": "description",
@@ -1324,6 +2178,13 @@
   },
   {
     "category": "description",
+    "cn_text": "敏捷+5\n精神+4\n》击杀时：恐惧周围所有敌人2秒，冷却7秒。\n装备：你对处于恐惧状态的敌人造成25%的额外伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "深海面具3"
+  },
+  {
+    "category": "description",
     "cn_text": "敏捷+5\n精神+7\n》装备：+15护甲\n受到攻击：对周围的敌人施加7层中毒并留下一团毒雾，每秒对范围内的敌人施加1层中毒，并施加30%减速，持续7秒。",
     "suggested_en": "",
     "count": 1,
@@ -1331,17 +2192,73 @@
   },
   {
     "category": "description",
-    "cn_text": "敏捷+6\n精神+3\n》冲刺：近战攻击可以快速连击4次，造成的伤害增加20%（冷却：5秒）",
+    "cn_text": "敏捷+5\n精神+8\n》装备：相邻的道具触发时有40%几率再触发一次。\n装备：提高相邻的道具35%的触发几率，并且降低30%的冷却时间。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "幻影之刃3"
+    "first_seen_id": "回声海螺4"
   },
   {
     "category": "description",
-    "cn_text": "敏捷+6\n精神+6\n》装备：攻击命中时射出一支诅咒之箭造成9伤害\n装备：诅咒之箭会扎在敌人身上，你的技能可以将其拔出造成40伤害，每根箭额外造成13伤害\n装备：每引爆1根诅咒之箭，可以缩短你所有技能0.3秒冷却时间",
+    "cn_text": "敏捷+6\n》装备：+3%暴击率\n装备：+12%攻击速度\n装备：在宝箱中找到额外15金币\n装备：有30%概率在宝箱中找到1颗宝石",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "窃贼手套3"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+6\n》装备：+3%闪避率\n进入房间：吹起风笛，提高34%攻击速度和18%移动速度，持续14秒。\n击杀时：延长1秒的笛声持续时间。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "妖精的风笛3"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+6\n》装备：+6%闪避率\n受到伤害：获得持续2秒的潜行和无敌（冷却8秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "隐身戒指3"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+6\n精神+3\n》冲刺：近战攻击可以快速连击4次，造成的伤害增加20%（冷却：5秒）",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "幽灵弯刀3"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+6\n精神+4\n》装备：+14%移动速度\n装备：移动会留下鬼火，火焰持续1.8秒，火焰之中的敌人每秒受到65伤害。\n装备：鬼火使敌人减速40%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "冥狐的尾巴4"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+6\n精神+6\n》装备：+15%魔卡冷却速率\n装备：使用魔卡时对首个命中的目标投掷3个雪球，分别造成26点伤害。\n装备：每第3次触发改为连续投掷9个雪球并附加持续1.5秒的冰封。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "胡萝卜雪人4"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+6\n精神+6\n》装备：攻击命中时射出一支诅咒之箭造成13伤害\n装备：诅咒之箭会扎在敌人身上，你的技能可以将其拔出造成40伤害，每根箭额外造成17伤害\n装备：每拔出1根诅咒之箭，可以缩短你所有技能0.5秒冷却时间",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "诅咒箭头4"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+7\n》装备：+20%对远处敌人的攻击伤害\n装备：每次攻击远处的敌人，射出2发弩箭，造成35%伤害",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "十字弩3"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+7\n精神+4\n》装备：+5%暴击率\n装备：商店有35%几率打折。\n装备：打折幅度提升至5折。\n打开宝箱：有25%几率获得稀有度更高的道具。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "幸运兔脚4"
   },
   {
     "category": "description",
@@ -1352,24 +2269,52 @@
   },
   {
     "category": "description",
-    "cn_text": "敏捷+8\n》装备：+25%对远处敌人的攻击伤害\n装备：每次攻击远处的敌人，射出2发弩箭，造成35%伤害",
+    "cn_text": "敏捷+8\n》装备：+10护甲\n近战：获得可叠加的4%闪避率，持续1.5秒。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "手弩3"
+    "first_seen_id": "鸦羽斗篷3"
   },
   {
     "category": "description",
-    "cn_text": "敏捷+8\n》装备：+3%暴击率\n装备：+14%攻击速度\n装备：在宝箱中找到额外15金币\n装备：有50%概率在宝箱中找到1颗宝石",
+    "cn_text": "敏捷+8\n》装备：+5%闪避率\n进入房间：吹起风笛，提高46%攻击速度和24%移动速度，持续14秒。\n击杀时：延长1秒的笛声持续时间。\n笛声存在时：免疫控制效果。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "窃贼手套3"
+    "first_seen_id": "妖精的风笛4"
   },
   {
     "category": "description",
     "cn_text": "敏捷+8\n精神+4\n》冲刺：近战攻击可以快速连击5次，造成的伤害增加30%（冷却：5秒）\n装备：快速连击时，每次攻击附加一道灵力刀波造成30伤害",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "幻影之刃4"
+    "first_seen_id": "幽灵弯刀4"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+8\n精神+6\n》击杀时：恐惧周围所有敌人2秒，冷却6秒。\n装备：你对处于恐惧状态的敌人造成40%的额外伤害。\n装备：你每持有一个诅咒，延长0.5秒恐惧时间。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "深海面具4"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+9\n》装备：+25%对远处敌人的攻击伤害\n装备：每次攻击远处的敌人，射出2发弩箭，造成50%伤害\n装备：有25%概率连发弩箭",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "十字弩4"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+9\n》装备：+4%暴击率\n装备：+16%攻击速度\n装备：在宝箱中找到额外30金币\n装备：有50%概率在宝箱中找到1颗宝石\n装备：可以在商店里，偷取1个物品",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "窃贼手套4"
+  },
+  {
+    "category": "description",
+    "cn_text": "敏捷+9\n》装备：+9%闪避率\n受到伤害：获得持续2秒的潜行和无敌（冷却7秒），在接下来的3.5秒内获得30%闪避。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "隐身戒指4"
   },
   {
     "category": "destructible_name",
@@ -3844,6 +4789,13 @@
   },
   {
     "category": "event_text",
+    "cn_text": "偷吃蛋糕/偷喝啤酒/全部吃光/算了△还是算了吧",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "破房子4"
+  },
+  {
+    "category": "event_text",
     "cn_text": "危险！",
     "suggested_en": "",
     "count": 1,
@@ -3998,13 +4950,6 @@
   },
   {
     "category": "item_base_name",
-    "cn_text": "棱镜",
-    "suggested_en": "",
-    "count": 4,
-    "first_seen_id": "棱镜1"
-  },
-  {
-    "category": "item_base_name",
     "cn_text": "魔力宝珠",
     "suggested_en": "",
     "count": 4,
@@ -4033,10 +4978,24 @@
   },
   {
     "category": "item_base_name",
-    "cn_text": "手弩",
+    "cn_text": "十字弩",
     "suggested_en": "",
     "count": 4,
-    "first_seen_id": "手弩1"
+    "first_seen_id": "十字弩1"
+  },
+  {
+    "category": "item_base_name",
+    "cn_text": "手摇钻头",
+    "suggested_en": "",
+    "count": 4,
+    "first_seen_id": "手摇钻头1"
+  },
+  {
+    "category": "item_base_name",
+    "cn_text": "缩小镜",
+    "suggested_en": "",
+    "count": 4,
+    "first_seen_id": "缩小镜1"
   },
   {
     "category": "item_base_name",
@@ -4054,24 +5013,10 @@
   },
   {
     "category": "item_base_name",
-    "cn_text": "小钻头",
-    "suggested_en": "",
-    "count": 4,
-    "first_seen_id": "小钻头1"
-  },
-  {
-    "category": "item_base_name",
     "cn_text": "萤火之灯",
     "suggested_en": "",
     "count": 4,
     "first_seen_id": "萤火之灯1"
-  },
-  {
-    "category": "item_base_name",
-    "cn_text": "诅咒箭头",
-    "suggested_en": "",
-    "count": 4,
-    "first_seen_id": "诅咒箭头1"
   },
   {
     "category": "item_base_name",
@@ -4082,10 +5027,10 @@
   },
   {
     "category": "item_base_name",
-    "cn_text": "德拉莫尔的马铠",
+    "cn_text": "德拉莫尔的铠甲",
     "suggested_en": "",
     "count": 3,
-    "first_seen_id": "德拉莫尔的马铠2"
+    "first_seen_id": "德拉莫尔的铠甲2"
   },
   {
     "category": "item_base_name",
@@ -4096,17 +5041,10 @@
   },
   {
     "category": "item_base_name",
-    "cn_text": "红桃Q",
+    "cn_text": "红桃扑克",
     "suggested_en": "",
     "count": 3,
-    "first_seen_id": "红桃Q2"
-  },
-  {
-    "category": "item_base_name",
-    "cn_text": "幻影之刃",
-    "suggested_en": "",
-    "count": 3,
-    "first_seen_id": "幻影之刃2"
+    "first_seen_id": "红桃扑克2"
   },
   {
     "category": "item_base_name",
@@ -4138,10 +5076,24 @@
   },
   {
     "category": "item_base_name",
+    "cn_text": "幽灵弯刀",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "幽灵弯刀2"
+  },
+  {
+    "category": "item_base_name",
     "cn_text": "月亮石",
     "suggested_en": "",
     "count": 3,
     "first_seen_id": "月亮石2"
+  },
+  {
+    "category": "item_base_name",
+    "cn_text": "诅咒箭头",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "诅咒箭头2"
   },
   {
     "category": "item_base_name",
@@ -4180,73 +5132,73 @@
   },
   {
     "category": "item_base_name",
-    "cn_text": "贵族红宝石",
+    "cn_text": "华贵的红宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "红宝石3"
   },
   {
     "category": "item_base_name",
-    "cn_text": "贵族蓝宝石",
+    "cn_text": "华贵的蓝宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "蓝宝石3"
   },
   {
     "category": "item_base_name",
-    "cn_text": "贵族绿宝石",
+    "cn_text": "华贵的绿宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "绿宝石3"
   },
   {
     "category": "item_base_name",
-    "cn_text": "魔术兔子",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "魔术兔子2"
-  },
-  {
-    "category": "item_base_name",
-    "cn_text": "破碎红宝石",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "红宝石0"
-  },
-  {
-    "category": "item_base_name",
-    "cn_text": "破碎蓝宝石",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "蓝宝石0"
-  },
-  {
-    "category": "item_base_name",
-    "cn_text": "破碎绿宝石",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "绿宝石0"
-  },
-  {
-    "category": "item_base_name",
-    "cn_text": "普通红宝石",
+    "cn_text": "开裂的红宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "红宝石1"
   },
   {
     "category": "item_base_name",
-    "cn_text": "普通蓝宝石",
+    "cn_text": "开裂的蓝宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "蓝宝石1"
   },
   {
     "category": "item_base_name",
-    "cn_text": "普通绿宝石",
+    "cn_text": "开裂的绿宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "绿宝石1"
+  },
+  {
+    "category": "item_base_name",
+    "cn_text": "龙族信物",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "龙族信物4"
+  },
+  {
+    "category": "item_base_name",
+    "cn_text": "破碎的红宝石",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "红宝石0"
+  },
+  {
+    "category": "item_base_name",
+    "cn_text": "破碎的蓝宝石",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "蓝宝石0"
+  },
+  {
+    "category": "item_base_name",
+    "cn_text": "破碎的绿宝石",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "绿宝石0"
   },
   {
     "category": "item_base_name",
@@ -4264,108 +5216,59 @@
   },
   {
     "category": "item_base_name",
-    "cn_text": "缩小药水",
+    "cn_text": "缩小蘑菇",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "缩小药水4"
+    "first_seen_id": "缩小蘑菇4"
   },
   {
     "category": "item_base_name",
-    "cn_text": "完美红宝石",
+    "cn_text": "完美的红宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "红宝石4"
   },
   {
     "category": "item_base_name",
-    "cn_text": "完美蓝宝石",
+    "cn_text": "完美的蓝宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "蓝宝石4"
   },
   {
     "category": "item_base_name",
-    "cn_text": "完美绿宝石",
+    "cn_text": "完美的绿宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "绿宝石4"
   },
   {
     "category": "item_base_name",
-    "cn_text": "小刺球",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "小刺球1"
-  },
-  {
-    "category": "item_base_name",
-    "cn_text": "小恶魔",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "小恶魔4"
-  },
-  {
-    "category": "item_base_name",
-    "cn_text": "小夜",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "小夜3"
-  },
-  {
-    "category": "item_base_name",
-    "cn_text": "优质红宝石",
+    "cn_text": "优质的红宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "红宝石2"
   },
   {
     "category": "item_base_name",
-    "cn_text": "优质蓝宝石",
+    "cn_text": "优质的蓝宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "蓝宝石2"
   },
   {
     "category": "item_base_name",
-    "cn_text": "优质绿宝石",
+    "cn_text": "优质的绿宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "绿宝石2"
   },
   {
     "category": "item_description",
-    "cn_text": "》装备：放在最下面的格子里孵化，需要5个房间才能孵化！",
-    "suggested_en": "",
-    "count": 4,
-    "first_seen_id": "恶魔蛋1"
-  },
-  {
-    "category": "item_description",
-    "cn_text": "》宠物：调皮的捣蛋鬼，会发射神奇的魔法光弹，以此协助你战斗。\n攻击力：22\n攻击速度：0.8次/秒",
+    "cn_text": "》拆解时：实现1个愿望。\n装备：每经历6场战斗，可以多实现一个愿望（最多额外储存2个）。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "魔术兔子2"
-  },
-  {
-    "category": "item_description",
-    "cn_text": "》宠物：高冷潇洒的亡灵，会连续投掷多把小刀，以此协助你战斗。\n攻击力：16\n攻击连发数：3\n攻击速度：1.25次/秒",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "小夜3"
-  },
-  {
-    "category": "item_description",
-    "cn_text": "》宠物：邪恶的恶魔伙伴，会喷吐诅咒之火，以此协助你战斗。\n攻击力：288\n攻击速度：0.35次/秒",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "小恶魔4"
-  },
-  {
-    "category": "item_description",
-    "cn_text": "》宠物：一蹦一跳的小怪物，会用身子撞击敌人，以此协助你战斗。\n攻击力：28\n攻击速度：1次/秒",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "小刺球1"
+    "first_seen_id": "神灯4"
   },
   {
     "category": "item_description",
@@ -4544,6 +5447,41 @@
   },
   {
     "category": "item_description",
+    "cn_text": "》装备：-5%攻击速度\n近战：获得8点护盾，持续4.5秒（冷却10秒）。\n装备：护盾被打破或者结束时，对周围敌人造成1200%护盾值的伤害。\n装备：每5%攻击力转化为1点护盾值。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "石脉护手3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "》装备：-5%攻击速度\n近战：获得8点护盾，持续4.5秒（冷却11秒）。\n装备：护盾被打破或者结束时，对周围敌人造成800%护盾值的伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "石脉护手2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "》装备：-5%攻击速度\n近战：获得8点护盾，持续4.5秒（冷却12秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "石脉护手1"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "》装备：-5%攻击速度\n近战：获得8点护盾，持续4.5秒（冷却9秒）。\n装备：护盾被打破或者结束时，对周围敌人造成1800%护盾值的伤害和短暂的眩晕。\n装备：每3%攻击力转化为1点护盾值。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "石脉护手4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "》装备：+10%闪避率\n冲刺：对撞到的所有敌人造成100点伤害并小幅度的击退他们（冷却2秒）。\n装备：撞击时有33%几率击晕敌人，持续1秒。\n装备：每撞到一个敌人获得可叠加的4点护盾，护盾持续4秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "滚滚啤酒桶4"
+  },
+  {
+    "category": "item_description",
     "cn_text": "》装备：+10护甲\n受到攻击：向周围敌人发射3次针刺散射，每次造成12伤害",
     "suggested_en": "",
     "count": 1,
@@ -4579,6 +5517,13 @@
   },
   {
     "category": "item_description",
+    "cn_text": "》装备：+18%生命值上限。\n装备：血瓶额外回复30%生命值。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "世界树种子2"
+  },
+  {
+    "category": "item_description",
     "cn_text": "》装备：+2%暴击率\n装备：+3%移动速度\n装备：移动和攻击时获得电能，满100电能时，下次攻击附加闪电链，造成36伤害",
     "suggested_en": "",
     "count": 1,
@@ -4600,6 +5545,13 @@
   },
   {
     "category": "item_description",
+    "cn_text": "》装备：+22%生命值上限。\n装备：血瓶额外回复50%生命值。\nBOSS战时：每5秒回复1点生命值。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "世界树种子3"
+  },
+  {
+    "category": "item_description",
     "cn_text": "》装备：+25%魔卡暴击率\n装备：+5%魔卡冷却速率\n装备：每用一张魔卡命中敌人，获得18%暴击伤害，持续6秒，至多叠加5层\n装备：魔卡暴击时，缩短所有魔卡5%冷却时间",
     "suggested_en": "",
     "count": 1,
@@ -4611,6 +5563,13 @@
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "发电装置2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "》装备：+30%生命值上限。\n装备：血瓶额外回复80%生命值。\nBOSS战时：每5秒回复2点生命值。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "世界树种子4"
   },
   {
     "category": "item_description",
@@ -4642,10 +5601,24 @@
   },
   {
     "category": "item_description",
+    "cn_text": "》装备：+5%闪避率\n冲刺：对撞到的所有敌人造成50点伤害并小幅度的击退他们（冷却3秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "滚滚啤酒桶2"
+  },
+  {
+    "category": "item_description",
     "cn_text": "》装备：+50生命值上限\n吃蛋糕：额外回复10生命值\n装备：每拥有10生命上限增加2%攻击力",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "奶酪4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "》装备：+7%闪避率\n冲刺：对撞到的所有敌人造成70点伤害并小幅度的击退他们（冷却2.5秒）。\n装备：撞击时有25%几率击晕敌人，持续1秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "滚滚啤酒桶3"
   },
   {
     "category": "item_description",
@@ -4670,6 +5643,104 @@
   },
   {
     "category": "item_description",
+    "cn_text": "》装备：富有魔力的蛋，需要放在最下面的格子里，经过5个房间后孵化！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "恶魔蛋2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "》装备：连招的最后一段攻击提高50%暴击率。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "橡木拐杖2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "》装备：连招的最后一段攻击提高60%暴击率。\n装备：连招的最后一段攻击提高50%的暴击伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "橡木拐杖3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "》装备：连招的最后一段攻击提高75%暴击率。\n装备：连招的最后一段攻击提高80%的暴击伤害。\n装备：连招的最后一段攻击可以将敌人击晕，持续0.5秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "橡木拐杖4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "》装备：每击杀4个敌人，召唤一个姜饼守卫协助你战斗。姜饼守卫最多持续16秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "姜饼屋1"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "》装备：每击杀4个敌人，召唤一个姜饼守卫协助你战斗。姜饼守卫最多持续18秒。\n装备：有机会召唤更强的姜饼守卫。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "姜饼屋2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "》装备：每击杀4个敌人，召唤一个姜饼守卫协助你战斗。姜饼守卫最多持续20秒。\n装备：有机会召唤更强大的姜饼守卫。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "姜饼屋3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "》装备：每击杀4个敌人，召唤一个姜饼守卫协助你战斗。姜饼守卫最多持续24秒。\n装备：有机会召唤最强的姜饼守卫。\n装备：持续时间结束后姜饼人会变成小糖块，拾取时回复1点生命值。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "姜饼屋4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "》装备：弱小恶魔的蛋，需要放在最下面的格子里，经过5个房间后孵化！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "恶魔蛋1"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "》装备：散发死亡气息的蛋，需要放在最下面的格子里，经过5个房间后孵化！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "恶魔蛋3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "》装备：最邪恶的蛋，需要放在最下面的格子里，经过5个房间后孵化！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "恶魔蛋4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "精神+10\n》装备：+24%魔卡冷却速度\n装备：魔卡命中时，向敌人发射1道缩小射线，造成180伤害，使敌人造成的伤害降低20%，持续6秒（冷却：8秒）\n装备：激光在命中第一目标后，向周围5个敌人折射\n装备：被缩小的敌人会受到40%额外伤害",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "缩小镜4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "精神+11\n》受到伤害：魅惑周围的敌人10秒（冷却时间8秒）。\n装备：附近的敌人攻击力降低20%。\n装备：场上每有一个被魅惑的单位，提升你5%攻击力。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "魔女的香水4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "精神+11\n》装备：+15%减伤\n受到伤害：每受到5次伤害，触发一次支援技能。\n触发：施放支援技能时，短暂获得35%攻击力，持续7秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "神圣十字章4"
+  },
+  {
+    "category": "item_description",
     "cn_text": "精神+12\n》装备：+12%魔卡伤害\n装备：+12%魔卡冷却速率\n装备：造成技能伤害时，暂停敌人的时间，持续2.5秒，之后造成90伤害。（冷却：8秒）\n装备：如果敌人在时间暂停的过程中死亡，则有50%概率掉落1个时之沙（拾取时降低所有魔卡30%冷却时间，并获得30%魔卡伤害，持续6秒）",
     "suggested_en": "",
     "count": 1,
@@ -4677,24 +5748,31 @@
   },
   {
     "category": "item_description",
-    "cn_text": "精神+12\n》装备：+20%魔卡伤害\n装备：每秒积攒10魔力，满100魔力时，使用魔卡释放12枚法力飞弹，造成20伤害\n装备：使用魔卡时积攒20魔力\n装备：有概率发射强能法力飞弹",
+    "cn_text": "精神+12\n》装备：战斗开始后5秒，随机召唤4个图腾，持续25秒\n灼热图腾：发射2枚火球敌人造成36伤害（攻击速度：0.58次/秒）\n邪恶图腾：增加周围友军30%伤害\n鲜血图腾：每过4秒治疗1生命值\n大地图腾：增加周围友军30护甲",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "魔力宝珠4"
+    "first_seen_id": "小图腾4"
   },
   {
     "category": "item_description",
-    "cn_text": "精神+12\n》装备：+24%魔卡冷却速度\n装备：魔卡命中时，向敌人发射1道缩小射线，造成180伤害，使敌人造成的伤害降低20%，持续6秒（冷却：8秒）\n装备：激光在命中第一目标后，向周围5个敌人折射\n装备：被缩小的敌人会受到40%额外伤害",
+    "cn_text": "精神+2\n》近战：使命中的普通敌人变成小动物，持续3.5秒（冷却18秒）。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "棱镜4"
+    "first_seen_id": "仙女棒1"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "精神+3\n》受到伤害：每秒恢复1点生命值，持续3秒（冷却时间25秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "魔法竖琴1"
   },
   {
     "category": "item_description",
     "cn_text": "精神+3\n》装备：+8%魔卡冷却速度\n装备：魔卡命中时，向敌人发射1道缩小射线，造成50伤害，使敌人造成的伤害降低20%，持续6秒（冷却：8秒）",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "棱镜1"
+    "first_seen_id": "缩小镜1"
   },
   {
     "category": "item_description",
@@ -4712,10 +5790,45 @@
   },
   {
     "category": "item_description",
+    "cn_text": "精神+4\n》击杀时：所有魔卡的冷却时间降低8%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "铸铁齿轮1"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "精神+4\n》近战：使命中的普通敌人变成小动物，持续3.5秒（冷却15秒）。\n装备：对变形的敌人造成的伤害提高100%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "仙女棒2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "精神+5\n》击杀时：所有魔卡的冷却时间降低10%。\n装备：+5%魔卡伤害",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "铸铁齿轮2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "精神+5\n》受到伤害：每秒恢复1点生命值，持续5秒（冷却时间23秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "魔法竖琴2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "精神+5\n》受到伤害：魅惑周围的敌人5秒（冷却时间8秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "魔女的香水2"
+  },
+  {
+    "category": "item_description",
     "cn_text": "精神+5\n》装备：+10%魔卡冷却速度\n装备：魔卡命中时，向敌人发射1道缩小射线，造成70伤害，使敌人造成的伤害降低20%，持续6秒（冷却：8秒）\n装备：激光在命中第一目标后，向周围1个敌人折射",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "棱镜2"
+    "first_seen_id": "缩小镜2"
   },
   {
     "category": "item_description",
@@ -4733,6 +5846,20 @@
   },
   {
     "category": "item_description",
+    "cn_text": "精神+6\n》击杀时：所有魔卡的冷却时间降低14%。\n装备：+8%魔卡伤害\n装备：当你生命值低于50%时，冷却时间降低的效果提升50%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "铸铁齿轮3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "精神+6\n》近战：使命中的普通敌人变成小动物，持续3.5秒（冷却13秒）。\n装备：对变形的敌人造成的伤害提高125%。\n装备：击杀变形状态的敌人可以额外爆出2.5倍金币。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "仙女棒3"
+  },
+  {
+    "category": "item_description",
     "cn_text": "精神+6\n》装备：+6%魔卡伤害\n装备：+6%魔卡冷却速率\n装备：造成技能伤害时，暂停敌人的时间，持续1.5秒（冷却：8秒）",
     "suggested_en": "",
     "count": 1,
@@ -4740,17 +5867,52 @@
   },
   {
     "category": "item_description",
-    "cn_text": "精神+8\n》装备：+14%魔卡伤害\n装备：每秒积攒10魔力，满100魔力时，使用魔卡释放8枚法力飞弹，造成20伤害\n装备：使用魔卡时积攒20魔力",
+    "cn_text": "精神+7\n》受到伤害：每秒恢复1点生命值，持续6秒，期间获得60%冷却速率（冷却时间20秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "魔法竖琴3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "精神+7\n》装备：+14%魔卡伤害\n装备：每秒积攒10魔力，满100魔力时，使用魔卡释放8枚法力飞弹，造成20伤害\n装备：使用魔卡时积攒20魔力",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "魔力宝珠3"
   },
   {
     "category": "item_description",
-    "cn_text": "精神+8\n》装备：+16%魔卡冷却速度\n装备：魔卡命中时，向敌人发射1道缩小射线，造成130伤害，使敌人造成的伤害降低20%，持续6秒（冷却：8秒）\n装备：激光在命中第一目标后，向周围3个敌人折射",
+    "cn_text": "精神+7\n》装备：+16%魔卡冷却速度\n装备：魔卡命中时，向敌人发射1道缩小射线，造成130伤害，使敌人造成的伤害降低20%，持续6秒（冷却：8秒）\n装备：激光在命中第一目标后，向周围3个敌人折射",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "棱镜3"
+    "first_seen_id": "缩小镜3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "精神+7\n》装备：+9%减伤\n受到伤害：每受到8次伤害，触发一次支援技能。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "神圣十字章3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "精神+8\n》击杀时：所有魔卡的冷却时间降低20%。\n装备：+15%魔卡伤害\n装备：当你生命值低于50%时，冷却时间降低的效果提升75%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "铸铁齿轮4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "精神+8\n》近战：使命中的敌人变成小动物，持续3.5秒（冷却11秒）。\n装备：对变形的敌人造成的伤害提高150%。\n装备：击杀变形状态的敌人可以额外爆出4倍金币。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "仙女棒4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "精神+8\n》受到伤害：魅惑周围的敌人8秒（冷却时间8秒）。\n装备：附近的敌人攻击力降低14%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "魔女的香水3"
   },
   {
     "category": "item_description",
@@ -4761,10 +5923,17 @@
   },
   {
     "category": "item_description",
-    "cn_text": "精神+8\n》装备：战斗开始后5秒，随机召唤4个图腾，持续25秒\n灼热图腾：发射2枚火球敌人造成36伤害（攻击速度：0.58次/秒）\n邪恶图腾：增加周围友军30%伤害\n鲜血图腾：每过4秒治疗1生命值\n大地图腾：增加周围友军30护甲",
+    "cn_text": "精神+9\n》受到伤害：每秒恢复1点生命值，持续8秒，期间获得120%冷却速率，并使周围的所有敌人残废3.5秒（冷却时间17秒）。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "小图腾4"
+    "first_seen_id": "魔法竖琴4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "精神+9\n》装备：+20%魔卡伤害\n装备：每秒积攒10魔力，满100魔力时，使用魔卡释放12枚法力飞弹，造成20伤害\n装备：使用魔卡时积攒20魔力\n装备：有概率发射强能法力飞弹",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "魔力宝珠4"
   },
   {
     "category": "item_description",
@@ -4775,6 +5944,20 @@
   },
   {
     "category": "item_description",
+    "cn_text": "力量+1\n精神+1\n》装备：+5%魔卡冷却速率\n装备：每有一张魔卡在冷却中，获得8点护甲。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "冰霜之核2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+1\n精神+3\n》进入房间：获得8点护盾，持续25秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "永续酒杯2"
+  },
+  {
+    "category": "item_description",
     "cn_text": "力量+1\n精神+3\n》使用魔卡：在周围随机敌人头上降下一道月光，造成40伤害，其会受到的技能伤害增加20%，持续6秒",
     "suggested_en": "",
     "count": 1,
@@ -4782,45 +5965,52 @@
   },
   {
     "category": "item_description",
-    "cn_text": "力量+1\n精神+3\n》使用魔卡：在周围随机敌人头上降下一道月光，造成60伤害，其受到的技能伤害增加20%，持续6秒",
+    "cn_text": "力量+1\n精神+3\n》装备：+7%魔卡冷却速率\n装备：每有一张魔卡在冷却中，获得10点护甲。\n装备：如果所有魔卡在冷却中，每隔3秒释放一个冰霜之环",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "月亮石3"
-  },
-  {
-    "category": "item_description",
-    "cn_text": "力量+1\n精神+3\n》使用魔卡：在周围随机敌人头上降下一道月光，造成80伤害，其受到的技能伤害增加20%，持续6秒，每次照射，减少所有魔卡1秒冷却时间",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "月亮石4"
+    "first_seen_id": "冰霜之核3"
   },
   {
     "category": "item_description",
     "cn_text": "力量+1\n敏捷+11\n》近战：连续近战攻击敌人14次后启动钻头，近战附加2伤害6次\n装备：钻头启动后获得20%攻击速度\n装备：钻头启动后，近战攻击获得5%钻头暴击率，14次后钻头必定暴击！",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "小钻头4"
+    "first_seen_id": "手摇钻头4"
   },
   {
     "category": "item_description",
     "cn_text": "力量+1\n敏捷+2\n》近战：连续近战攻击敌人14次后启动钻头，近战附加2伤害3次",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "小钻头1"
+    "first_seen_id": "手摇钻头1"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+1\n敏捷+2\n》装备：+12%攻击速度",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小木锯1"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+1\n敏捷+3\n》装备：移动16米后，下一次近战攻击被强化，造成400%伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "骑士的风车1"
   },
   {
     "category": "item_description",
     "cn_text": "力量+1\n敏捷+4\n》近战：连续近战攻击敌人14次后启动钻头，近战附加2伤害4次",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "小钻头2"
+    "first_seen_id": "手摇钻头2"
   },
   {
     "category": "item_description",
     "cn_text": "力量+1\n敏捷+7\n》近战：连续近战攻击敌人14次后启动钻头，近战附加2伤害5次\n装备：钻头启动后获得15%攻击速度",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "小钻头3"
+    "first_seen_id": "手摇钻头3"
   },
   {
     "category": "item_description",
@@ -4831,17 +6021,38 @@
   },
   {
     "category": "item_description",
-    "cn_text": "力量+11\n》装备：+30生命值\n装备：每拥有1个诅咒增加7护甲\n装备：每点护甲提升2%冲刺攻击伤害\n装备：10%概率抵挡1次伤害",
+    "cn_text": "力量+10\n精神+10\n》装备：+30生命上限\n装备：每2秒失去1点生命值。\n死亡时：以180血复活（冷却时间90秒）",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "德拉莫尔的马铠4"
+    "first_seen_id": "不死鸟的羽毛4"
   },
   {
     "category": "item_description",
-    "cn_text": "力量+12\n》装备：+12%魔卡冷却速率\n装备：召唤红桃皇后,每释放3张魔卡，她就会召唤1名红桃士兵，持续21秒\n装备：红桃皇后提升友方20%攻击力\n装备：场上每有1名红桃士兵，红桃皇后获得30%攻击速度",
+    "cn_text": "力量+10\n精神+4\n》装备：击杀敌人后，获得50点护甲和控制免疫效果，持续6秒。\n装备：周围每存在一个敌人，获得2%伤害减免（Boss为20%）。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "红桃Q4"
+    "first_seen_id": "英勇徽章4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+11\n》装备：+30生命值\n装备：每拥有1个诅咒增加7护甲\n装备：每点护甲提升2%冲刺攻击伤害\n装备：10%概率抵挡1次伤害",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "德拉莫尔的铠甲4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+11\n》装备：降低14%的攻击速度和6%的移动速度，降低16%的冲刺冷却速率。\n装备：+40%近战攻击力\n装备：+5%近战暴击率",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "笨重的枷锁3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+12\n》装备：召唤1名红桃士兵，你每拥有一张魔卡增加1名士兵\n装备：根据所有魔卡的等级强化士兵，每有1级，士兵造成的伤害增加1\n装备：如果你拥有4名红桃士兵，召唤红桃皇后",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "红桃扑克4"
   },
   {
     "category": "item_description",
@@ -4852,6 +6063,27 @@
   },
   {
     "category": "item_description",
+    "cn_text": "力量+15\n》装备：召唤一只火焰雏龙，会喷吐火球，以此战斗\n攻击力：220\n攻击速度：0.45次/秒",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "龙族信物4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+16\n》装备：降低16%的攻击速度和8%的移动速度，降低20%的冲刺冷却速率。\n装备：+55%近战攻击力\n装备：+10%近战暴击率\n近战：对满血的敌人造成伤害时，将其眩晕2秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "笨重的枷锁4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+2\n》装备：近战攻击对敌人身后的较小区域造成20%溅射伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "锁链鞭1"
+  },
+  {
+    "category": "item_description",
     "cn_text": "力量+2\n精神+1\n》装备：召唤物造成的伤害增加3",
     "suggested_en": "",
     "count": 1,
@@ -4859,24 +6091,45 @@
   },
   {
     "category": "item_description",
-    "cn_text": "力量+2\n精神+4\n》装备：每过12秒撒下一枚种子，靠近之后浇水，培育出一朵自动攻击的花",
+    "cn_text": "力量+2\n精神+3\n》进入房间：获得12点护盾，持续25秒。\n护盾存在时：获得8%闪避和暴击率。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "塞弗林的水壶2"
+    "first_seen_id": "永续酒杯3"
   },
   {
     "category": "item_description",
-    "cn_text": "力量+2\n敏捷+2\n》装备：+12%攻击速度",
+    "cn_text": "力量+2\n精神+4\n》装备：+10%魔卡冷却速率\n装备：每有一张魔卡在冷却中，获得12点护甲。\n装备：如果所有魔卡在冷却中，每隔3秒释放一个强化冰霜之环\n装备：魔卡冷却完毕时，获得一个持续5秒的3点护盾。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "小木锯1"
+    "first_seen_id": "冰霜之核4"
   },
   {
     "category": "item_description",
-    "cn_text": "力量+2\n敏捷+2\n精神+5\n》清空房间：使上边的格子的道具随机变化",
+    "cn_text": "力量+2\n精神+5\n》使用魔卡：在周围随机敌人头上降下一道月光，造成60伤害，其受到的技能伤害增加20%，持续6秒",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "月亮石3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+2\n敏捷+2\n精神+5\n》装备：获得1个额外的道具格\n清空房间：使上边的格子的道具随机变化",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "潘多拉魔盒3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+2\n敏捷+3\n》装备：+14%攻击速度\n近战：对相同目标每4次近战攻击附加1层伤口，使其受到的伤害增加1",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小木锯2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+2\n敏捷+3\n精神+2\n》装备：+12%魔卡伤害\n使用魔卡：你的魔卡技能可以处决生命值小于16%的普通敌人。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小裁缝的剪刀3"
   },
   {
     "category": "item_description",
@@ -4887,10 +6140,66 @@
   },
   {
     "category": "item_description",
+    "cn_text": "力量+2\n敏捷+5\n》装备：+2%攻击速度\n装备：+2%移动速度\n装备：如果近战攻击连续命中同一个敌人4次，可以在接下来的3秒内获得38%攻击速度和8%移动速度，状态持续期间无法使用魔卡。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "疯帽子3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+2\n敏捷+5\n》装备：+50%攻击速度\n装备：+20%移动速度\n如果在6秒内未对敌人造成伤害，则每3秒损失1点生命值。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "红舞鞋4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+2\n敏捷+5\n》装备：移动16米后，下一次近战攻击或魔卡被强化，造成450%伤害（魔卡为150%）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "骑士的风车2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+20\n敏捷+4\n》进入房间：选择一个位置进行炮击。对落点处造成999点伤害和持续3秒的眩晕。你从炮击的位置登场。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "玩具大炮4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+3\n精神+1\n》近战：发出亮光照射前方，造成90点范围伤害，眩晕1秒并将其致盲2.5秒（冷却8.5秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "太阳石2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+3\n精神+1\n》装备：使上边的格子的道具的属性提高40%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "祝福铁砧2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+3\n精神+2\n》使用魔卡：接下来的3.5秒内，每秒对周围的敌人造成36点伤害并附加致盲效果。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "圣光火把2"
+  },
+  {
+    "category": "item_description",
     "cn_text": "力量+3\n精神+2\n》装备：召唤物造成的伤害增加5",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "骨笛2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+3\n精神+3\n》使用魔卡：下次攻击造成额外的250%伤害，此攻击拥有额外的20%暴击率。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小女孩的火柴盒3"
   },
   {
     "category": "item_description",
@@ -4901,24 +6210,73 @@
   },
   {
     "category": "item_description",
-    "cn_text": "力量+3\n精神+6\n》装备：每过10秒撒下一枚种子，靠近之后浇水，培育出一朵自动攻击的花\n装备：有25%概率种出一株双子花",
+    "cn_text": "力量+3\n精神+3\n》装备：复活时爆炸，对周围所有敌人造成400点伤害。在3场战斗中获得45%攻击力。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "塞弗林的水壶3"
+    "first_seen_id": "地狱南瓜灯2"
   },
   {
     "category": "item_description",
-    "cn_text": "力量+3\n敏捷+3\n》装备：+14%攻击速度\n近战：对相同目标每4次近战攻击附加1层伤口，使其受到的伤害增加1",
+    "cn_text": "力量+3\n精神+4\n》装备：每过12秒撒下一枚种子，靠近之后浇水，培育出一朵自动攻击的花",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "小木锯2"
+    "first_seen_id": "塞弗林的水壶2"
   },
   {
     "category": "item_description",
-    "cn_text": "力量+3\n敏捷+3\n精神+6\n》清空房间：使上边的格子的道具随机变化\n装备：有20%概率变形成更高等级的道具",
+    "cn_text": "力量+3\n精神+5\n》进入房间：获得16点护盾，持续25秒。\n护盾存在时：获得12%闪避和暴击率，以及15%技能伤害。\n护盾被打破时：周围所有敌人陷入持续8秒的睡眠。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "永续酒杯4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+3\n精神+6\n》使用魔卡：在周围随机敌人头上降下一道月光，造成80伤害，其受到的技能伤害增加20%，持续6秒，每次照射，减少所有魔卡1秒冷却时间",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "月亮石4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+3\n精神+7\n》近战：有14%几率发出一道旋风，对周围的敌人造成80点伤害并附加残废，持续6秒。\n装备：发出旋风后，下一次冲刺距离增加125%，并对经过的敌人造成160点伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "女巫扫把4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+3\n敏捷+1\n》装备：每隔3.5秒获得强化，下一次冲刺攻击造成的伤害提高30点。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "染血的镰刀1"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+3\n敏捷+3\n》装备：+15生命值\n冲刺：下一次攻击附加鲜血华尔兹，造成30伤害",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "舞会假面3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+3\n敏捷+3\n精神+6\n》装备：获得1个额外的道具格\n清空房间：使上边的格子的道具随机变化\n装备：有20%概率变形成更高等级的道具",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "潘多拉魔盒4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+3\n敏捷+4\n》装备：+18%攻击速度\n近战：对相同目标每3次近战攻击附加1层伤口，使其受到的伤害增加1",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小木锯3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+3\n敏捷+5\n精神+3\n》装备：+20%魔卡伤害\n使用魔卡：你的魔卡技能可以处决生命值小于20%的普通敌人。每3次处决增加1点生命值上限。最多60点。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小裁缝的剪刀4"
   },
   {
     "category": "item_description",
@@ -4926,6 +6284,34 @@
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "木雕小鹿2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+3\n敏捷+7\n》装备：移动16米后，下一次近战攻击或魔卡被强化，造成500%伤害（魔卡为175%），并附加1.5秒的眩晕。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "骑士的风车3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+4\n》装备：近战攻击对敌人身后的区域造成25%溅射伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "锁链鞭2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+4\n精神+2\n》装备：使上边的格子的道具的属性提高60%。\n装备：使上边的格子的道具造成的伤害提高90%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "祝福铁砧3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+4\n精神+3\n》使用魔卡：接下来的3.5秒内，每秒对周围的敌人造成48点伤害并附加致盲效果。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "圣光火把3"
   },
   {
     "category": "item_description",
@@ -4943,24 +6329,52 @@
   },
   {
     "category": "item_description",
-    "cn_text": "力量+4\n精神+8\n》装备：每过8秒撒下一枚种子，靠近之后浇水，培育出一朵自动攻击的花\n装备：有33%概率种出一株双子花\n装备：场上每有一朵花，都可以使你获得10%攻击力。",
+    "cn_text": "力量+4\n精神+4\n》装备：复活时爆炸，对周围所有敌人造成500点伤害。在3场战斗中获得60%攻击力。\n装备：复活时额外回复12%生命值。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "塞弗林的水壶4"
+    "first_seen_id": "地狱南瓜灯3"
   },
   {
     "category": "item_description",
-    "cn_text": "力量+4\n敏捷+4\n》装备：+18%攻击速度\n近战：对相同目标每3次近战攻击附加1层伤口，使其受到的伤害增加1",
+    "cn_text": "力量+4\n精神+5\n》装备：每过10秒撒下一枚种子，靠近之后浇水，培育出一朵自动攻击的花\n装备：有25%概率种出一株双子花",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "小木锯3"
+    "first_seen_id": "塞弗林的水壶3"
   },
   {
     "category": "item_description",
-    "cn_text": "力量+4\n敏捷+4\n》装备：+20生命值\n冲刺：下一次攻击附加鲜血华尔兹，造成30伤害",
+    "cn_text": "力量+4\n敏捷+10\n》装备：+16%攻击速度\n装备：+6%移动速度\n装备：+3%暴击率\n装备：移动时不会被敌人阻拦，可以穿过敌方单位。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "舞会假面3"
+    "first_seen_id": "幽灵面纱3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+4\n敏捷+2\n》装备：每隔3秒获得强化，下一次冲刺攻击造成的伤害提高35点。\n装备：如果强化冲刺攻击击杀了敌人，伤害永久提升0.25点。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "染血的镰刀2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+4\n敏捷+5\n》装备：+24%攻击速度\n近战：对相同目标每2次近战攻击附加1层伤口，使其受到的伤害增加1\n装备：攻击超过7层伤口的敌人，施加残废，持续4秒",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小木锯4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+4\n敏捷+6\n》装备：+4%攻击速度\n装备：+3%移动速度\n装备：如果近战攻击连续命中同一个敌人4次，可以在接下来的3秒内获得52%攻击速度和10%移动速度，以及15点护甲，状态持续期间无法使用魔卡。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "疯帽子4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+4\n敏捷+6\n》装备：当你生命值归0时，暂时不会死亡而是进入濒死状态，获得60%的攻击和技能速度。如果在12秒内击杀3个敌人，解除濒死状态并回复12点生命值（冷却时间30秒）。\n装备：每次进入濒死状态，获得20点侵蚀度。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "缝补心脏4"
   },
   {
     "category": "item_description",
@@ -4981,14 +6395,49 @@
     "cn_text": "力量+5\n》装备：+15生命值\n装备：每拥有1个诅咒增加5护甲",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "德拉莫尔的马铠2"
+    "first_seen_id": "德拉莫尔的铠甲2"
   },
   {
     "category": "item_description",
-    "cn_text": "力量+5\n》装备：+5%魔卡冷却速率\n装备：召唤红桃皇后,每释放5张魔卡，她就会召唤1名红桃士兵，持续15秒",
+    "cn_text": "力量+5\n》装备：召唤1名红桃士兵，你每拥有一张魔卡增加1名士兵",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "红桃Q2"
+    "first_seen_id": "红桃扑克2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+5\n精神+2\n》近战：发出亮光照射前方，造成130点范围伤害，眩晕1秒并将其致盲3秒（冷却6.5秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "太阳石3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+5\n精神+2\n》装备：击杀敌人后，获得40点护甲和控制免疫效果，持续5秒。\n装备：周围每存在一个敌人，获得1%伤害减免",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "英勇徽章3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+5\n精神+2\n》装备：如果你在一场战斗失去超过10点生命值，召唤一个小丑，小丑拥有你10%的生命值并为你承担伤害，持续5秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "神秘机关盒3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+5\n精神+3\n》装备：+10护甲\n装备：每当你失去12点生命值，获得一个可以抵抗25点伤害的护盾。护盾在12秒内逐渐衰减（冷却时间45秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "钢铁之心3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+5\n精神+3\n》装备：使上边的格子的道具的属性提高85%。\n装备：使上边的格子的道具造成的伤害提高105%。\n装备：使上边的格子的道具稀有度提高1级。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "祝福铁砧4"
   },
   {
     "category": "item_description",
@@ -5006,10 +6455,80 @@
   },
   {
     "category": "item_description",
-    "cn_text": "力量+5\n敏捷+3\n》击杀时：获得30%攻速和10%移速，持续4秒\n装备：每杀死4个敌人回复1生命值",
+    "cn_text": "力量+5\n精神+5\n》使用魔卡：下次攻击造成额外的300%伤害，此攻击拥有额外的30%暴击率。\n装备：触发额外伤害时会留下一团火，每秒造成25点伤害并持续的点燃经过的敌人。（冷却5.5秒）",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小女孩的火柴盒4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+5\n精神+5\n》装备：单位死亡时，有15%概率掉下1个零件（拾取获得4护盾至多叠加20，并在2秒内获得25%移动速度）\n装备：每拾取3个零件，建造1个随机炮台",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "工具箱4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+5\n精神+6\n》装备：每过8秒撒下一枚种子，靠近之后浇水，培育出一朵自动攻击的花\n装备：有33%概率种出一株双子花\n装备：场上每有一朵花，都可以使你获得10%攻击力。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "塞弗林的水壶4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+5\n精神+7\n》装备：+20%魔卡冷却速率\n虚空仪式：短时间内快速切换方向即可完成仪式，在原地留下一个黑洞，对附近的敌人每秒造成350点伤害，并缓慢地将他们拉拽向黑洞的中心，持续5秒（冷却15秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "虚空权杖4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+5\n敏捷+14\n》装备：+22%攻击速度\n装备：+7%移动速度\n装备：+5%暴击率\n装备：移动时不会被敌人阻拦，可以穿过敌方单位。\n装备：穿过敌人时立即获得50%移动速度，在0.5秒内衰减。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "幽灵面纱4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+5\n敏捷+3\n》击杀时：获得30%攻速和10%移速，持续4秒\n装备：每杀死6个敌人回复1生命值",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "噬骨者之爪3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+5\n敏捷+3\n》受到伤害：获得3%伤害，可以叠加，击败一个BOSS后清除。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "仇恨之书3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+5\n敏捷+3\n》装备：每隔2.5秒获得强化，下一次冲刺攻击造成的伤害提高40点。\n装备：如果强化冲刺攻击击杀了敌人，伤害永久提升0.5点。\n装备：如果强化冲刺攻击击杀了BOSS，伤害永久提升20点。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "染血的镰刀3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+5\n敏捷+5\n》装备：+12生命值上限\n装备：你身上每持有100金币增加5%伤害。\n装备：额外获得20%金币。\n分解道具：额外获得相当于装备碎片50%的金币。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "黄金小马4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+5\n敏捷+5\n》装备：+25生命值\n冲刺：下一次攻击附加鲜血华尔兹，造成50伤害\n装备：命中敌人积攒1层鲜血（BOSS为4层），当积攒25层鲜血后，回复3生命值",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "舞会假面4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+5\n敏捷+8\n》装备：移动16米后，下一次近战攻击或魔卡被强化，造成600%伤害（魔卡为200%），并附加1.5秒的眩晕。\n装备：+20%移动速度",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "骑士的风车4"
   },
   {
     "category": "item_description",
@@ -5020,6 +6539,20 @@
   },
   {
     "category": "item_description",
+    "cn_text": "力量+6\n》装备：近战攻击对敌人身后的较大区域造成30%溅射伤害。\n装备：攻击和溅射伤害有8%几率使敌人破甲。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "锁链鞭3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+6\n精神+3\n》近战：发出亮光照射前方，造成180点范围伤害，眩晕1秒并将其致盲3.5秒，每照到一名敌人可以暂时获得4点护盾（冷却6.5秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "太阳石4"
+  },
+  {
+    "category": "item_description",
     "cn_text": "力量+6\n精神+5\n》装备：+15护甲\n装备：腐化周围的敌人，对他们攻击附加7暗影伤害\n装备：被腐化的敌人死亡时，掉落1水晶碎片",
     "suggested_en": "",
     "count": 1,
@@ -5027,24 +6560,24 @@
   },
   {
     "category": "item_description",
-    "cn_text": "力量+6\n精神+6\n》装备：单位死亡时，有15%概率掉下1个零件（拾取获得4护盾至多叠加20，并在2秒内获得25%移动速度）\n装备：每拾取3个零件，建造1个随机炮台",
+    "cn_text": "力量+6\n精神+6\n》装备：复活时爆炸，对周围所有敌人造成800点伤害。在3场战斗中获得75%攻击力。\n装备：复活时额外回复20%生命值。\n装备：获得1次额外的复活次数。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "工具箱4"
+    "first_seen_id": "地狱南瓜灯4"
   },
   {
     "category": "item_description",
-    "cn_text": "力量+6\n敏捷+6\n》装备：+24%攻击速度\n近战：对相同目标每2次近战攻击附加1层伤口，使其受到的伤害增加1\n装备：攻击超过7层伤口的敌人，施加残废，持续4秒",
+    "cn_text": "力量+6\n敏捷+4\n》受到伤害：获得4%伤害，可以叠加，击败一个BOSS后清除。\n受到伤害：对向你造成伤害的敌人施放复仇印记，在接下来的15秒内对其暴击率提高12%。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "小木锯4"
+    "first_seen_id": "仇恨之书4"
   },
   {
     "category": "item_description",
-    "cn_text": "力量+6\n敏捷+6\n》装备：+30生命值\n冲刺：下一次攻击附加鲜血华尔兹，造成50伤害\n装备：命中敌人积攒1层鲜血（BOSS为4层），当积攒25层鲜血后，回复3生命值",
+    "cn_text": "力量+6\n敏捷+4\n》装备：每隔2秒获得强化，下一次冲刺攻击造成的伤害提高50点。\n装备：如果强化冲刺攻击击杀了敌人，伤害永久提升1点。\n装备：如果强化冲刺攻击击杀了BOSS，伤害永久提升35点。\n装备：强化可以储存3层。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "舞会假面4"
+    "first_seen_id": "染血的镰刀4"
   },
   {
     "category": "item_description",
@@ -5058,7 +6591,28 @@
     "cn_text": "力量+7\n》装备：+20生命值\n装备：每拥有1个诅咒增加6护甲\n装备：每点护甲提升1%冲刺攻击伤害",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "德拉莫尔的马铠3"
+    "first_seen_id": "德拉莫尔的铠甲3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+7\n精神+4\n》装备：如果你在一场战斗失去超过10点生命值，召唤一个小丑，小丑拥有你15%的生命值并为你承担伤害，持续5秒。小丑死亡时会爆炸，对周围的所有敌人造成140点伤害并眩晕2.5秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "神秘机关盒4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+7\n精神+5\n》装备：+15护甲\n装备：每当你失去12点生命值，获得一个可以抵抗40点伤害的护盾。护盾在12秒内逐渐衰减（冷却时间45秒）。\n装备：此护盾持续期间，获得20%的额外攻击力并免疫控制效果。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "钢铁之心4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "力量+7\n敏捷+4\n》击杀时：获得40%攻速和15%移速，持续4秒\n装备：每杀死4个敌人回复1生命值\n装备：每杀死1个BOSS获得30生命上限",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "噬骨者之爪4"
   },
   {
     "category": "item_description",
@@ -5069,38 +6623,52 @@
   },
   {
     "category": "item_description",
-    "cn_text": "力量+8\n》装备：+8%魔卡冷却速率\n装备：召唤红桃皇后,每释放4张魔卡，她就会召唤1名红桃士兵，持续18秒\n装备：红桃皇后提升友方12%攻击力",
+    "cn_text": "力量+8\n》装备：降低12%的攻击速度和5%的移动速度，降低15%的冲刺冷却速率。\n装备：+35%近战攻击力",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "红桃Q3"
+    "first_seen_id": "笨重的枷锁2"
   },
   {
     "category": "item_description",
-    "cn_text": "力量+8\n敏捷+4\n》击杀时：获得40%攻速和15%移速，持续4秒\n装备：每杀死3个敌人回复1生命值\n装备：每杀死1个BOSS获得30生命上限",
+    "cn_text": "力量+8\n》装备：召唤1名红桃士兵，你每拥有一张魔卡增加1名士兵\n装备：根据所有魔卡的等级强化士兵，每有1级，士兵造成的伤害增加1",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "噬骨者之爪4"
+    "first_seen_id": "红桃扑克3"
   },
   {
     "category": "item_description",
-    "cn_text": "敏捷+10\n精神+6\n》受到伤害：喝下药水，体型变小35%，获得100%攻击速度，50%减伤，35%移动速度，持续8秒（冷却：20秒）",
+    "cn_text": "力量+8\n精神+4\n》使用魔卡：接下来的3.5秒内，每秒对周围的敌人造成104点伤害并附加致盲效果。\n使用支援技能：接下来的14秒内，每秒对周围的敌人造成104点伤害并附加致盲效果。\n使用魔卡：获得持续3.5秒的4点护盾。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "缩小药水4"
+    "first_seen_id": "圣光火把4"
   },
   {
     "category": "item_description",
-    "cn_text": "敏捷+12\n》装备：+33%对远处敌人的攻击伤害\n装备：每次攻击远处的敌人，射出2发弩箭，造成50%伤害\n装备：有25%概率连发弩箭",
+    "cn_text": "敏捷+1\n精神+3\n》装备：每隔13秒敲响战鼓，使你和你的召唤物在6秒内提升10%/20%的攻击力。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "手弩4"
+    "first_seen_id": "勇气小鼓2"
   },
   {
     "category": "item_description",
-    "cn_text": "敏捷+12\n》装备：+5%暴击率\n装备：+20%攻击速度\n装备：在宝箱中找到额外30金币\n装备：有80%概率在宝箱中找到1颗宝石\n装备：可以在商店里，偷取1个物品",
+    "cn_text": "敏捷+10\n精神+6\n》受到伤害：吃下蘑菇，体型变小35%，获得100%攻击速度，50%减伤，35%移动速度，持续8秒（冷却：20秒）",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "窃贼手套4"
+    "first_seen_id": "缩小蘑菇4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+12\n》装备：+13护甲\n近战：获得可叠加的5%闪避率，持续1.5秒。\n闪避：召唤3道风刃，对碰到的敌人造成75点伤害（冷却时间0.8秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "鸦羽斗篷4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+2\n精神+1\n》装备：+1%暴击率\n装备：商店有15%几率打折。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "幸运兔脚1"
   },
   {
     "category": "item_description",
@@ -5111,10 +6679,10 @@
   },
   {
     "category": "item_description",
-    "cn_text": "敏捷+2\n精神+2\n》装备：攻击命中时射出一支诅咒之箭造成3伤害",
+    "cn_text": "敏捷+2\n精神+2\n》装备：+8%魔卡冷却速率\n装备：使用魔卡时对首个命中的目标投掷3个雪球，分别造成9点伤害。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "诅咒箭头1"
+    "first_seen_id": "胡萝卜雪人1"
   },
   {
     "category": "item_description",
@@ -5125,10 +6693,31 @@
   },
   {
     "category": "item_description",
+    "cn_text": "敏捷+2\n精神+4\n》击杀时：吸收敌人的灵魂。\n装备：每吸收1个灵魂，增加1点侵蚀度。\n装备：每吸收1个灵魂，永久增加0.75%暴击伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "魂蝶灯3"
+  },
+  {
+    "category": "item_description",
     "cn_text": "敏捷+2\n精神+4\n》装备：+7%移动速度\n装备：浮空行走，不会踩到地刺，熔岩，毒液",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "奈薇娅残羽2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+2\n精神+5\n》装备：每隔12秒敲响战鼓，使你和你的召唤物在6秒内提升15%/30%的攻击力。\n装备：敲响战鼓时，你获得5点护盾。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "勇气小鼓3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+2\n精神+5\n》装备：相邻的道具触发时有25%几率再触发一次。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "回声海螺2"
   },
   {
     "category": "item_description",
@@ -5139,10 +6728,24 @@
   },
   {
     "category": "item_description",
-    "cn_text": "敏捷+3\n》装备：+14%对远处敌人的攻击伤害",
+    "cn_text": "敏捷+3\n》装备：+12%对远处敌人的攻击伤害",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "手弩1"
+    "first_seen_id": "十字弩1"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+3\n精神+1\n》装备：+5%移动速度\n装备：在冲刺后的0.5秒内移动会在地上留下鬼火，鬼火持续1.2秒，火焰之中的敌人每秒受到40伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "冥狐的尾巴2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+3\n精神+2\n》装备：+2%暴击率\n装备：商店有20%几率打折。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "幸运兔脚2"
   },
   {
     "category": "item_description",
@@ -5153,10 +6756,31 @@
   },
   {
     "category": "item_description",
-    "cn_text": "敏捷+3\n精神+3\n》装备：攻击命中时射出一支诅咒之箭造成5伤害",
+    "cn_text": "敏捷+3\n精神+3\n》装备：+10%魔卡冷却速率\n装备：使用魔卡时对首个命中的目标投掷3个雪球，分别造成12点伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "胡萝卜雪人2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+3\n精神+3\n》装备：攻击命中时射出一支诅咒之箭造成6伤害",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "诅咒箭头2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+3\n精神+5\n》击杀时：吸收敌人的灵魂。\n装备：每吸收1个灵魂，增加1点侵蚀度。\n装备：每吸收1个灵魂，永久增加1%暴击伤害。\n装备：吸收灵魂时如果生命值小于15%，额外回复1点生命值。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "魂蝶灯4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+3\n精神+5\n》装备：+12护甲\n装备：你每拥有4护甲就增加1%伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "荆棘玫瑰3"
   },
   {
     "category": "item_description",
@@ -5167,10 +6791,38 @@
   },
   {
     "category": "item_description",
+    "cn_text": "敏捷+3\n精神+6\n》装备：发射一道昏睡波，对周围的全部敌人造成6点伤害并短暂降低他们55%的攻击速度（冷却7秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "昏睡花冠2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+3\n精神+6\n》装备：相邻的道具触发时有30%几率再触发一次。\n装备：提高相邻的道具25%的触发几率。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "回声海螺3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+3\n精神+8\n》装备：每隔11秒敲响战鼓，使你和你的召唤物在6秒内提升25%/50%的攻击力。\n装备：敲响战鼓时，你获得8点护盾。\n装备：你的召唤物获得3秒的额外持续时间。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "勇气小鼓4"
+  },
+  {
+    "category": "item_description",
     "cn_text": "敏捷+4\n》装备：+2%暴击率\n装备：+10%攻击速度\n装备：在宝箱中找到额外10金币",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "窃贼手套2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+4\n精神+12\n》近战：召唤一个死神协助你作战，持续6秒（冷却时间20秒）。\n装备：每击杀一个敌人，死神获得0.2%的攻击力。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "死灵书4"
   },
   {
     "category": "item_description",
@@ -5184,11 +6836,32 @@
     "cn_text": "敏捷+4\n精神+2\n》冲刺：近战攻击可以快速连击3次（冷却：5秒）",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "幻影之刃2"
+    "first_seen_id": "幽灵弯刀2"
   },
   {
     "category": "item_description",
-    "cn_text": "敏捷+4\n精神+4\n》装备：攻击命中时射出一支诅咒之箭造成7伤害\n装备：诅咒之箭会扎在敌人身上，你的技能可以将其拔出造成30伤害，每根箭额外造成9伤害",
+    "cn_text": "敏捷+4\n精神+2\n》装备：+8%移动速度\n装备：在冲刺后的0.9秒内移动会在地上留下鬼火，鬼火持续1.5秒，火焰之中的敌人每秒受到50伤害。\n装备：鬼火使敌人减速25%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "冥狐的尾巴3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+4\n精神+3\n》击杀时：恐惧周围所有敌人2秒，冷却7.5秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "深海面具2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+4\n精神+4\n》装备：+12%魔卡冷却速率\n装备：使用魔卡时对首个命中的目标投掷3个雪球，分别造成18点伤害。\n装备：每第3次触发改为连续投掷9个雪球。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "胡萝卜雪人3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+4\n精神+4\n》装备：攻击命中时射出一支诅咒之箭造成9伤害\n装备：诅咒之箭会扎在敌人身上，你的技能可以将其拔出造成30伤害，每根箭额外造成13伤害",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "诅咒箭头3"
@@ -5202,17 +6875,52 @@
   },
   {
     "category": "item_description",
-    "cn_text": "敏捷+4\n精神+8\n》装备：+15%移动速度\n装备：浮空行走，不会踩到地刺，熔岩，毒液\n使用魔卡：下2次冲刺的距离提升45%并释放3只蝴蝶，自动追踪敌人造成30伤害",
+    "cn_text": "敏捷+4\n精神+7\n》装备：+18护甲\n装备：你每拥有3护甲就增加1%伤害。\n受到伤害：对周围大范围的所有敌人在3秒内造成324点伤害（冷却4秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "荆棘玫瑰4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+4\n精神+8\n》装备：+15%移动速度\n装备：浮空行走，不会踩到地刺，熔岩，毒液\n使用魔卡：下2次冲刺的距离提升45%并释放3只蝴蝶，自动追踪敌人造成40伤害",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "奈薇娅残羽4"
   },
   {
     "category": "item_description",
-    "cn_text": "敏捷+5\n》装备：+19%对远处敌人的攻击伤害",
+    "cn_text": "敏捷+4\n精神+9\n》装备：发射一道昏睡波，对周围的全部敌人造成6点伤害并短暂降低他们70%的攻击速度（冷却6.5秒）。\n装备：光环命中敌人时有35%几率附加催眠。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "手弩2"
+    "first_seen_id": "昏睡花冠3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+5\n》装备：+16%对远处敌人的攻击伤害",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "十字弩2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+5\n》装备：+7护甲\n近战：获得可叠加的3%闪避率，持续1.5秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "鸦羽斗篷2"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+5\n精神+14\n》装备：发射一道昏睡波，对周围的全部敌人造成6点伤害并短暂降低他们85%的攻击速度（冷却6秒）。\n装备：光环命中敌人时有35%几率附加催眠。\n装备：受到伤害时会施放额外的昏睡波。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "昏睡花冠4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+5\n精神+3\n》装备：+3%暴击率\n装备：商店有27%几率打折。\n装备：打折幅度提升至6折。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "幸运兔脚3"
   },
   {
     "category": "item_description",
@@ -5223,6 +6931,13 @@
   },
   {
     "category": "item_description",
+    "cn_text": "敏捷+5\n精神+4\n》击杀时：恐惧周围所有敌人2秒，冷却7秒。\n装备：你对处于恐惧状态的敌人造成25%的额外伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "深海面具3"
+  },
+  {
+    "category": "item_description",
     "cn_text": "敏捷+5\n精神+7\n》装备：+15护甲\n受到攻击：对周围的敌人施加7层中毒并留下一团毒雾，每秒对范围内的敌人施加1层中毒，并施加30%减速，持续7秒。",
     "suggested_en": "",
     "count": 1,
@@ -5230,17 +6945,73 @@
   },
   {
     "category": "item_description",
-    "cn_text": "敏捷+6\n精神+3\n》冲刺：近战攻击可以快速连击4次，造成的伤害增加20%（冷却：5秒）",
+    "cn_text": "敏捷+5\n精神+8\n》装备：相邻的道具触发时有40%几率再触发一次。\n装备：提高相邻的道具35%的触发几率，并且降低30%的冷却时间。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "幻影之刃3"
+    "first_seen_id": "回声海螺4"
   },
   {
     "category": "item_description",
-    "cn_text": "敏捷+6\n精神+6\n》装备：攻击命中时射出一支诅咒之箭造成9伤害\n装备：诅咒之箭会扎在敌人身上，你的技能可以将其拔出造成40伤害，每根箭额外造成13伤害\n装备：每引爆1根诅咒之箭，可以缩短你所有技能0.3秒冷却时间",
+    "cn_text": "敏捷+6\n》装备：+3%暴击率\n装备：+12%攻击速度\n装备：在宝箱中找到额外15金币\n装备：有30%概率在宝箱中找到1颗宝石",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "窃贼手套3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+6\n》装备：+3%闪避率\n进入房间：吹起风笛，提高34%攻击速度和18%移动速度，持续14秒。\n击杀时：延长1秒的笛声持续时间。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "妖精的风笛3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+6\n》装备：+6%闪避率\n受到伤害：获得持续2秒的潜行和无敌（冷却8秒）。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "隐身戒指3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+6\n精神+3\n》冲刺：近战攻击可以快速连击4次，造成的伤害增加20%（冷却：5秒）",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "幽灵弯刀3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+6\n精神+4\n》装备：+14%移动速度\n装备：移动会留下鬼火，火焰持续1.8秒，火焰之中的敌人每秒受到65伤害。\n装备：鬼火使敌人减速40%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "冥狐的尾巴4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+6\n精神+6\n》装备：+15%魔卡冷却速率\n装备：使用魔卡时对首个命中的目标投掷3个雪球，分别造成26点伤害。\n装备：每第3次触发改为连续投掷9个雪球并附加持续1.5秒的冰封。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "胡萝卜雪人4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+6\n精神+6\n》装备：攻击命中时射出一支诅咒之箭造成13伤害\n装备：诅咒之箭会扎在敌人身上，你的技能可以将其拔出造成40伤害，每根箭额外造成17伤害\n装备：每拔出1根诅咒之箭，可以缩短你所有技能0.5秒冷却时间",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "诅咒箭头4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+7\n》装备：+20%对远处敌人的攻击伤害\n装备：每次攻击远处的敌人，射出2发弩箭，造成35%伤害",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "十字弩3"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+7\n精神+4\n》装备：+5%暴击率\n装备：商店有35%几率打折。\n装备：打折幅度提升至5折。\n打开宝箱：有25%几率获得稀有度更高的道具。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "幸运兔脚4"
   },
   {
     "category": "item_description",
@@ -5251,24 +7022,52 @@
   },
   {
     "category": "item_description",
-    "cn_text": "敏捷+8\n》装备：+25%对远处敌人的攻击伤害\n装备：每次攻击远处的敌人，射出2发弩箭，造成35%伤害",
+    "cn_text": "敏捷+8\n》装备：+10护甲\n近战：获得可叠加的4%闪避率，持续1.5秒。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "手弩3"
+    "first_seen_id": "鸦羽斗篷3"
   },
   {
     "category": "item_description",
-    "cn_text": "敏捷+8\n》装备：+3%暴击率\n装备：+14%攻击速度\n装备：在宝箱中找到额外15金币\n装备：有50%概率在宝箱中找到1颗宝石",
+    "cn_text": "敏捷+8\n》装备：+5%闪避率\n进入房间：吹起风笛，提高46%攻击速度和24%移动速度，持续14秒。\n击杀时：延长1秒的笛声持续时间。\n笛声存在时：免疫控制效果。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "窃贼手套3"
+    "first_seen_id": "妖精的风笛4"
   },
   {
     "category": "item_description",
     "cn_text": "敏捷+8\n精神+4\n》冲刺：近战攻击可以快速连击5次，造成的伤害增加30%（冷却：5秒）\n装备：快速连击时，每次攻击附加一道灵力刀波造成30伤害",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "幻影之刃4"
+    "first_seen_id": "幽灵弯刀4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+8\n精神+6\n》击杀时：恐惧周围所有敌人2秒，冷却6秒。\n装备：你对处于恐惧状态的敌人造成40%的额外伤害。\n装备：你每持有一个诅咒，延长0.5秒恐惧时间。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "深海面具4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+9\n》装备：+25%对远处敌人的攻击伤害\n装备：每次攻击远处的敌人，射出2发弩箭，造成50%伤害\n装备：有25%概率连发弩箭",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "十字弩4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+9\n》装备：+4%暴击率\n装备：+16%攻击速度\n装备：在宝箱中找到额外30金币\n装备：有50%概率在宝箱中找到1颗宝石\n装备：可以在商店里，偷取1个物品",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "窃贼手套4"
+  },
+  {
+    "category": "item_description",
+    "cn_text": "敏捷+9\n》装备：+9%闪避率\n受到伤害：获得持续2秒的潜行和无敌（冷却7秒），在接下来的3.5秒内获得30%闪避。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "隐身戒指4"
   },
   {
     "category": "item_name",
@@ -5321,13 +7120,6 @@
   },
   {
     "category": "item_name",
-    "cn_text": "棱镜",
-    "suggested_en": "",
-    "count": 4,
-    "first_seen_id": "棱镜1"
-  },
-  {
-    "category": "item_name",
     "cn_text": "魔力宝珠",
     "suggested_en": "",
     "count": 4,
@@ -5356,10 +7148,24 @@
   },
   {
     "category": "item_name",
-    "cn_text": "手弩",
+    "cn_text": "十字弩",
     "suggested_en": "",
     "count": 4,
-    "first_seen_id": "手弩1"
+    "first_seen_id": "十字弩1"
+  },
+  {
+    "category": "item_name",
+    "cn_text": "手摇钻头",
+    "suggested_en": "",
+    "count": 4,
+    "first_seen_id": "手摇钻头1"
+  },
+  {
+    "category": "item_name",
+    "cn_text": "缩小镜",
+    "suggested_en": "",
+    "count": 4,
+    "first_seen_id": "缩小镜1"
   },
   {
     "category": "item_name",
@@ -5377,24 +7183,10 @@
   },
   {
     "category": "item_name",
-    "cn_text": "小钻头",
-    "suggested_en": "",
-    "count": 4,
-    "first_seen_id": "小钻头1"
-  },
-  {
-    "category": "item_name",
     "cn_text": "萤火之灯",
     "suggested_en": "",
     "count": 4,
     "first_seen_id": "萤火之灯1"
-  },
-  {
-    "category": "item_name",
-    "cn_text": "诅咒箭头",
-    "suggested_en": "",
-    "count": 4,
-    "first_seen_id": "诅咒箭头1"
   },
   {
     "category": "item_name",
@@ -5405,10 +7197,10 @@
   },
   {
     "category": "item_name",
-    "cn_text": "德拉莫尔的马铠",
+    "cn_text": "德拉莫尔的铠甲",
     "suggested_en": "",
     "count": 3,
-    "first_seen_id": "德拉莫尔的马铠2"
+    "first_seen_id": "德拉莫尔的铠甲2"
   },
   {
     "category": "item_name",
@@ -5419,17 +7211,10 @@
   },
   {
     "category": "item_name",
-    "cn_text": "红桃Q",
+    "cn_text": "红桃扑克",
     "suggested_en": "",
     "count": 3,
-    "first_seen_id": "红桃Q2"
-  },
-  {
-    "category": "item_name",
-    "cn_text": "幻影之刃",
-    "suggested_en": "",
-    "count": 3,
-    "first_seen_id": "幻影之刃2"
+    "first_seen_id": "红桃扑克2"
   },
   {
     "category": "item_name",
@@ -5461,10 +7246,24 @@
   },
   {
     "category": "item_name",
+    "cn_text": "幽灵弯刀",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "幽灵弯刀2"
+  },
+  {
+    "category": "item_name",
     "cn_text": "月亮石",
     "suggested_en": "",
     "count": 3,
     "first_seen_id": "月亮石2"
+  },
+  {
+    "category": "item_name",
+    "cn_text": "诅咒箭头",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "诅咒箭头2"
   },
   {
     "category": "item_name",
@@ -5503,73 +7302,73 @@
   },
   {
     "category": "item_name",
-    "cn_text": "贵族红宝石",
+    "cn_text": "华贵的红宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "红宝石3"
   },
   {
     "category": "item_name",
-    "cn_text": "贵族蓝宝石",
+    "cn_text": "华贵的蓝宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "蓝宝石3"
   },
   {
     "category": "item_name",
-    "cn_text": "贵族绿宝石",
+    "cn_text": "华贵的绿宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "绿宝石3"
   },
   {
     "category": "item_name",
-    "cn_text": "魔术兔子",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "魔术兔子2"
-  },
-  {
-    "category": "item_name",
-    "cn_text": "破碎红宝石",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "红宝石0"
-  },
-  {
-    "category": "item_name",
-    "cn_text": "破碎蓝宝石",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "蓝宝石0"
-  },
-  {
-    "category": "item_name",
-    "cn_text": "破碎绿宝石",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "绿宝石0"
-  },
-  {
-    "category": "item_name",
-    "cn_text": "普通红宝石",
+    "cn_text": "开裂的红宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "红宝石1"
   },
   {
     "category": "item_name",
-    "cn_text": "普通蓝宝石",
+    "cn_text": "开裂的蓝宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "蓝宝石1"
   },
   {
     "category": "item_name",
-    "cn_text": "普通绿宝石",
+    "cn_text": "开裂的绿宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "绿宝石1"
+  },
+  {
+    "category": "item_name",
+    "cn_text": "龙族信物",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "龙族信物4"
+  },
+  {
+    "category": "item_name",
+    "cn_text": "破碎的红宝石",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "红宝石0"
+  },
+  {
+    "category": "item_name",
+    "cn_text": "破碎的蓝宝石",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "蓝宝石0"
+  },
+  {
+    "category": "item_name",
+    "cn_text": "破碎的绿宝石",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "绿宝石0"
   },
   {
     "category": "item_name",
@@ -5587,70 +7386,49 @@
   },
   {
     "category": "item_name",
-    "cn_text": "缩小药水",
+    "cn_text": "缩小蘑菇",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "缩小药水4"
+    "first_seen_id": "缩小蘑菇4"
   },
   {
     "category": "item_name",
-    "cn_text": "完美红宝石",
+    "cn_text": "完美的红宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "红宝石4"
   },
   {
     "category": "item_name",
-    "cn_text": "完美蓝宝石",
+    "cn_text": "完美的蓝宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "蓝宝石4"
   },
   {
     "category": "item_name",
-    "cn_text": "完美绿宝石",
+    "cn_text": "完美的绿宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "绿宝石4"
   },
   {
     "category": "item_name",
-    "cn_text": "小刺球",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "小刺球1"
-  },
-  {
-    "category": "item_name",
-    "cn_text": "小恶魔",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "小恶魔4"
-  },
-  {
-    "category": "item_name",
-    "cn_text": "小夜",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "小夜3"
-  },
-  {
-    "category": "item_name",
-    "cn_text": "优质红宝石",
+    "cn_text": "优质的红宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "红宝石2"
   },
   {
     "category": "item_name",
-    "cn_text": "优质蓝宝石",
+    "cn_text": "优质的蓝宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "蓝宝石2"
   },
   {
     "category": "item_name",
-    "cn_text": "优质绿宝石",
+    "cn_text": "优质的绿宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "绿宝石2"
@@ -5706,13 +7484,6 @@
   },
   {
     "category": "name",
-    "cn_text": "棱镜",
-    "suggested_en": "",
-    "count": 4,
-    "first_seen_id": "棱镜1"
-  },
-  {
-    "category": "name",
     "cn_text": "魔力宝珠",
     "suggested_en": "",
     "count": 4,
@@ -5741,10 +7512,31 @@
   },
   {
     "category": "name",
-    "cn_text": "手弩",
+    "cn_text": "十字弩",
     "suggested_en": "",
     "count": 4,
-    "first_seen_id": "手弩1"
+    "first_seen_id": "十字弩1"
+  },
+  {
+    "category": "name",
+    "cn_text": "手摇钻头",
+    "suggested_en": "",
+    "count": 4,
+    "first_seen_id": "手摇钻头1"
+  },
+  {
+    "category": "name",
+    "cn_text": "缩小镜",
+    "suggested_en": "",
+    "count": 4,
+    "first_seen_id": "缩小镜1"
+  },
+  {
+    "category": "name",
+    "cn_text": "小刺球",
+    "suggested_en": "",
+    "count": 4,
+    "first_seen_id": "小刺球1"
   },
   {
     "category": "name",
@@ -5762,24 +7554,10 @@
   },
   {
     "category": "name",
-    "cn_text": "小钻头",
-    "suggested_en": "",
-    "count": 4,
-    "first_seen_id": "小钻头1"
-  },
-  {
-    "category": "name",
     "cn_text": "萤火之灯",
     "suggested_en": "",
     "count": 4,
     "first_seen_id": "萤火之灯1"
-  },
-  {
-    "category": "name",
-    "cn_text": "诅咒箭头",
-    "suggested_en": "",
-    "count": 4,
-    "first_seen_id": "诅咒箭头1"
   },
   {
     "category": "name",
@@ -5790,10 +7568,10 @@
   },
   {
     "category": "name",
-    "cn_text": "德拉莫尔的马铠",
+    "cn_text": "德拉莫尔的铠甲",
     "suggested_en": "",
     "count": 3,
-    "first_seen_id": "德拉莫尔的马铠2"
+    "first_seen_id": "德拉莫尔的铠甲2"
   },
   {
     "category": "name",
@@ -5804,17 +7582,10 @@
   },
   {
     "category": "name",
-    "cn_text": "红桃Q",
+    "cn_text": "红桃扑克",
     "suggested_en": "",
     "count": 3,
-    "first_seen_id": "红桃Q2"
-  },
-  {
-    "category": "name",
-    "cn_text": "幻影之刃",
-    "suggested_en": "",
-    "count": 3,
-    "first_seen_id": "幻影之刃2"
+    "first_seen_id": "红桃扑克2"
   },
   {
     "category": "name",
@@ -5822,6 +7593,13 @@
     "suggested_en": "",
     "count": 3,
     "first_seen_id": "礼物盒2"
+  },
+  {
+    "category": "name",
+    "cn_text": "魔术兔子",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "魔术兔子2"
   },
   {
     "category": "name",
@@ -5846,10 +7624,24 @@
   },
   {
     "category": "name",
+    "cn_text": "幽灵弯刀",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "幽灵弯刀2"
+  },
+  {
+    "category": "name",
     "cn_text": "月亮石",
     "suggested_en": "",
     "count": 3,
     "first_seen_id": "月亮石2"
+  },
+  {
+    "category": "name",
+    "cn_text": "诅咒箭头",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "诅咒箭头2"
   },
   {
     "category": "name",
@@ -5888,6 +7680,13 @@
   },
   {
     "category": "name",
+    "cn_text": "小夜",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "小夜3"
+  },
+  {
+    "category": "name",
     "cn_text": "博学祝福",
     "suggested_en": "",
     "count": 1,
@@ -5916,21 +7715,21 @@
   },
   {
     "category": "name",
-    "cn_text": "贵族红宝石",
+    "cn_text": "华贵的红宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "红宝石3"
   },
   {
     "category": "name",
-    "cn_text": "贵族蓝宝石",
+    "cn_text": "华贵的蓝宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "蓝宝石3"
   },
   {
     "category": "name",
-    "cn_text": "贵族绿宝石",
+    "cn_text": "华贵的绿宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "绿宝石3"
@@ -5944,10 +7743,38 @@
   },
   {
     "category": "name",
+    "cn_text": "开裂的红宝石",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "红宝石1"
+  },
+  {
+    "category": "name",
+    "cn_text": "开裂的蓝宝石",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "蓝宝石1"
+  },
+  {
+    "category": "name",
+    "cn_text": "开裂的绿宝石",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "绿宝石1"
+  },
+  {
+    "category": "name",
     "cn_text": "扣钱100",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "扣钱100"
+  },
+  {
+    "category": "name",
+    "cn_text": "龙族信物",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "龙族信物4"
   },
   {
     "category": "name",
@@ -5958,52 +7785,24 @@
   },
   {
     "category": "name",
-    "cn_text": "魔术兔子",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "魔术兔子2"
-  },
-  {
-    "category": "name",
-    "cn_text": "破碎红宝石",
+    "cn_text": "破碎的红宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "红宝石0"
   },
   {
     "category": "name",
-    "cn_text": "破碎蓝宝石",
+    "cn_text": "破碎的蓝宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "蓝宝石0"
   },
   {
     "category": "name",
-    "cn_text": "破碎绿宝石",
+    "cn_text": "破碎的绿宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "绿宝石0"
-  },
-  {
-    "category": "name",
-    "cn_text": "普通红宝石",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "红宝石1"
-  },
-  {
-    "category": "name",
-    "cn_text": "普通蓝宝石",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "蓝宝石1"
-  },
-  {
-    "category": "name",
-    "cn_text": "普通绿宝石",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "绿宝石1"
   },
   {
     "category": "name",
@@ -6021,38 +7820,31 @@
   },
   {
     "category": "name",
-    "cn_text": "缩小药水",
+    "cn_text": "缩小蘑菇",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "缩小药水4"
+    "first_seen_id": "缩小蘑菇4"
   },
   {
     "category": "name",
-    "cn_text": "完美红宝石",
+    "cn_text": "完美的红宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "红宝石4"
   },
   {
     "category": "name",
-    "cn_text": "完美蓝宝石",
+    "cn_text": "完美的蓝宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "蓝宝石4"
   },
   {
     "category": "name",
-    "cn_text": "完美绿宝石",
+    "cn_text": "完美的绿宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "绿宝石4"
-  },
-  {
-    "category": "name",
-    "cn_text": "小刺球",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "小刺球1"
   },
   {
     "category": "name",
@@ -6070,28 +7862,21 @@
   },
   {
     "category": "name",
-    "cn_text": "小夜",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "小夜3"
-  },
-  {
-    "category": "name",
-    "cn_text": "优质红宝石",
+    "cn_text": "优质的红宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "红宝石2"
   },
   {
     "category": "name",
-    "cn_text": "优质蓝宝石",
+    "cn_text": "优质的蓝宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "蓝宝石2"
   },
   {
     "category": "name",
-    "cn_text": "优质绿宝石",
+    "cn_text": "优质的绿宝石",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "绿宝石2"

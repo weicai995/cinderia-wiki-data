@@ -37738,7 +37738,7 @@
     "timing": "",
     "duration": "8",
     "waitfor": "0",
-    "event_actions": "说话时NPC动画:_dayixia | 说话后NPC移动:教徒召唤位置 | 说话后NPC转向:右上",
+    "event_actions": "说话时NPC动画:_dayixia | 说话后NPC转向:右上 | 说话后NPC移动:教徒召唤位置",
     "has_text": "yes",
     "internal_event_id": "大虫子2"
   },
@@ -38198,7 +38198,7 @@
     "timing": "",
     "duration": "8",
     "waitfor": "0",
-    "event_actions": "说话后播放特效:钻回去,1 | 说话后NPC动画:skill_钻地 | 说话后开门",
+    "event_actions": "说话后播放特效:钻回去,1 | 说话后NPC动画:skill_钻地 | 说话后开门 | 说话后NPC移除",
     "has_text": "yes",
     "internal_event_id": "大虫子☆献出力量4"
   },
@@ -38267,7 +38267,7 @@
     "timing": "",
     "duration": "8",
     "waitfor": "0",
-    "event_actions": "说话后播放特效:钻回去,1 | 说话后NPC动画:skill_钻地 | 说话后开门",
+    "event_actions": "说话后播放特效:钻回去,1 | 说话后NPC动画:skill_钻地 | 说话后开门 | 说话后NPC移除",
     "has_text": "yes",
     "internal_event_id": "大虫子☆拒绝3"
   },
@@ -38607,7 +38607,7 @@
     "character_cn": "",
     "scene": "",
     "status": "",
-    "precondition": "",
+    "precondition": "有可升级道具",
     "form": "",
     "timing": "",
     "duration": "8",
@@ -38865,7 +38865,7 @@
     "timing": "",
     "duration": "1",
     "waitfor": "0.4",
-    "event_actions": "说话时NPC动画:_birth | 播放特效:精灵出现,1.8 | 说话时震屏0.1，0.1",
+    "event_actions": "说话时NPC动画:_birth | 播放特效:精灵出现,1.8 | 说话时震屏0.1，0.1 | 播放特效:熔岩精灵交互点发光,0.01",
     "has_text": "yes",
     "internal_event_id": "熔岩精灵12"
   },
@@ -39049,7 +39049,7 @@
     "timing": "",
     "duration": "8",
     "waitfor": "0",
-    "event_actions": "播放特效:三选一出现,0.01 | 播放特效:二选一出现,0.01 | 说话后聚焦:事件聚焦点",
+    "event_actions": "说话后熔岩精灵展示高一级道具 | 说话后聚焦:事件聚焦点",
     "has_text": "yes",
     "internal_event_id": "熔岩精灵20"
   },
@@ -39095,7 +39095,7 @@
     "timing": "",
     "duration": "8",
     "waitfor": "0",
-    "event_actions": "说话后关闭特效:三选一出现,0.5",
+    "event_actions": "说话后熔岩精灵选择展示道具:左",
     "has_text": "yes",
     "internal_event_id": "熔岩精灵☆左边的1"
   },
@@ -39118,7 +39118,7 @@
     "timing": "",
     "duration": "8",
     "waitfor": "0",
-    "event_actions": "跳到:熔岩精灵撒谎结尾1",
+    "event_actions": "跳到:熔岩精灵撒谎结尾1 | 说话后关闭特效:二选一出现,0.5 | 说话后关闭特效:三选一出现,0.5",
     "has_text": "yes",
     "internal_event_id": "熔岩精灵☆左边的2"
   },
@@ -39141,7 +39141,7 @@
     "timing": "",
     "duration": "8",
     "waitfor": "0",
-    "event_actions": "说话后关闭特效:二选一出现,0.5",
+    "event_actions": "说话后熔岩精灵选择展示道具:右",
     "has_text": "yes",
     "internal_event_id": "熔岩精灵☆右边的1"
   },
@@ -39164,7 +39164,7 @@
     "timing": "",
     "duration": "8",
     "waitfor": "0",
-    "event_actions": "跳到:熔岩精灵撒谎结尾1",
+    "event_actions": "跳到:熔岩精灵撒谎结尾1 | 说话后关闭特效:二选一出现,0.5 | 说话后关闭特效:三选一出现,0.5",
     "has_text": "yes",
     "internal_event_id": "熔岩精灵☆右边的2"
   },
@@ -39187,7 +39187,7 @@
     "timing": "",
     "duration": "8",
     "waitfor": "0",
-    "event_actions": "",
+    "event_actions": "说话后熔岩精灵诚实返还道具",
     "has_text": "yes",
     "internal_event_id": "熔岩精灵☆都不是1"
   },
@@ -39210,7 +39210,7 @@
     "timing": "",
     "duration": "8",
     "waitfor": "0",
-    "event_actions": "跳到:熔岩精灵诚实结尾1",
+    "event_actions": "跳到:熔岩精灵诚实结尾1 | 说话后关闭特效:二选一出现,0.5 | 说话后关闭特效:三选一出现,0.5",
     "has_text": "yes",
     "internal_event_id": "熔岩精灵☆都不是2"
   },
@@ -41447,8 +41447,8 @@
   },
   {
     "display_event": "Dialogue with 我 201",
-    "en_text": "Steal Cake/Steal Beer/Eat Everything/Forget It",
-    "cn_text": "偷吃蛋糕/偷喝啤酒/全部吃光/算了",
+    "en_text": "偷吃蛋糕/偷喝啤酒/全部吃光/算了△还是算了吧",
+    "cn_text": "偷吃蛋糕/偷喝啤酒/全部吃光/算了△还是算了吧",
     "en_talker": "我",
     "cn_talker": "我",
     "en_npc": "",
@@ -41487,7 +41487,7 @@
     "timing": "",
     "duration": "8",
     "waitfor": "0",
-    "event_actions": "说话后破房子吃食物 | 说话后回血30",
+    "event_actions": "说话后破房子吃食物 | 说话后加生命值上限30",
     "has_text": "yes",
     "internal_event_id": "破房子☆偷吃蛋糕1"
   },
@@ -41533,7 +41533,7 @@
     "timing": "",
     "duration": "8",
     "waitfor": "0",
-    "event_actions": "说话后破房子吃食物 | 说话后回血50",
+    "event_actions": "说话后破房子吃食物 | 说话后随机升级后能力",
     "has_text": "yes",
     "internal_event_id": "破房子☆偷喝啤酒1"
   },
@@ -41625,7 +41625,7 @@
     "timing": "",
     "duration": "8",
     "waitfor": "0",
-    "event_actions": "说话后破房子侵蚀45 | 说话后开门",
+    "event_actions": "说话后破房子侵蚀60 | 说话后开门",
     "has_text": "yes",
     "internal_event_id": "破房子☆全部吃光3"
   },
@@ -45903,7 +45903,7 @@
     "timing": "",
     "duration": "8",
     "waitfor": "0",
-    "event_actions": "钓鱼佬回血35 | 开门",
+    "event_actions": "钓鱼佬回血25 | 加生命值上限15 | 开门",
     "has_text": "yes",
     "internal_event_id": "钓鱼佬一☆好呀1"
   },
