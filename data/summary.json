@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T06:37:32.872Z",
+  "generated_at": "2026-09-22T17:06:38.901Z",
   "data_dir": "F:\\hade\\HadesGame\\Assets\\Import\\Data",
   "language": "英语",
   "total_magic_cards": 1958,
@@ -7,10 +7,10 @@
   "obtainable_cards": 1382,
   "items": 472,
   "curses": 60,
-  "event_text_rows": 2017,
-  "events": 2166,
-  "destructibles": 153,
-  "untranslated_terms": 1126,
+  "event_text_rows": 2149,
+  "events": 2304,
+  "destructibles": 156,
+  "untranslated_terms": 498,
   "outputs": [
     "cards.csv",
     "cards.json",

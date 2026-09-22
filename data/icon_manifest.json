@@ -3209,10 +3209,10 @@
     "file": "assets/icons/cards/_E9_AD_94_E5_8A_9B_E5_AE_9D_E7_8F_A0.png",
     "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/魔力宝珠.png"
   },
-  "cards/棱镜": {
-    "icon": "棱镜",
-    "file": "assets/icons/cards/_E6_A3_B1_E9_95_9C.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/棱镜.png"
+  "cards/缩小镜": {
+    "icon": "缩小镜",
+    "file": "assets/icons/cards/_E7_BC_A9_E5_B0_8F_E9_95_9C.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/缩小镜.png"
   },
   "cards/奶酪": {
     "icon": "奶酪",
@@ -3223,6 +3223,26 @@
     "icon": "神秘蛋",
     "file": "assets/icons/cards/_E7_A5_9E_E7_A7_98_E8_9B_8B.png",
     "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/神秘蛋.png"
+  },
+  "cards/0恶魔蛋小刺球": {
+    "icon": "0恶魔蛋小刺球",
+    "file": "assets/icons/cards/0_E6_81_B6_E9_AD_94_E8_9B_8B_E5_B0_8F_E5_88_BA_E7_90_83.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/0恶魔蛋小刺球.png"
+  },
+  "cards/0恶魔蛋魔术兔子": {
+    "icon": "0恶魔蛋魔术兔子",
+    "file": "assets/icons/cards/0_E6_81_B6_E9_AD_94_E8_9B_8B_E9_AD_94_E6_9C_AF_E5_85_94_E5_AD_90.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/0恶魔蛋魔术兔子.png"
+  },
+  "cards/0恶魔蛋小夜": {
+    "icon": "0恶魔蛋小夜",
+    "file": "assets/icons/cards/0_E6_81_B6_E9_AD_94_E8_9B_8B_E5_B0_8F_E5_A4_9C.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/0恶魔蛋小夜.png"
+  },
+  "cards/0恶魔蛋小恶魔": {
+    "icon": "0恶魔蛋小恶魔",
+    "file": "assets/icons/cards/0_E6_81_B6_E9_AD_94_E8_9B_8B_E5_B0_8F_E6_81_B6_E9_AD_94.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/0恶魔蛋小恶魔.png"
   },
   "cards/小图腾": {
     "icon": "小图腾",
@@ -4414,10 +4434,10 @@
     "file": "assets/icons/items/_E9_AD_94_E5_8A_9B_E5_AE_9D_E7_8F_A0.png",
     "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/魔力宝珠.png"
   },
-  "items/棱镜": {
-    "icon": "棱镜",
-    "file": "assets/icons/items/_E6_A3_B1_E9_95_9C.png",
-    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/棱镜.png"
+  "items/缩小镜": {
+    "icon": "缩小镜",
+    "file": "assets/icons/items/_E7_BC_A9_E5_B0_8F_E9_95_9C.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/道具图标/缩小镜.png"
   },
   "items/奶酪": {
     "icon": "奶酪",
