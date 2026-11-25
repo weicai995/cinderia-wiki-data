@@ -8,6 +8,20 @@
   },
   {
     "category": "card_base_name",
+    "cn_text": "变身吸血",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "变身吸血"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "拨弦",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫近战"
+  },
+  {
+    "category": "card_base_name",
     "cn_text": "博学祝福",
     "suggested_en": "",
     "count": 1,
@@ -15,10 +29,101 @@
   },
   {
     "category": "card_base_name",
+    "cn_text": "跛行者",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "跛行者"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "吵闹杂音",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "吵闹杂音"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "冲刺穿人",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "冲刺穿人"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "冲刺撒音符",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "冲刺撒音符"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "冲刺速射",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "冲刺速射"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "穿针引线",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "穿针引线"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "催眠曲",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "催眠曲"
+  },
+  {
+    "category": "card_base_name",
     "cn_text": "打自己100",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "打自己100"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "高音炸弹",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "高音炸弹"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "隔空传音",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "隔空传音"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "弓箭变音符",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "弓箭变音符"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "海洋之声",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "海洋之声"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "回音射击",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "回音射击"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "混沌潜行",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "混沌潜行"
   },
   {
     "category": "card_base_name",
@@ -36,10 +141,115 @@
   },
   {
     "category": "card_base_name",
+    "cn_text": "狂热爆发",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "狂热爆发"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "狂热后高音炸弹",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "狂热后高音炸弹"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "狂热音符",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "狂热音符"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "连续弹奏",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "连续弹奏"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "连续射击",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "连续射击"
+  },
+  {
+    "category": "card_base_name",
     "cn_text": "麦芽啤酒",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "麦芽啤酒"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "魔卡撒音符",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "魔卡撒音符"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "黏黏泡泡",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "黏黏泡泡"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "泡泡盾",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "泡泡盾"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "普攻散射水弹",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "普攻散射水弹"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "三重射击",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "三重射击"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "散开花",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "散开花"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "水泡缠绕",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "水泡缠绕"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "顺流而行",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "顺流而行"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "完美时机",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "完美时机"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "吸残血",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "吸残血"
   },
   {
     "category": "card_base_name",
@@ -49,46 +259,305 @@
     "first_seen_id": "小蓝右键移动"
   },
   {
+    "category": "card_base_name",
+    "cn_text": "小紫安魂曲",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫安魂曲"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小紫弹幕射击",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫弹幕射击"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小紫过热换引导激光",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫过热换引导激光"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小紫箭雨",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫箭雨"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小紫枯萎箭袋",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫枯萎箭袋"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小紫三尾子弹",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫三尾子弹"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小紫扇形音波攻击",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫扇形音波攻击"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小紫痛苦之墙",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫痛苦之墙"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小紫五线谱攻击",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫五线谱攻击"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小紫五线谱攻击三次",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫五线谱攻击三次"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小紫蓄满变激光",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫蓄满变激光"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小紫旋转射击",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫旋转射击"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小紫音符弹跳",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫音符弹跳"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小紫音乐球子弹",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫音乐球子弹"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小紫右键变蓄力爆发",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫右键变蓄力爆发"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小紫杂音子弹",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫杂音子弹"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小紫折磨之影",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫折磨之影"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小紫子弹展示1",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫子弹展示1"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小紫子弹展示2",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫子弹展示2"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小紫子弹展示3",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫子弹展示3"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小紫子弹展示4",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫子弹展示4"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小紫子弹展示5",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫子弹展示5"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小紫左键泡泡困人",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫左键泡泡困人"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小紫左键远距离增伤",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫左键远距离增伤"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "小紫左键追击",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫左键追击"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "虚空连击",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "虚空连击"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "蓄音波",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "蓄音波"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "野兽之箭",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "野兽之箭"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "音符",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫右键"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "音符乱舞",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "音符乱舞"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "音障",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "音障"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "吟游四方",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "吟游四方"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "引浪",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "引浪"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "杂音爆发",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "杂音爆发"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "杂音召虚空箭",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "杂音召虚空箭"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "折射箭",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "折射箭"
+  },
+  {
+    "category": "card_base_name",
+    "cn_text": "自控",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "自控"
+  },
+  {
     "category": "description",
-    "cn_text": "冷却时间-4。",
+    "cn_text": "一定时间内朝周围随机方向高速射箭",
     "suggested_en": "",
     "count": 2,
-    "first_seen_id": "崩坠2"
+    "first_seen_id": "小紫旋转射击"
   },
   {
     "category": "description",
-    "cn_text": "》清空房间：有35%概率获得1颗宝石和碎片",
+    "cn_text": "按住蓄力射击可以自动射箭，+25%蓄力速度，-10%伤害。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "宝石盒2"
+    "first_seen_id": "连续射击"
   },
   {
     "category": "description",
-    "cn_text": "》装备：+18%生命值上限。\n装备：血瓶额外回复30%生命值。",
+    "cn_text": "冲刺后下一个普攻改为快速的3连射，每下造成30点伤害。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "世界树种子2"
+    "first_seen_id": "冲刺速射"
   },
   {
     "category": "description",
-    "cn_text": "冰晶柱持续时间+4，场上每有一个冰晶柱，你造成的伤害提高8%，受到的伤害减4%。",
+    "cn_text": "冲刺距离变得更远，并且附带波浪",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "冰晶仪式"
+    "first_seen_id": "顺流而行"
   },
   {
     "category": "description",
-    "cn_text": "冰晶柱持续时间+6，场上每有一个冰晶柱，你造成的伤害提高12%，受到的伤害减6%。",
+    "cn_text": "冲刺时撒2个音符。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "冰晶仪式+"
+    "first_seen_id": "冲刺撒音符"
   },
   {
     "category": "description",
-    "cn_text": "持续时间+4。但是状态结束后会瘫痪1秒。",
+    "cn_text": "创建一堵墙，每隔一段时间对墙内的敌人造成范围伤害",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "超负荷5"
+    "first_seen_id": "小紫痛苦之墙"
   },
   {
     "category": "description",
@@ -106,129 +575,318 @@
   },
   {
     "category": "description",
-    "cn_text": "技能附加的冻伤持续时间+4。",
+    "cn_text": "对周围造成25点伤害。\n冷却0.7秒。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "彻骨横扫4"
+    "first_seen_id": "小紫近战"
   },
   {
     "category": "description",
-    "cn_text": "架盾时消耗1点格挡值发起强力冲刺，拥有更更高的冲刺距离，造成105点伤害并能将所有敌人击飞。",
+    "cn_text": "根据周围敌人的数量，发射箭雨攻击敌人",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "巨盾冲击+"
+    "first_seen_id": "小紫箭雨"
   },
   {
     "category": "description",
-    "cn_text": "来自冰龙伤害的伤害提升14%，并且会使敌人在6.5秒内残废。",
+    "cn_text": "弓箭命中满血的敌人，会将其催眠。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "龙牙撕裂+"
+    "first_seen_id": "野兽之箭"
   },
   {
     "category": "description",
-    "cn_text": "冷却时间-2.5。",
+    "cn_text": "弓箭命中时有40%几率散射8个小箭对周围的敌人造成12点伤害。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "快速生长6"
+    "first_seen_id": "散开花"
   },
   {
     "category": "description",
-    "cn_text": "冷却时间-2。",
+    "cn_text": "弓箭蓄力满的话，改为放个音波，穿透所有敌人，打3x24伤害对全体。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "破阵猛冲4"
+    "first_seen_id": "蓄音波"
   },
   {
     "category": "description",
-    "cn_text": "冷却时间-3。",
+    "cn_text": "靠着墙壁的时候，进入灵魂状态，冷却3秒",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "弹跳闪光雷5"
+    "first_seen_id": "跛行者"
   },
   {
     "category": "description",
-    "cn_text": "冷却时间-5。",
+    "cn_text": "狂暴状态结束后，接下来的3次音符都是高音炸弹，对目标位置造成一次杂音伤害。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "寒冰之墙4"
+    "first_seen_id": "狂热后高音炸弹"
   },
   {
     "category": "description",
-    "cn_text": "你的劈砍造成造成伤害时有15%几率附加3层伤口。十字斩造成伤害时则必定附加。",
+    "cn_text": "狂暴状态时吸取周围的人的生命。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "割裂"
+    "first_seen_id": "变身吸血"
   },
   {
     "category": "description",
-    "cn_text": "你的劈砍造成造成伤害时有15%几率附加5层伤口。十字斩造成伤害时则必定附加。",
+    "cn_text": "狂暴状态下保持灵魂状态，并且冲刺的冷却时间减少40%",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "割裂+"
+    "first_seen_id": "混沌潜行"
   },
   {
     "category": "description",
-    "cn_text": "喷火后，自动4发燃烧弹。",
+    "cn_text": "狂热时依然可以实用蓄力射击，并且提升蓄力速度80%。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "喷火装置5"
+    "first_seen_id": "自控"
   },
   {
     "category": "description",
-    "cn_text": "如果在天赋/魔卡的选择时如果8秒内没有做出选择，则随机选择一个，且有35%几率额外选择一个。",
+    "cn_text": "狂热值满后，杂音获得额外4次充能",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "焦虑+"
+    "first_seen_id": "杂音爆发"
   },
   {
     "category": "description",
-    "cn_text": "如果在天赋/魔卡的选择时如果8秒内没有做出选择，则随机选择一个。",
+    "cn_text": "狂热状态结束后，对周围所有敌人造成100点伤害并恐惧他们3.5秒。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "焦虑"
+    "first_seen_id": "狂热爆发"
   },
   {
     "category": "description",
-    "cn_text": "消耗30点召唤值，向目标区域发射一枚能量弹，在一定范围内范围造成65点伤害并触发一次特殊召唤。冷却时间10秒。",
+    "cn_text": "灵魂状态穿过敌人，施加3层水泡标记",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "森林幻象"
+    "first_seen_id": "黏黏泡泡"
   },
   {
     "category": "description",
-    "cn_text": "月光持续时间+2.5。",
+    "cn_text": "灵魂状态穿过敌人，吸取生命",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "月光领域4"
+    "first_seen_id": "穿针引线"
   },
   {
     "category": "description",
-    "cn_text": "在接下来5秒内获得野性状态，近战攻击变更为可以造成35点伤害的狼爪。状态持续期间无法自然之息和魔卡，冷却时间28秒。",
+    "cn_text": "每放5个音符就打个大的高音炸弹，对目标位置造成一次杂音伤害。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "荒野嚎叫"
+    "first_seen_id": "高音炸弹"
   },
   {
     "category": "description",
-    "cn_text": "装填时装填0-2枚集束手雷弹。",
+    "cn_text": "每隔30秒，获得可以抵挡抵挡1次伤害的护盾，破盾后向周围射出8个水弹，造成40伤害",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "集束手雷"
+    "first_seen_id": "泡泡盾"
   },
   {
     "category": "description",
-    "cn_text": "装填时装填0-3枚集束手雷弹。",
+    "cn_text": "每隔7秒蓄力射击放个波浪",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "集束手雷+"
+    "first_seen_id": "引浪"
   },
   {
     "category": "description",
-    "cn_text": "状态持续时间+3。",
+    "cn_text": "每秒发射6发音符，对目标附近的随机位置造成30点范围伤害。\n持续释放期间，每秒提升10点发狂值。\n\n停止施放后发狂值每秒降低5点。\n如果发狂值满了，那么接下来一段时间内无法再施放音符和蓄力射箭。\n只能使用拨弦攻击。\n发狂状态下发狂值每秒降低4点。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "引雷针3"
+    "first_seen_id": "小紫右键"
+  },
+  {
+    "category": "description",
+    "cn_text": "每释放三次杂音，从异空间召唤出5支箭，射向附近的敌人",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "杂音召虚空箭"
+  },
+  {
+    "category": "description",
+    "cn_text": "每移动8米，向最近的敌人发射1颗音符",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "吟游四方"
+  },
+  {
+    "category": "description",
+    "cn_text": "你的弓箭子弹结束时会化为3个音符弹。对周围敌人造成30点伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "弓箭变音符"
+  },
+  {
+    "category": "description",
+    "cn_text": "你的音符攻击不再瞄准目标位置，而是向自身周围的随机位置乱射，攻速提高",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "音符乱舞"
+  },
+  {
+    "category": "description",
+    "cn_text": "你的音符有10%概率变为深海音符，落地后散射出8个水弹，对周围的敌人造成8点伤害",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "海洋之声"
+  },
+  {
+    "category": "description",
+    "cn_text": "你弓箭飞到头会从异空间再向最近的敌人射一次，造成100%伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "折射箭"
+  },
+  {
+    "category": "description",
+    "cn_text": "普通攻击时为敌人积累一层枯萎buff，叠满时对该敌人造成生命值一定上限的伤害",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫枯萎箭袋"
+  },
+  {
+    "category": "description",
+    "cn_text": "塞乐芬尼被动",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫左键追击"
+  },
+  {
+    "category": "description",
+    "cn_text": "使用魔卡时，向附近的敌人发射4个音符",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "魔卡撒音符"
+  },
+  {
+    "category": "description",
+    "cn_text": "小紫冲刺进入灵魂状态，冷却4.5秒。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "冲刺穿人"
+  },
+  {
+    "category": "description",
+    "cn_text": "蓄力射击命中时，散射出5个水弹对其身后的敌人造成12点伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "普攻散射水弹"
+  },
+  {
+    "category": "description",
+    "cn_text": "蓄力射击命中时，在目标位置造成一次杂音伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "音障"
+  },
+  {
+    "category": "description",
+    "cn_text": "蓄力射击如果续满力，从异空间召唤3发连射箭，每下造成30伤害",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "虚空连击"
+  },
+  {
+    "category": "description",
+    "cn_text": "蓄力射击在蓄力满的瞬间释放则必定暴击。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "完美时机"
+  },
+  {
+    "category": "description",
+    "cn_text": "蓄力射箭，造成24点伤害，随着蓄力时间伤害最高提升到300%。\n穿透最多2个敌人，对后边的单位伤害递减到70%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫攻击"
+  },
+  {
+    "category": "description",
+    "cn_text": "蓄满后改为射出激光贯穿不衰减",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫蓄满变激光"
+  },
+  {
+    "category": "description",
+    "cn_text": "音符攻击，有20%从异空间召唤出1支箭，射向附近的敌人",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "回音射击"
+  },
+  {
+    "category": "description",
+    "cn_text": "音符攻击的攻速随你的狂热值变多而提升，最多60%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "狂热音符"
+  },
+  {
+    "category": "description",
+    "cn_text": "音符攻击改成每次点击3连发，有个0.7秒的冷却。每次攻击提升5点狂热值。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "连续弹奏"
+  },
+  {
+    "category": "description",
+    "cn_text": "音符攻击命中生命值小于50%的敌人会吸取生命。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "吸残血"
+  },
+  {
+    "category": "description",
+    "cn_text": "引导3秒后对周围所有敌人造成大量伤害",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫安魂曲"
+  },
+  {
+    "category": "description",
+    "cn_text": "右键会给敌人上1层水泡标记最多3层，弓箭或者声波可以引爆标记，每层24点伤害。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "水泡缠绕"
+  },
+  {
+    "category": "description",
+    "cn_text": "右键几率催眠敌人。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "催眠曲"
+  },
+  {
+    "category": "description",
+    "cn_text": "杂音可以施放到目标位置，并且伤害提高10%。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "隔空传音"
+  },
+  {
+    "category": "description",
+    "cn_text": "杂音时炸出2-5个音符。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "吵闹杂音"
+  },
+  {
+    "category": "description",
+    "cn_text": "在鼠标位置创建一片伤害区域，其内的敌人生命值越低受到的伤害越高",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫折磨之影"
+  },
+  {
+    "category": "description",
+    "cn_text": "左键在狂热值大于50%的时候可以散射3发。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "三重射击"
   },
   {
     "category": "destructible_name",
@@ -470,6 +1128,13 @@
   },
   {
     "category": "destructible_name",
+    "cn_text": "地牢武器架",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "地牢武器架"
+  },
+  {
+    "category": "destructible_name",
     "cn_text": "地牢刑具",
     "suggested_en": "",
     "count": 1,
@@ -680,6 +1345,20 @@
   },
   {
     "category": "destructible_name",
+    "cn_text": "画框",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "画框"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "画框大",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "画框大"
+  },
+  {
+    "category": "destructible_name",
     "cn_text": "荒野大树根",
     "suggested_en": "",
     "count": 1,
@@ -726,6 +1405,13 @@
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "荒野旗帜"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "荒野十字架",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "荒野十字架"
   },
   {
     "category": "destructible_name",
@@ -796,6 +1482,13 @@
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "火山小黑石头"
+  },
+  {
+    "category": "destructible_name",
+    "cn_text": "僵尸尸体",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "僵尸尸体"
   },
   {
     "category": "destructible_name",
@@ -1319,7 +2012,7 @@
     "category": "destructible_type",
     "cn_text": "木头",
     "suggested_en": "",
-    "count": 25,
+    "count": 26,
     "first_seen_id": "木头红"
   },
   {
@@ -1331,6 +2024,13 @@
   },
   {
     "category": "destructible_type",
+    "cn_text": "中木头",
+    "suggested_en": "",
+    "count": 15,
+    "first_seen_id": "中木头黄"
+  },
+  {
+    "category": "destructible_type",
     "cn_text": "大石头",
     "suggested_en": "",
     "count": 14,
@@ -1338,16 +2038,9 @@
   },
   {
     "category": "destructible_type",
-    "cn_text": "中木头",
-    "suggested_en": "",
-    "count": 12,
-    "first_seen_id": "中木头黄"
-  },
-  {
-    "category": "destructible_type",
     "cn_text": "中石头",
     "suggested_en": "",
-    "count": 12,
+    "count": 13,
     "first_seen_id": "荒野帐篷组"
   },
   {
@@ -1583,17 +2276,10 @@
   },
   {
     "category": "event_npc",
-    "cn_text": "小蓝",
+    "cn_text": "采蘑菇的小红",
     "suggested_en": "",
-    "count": 10,
-    "first_seen_id": "小蓝刚解锁1"
-  },
-  {
-    "category": "event_npc",
-    "cn_text": "小黄",
-    "suggested_en": "",
-    "count": 7,
-    "first_seen_id": "被困的小黄参战1"
+    "count": 15,
+    "first_seen_id": "小红剧情第一章1"
   },
   {
     "category": "event_npc",
@@ -1601,6 +2287,13 @@
     "suggested_en": "",
     "count": 6,
     "first_seen_id": "魔女初见1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "小幽灵",
+    "suggested_en": "",
+    "count": 6,
+    "first_seen_id": "点灯小游戏1"
   },
   {
     "category": "event_npc",
@@ -1660,6 +2353,13 @@
   },
   {
     "category": "event_npc",
+    "cn_text": "老家外游戏机",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "第一次见游戏机1"
+  },
+  {
+    "category": "event_npc",
     "cn_text": "森林医生",
     "suggested_en": "",
     "count": 3,
@@ -1667,17 +2367,10 @@
   },
   {
     "category": "event_npc",
-    "cn_text": "小红",
+    "cn_text": "时空门",
     "suggested_en": "",
     "count": 3,
-    "first_seen_id": "小黄对小红1"
-  },
-  {
-    "category": "event_npc",
-    "cn_text": "小幽灵",
-    "suggested_en": "",
-    "count": 3,
-    "first_seen_id": "点灯小游戏1"
+    "first_seen_id": "时空门1"
   },
   {
     "category": "event_npc",
@@ -1685,13 +2378,6 @@
     "suggested_en": "",
     "count": 2,
     "first_seen_id": "被绑的羊头人瞎几把叫1"
-  },
-  {
-    "category": "event_npc",
-    "cn_text": "教徒召唤师",
-    "suggested_en": "",
-    "count": 2,
-    "first_seen_id": "大虫子1"
   },
   {
     "category": "event_npc",
@@ -1723,10 +2409,24 @@
   },
   {
     "category": "event_npc",
+    "cn_text": "老家内游戏机",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "家中游戏机未修好1"
+  },
+  {
+    "category": "event_npc",
     "cn_text": "升级后的助手",
     "suggested_en": "",
     "count": 2,
     "first_seen_id": "治疗动物四1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "时空门返程",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "时空门返程1"
   },
   {
     "category": "event_npc",
@@ -1737,17 +2437,24 @@
   },
   {
     "category": "event_npc",
-    "cn_text": "小绿",
+    "cn_text": "摆摊的小黄",
     "suggested_en": "",
-    "count": 2,
-    "first_seen_id": "小绿第一次说话1"
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章1"
   },
   {
     "category": "event_npc",
-    "cn_text": "被囚禁的术士",
+    "cn_text": "吵架法师1",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "被囚禁的术士1"
+    "first_seen_id": "法师吵架1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "出任务的小红",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红剧情第四章1"
   },
   {
     "category": "event_npc",
@@ -1772,6 +2479,13 @@
   },
   {
     "category": "event_npc",
+    "cn_text": "倒下的小红",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红剧情第二章1"
+  },
+  {
+    "category": "event_npc",
     "cn_text": "第四章试玩npc",
     "suggested_en": "",
     "count": 1,
@@ -1783,6 +2497,27 @@
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "钓鱼佬九1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "儿童小蓝",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "放药的柜子",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "第四章逃跑的医生1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "工坊的小黄",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第二章1"
   },
   {
     "category": "event_npc",
@@ -1807,10 +2542,31 @@
   },
   {
     "category": "event_npc",
+    "cn_text": "回家的小红",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红剧情第一章二1"
+  },
+  {
+    "category": "event_npc",
     "cn_text": "会说话的石像",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "恶魔试炼1"
+    "first_seen_id": "恶魔试炼一1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "教徒召唤师",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "大虫子1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "接魔果妖精",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "接魔果1"
   },
   {
     "category": "event_npc",
@@ -1835,10 +2591,10 @@
   },
   {
     "category": "event_npc",
-    "cn_text": "门",
+    "cn_text": "麦田老农",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "时空门1"
+    "first_seen_id": "打乌鸦1"
   },
   {
     "category": "event_npc",
@@ -1856,6 +2612,20 @@
   },
   {
     "category": "event_npc",
+    "cn_text": "圣泉",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "圣泉1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "圣泉前的路牌",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "圣泉前的路牌1"
+  },
+  {
+    "category": "event_npc",
     "cn_text": "事件乌鸦",
     "suggested_en": "",
     "count": 1,
@@ -1870,17 +2640,52 @@
   },
   {
     "category": "event_npc",
-    "cn_text": "试玩版羊头人",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "试玩版结束1"
-  },
-  {
-    "category": "event_npc",
     "cn_text": "试玩版妖精",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "试玩版要第三章了1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "书1",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "时空门的书一1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "书2",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "时空门的书二1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "书3",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "时空门的书三1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "送礼的小红",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红剧情第五章1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "完事的小红",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红剧情第五章二1"
+  },
+  {
+    "category": "event_npc",
+    "cn_text": "玩游戏的小黄",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章1"
   },
   {
     "category": "event_npc",
@@ -1926,6 +2731,13 @@
   },
   {
     "category": "event_npc",
+    "cn_text": "训练的小红",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红剧情第三章1"
+  },
+  {
+    "category": "event_npc",
     "cn_text": "训练室去大厅门",
     "suggested_en": "",
     "count": 1,
@@ -1968,10 +2780,24 @@
   },
   {
     "category": "event_rule",
+    "cn_text": "自动开始",
+    "suggested_en": "",
+    "count": 13,
+    "first_seen_id": "小红剧情第一章1"
+  },
+  {
+    "category": "event_rule",
     "cn_text": "随机乱叫,CD大概6秒",
     "suggested_en": "",
     "count": 8,
     "first_seen_id": "竞技场路人瞎叫1"
+  },
+  {
+    "category": "event_rule",
+    "cn_text": "把人送走",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "被困的工匠送走后1"
   },
   {
     "category": "event_rule",
@@ -1993,13 +2819,6 @@
     "suggested_en": "",
     "count": 3,
     "first_seen_id": "工匠完活一1"
-  },
-  {
-    "category": "event_rule",
-    "cn_text": "把人送走",
-    "suggested_en": "",
-    "count": 2,
-    "first_seen_id": "被困的工匠送走后1"
   },
   {
     "category": "event_rule",
@@ -2096,8 +2915,22 @@
     "category": "event_talker",
     "cn_text": "我",
     "suggested_en": "",
-    "count": 363,
+    "count": 448,
     "first_seen_id": "被困的小黄3"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "大叔",
+    "suggested_en": "",
+    "count": 50,
+    "first_seen_id": "小红剧情第二章1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "大沙虫",
+    "suggested_en": "",
+    "count": 47,
+    "first_seen_id": "大虫子9"
   },
   {
     "category": "event_talker",
@@ -2108,17 +2941,73 @@
   },
   {
     "category": "event_talker",
-    "cn_text": "大沙虫",
+    "cn_text": "摆摊的小黄",
     "suggested_en": "",
-    "count": 41,
-    "first_seen_id": "大虫子8"
+    "count": 29,
+    "first_seen_id": "小黄回忆第三章1"
   },
   {
     "category": "event_talker",
-    "cn_text": "小黄",
+    "cn_text": "小幽灵",
     "suggested_en": "",
-    "count": 38,
-    "first_seen_id": "被困的小黄参战1"
+    "count": 29,
+    "first_seen_id": "点灯小游戏1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "族里的老奶奶",
+    "suggested_en": "",
+    "count": 29,
+    "first_seen_id": "小蓝回忆第三章1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "工坊的小黄",
+    "suggested_en": "",
+    "count": 27,
+    "first_seen_id": "小黄回忆第二章1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "村童黑巫师",
+    "suggested_en": "",
+    "count": 26,
+    "first_seen_id": "小黄回忆第一章2"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "送礼的小红",
+    "suggested_en": "",
+    "count": 25,
+    "first_seen_id": "小红剧情第五章1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "倒下的小红",
+    "suggested_en": "",
+    "count": 24,
+    "first_seen_id": "小红剧情第二章6"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "熔岩精灵",
+    "suggested_en": "",
+    "count": 24,
+    "first_seen_id": "熔岩精灵11"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "训练的小红",
+    "suggested_en": "",
+    "count": 24,
+    "first_seen_id": "小红剧情第三章1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "采蘑菇的小红",
+    "suggested_en": "",
+    "count": 23,
+    "first_seen_id": "小红剧情第一章1"
   },
   {
     "category": "event_talker",
@@ -2129,10 +3018,17 @@
   },
   {
     "category": "event_talker",
-    "cn_text": "小红",
+    "cn_text": "铁匠大叔",
+    "suggested_en": "",
+    "count": 22,
+    "first_seen_id": "小黄回忆第二章18"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "回家的小红",
     "suggested_en": "",
     "count": 21,
-    "first_seen_id": "小黄对小红☆闲聊①1"
+    "first_seen_id": "小红剧情第一章二1"
   },
   {
     "category": "event_talker",
@@ -2143,6 +3039,20 @@
   },
   {
     "category": "event_talker",
+    "cn_text": "任务大叔",
+    "suggested_en": "",
+    "count": 20,
+    "first_seen_id": "小红剧情第四章3"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "接魔果妖精",
+    "suggested_en": "",
+    "count": 19,
+    "first_seen_id": "接魔果1"
+  },
+  {
+    "category": "event_talker",
     "cn_text": "魔女",
     "suggested_en": "",
     "count": 19,
@@ -2150,31 +3060,38 @@
   },
   {
     "category": "event_talker",
-    "cn_text": "熔岩精灵",
+    "cn_text": "村童2",
     "suggested_en": "",
-    "count": 19,
-    "first_seen_id": "熔岩精灵7"
+    "count": 18,
+    "first_seen_id": "小黄回忆第一章5"
   },
   {
     "category": "event_talker",
-    "cn_text": "小蓝",
+    "cn_text": "老教徒",
     "suggested_en": "",
-    "count": 19,
-    "first_seen_id": "小蓝刚解锁1"
+    "count": 17,
+    "first_seen_id": "小黄回忆第三章25"
   },
   {
     "category": "event_talker",
-    "cn_text": "小绿",
+    "cn_text": "玩游戏的小黄",
     "suggested_en": "",
-    "count": 19,
-    "first_seen_id": "小绿第一次说话1"
+    "count": 17,
+    "first_seen_id": "小黄回忆第一章17"
   },
   {
     "category": "event_talker",
-    "cn_text": "小幽灵",
+    "cn_text": "出任务的小红",
     "suggested_en": "",
     "count": 16,
-    "first_seen_id": "点灯小游戏1"
+    "first_seen_id": "小红剧情第四章4"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "儿童小蓝",
+    "suggested_en": "",
+    "count": 16,
+    "first_seen_id": "小蓝回忆第三章16"
   },
   {
     "category": "event_talker",
@@ -2182,6 +3099,13 @@
     "suggested_en": "",
     "count": 15,
     "first_seen_id": "大虫子2"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "死大叔",
+    "suggested_en": "",
+    "count": 15,
+    "first_seen_id": "小红剧情第五章二1"
   },
   {
     "category": "event_talker",
@@ -2213,6 +3137,20 @@
   },
   {
     "category": "event_talker",
+    "cn_text": "村童1",
+    "suggested_en": "",
+    "count": 13,
+    "first_seen_id": "小黄回忆第一章7"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "会说话的石像",
+    "suggested_en": "",
+    "count": 13,
+    "first_seen_id": "恶魔试炼一1"
+  },
+  {
+    "category": "event_talker",
     "cn_text": "灯神",
     "suggested_en": "",
     "count": 12,
@@ -2227,10 +3165,31 @@
   },
   {
     "category": "event_talker",
+    "cn_text": "完事的小红",
+    "suggested_en": "",
+    "count": 12,
+    "first_seen_id": "小红剧情第五章二2"
+  },
+  {
+    "category": "event_talker",
     "cn_text": "蜘蛛精",
     "suggested_en": "",
     "count": 12,
     "first_seen_id": "蜘蛛精1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "狼人",
+    "suggested_en": "",
+    "count": 11,
+    "first_seen_id": "小红剧情第一章二26"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "路人1",
+    "suggested_en": "",
+    "count": 11,
+    "first_seen_id": "小黄回忆第三章4"
   },
   {
     "category": "event_talker",
@@ -2248,17 +3207,10 @@
   },
   {
     "category": "event_talker",
-    "cn_text": "会说话的石像",
+    "cn_text": "黑巫师3",
     "suggested_en": "",
-    "count": 10,
-    "first_seen_id": "恶魔试炼1"
-  },
-  {
-    "category": "event_talker",
-    "cn_text": "被囚禁的术士",
-    "suggested_en": "",
-    "count": 9,
-    "first_seen_id": "被囚禁的术士1"
+    "count": 8,
+    "first_seen_id": "小红剧情第四章8"
   },
   {
     "category": "event_talker",
@@ -2266,6 +3218,13 @@
     "suggested_en": "",
     "count": 8,
     "first_seen_id": "亡灵马戏团1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "麦田老农",
+    "suggested_en": "",
+    "count": 8,
+    "first_seen_id": "打乌鸦1"
   },
   {
     "category": "event_talker",
@@ -2280,6 +3239,13 @@
     "suggested_en": "",
     "count": 8,
     "first_seen_id": "解锁小蓝9"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "屋子",
+    "suggested_en": "",
+    "count": 7,
+    "first_seen_id": "小红剧情第五章10"
   },
   {
     "category": "event_talker",
@@ -2304,17 +3270,52 @@
   },
   {
     "category": "event_talker",
+    "cn_text": "机械鸟",
+    "suggested_en": "",
+    "count": 6,
+    "first_seen_id": "小黄回忆第二章3"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "路人2",
+    "suggested_en": "",
+    "count": 6,
+    "first_seen_id": "小黄回忆第三章28"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "路人3",
+    "suggested_en": "",
+    "count": 6,
+    "first_seen_id": "小黄回忆第三章39"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "奶奶",
+    "suggested_en": "",
+    "count": 6,
+    "first_seen_id": "小红剧情第一章二16"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "小朋友1",
+    "suggested_en": "",
+    "count": 6,
+    "first_seen_id": "小蓝回忆第三章5"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "老家外游戏机",
+    "suggested_en": "",
+    "count": 5,
+    "first_seen_id": "第一次见游戏机7"
+  },
+  {
+    "category": "event_talker",
     "cn_text": "事件乌鸦",
     "suggested_en": "",
     "count": 5,
     "first_seen_id": "乌鸦1"
-  },
-  {
-    "category": "event_talker",
-    "cn_text": "试玩版羊头人",
-    "suggested_en": "",
-    "count": 5,
-    "first_seen_id": "试玩版结束1"
   },
   {
     "category": "event_talker",
@@ -2332,6 +3333,13 @@
   },
   {
     "category": "event_talker",
+    "cn_text": "小朋友3",
+    "suggested_en": "",
+    "count": 5,
+    "first_seen_id": "小蓝回忆第三章8"
+  },
+  {
+    "category": "event_talker",
     "cn_text": "矮人1",
     "suggested_en": "",
     "count": 4,
@@ -2343,6 +3351,13 @@
     "suggested_en": "",
     "count": 4,
     "first_seen_id": "矮人1号瞎几把叫1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "黑巫师2",
+    "suggested_en": "",
+    "count": 4,
+    "first_seen_id": "小红剧情第四章7"
   },
   {
     "category": "event_talker",
@@ -2381,10 +3396,38 @@
   },
   {
     "category": "event_talker",
+    "cn_text": "黑巫师0",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "小红剧情第四章1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "黑巫师4",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "小红剧情第四章9"
+  },
+  {
+    "category": "event_talker",
     "cn_text": "监狱医生",
     "suggested_en": "",
     "count": 3,
     "first_seen_id": "监狱医生☆普通药水"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "圣泉前的路牌",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "圣泉前的路牌1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "术士的手",
+    "suggested_en": "",
+    "count": 3,
+    "first_seen_id": "被囚禁的术士7"
   },
   {
     "category": "event_talker",
@@ -2423,10 +3466,24 @@
   },
   {
     "category": "event_talker",
+    "cn_text": "吵架法师1",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "法师吵架1"
+  },
+  {
+    "category": "event_talker",
     "cn_text": "管道妖精",
     "suggested_en": "",
     "count": 2,
     "first_seen_id": "管道妖精2"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "黑巫师1",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "小红剧情第四章25"
   },
   {
     "category": "event_talker",
@@ -2465,6 +3522,13 @@
   },
   {
     "category": "event_talker",
+    "cn_text": "尸体1",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "小红剧情第一章二8"
+  },
+  {
+    "category": "event_talker",
     "cn_text": "小红助战失败",
     "suggested_en": "",
     "count": 2,
@@ -2483,6 +3547,13 @@
     "suggested_en": "",
     "count": 2,
     "first_seen_id": "小蓝助战失败1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "小朋友2",
+    "suggested_en": "",
+    "count": 2,
+    "first_seen_id": "小蓝回忆第三章6"
   },
   {
     "category": "event_talker",
@@ -2507,6 +3578,13 @@
   },
   {
     "category": "event_talker",
+    "cn_text": "吵架法师2",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "法师吵架2"
+  },
+  {
+    "category": "event_talker",
     "cn_text": "大厅去训练室门",
     "suggested_en": "",
     "count": 1,
@@ -2518,6 +3596,13 @@
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "大厅去院子门1"
+  },
+  {
+    "category": "event_talker",
+    "cn_text": "老家内游戏机",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "家中游戏机打开菜单1"
   },
   {
     "category": "event_talker",
@@ -2563,52 +3648,332 @@
   },
   {
     "category": "event_text",
-    "cn_text": "桀桀桀...",
-    "suggested_en": "",
-    "count": 3,
-    "first_seen_id": "恶魔试炼☆契约一"
-  },
-  {
-    "category": "event_text",
-    "cn_text": "（吐丝）噢，希望这样能帮到你",
-    "suggested_en": "",
-    "count": 2,
-    "first_seen_id": "蜘蛛精☆小幅压制"
-  },
-  {
-    "category": "event_text",
-    "cn_text": "都怪你都怪你",
-    "suggested_en": "",
-    "count": 2,
-    "first_seen_id": "植物大战僵尸3"
-  },
-  {
-    "category": "event_text",
-    "cn_text": "…啊，真是不老实",
+    "cn_text": " ……这些都是什么？",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "大虫子☆献出灰烬2"
+    "first_seen_id": "第一次见游戏机3"
   },
   {
     "category": "event_text",
-    "cn_text": "…灰烬…",
+    "cn_text": "…………能带我一个吗？",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "大虫子18"
+    "first_seen_id": "小黄回忆第一章21"
   },
   {
     "category": "event_text",
-    "cn_text": "...加油",
+    "cn_text": "……把羊从这边塞进去，然后，转一圈……",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "植物大战僵尸☆走了"
+    "first_seen_id": "小黄回忆第二章31"
   },
   {
     "category": "event_text",
-    "cn_text": "…留着吧…",
+    "cn_text": "……被敌人发现了就麻烦了",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "大虫子☆拒绝1"
+    "first_seen_id": "第四章逃跑的医生☆分药2"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……被关进去了？",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "第一次见游戏机12"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……别过来！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红剧情第一章二35"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……不对……是大炮",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章49"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……不会允许你破坏……破坏世界的！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章6"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……不要把时间浪费在这些没人喜欢的东西上了",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第二章22"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……但是……三个铜币",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章22"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……但是全混在一起了",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "第四章逃跑的医生3"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……到现在还没有回来",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章28"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……动作得快点",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "第四章逃跑的医生☆分药1"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……都到家了",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章58"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……关于这个",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章65"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……还是算了吧",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "第四章逃跑的医生☆离开1"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……好吧",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红剧情第二章50"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……好多药瓶……要挑一些有用的带走吗？",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "第四章逃跑的医生2"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……回去再想办法。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "第一次见游戏机送走后1"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……火柴不卖",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章51"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……就只是个……失败的烟花，你急什么？",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第二章21"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……可火鸟一号还没修好呢",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第二章34"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……可是",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章31"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……可惜，我还没机会把它真的做出来",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章64"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……来看看吧",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章3"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……莉薇特的火焰工坊",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章1"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……明明昨天才听过",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章6"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……那我也可以成为守护者吗？",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章62"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……奶奶……我要去找奶奶……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红剧情第二章33"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……你……你是……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红剧情第一章二32"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……你讲还是我讲啊？",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章13"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……你能教我……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红剧情第二章57"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……去问问大叔。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "家中游戏机未修好1"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……如此精妙的设计！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章62"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……三个铜币",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章36"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……是个猎魔人",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红剧情第二章52"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……虽然喷火的部分还不是很稳定……但是……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章9"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……我的名字是，格雷",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红剧情第二章51"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……我只是……想要和大家一起玩……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章82"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……先一起带回去。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "第一次见游戏机19"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……一般是不单独卖的",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章21"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……这里是……教团的实验室吗",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "第四章逃跑的医生1"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……这里有……真正的工匠艺术",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章2"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……这样晚上要被大家笑话了",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红剧情第一章12"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……终于修好了",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第二章1"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "……转向……正常",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第二章5"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "…来活了",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第二章25"
   },
   {
     "category": "event_text",
@@ -2619,80 +3984,52 @@
   },
   {
     "category": "event_text",
-    "cn_text": "（这里会丢三个道具在地上）",
+    "cn_text": "啊，您误会了，",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "妖精种花8"
+    "first_seen_id": "小黄回忆第三章52"
   },
   {
     "category": "event_text",
-    "cn_text": "3年来的第一个客人！",
+    "cn_text": "唉，正好你来评评理，我们俩谁说的更对",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "亡灵马戏团2"
+    "first_seen_id": "法师吵架3"
   },
   {
     "category": "event_text",
-    "cn_text": "啊，沉眠于腐土之下的吞世者——",
+    "cn_text": "按下按钮，开始冒险！",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "大虫子4"
+    "first_seen_id": "第一次见游戏机13"
   },
   {
     "category": "event_text",
-    "cn_text": "啊，陌生人",
+    "cn_text": "闭嘴吧怪胎，以后不会跟你玩了。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "妖精种花1"
+    "first_seen_id": "小黄回忆第一章80"
   },
   {
     "category": "event_text",
-    "cn_text": "啊？你是从村子里来吗",
+    "cn_text": "别别别！",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "植物大战僵尸1"
+    "first_seen_id": "小黄回忆第二章15"
   },
   {
     "category": "event_text",
-    "cn_text": "啊...你居然可以利用 她 的力量",
+    "cn_text": "别带她吧？",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "蜘蛛精6"
+    "first_seen_id": "小黄回忆第一章33"
   },
   {
     "category": "event_text",
-    "cn_text": "啊啊，那些僵尸都被你引过来了",
+    "cn_text": "别管我……",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "植物大战僵尸2"
-  },
-  {
-    "category": "event_text",
-    "cn_text": "啊哈~",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "熔岩精灵8"
-  },
-  {
-    "category": "event_text",
-    "cn_text": "把这些种子带到合适的地方",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "妖精种花7"
-  },
-  {
-    "category": "event_text",
-    "cn_text": "帮助它们/走了",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "植物大战僵尸7"
-  },
-  {
-    "category": "event_text",
-    "cn_text": "别害怕…",
-    "suggested_en": "",
-    "count": 1,
-    "first_seen_id": "大虫子20"
+    "first_seen_id": "小红剧情第一章二22"
   },
   {
     "category": "event_text",
@@ -2703,10 +4040,101 @@
   },
   {
     "category": "event_text",
-    "cn_text": "迟早……",
+    "cn_text": "别想这些没用的了…",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "大虫子☆拒绝2"
+    "first_seen_id": "小黄回忆第二章27"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "冰风暴带走了它",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章55"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "冰龙把魔女打败后，把她封印在了雪山下边",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章35"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "冰龙的故事！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章5"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "冰霜守护者可以控制冰风暴和召唤冰龙，与邪恶战斗",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章39"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "不过，倒也没想象中那么难修。",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "工匠修理游戏机3"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "不可能啦！被冰龙选中的是我！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章42"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "不亮了……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "第一次见游戏机18"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "不用啦，给我一盒火柴吧",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章34"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "才不会呢",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章37"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "材料不太全呢……还有……这些……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章65"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "成为守护者就可以控制冰风暴了吗？雪球就不会死了吗？",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章60"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "吃我一发黑暗火焰雨",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章60"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "从今天起",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红剧情第二章54"
   },
   {
     "category": "event_text",
@@ -2717,73 +4145,178 @@
   },
   {
     "category": "event_text",
-    "cn_text": "打他！使劲打！",
+    "cn_text": "打死黑巫师！",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "竞技场路人瞎叫1"
+    "first_seen_id": "小黄回忆第一章7"
   },
   {
     "category": "event_text",
-    "cn_text": "反正就是！",
+    "cn_text": "大家……为什么……",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "亡灵马戏团5"
+    "first_seen_id": "小红剧情第一章二12"
   },
   {
     "category": "event_text",
-    "cn_text": "反正就是你正在腐烂。",
+    "cn_text": "大家都想要的功能主要是往高塔上送信……",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "被囚禁的术士4"
+    "first_seen_id": "小黄回忆第三章11"
   },
   {
     "category": "event_text",
-    "cn_text": "疯子吧",
+    "cn_text": "大家只好离开自己的家，带着孩子们，逃进雪山里",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "图书馆占卜☆走了"
+    "first_seen_id": "小蓝回忆第三章17"
   },
   {
     "category": "event_text",
-    "cn_text": "附近除了我们就没有活人啦",
+    "cn_text": "大家走啊走，连个避风的地方都没有",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "亡灵马戏团3"
+    "first_seen_id": "小蓝回忆第三章19"
   },
   {
     "category": "event_text",
-    "cn_text": "感觉没人了啊",
+    "cn_text": "到底……发生了……什么……",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "竞技场2"
+    "first_seen_id": "小红剧情第一章二6"
   },
   {
     "category": "event_text",
-    "cn_text": "干！/不干",
+    "cn_text": "到底是什么人……",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "竞技场7"
+    "first_seen_id": "小红剧情第一章二15"
   },
   {
     "category": "event_text",
-    "cn_text": "干不干？",
+    "cn_text": "得早点回去了",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "竞技场6"
+    "first_seen_id": "小红剧情第一章20"
   },
   {
     "category": "event_text",
-    "cn_text": "跟你说了会好很多吧。",
+    "cn_text": "等等！",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "被囚禁的术士☆切手"
+    "first_seen_id": "小黄回忆第一章27"
   },
   {
     "category": "event_text",
-    "cn_text": "咕噜噜噜…",
+    "cn_text": "东西修好了。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "大虫子13"
+    "first_seen_id": "工匠修理游戏机1"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "都给我过来！坐好！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章3"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "都没人来叫我……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红剧情第一章二2"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "都整理好了！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "第四章逃跑的医生☆分支二1"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "呃……抱歉……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章16"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "呃……是莉薇特……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章25"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "呃……它有……什么用吗？",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章10"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "分药/离开",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "第四章逃跑的医生4"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "丰收节要提前开始了吗？",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红剧情第一章19"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "刚才不小心拜见了您的笔记",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章54"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "给",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章23"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "给你这个盾牌",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章48"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "根据每个人的情况还可以方便的清除马蜂窝和……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章13"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "跟她玩会被吃掉灵魂的",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章36"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "关于这个，莉薇特绚烂连射烟花筒的事",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章55"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "过来过来……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章28"
   },
   {
     "category": "event_text",
@@ -2801,164 +4334,297 @@
   },
   {
     "category": "event_text",
-    "cn_text": "哈哈哈哈，居然成功了！",
+    "cn_text": "嗨！",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "大虫子9"
+    "first_seen_id": "小黄回忆第一章18"
   },
   {
     "category": "event_text",
-    "cn_text": "咳咳！",
+    "cn_text": "还…还有我！",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "被囚禁的术士1"
+    "first_seen_id": "小黄回忆第一章14"
   },
   {
     "category": "event_text",
-    "cn_text": "好吧...",
+    "cn_text": "还是算了，不太需要",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "蜘蛛精☆拒绝"
+    "first_seen_id": "小黄回忆第三章14"
   },
   {
     "category": "event_text",
-    "cn_text": "好强啊，受不了",
+    "cn_text": "还想玩。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "竞技场路人瞎叫8"
+    "first_seen_id": "第一次见游戏机16"
   },
   {
     "category": "event_text",
-    "cn_text": "好弱啊，受不了",
+    "cn_text": "孩子们，冰风暴来了！到处乱跑很危险",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "竞技场路人瞎叫7"
+    "first_seen_id": "小蓝回忆第三章1"
   },
   {
     "category": "event_text",
-    "cn_text": "轰....",
+    "cn_text": "孩子们……",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "恶魔试炼1"
+    "first_seen_id": "小蓝回忆第三章2"
   },
   {
     "category": "event_text",
-    "cn_text": "呼呼呼…哈哈哈",
+    "cn_text": "好吧好吧……那就再讲一次……",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "大虫子2"
+    "first_seen_id": "小蓝回忆第三章9"
   },
   {
     "category": "event_text",
-    "cn_text": "欢迎来到阿拉巴拉马戏团！",
+    "cn_text": "好多药啊！开心！",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "亡灵马戏团1"
+    "first_seen_id": "第四章逃跑的医生☆分支三1"
   },
   {
     "category": "event_text",
-    "cn_text": "灰烬…香味…",
+    "cn_text": "好可怕……",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "大虫子10"
+    "first_seen_id": "小蓝回忆第三章15"
   },
   {
     "category": "event_text",
-    "cn_text": "灰烬的…主人…",
+    "cn_text": "和魔女战斗，最终打败了魔女，把她压在了雪山的下面",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "大虫子17"
+    "first_seen_id": "小蓝回忆第三章22"
   },
   {
     "category": "event_text",
-    "cn_text": "回应您卑微信徒的呼唤——",
+    "cn_text": "黑暗火炮呢……呃",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "大虫子6"
+    "first_seen_id": "小黄回忆第一章45"
   },
   {
     "category": "event_text",
-    "cn_text": "或许我可以帮帮你",
+    "cn_text": "黑暗火炮是……什么啊？",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "蜘蛛精8"
+    "first_seen_id": "小黄回忆第一章44"
   },
   {
     "category": "event_text",
-    "cn_text": "或者你给我更多血，我帮你解脱痛苦。",
+    "cn_text": "黑暗炮兵，快支援！",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "被囚禁的术士7"
+    "first_seen_id": "小黄回忆第一章64"
   },
   {
     "category": "event_text",
-    "cn_text": "既然迟早都要付出代价，不如先拿它换点东西。",
+    "cn_text": "黑暗炮兵？",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "恶魔试炼6"
+    "first_seen_id": "小黄回忆第一章66"
   },
   {
     "category": "event_text",
-    "cn_text": "精彩~精彩~",
+    "cn_text": "黑巫师来啦！",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "竞技场路人瞎叫3"
+    "first_seen_id": "小黄回忆第一章2"
   },
   {
     "category": "event_text",
-    "cn_text": "开转/走了",
+    "cn_text": "嘿嘿，很少见到你这么懂的",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "亡灵马戏团8"
+    "first_seen_id": "小黄回忆第三章63"
   },
   {
     "category": "event_text",
-    "cn_text": "看看今晚的幸运儿是不是你！",
+    "cn_text": "很久……很久以前……",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "亡灵马戏团7"
+    "first_seen_id": "小蓝回忆第三章10"
   },
   {
     "category": "event_text",
-    "cn_text": "看起来像是个门",
+    "cn_text": "轰！",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "时空门2"
+    "first_seen_id": "小黄回忆第一章71"
   },
   {
     "category": "event_text",
-    "cn_text": "可是你是怎么做到在外面穿梭自如的",
+    "cn_text": "后来啊，冰龙落在了山巅，它吐着冰做的火焰",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "蜘蛛精5"
+    "first_seen_id": "小蓝回忆第三章20"
   },
   {
     "category": "event_text",
-    "cn_text": "可惜，它已经离枯萎不远了",
+    "cn_text": "后来冰龙来了！",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "妖精种花4"
+    "first_seen_id": "小蓝回忆第三章12"
   },
   {
     "category": "event_text",
-    "cn_text": "快来玩我们的，大转盘！",
+    "cn_text": "欢迎来到莉薇特的……",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "亡灵马戏团6"
+    "first_seen_id": "小黄回忆第三章41"
   },
   {
     "category": "event_text",
-    "cn_text": "来，从这里进",
+    "cn_text": "回头，回头啊",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "竞技场☆干！"
+    "first_seen_id": "小黄回忆第二章10"
   },
   {
     "category": "event_text",
-    "cn_text": "来，看这个水晶球",
+    "cn_text": "会在哪里呢……",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "图书馆占卜☆占卜"
+    "first_seen_id": "小红剧情第一章4"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "火球术！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章9"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "姐姐！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章40"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "姐姐你怎么啦？",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章44"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "今天啊，我们来讲……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章4"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "今天的冰风暴……雪球在打猎时掉队了",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章27"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "精妙绝伦的技巧才是王道，你的蛮力打法根本没技巧",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "法师吵架1"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "就让她随便演个小角色吧！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章39"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "就是一个巨大的铁罐子",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章46"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "就为了一个乱炸的破玩具？",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第二章46"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "绝对力量的碾压才受人青睐，你的花哨招式早就被时代淘汰",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "法师吵架2"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "开始吧",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第二章2"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "看到我的邪恶黑魔法！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章8"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "看剑！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章11"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "可我还是想听！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章7"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "可以发出巨大的声音，把城堡炸烂",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章47"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "可以在夜间打猎的时候……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章32"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "可这水烧开了，蒸汽往哪儿走？",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章59"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "快来看一看啊！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章5"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "快跑！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章72"
   },
   {
     "category": "event_text",
@@ -2969,122 +4635,297 @@
   },
   {
     "category": "event_text",
-    "cn_text": "来选择一份契约吧....",
+    "cn_text": "狼………是狼……",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "恶魔试炼8"
+    "first_seen_id": "小红剧情第一章二8"
   },
   {
     "category": "event_text",
-    "cn_text": "难过",
+    "cn_text": "狼……快跑……",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "亡灵马戏团☆走了"
+    "first_seen_id": "小红剧情第一章二20"
   },
   {
     "category": "event_text",
-    "cn_text": "能拜托你帮帮我们吗",
+    "cn_text": "里面的技术……以前还真没见过。",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "妖精种花6"
+    "first_seen_id": "工匠修理游戏机2"
   },
   {
     "category": "event_text",
-    "cn_text": "嗯？新来的奴隶？",
+    "cn_text": "莉薇特！",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "竞技场3"
+    "first_seen_id": "小黄回忆第二章52"
   },
   {
     "category": "event_text",
-    "cn_text": "你…不是…",
+    "cn_text": "莉薇特……",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "大虫子11"
+    "first_seen_id": "小黄回忆第二章32"
   },
   {
     "category": "event_text",
-    "cn_text": "你的灵魂已经沾上了灰烬",
+    "cn_text": "莉薇特总搞出些奇奇怪怪的事情",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "恶魔试炼5"
+    "first_seen_id": "小黄回忆第一章34"
   },
   {
     "category": "event_text",
-    "cn_text": "你的命运指引你来到此处。",
+    "cn_text": "猎魔人守则，第一条",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "图书馆占卜2"
+    "first_seen_id": "小红剧情第二章58"
   },
   {
     "category": "event_text",
-    "cn_text": "你看起来和那些发疯的家伙不一样",
+    "cn_text": "绿色的也……",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "蜘蛛精2"
+    "first_seen_id": "小红剧情第一章3"
   },
   {
     "category": "event_text",
-    "cn_text": "你看这棵树",
+    "cn_text": "妈妈！！！",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "妖精种花2"
+    "first_seen_id": "小黄回忆第一章77"
   },
   {
     "category": "event_text",
-    "cn_text": "你来的正好，这里有个翻身的机会",
+    "cn_text": "妈妈说她是小恶魔",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "竞技场4"
+    "first_seen_id": "小黄回忆第一章35"
   },
   {
     "category": "event_text",
-    "cn_text": "你们听我的",
+    "cn_text": "魔女和她的爪牙从山底钻出来，发誓要吃光所有的小孩",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "植物大战僵尸☆帮助它们"
+    "first_seen_id": "小蓝回忆第三章14"
   },
   {
     "category": "event_text",
-    "cn_text": "你们这是什么比赛啊",
+    "cn_text": "牧羊人说要一把长剪刀，想一天就剪完所有羊毛",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "竞技场路人瞎叫6"
+    "first_seen_id": "小黄回忆第二章28"
   },
   {
     "category": "event_text",
-    "cn_text": "你也是死人，沙比",
+    "cn_text": "那魔女她还活着吗？",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "亡灵马戏团4"
+    "first_seen_id": "小蓝回忆第三章36"
   },
   {
     "category": "event_text",
-    "cn_text": "懦夫，滚去挖一辈子矿吧",
+    "cn_text": "那你就当黑巫师的，黑……黑暗火炮部队吧！",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "竞技场☆不干"
+    "first_seen_id": "小黄回忆第一章43"
   },
   {
     "category": "event_text",
-    "cn_text": "契约一/契约二/契约三/拒绝",
+    "cn_text": "那是……什么声音……",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "恶魔试炼9"
+    "first_seen_id": "小红剧情第一章15"
   },
   {
     "category": "event_text",
-    "cn_text": "切手/完整的仪式/算了",
+    "cn_text": "那为什么……要喷火啊……",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "被囚禁的术士8"
+    "first_seen_id": "小黄回忆第三章12"
   },
   {
     "category": "event_text",
-    "cn_text": "去把对面那个人打趴下",
+    "cn_text": "那我们继续吧！黑巫师进攻城堡啦！",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "竞技场5"
+    "first_seen_id": "小黄回忆第一章54"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "奶奶！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红剧情第一章二17"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "奶奶！！！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红剧情第一章二25"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "奶奶……我去找人救你……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红剧情第一章二21"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "奶奶你继续讲呀！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章32"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "嗯，这你也能发现啊！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章58"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "嗯！？哪种？焰火表演吗？",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第二章26"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "嗯……讲到哪了……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章33"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "嗯……那……我们可以做个大滚筒……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第二章30"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "嗯……奶奶说红色的有毒……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红剧情第一章2"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "嗯……我懂啦！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章52"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "你……你都干了什么啊？",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章78"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "你…你打不到我！我有盾牌！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章10"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "你们在……玩什么呀？",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章19"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "你要去哪？",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第二章44"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "你怎么啦，一直转来转去的",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章26"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "你怎么了……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红剧情第一章二18"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "你这，你这坏蛋！我们皇家骑士团是不会",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章5"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "你只要在远处，一直拿树枝敲它就可以了",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章51"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "您好呀",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章49"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "哦！这是莉薇特工坊特制的闪光烟花",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章31"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "旁边有出气孔，你往后翻",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章60"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "跑……快跑………",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红剧情第一章二23"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "请随我来吧",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章70"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "去那么危险的地方？",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第二章47"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "去死吧！！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章13"
   },
   {
     "category": "event_text",
@@ -3095,17 +4936,31 @@
   },
   {
     "category": "event_text",
-    "cn_text": "让…乌姆…吃掉…",
+    "cn_text": "人们才终于能……",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "大虫子19"
+    "first_seen_id": "小蓝回忆第三章23"
   },
   {
     "category": "event_text",
-    "cn_text": "上勾拳！对！",
+    "cn_text": "三个，再见",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "竞技场路人瞎叫2"
+    "first_seen_id": "小黄回忆第三章45"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "上次爸爸在暴风雪中迷路了，还是雪球带回来的呢",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章30"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "谁在里面？",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "第一次见游戏机9"
   },
   {
     "category": "event_text",
@@ -3116,59 +4971,122 @@
   },
   {
     "category": "event_text",
-    "cn_text": "石像，说话了",
+    "cn_text": "生意已经越来越少了",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "恶魔试炼4"
+    "first_seen_id": "小黄回忆第二章38"
   },
   {
     "category": "event_text",
-    "cn_text": "是……头等奖！",
+    "cn_text": "是从村子的方向来的……",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "亡灵马戏团☆开转1"
+    "first_seen_id": "小红剧情第一章17"
   },
   {
     "category": "event_text",
-    "cn_text": "说好的放我出去的，骗子！",
+    "cn_text": "收收心吧孩子，王城出事了以后…",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "被囚禁的术士2"
+    "first_seen_id": "小黄回忆第二章37"
   },
   {
     "category": "event_text",
-    "cn_text": "他没这个能力知道吧",
+    "cn_text": "叔叔……",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "竞技场路人瞎叫5"
+    "first_seen_id": "小红剧情第一章二7"
   },
   {
     "category": "event_text",
-    "cn_text": "替我完成几件事，我会给你一份……相当公平的报酬。",
+    "cn_text": "说起来，这个火柴卖吗？",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "恶魔试炼7"
+    "first_seen_id": "小黄回忆第三章20"
   },
   {
     "category": "event_text",
-    "cn_text": "天哪，外面居然还有活人",
+    "cn_text": "所以冰龙从孩子们中选了一个最强的战士，让他成为了冰霜守护者",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "蜘蛛精1"
+    "first_seen_id": "小蓝回忆第三章38"
   },
   {
     "category": "event_text",
-    "cn_text": "味道…好淡…",
+    "cn_text": "它不是玩具！",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "大虫子8"
+    "first_seen_id": "小黄回忆第二章48"
   },
   {
     "category": "event_text",
-    "cn_text": "我可以帮你压制一部分力量，在解除的时候，你们会融合的更好",
+    "cn_text": "她在干嘛啊？",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "蜘蛛精9"
+    "first_seen_id": "小黄回忆第一章68"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "太好啦！！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章73"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "听起来很危险呢",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章33"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "王城",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第二章45"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "为……为什么啊……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章81"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "我不会再回来了",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第二章55"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "我倒是能给您提供场所",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章66"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "我会找到支持我的人的",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第二章51"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "我就说吧！它肯定能自己找回来的！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章51"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "我可以……帮到大家……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章26"
   },
   {
     "category": "event_text",
@@ -3179,10 +5097,31 @@
   },
   {
     "category": "event_text",
-    "cn_text": "我们必须揭开你的未来与运势，这样你才能拯救所有人！！",
+    "cn_text": "我来教你如何生存和战斗",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "图书馆占卜3"
+    "first_seen_id": "小红剧情第二章55"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "我来啦！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第一章70"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "我没在玩",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第二章36"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "我没在玩！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第二章40"
   },
   {
     "category": "event_text",
@@ -3193,6 +5132,13 @@
   },
   {
     "category": "event_text",
+    "cn_text": "我们所缺少的，就只有您拥有的天赋",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章69"
+  },
+  {
+    "category": "event_text",
     "cn_text": "我们为此可是吵的不可开交！",
     "suggested_en": "",
     "count": 1,
@@ -3200,87 +5146,171 @@
   },
   {
     "category": "event_text",
-    "cn_text": "我能帮你。",
+    "cn_text": "我们一族世世代代镇守在这里，防止魔女的封印遭到破坏",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "被囚禁的术士5"
+    "first_seen_id": "小蓝回忆第三章40"
   },
   {
     "category": "event_text",
-    "cn_text": "我押50！",
+    "cn_text": "我们在……打败黑巫师",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "竞技场路人瞎叫4"
+    "first_seen_id": "小黄回忆第一章24"
   },
   {
     "category": "event_text",
-    "cn_text": "我原来完成过更厉害的仪式。",
+    "cn_text": "我们在城堡里！你打不到！",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "被囚禁的术士☆完整的仪式"
+    "first_seen_id": "小黄回忆第一章63"
   },
   {
     "category": "event_text",
-    "cn_text": "我只是，想要帮忙。",
+    "cn_text": "我是魔女大人手下的……嗯……这不重要",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "被囚禁的术士☆算了"
+    "first_seen_id": "小黄回忆第三章53"
   },
   {
     "category": "event_text",
-    "cn_text": "乌姆纳迦尔！",
+    "cn_text": "我想买一盒火柴",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "大虫子5"
+    "first_seen_id": "小黄回忆第三章42"
   },
   {
     "category": "event_text",
-    "cn_text": "无聊...",
+    "cn_text": "我也想！还有冰霜守护者！",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "恶魔试炼☆拒绝"
+    "first_seen_id": "小蓝回忆第三章8"
   },
   {
     "category": "event_text",
-    "cn_text": "下次再来！",
+    "cn_text": "我也想……一起玩",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "亡灵马戏团☆开转2"
+    "first_seen_id": "小黄回忆第一章22"
   },
   {
     "category": "event_text",
-    "cn_text": "献出灰烬/拒绝",
+    "cn_text": "我也要成为守护者！",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "大虫子22"
+    "first_seen_id": "小蓝回忆第三章41"
   },
   {
     "category": "event_text",
-    "cn_text": "小幅压制/大幅压制/拒绝",
+    "cn_text": "我在支援你啊……",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "蜘蛛精11"
+    "first_seen_id": "小黄回忆第一章79"
   },
   {
     "category": "event_text",
-    "cn_text": "醒来吧！",
+    "cn_text": "呜--",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "大虫子7"
+    "first_seen_id": "小黄回忆第一章76"
   },
   {
     "category": "event_text",
-    "cn_text": "一个沾满灰烬，还在活蹦乱跳的家伙...",
+    "cn_text": "先把这吃了",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "恶魔试炼3"
+    "first_seen_id": "小红剧情第二章26"
   },
   {
     "category": "event_text",
-    "cn_text": "用这个匕首，割破掌心，痛苦就会好很多。",
+    "cn_text": "小孩子有什么好怕的",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "被囚禁的术士6"
+    "first_seen_id": "小黄回忆第一章38"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "小妹妹，这个是什么啊？",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章30"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "雪球！你怎么了……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章50"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "雪球肯定能自己找回来的！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章29"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "呀！！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红剧情第一章二36"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "药瓶好多……好麻烦……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "第四章逃跑的医生☆分支一1"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "要不要再看看这边的螺旋晾衣架？",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章15"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "要是没生意，谁还能养活你玩这些没用的……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第二章39"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "一把长剪刀",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第二章33"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "伊斯德拉？",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章25"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "咦……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第二章13"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "又在拆房子了吗，莉薇特",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第二章18"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "愿冰龙守护它的灵魂",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章57"
   },
   {
     "category": "event_text",
@@ -3298,10 +5328,17 @@
   },
   {
     "category": "event_text",
-    "cn_text": "怎么办僵尸要把我们吃掉了",
+    "cn_text": "造锄头就受欢迎？",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "植物大战僵尸4"
+    "first_seen_id": "小黄回忆第二章23"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "怎么会…",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小蓝回忆第三章56"
   },
   {
     "category": "event_text",
@@ -3312,17 +5349,52 @@
   },
   {
     "category": "event_text",
-    "cn_text": "占卜/走了",
+    "cn_text": "怎么这么早就开始了……",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "图书馆占卜4"
+    "first_seen_id": "小红剧情第一章二1"
   },
   {
     "category": "event_text",
-    "cn_text": "这里，这些茧保护了我们没有受到诅咒的侵蚀",
+    "cn_text": "站都站不稳的时候，不许逞强！",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "蜘蛛精4"
+    "first_seen_id": "小红剧情第二章59"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "找到之前",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第二章54"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "这次又是什么？",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第二章19"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "这个侧面的水槽……难道是用来降温的？",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章57"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "这个是会喷火和飞行的发条鸟",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章8"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "这里……",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小红剧情第一章二5"
   },
   {
     "category": "event_text",
@@ -3333,59 +5405,87 @@
   },
   {
     "category": "event_text",
-    "cn_text": "这是普通的药水",
+    "cn_text": "这么多年了，除了我有人支持你做这些吗？",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "监狱医生☆普通药水"
+    "first_seen_id": "小黄回忆第二章50"
   },
   {
     "category": "event_text",
-    "cn_text": "这是什么...",
+    "cn_text": "这是什么",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "时空门1"
+    "first_seen_id": "第一次见游戏机6"
   },
   {
     "category": "event_text",
-    "cn_text": "这是允诺的奖赏…",
+    "cn_text": "这些，都是什么啊？",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "大虫子☆献出灰烬4"
+    "first_seen_id": "小黄回忆第三章7"
   },
   {
     "category": "event_text",
-    "cn_text": "这太疯狂了...而且看起来你们结合的也不是很完美...",
+    "cn_text": "这样就能……帮到忙啦！",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "蜘蛛精7"
+    "first_seen_id": "小黄回忆第一章69"
   },
   {
     "category": "event_text",
-    "cn_text": "这样，它的种子还能延续下去...",
+    "cn_text": "这座雪山的山脚下，住着一个邪恶的魔女",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "妖精种花9"
+    "first_seen_id": "小蓝回忆第三章11"
   },
   {
     "category": "event_text",
-    "cn_text": "真美丽吧",
+    "cn_text": "真，真的吗？",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "妖精种花3"
+    "first_seen_id": "小黄回忆第三章68"
   },
   {
     "category": "event_text",
-    "cn_text": "只要…献出灰烬",
+    "cn_text": "真棒，现在再转回去",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "大虫子21"
+    "first_seen_id": "小黄回忆第二章8"
   },
   {
     "category": "event_text",
-    "cn_text": "终于完成了。",
+    "cn_text": "只要封印还在，她就出不来",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "大虫子3"
+    "first_seen_id": "小蓝回忆第三章37"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "准备好了吗？冒险即将开始！",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "第一次见游戏机7"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "资金和材料，自然也无需您操心",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第三章67"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "滋~滋~滋~",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "第一次见游戏机17"
+  },
+  {
+    "category": "event_text",
+    "cn_text": "总有人会觉得我很厉害的",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小黄回忆第二章49"
   },
   {
     "category": "event_text",
@@ -3402,32 +5502,32 @@
     "first_seen_id": "时空竞技场☆答应参加比赛2"
   },
   {
-    "category": "item_description",
-    "cn_text": "》清空房间：有35%概率获得1颗宝石和碎片",
+    "category": "event_text",
+    "cn_text": "最后再加入一点这个……",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "宝石盒2"
+    "first_seen_id": "小黄回忆第一章67"
   },
   {
-    "category": "item_description",
-    "cn_text": "》装备：+18%生命值上限。\n装备：血瓶额外回复30%生命值。",
+    "category": "event_text",
+    "cn_text": "做完这个再玩",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "世界树种子2"
+    "first_seen_id": "小黄回忆第二章35"
   },
   {
-    "category": "item_description",
-    "cn_text": "如果在天赋/魔卡的选择时如果8秒内没有做出选择，则随机选择一个，且有35%几率额外选择一个。",
+    "category": "name",
+    "cn_text": "变身吸血",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "焦虑+"
+    "first_seen_id": "变身吸血"
   },
   {
-    "category": "item_description",
-    "cn_text": "如果在天赋/魔卡的选择时如果8秒内没有做出选择，则随机选择一个。",
+    "category": "name",
+    "cn_text": "拨弦",
     "suggested_en": "",
     "count": 1,
-    "first_seen_id": "焦虑"
+    "first_seen_id": "小紫近战"
   },
   {
     "category": "name",
@@ -3435,6 +5535,55 @@
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "博学祝福"
+  },
+  {
+    "category": "name",
+    "cn_text": "跛行者",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "跛行者"
+  },
+  {
+    "category": "name",
+    "cn_text": "吵闹杂音",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "吵闹杂音"
+  },
+  {
+    "category": "name",
+    "cn_text": "冲刺穿人",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "冲刺穿人"
+  },
+  {
+    "category": "name",
+    "cn_text": "冲刺撒音符",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "冲刺撒音符"
+  },
+  {
+    "category": "name",
+    "cn_text": "冲刺速射",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "冲刺速射"
+  },
+  {
+    "category": "name",
+    "cn_text": "穿针引线",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "穿针引线"
+  },
+  {
+    "category": "name",
+    "cn_text": "催眠曲",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "催眠曲"
   },
   {
     "category": "name",
@@ -3459,6 +5608,48 @@
   },
   {
     "category": "name",
+    "cn_text": "高音炸弹",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "高音炸弹"
+  },
+  {
+    "category": "name",
+    "cn_text": "隔空传音",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "隔空传音"
+  },
+  {
+    "category": "name",
+    "cn_text": "弓箭变音符",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "弓箭变音符"
+  },
+  {
+    "category": "name",
+    "cn_text": "海洋之声",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "海洋之声"
+  },
+  {
+    "category": "name",
+    "cn_text": "回音射击",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "回音射击"
+  },
+  {
+    "category": "name",
+    "cn_text": "混沌潜行",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "混沌潜行"
+  },
+  {
+    "category": "name",
     "cn_text": "加侵蚀100",
     "suggested_en": "",
     "count": 1,
@@ -3473,6 +5664,41 @@
   },
   {
     "category": "name",
+    "cn_text": "狂热爆发",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "狂热爆发"
+  },
+  {
+    "category": "name",
+    "cn_text": "狂热后高音炸弹",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "狂热后高音炸弹"
+  },
+  {
+    "category": "name",
+    "cn_text": "狂热音符",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "狂热音符"
+  },
+  {
+    "category": "name",
+    "cn_text": "连续弹奏",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "连续弹奏"
+  },
+  {
+    "category": "name",
+    "cn_text": "连续射击",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "连续射击"
+  },
+  {
+    "category": "name",
     "cn_text": "麦芽啤酒",
     "suggested_en": "",
     "count": 1,
@@ -3480,9 +5706,338 @@
   },
   {
     "category": "name",
+    "cn_text": "魔卡撒音符",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "魔卡撒音符"
+  },
+  {
+    "category": "name",
+    "cn_text": "黏黏泡泡",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "黏黏泡泡"
+  },
+  {
+    "category": "name",
+    "cn_text": "泡泡盾",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "泡泡盾"
+  },
+  {
+    "category": "name",
+    "cn_text": "普攻散射水弹",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "普攻散射水弹"
+  },
+  {
+    "category": "name",
+    "cn_text": "三重射击",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "三重射击"
+  },
+  {
+    "category": "name",
+    "cn_text": "散开花",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "散开花"
+  },
+  {
+    "category": "name",
+    "cn_text": "水泡缠绕",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "水泡缠绕"
+  },
+  {
+    "category": "name",
+    "cn_text": "顺流而行",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "顺流而行"
+  },
+  {
+    "category": "name",
+    "cn_text": "完美时机",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "完美时机"
+  },
+  {
+    "category": "name",
+    "cn_text": "吸残血",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "吸残血"
+  },
+  {
+    "category": "name",
     "cn_text": "小蓝右键移动",
     "suggested_en": "",
     "count": 1,
     "first_seen_id": "小蓝右键移动"
+  },
+  {
+    "category": "name",
+    "cn_text": "小紫安魂曲",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫安魂曲"
+  },
+  {
+    "category": "name",
+    "cn_text": "小紫弹幕射击",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫弹幕射击"
+  },
+  {
+    "category": "name",
+    "cn_text": "小紫过热换引导激光",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫过热换引导激光"
+  },
+  {
+    "category": "name",
+    "cn_text": "小紫箭雨",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫箭雨"
+  },
+  {
+    "category": "name",
+    "cn_text": "小紫枯萎箭袋",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫枯萎箭袋"
+  },
+  {
+    "category": "name",
+    "cn_text": "小紫三尾子弹",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫三尾子弹"
+  },
+  {
+    "category": "name",
+    "cn_text": "小紫扇形音波攻击",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫扇形音波攻击"
+  },
+  {
+    "category": "name",
+    "cn_text": "小紫痛苦之墙",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫痛苦之墙"
+  },
+  {
+    "category": "name",
+    "cn_text": "小紫五线谱攻击",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫五线谱攻击"
+  },
+  {
+    "category": "name",
+    "cn_text": "小紫五线谱攻击三次",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫五线谱攻击三次"
+  },
+  {
+    "category": "name",
+    "cn_text": "小紫蓄满变激光",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫蓄满变激光"
+  },
+  {
+    "category": "name",
+    "cn_text": "小紫旋转射击",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫旋转射击"
+  },
+  {
+    "category": "name",
+    "cn_text": "小紫音符弹跳",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫音符弹跳"
+  },
+  {
+    "category": "name",
+    "cn_text": "小紫音乐球子弹",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫音乐球子弹"
+  },
+  {
+    "category": "name",
+    "cn_text": "小紫右键变蓄力爆发",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫右键变蓄力爆发"
+  },
+  {
+    "category": "name",
+    "cn_text": "小紫杂音子弹",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫杂音子弹"
+  },
+  {
+    "category": "name",
+    "cn_text": "小紫折磨之影",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫折磨之影"
+  },
+  {
+    "category": "name",
+    "cn_text": "小紫子弹展示1",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫子弹展示1"
+  },
+  {
+    "category": "name",
+    "cn_text": "小紫子弹展示2",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫子弹展示2"
+  },
+  {
+    "category": "name",
+    "cn_text": "小紫子弹展示3",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫子弹展示3"
+  },
+  {
+    "category": "name",
+    "cn_text": "小紫子弹展示4",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫子弹展示4"
+  },
+  {
+    "category": "name",
+    "cn_text": "小紫子弹展示5",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫子弹展示5"
+  },
+  {
+    "category": "name",
+    "cn_text": "小紫左键泡泡困人",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫左键泡泡困人"
+  },
+  {
+    "category": "name",
+    "cn_text": "小紫左键远距离增伤",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫左键远距离增伤"
+  },
+  {
+    "category": "name",
+    "cn_text": "小紫左键追击",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫左键追击"
+  },
+  {
+    "category": "name",
+    "cn_text": "虚空连击",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "虚空连击"
+  },
+  {
+    "category": "name",
+    "cn_text": "蓄音波",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "蓄音波"
+  },
+  {
+    "category": "name",
+    "cn_text": "野兽之箭",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "野兽之箭"
+  },
+  {
+    "category": "name",
+    "cn_text": "音符",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "小紫右键"
+  },
+  {
+    "category": "name",
+    "cn_text": "音符乱舞",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "音符乱舞"
+  },
+  {
+    "category": "name",
+    "cn_text": "音障",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "音障"
+  },
+  {
+    "category": "name",
+    "cn_text": "吟游四方",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "吟游四方"
+  },
+  {
+    "category": "name",
+    "cn_text": "引浪",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "引浪"
+  },
+  {
+    "category": "name",
+    "cn_text": "杂音爆发",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "杂音爆发"
+  },
+  {
+    "category": "name",
+    "cn_text": "杂音召虚空箭",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "杂音召虚空箭"
+  },
+  {
+    "category": "name",
+    "cn_text": "折射箭",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "折射箭"
+  },
+  {
+    "category": "name",
+    "cn_text": "自控",
+    "suggested_en": "",
+    "count": 1,
+    "first_seen_id": "自控"
   }
 ]

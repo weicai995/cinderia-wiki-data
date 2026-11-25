@@ -2484,6 +2484,26 @@
     "file": "assets/icons/cards/_E9_87_8E_E6_80_A7_E4_B9_8B_E5_8A_9B.png",
     "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/野性之力.png"
   },
+  "cards/小紫左键": {
+    "icon": "小紫左键",
+    "file": "assets/icons/cards/_E5_B0_8F_E7_B4_AB_E5_B7_A6_E9_94_AE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小紫左键.png"
+  },
+  "cards/小紫右键": {
+    "icon": "小紫右键",
+    "file": "assets/icons/cards/_E5_B0_8F_E7_B4_AB_E5_8F_B3_E9_94_AE.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小紫右键.png"
+  },
+  "cards/小紫冲刺": {
+    "icon": "小紫冲刺",
+    "file": "assets/icons/cards/_E5_B0_8F_E7_B4_AB_E5_86_B2_E5_88_BA.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小紫冲刺.png"
+  },
+  "cards/小紫近战": {
+    "icon": "小紫近战",
+    "file": "assets/icons/cards/_E5_B0_8F_E7_B4_AB_E8_BF_91_E6_88_98.png",
+    "source": "F:/hade/HadesGame/Assets/Res/Items/魔卡图标/小紫近战.png"
+  },
   "cards/怒火连斩二段": {
     "icon": "怒火连斩二段",
     "file": "assets/icons/cards/_E6_80_92_E7_81_AB_E8_BF_9E_E6_96_A9_E4_BA_8C_E6_AE_B5.png",
